@@ -1,826 +1,562 @@
 [
   {
-    "name": "Wheat Flour",
-    "value": 1830
+    "name": "A Sprig of Leaf",
+    "value": 2610
   },
   {
-    "name": "Weeping Broccoli",
-    "value": 6960
+    "name": "Acara Cabbage Cake",
+    "value": 3760
   },
   {
-    "name": "Watermelon Fruit Cup",
-    "value": 18
-  },
-  {
-    "name": "Watercress",
-    "value": 1240
-  },
-  {
-    "name": "Vinberry Ice Lolly",
-    "value": 4170
-  },
-  {
-    "name": "Veggie Lasagne",
-    "value": 46
-  },
-  {
-    "name": "Veggie Crisps",
-    "value": 1790
-  },
-  {
-    "name": "Vegetarian Krawk Day Pie",
-    "value": 677
-  },
-  {
-    "name": "Vegetable Dip Platter",
-    "value": 524
-  },
-  {
-    "name": "Uni Wheat Cookies",
-    "value": 4470
-  },
-  {
-    "name": "Uni Veggie Yogurt",
-    "value": 2170
-  },
-  {
-    "name": "Uni Veggie Wrap",
-    "value": 1980
-  },
-  {
-    "name": "Uni Spinach Sandwich",
-    "value": 1840
-  },
-  {
-    "name": "Turnip",
-    "value": 2110
-  },
-  {
-    "name": "Turkey Jerky",
-    "value": 693
-  },
-  {
-    "name": "Tropical Trail Mix",
-    "value": 2430
-  },
-  {
-    "name": "Tropical Noodle Surprise",
-    "value": 652
-  },
-  {
-    "name": "Triple Carrot Sandwich",
+    "name": "Acara Fruit Salad",
     "value": 3870
   },
   {
-    "name": "Tomato Kebab",
-    "value": 2900000
+    "name": "Almond Cranberry Trail Mix",
+    "value": 1810
   },
   {
-    "name": "Tomato Basil Salad",
-    "value": 5900
+    "name": "Apple and Cheese Sandwich",
+    "value": 7
   },
   {
-    "name": "Tomato Basil Juice",
-    "value": 1950
+    "name": "Apple Oatmeal",
+    "value": 1620
   },
   {
-    "name": "Tofu Salad",
-    "value": 2090
+    "name": "Apple Soup",
+    "value": 3930
   },
   {
-    "name": "Tofu and Veggie Sandwich",
-    "value": 508
+    "name": "Apple Tree Broccoli",
+    "value": 15200
   },
   {
-    "name": "Tigersquash Burger",
-    "value": 701
+    "name": "Artichoke and Onion Surprise",
+    "value": 7870000
   },
   {
-    "name": "Thornberry Noodle Soup",
-    "value": 645
+    "name": "Artichoke Cupcake",
+    "value": 8920000
   },
   {
-    "name": "Thimble of Soup",
-    "value": 2350
+    "name": "Artichoke Fondue",
+    "value": 101000
   },
   {
-    "name": "Tchea and Meatball Noodles",
-    "value": 840
+    "name": "Asparagus Balls",
+    "value": 2530000
   },
   {
-    "name": "Tangleberry Meerca Tail Fruit Tape",
-    "value": 2050
+    "name": "Asparagus Pie",
+    "value": 20800
   },
   {
-    "name": "Stuffed Olive Salad",
-    "value": 7310
+    "name": "Asparagus Wrap",
+    "value": 8820
   },
   {
-    "name": "Stretched Apples",
-    "value": 102
+    "name": "Aubergine Wrap",
+    "value": 858
   },
   {
-    "name": "Strawberry-Kiwi Fruit Cup",
-    "value": 3270
+    "name": "Avocado Baby Food",
+    "value": 7
   },
   {
-    "name": "Stramberry Slushie",
-    "value": 3650
+    "name": "Avocado Jam Toast",
+    "value": 1890
   },
   {
-    "name": "Star Shaped Carrot",
-    "value": 1730
-  },
-  {
-    "name": "Sprout Wrap",
-    "value": 4960
-  },
-  {
-    "name": "Spinach Topped Frozen Yogurt",
-    "value": 969
-  },
-  {
-    "name": "Spinach Hummus",
-    "value": 6980
-  },
-  {
-    "name": "Spicy Radish Kebab",
-    "value": 3130
-  },
-  {
-    "name": "Spherical Watermelon",
-    "value": 407
-  },
-  {
-    "name": "Spherical Strawberry",
-    "value": 597
-  },
-  {
-    "name": "Spherical Lemon",
-    "value": 1350
-  },
-  {
-    "name": "Spherical Cherry",
-    "value": 788
-  },
-  {
-    "name": "Souper Bowl",
-    "value": 14000000
-  },
-  {
-    "name": "Sobbing Onion",
-    "value": 9360
-  },
-  {
-    "name": "Sloth Broccoli",
-    "value": 5130
-  },
-  {
-    "name": "Sliced Tofu",
-    "value": 3630
-  },
-  {
-    "name": "Sliced Strawberries",
-    "value": 2100
-  },
-  {
-    "name": "Sesame Sticks",
-    "value": 4990
-  },
-  {
-    "name": "Sesame Pistachio Cake",
-    "value": 9820
-  },
-  {
-    "name": "Roasted Beet Salad",
-    "value": 464
-  },
-  {
-    "name": "Roasted Aubergine Sandwich",
-    "value": 995
-  },
-  {
-    "name": "Red Juppie Burger",
-    "value": 6840
-  },
-  {
-    "name": "Raspberry Sorbet",
-    "value": 2970
-  },
-  {
-    "name": "Raisins",
-    "value": 2720
-  },
-  {
-    "name": "Radish Sprouts",
-    "value": 3400
-  },
-  {
-    "name": "Radish Salad",
-    "value": 2090
-  },
-  {
-    "name": "Radish Pie",
-    "value": 7030
-  },
-  {
-    "name": "Radish Meringue",
-    "value": 274000
-  },
-  {
-    "name": "Radish and Cheese",
-    "value": 651000
-  },
-  {
-    "name": "Purpple",
-    "value": 3490
-  },
-  {
-    "name": "Purple Ixi Acorn",
-    "value": 121
-  },
-  {
-    "name": "Purple Felberry Soup",
-    "value": 971
-  },
-  {
-    "name": "Pumpkin Baby Food",
-    "value": 2880
-  },
-  {
-    "name": "Pumpcorn",
-    "value": 11700
-  },
-  {
-    "name": "Protein Bar",
-    "value": 2130
-  },
-  {
-    "name": "Potato and Sweetcorn Soup",
-    "value": 808
-  },
-  {
-    "name": "Plate of Peanuts",
-    "value": 1170
-  },
-  {
-    "name": "Plain Oatmeal",
-    "value": 2400
-  },
-  {
-    "name": "Plain Honey Sticks",
-    "value": 1480
-  },
-  {
-    "name": "Plain Frozen Yogurt",
-    "value": 932
-  },
-  {
-    "name": "Pistachio Nut",
-    "value": 2190
-  },
-  {
-    "name": "Pineapple Sorbet",
-    "value": 2020
-  },
-  {
-    "name": "Pineapple Rice Bowl",
-    "value": 8910
-  },
-  {
-    "name": "Pineapple Juice",
-    "value": 1940
-  },
-  {
-    "name": "Pickled Cauliflower",
-    "value": 1810000
-  },
-  {
-    "name": "Phear Burger",
-    "value": 89
-  },
-  {
-    "name": "Peophin Fruit Medley",
-    "value": 1070
-  },
-  {
-    "name": "Peophin Frozen Yogurt",
-    "value": 670
-  },
-  {
-    "name": "Peas Flour Burger",
-    "value": 693
-  },
-  {
-    "name": "Peanut Raisin Trail Mix",
-    "value": 2790
-  },
-  {
-    "name": "Peanut Butter Granola Bar",
-    "value": 686
-  },
-  {
-    "name": "Peanut Berry Trail Mix",
-    "value": 1090
-  },
-  {
-    "name": "Pea and Lentil Soup",
-    "value": 991
-  },
-  {
-    "name": "Parsnips and Cream",
-    "value": 2660
-  },
-  {
-    "name": "Parsnip Sandwich",
-    "value": 1480
-  },
-  {
-    "name": "Parsnip Pie",
-    "value": 4570
-  },
-  {
-    "name": "Parsnip",
-    "value": 1850
-  },
-  {
-    "name": "Parsley Juice",
-    "value": 2360
-  },
-  {
-    "name": "Organic Yellow Tomatoes",
-    "value": 932
-  },
-  {
-    "name": "Organic Walnut",
-    "value": 4750
-  },
-  {
-    "name": "Organic Turnip",
-    "value": 3240
-  },
-  {
-    "name": "Organic Tuna Olive Salad",
-    "value": 995
-  },
-  {
-    "name": "Organic Tofu",
-    "value": 1000
-  },
-  {
-    "name": "Organic String Cheese",
-    "value": 1390
-  },
-  {
-    "name": "Organic Strawberry Yogurt",
-    "value": 860
-  },
-  {
-    "name": "Organic Spring Onion",
-    "value": 1690
-  },
-  {
-    "name": "Organic Spinach Salad",
-    "value": 8960
-  },
-  {
-    "name": "Organic Slop",
-    "value": 886
-  },
-  {
-    "name": "Organic Seasoning",
-    "value": 3020
-  },
-  {
-    "name": "Organic Red Onion",
-    "value": 1910
-  },
-  {
-    "name": "Organic Red Apple",
-    "value": 3050
-  },
-  {
-    "name": "Organic Radish",
-    "value": 1840
-  },
-  {
-    "name": "Organic Plum",
-    "value": 2100
-  },
-  {
-    "name": "Organic Plain Yogurt",
-    "value": 633
-  },
-  {
-    "name": "Organic Pineapple",
-    "value": 1530
-  },
-  {
-    "name": "Organic Pecan",
-    "value": 4370
-  },
-  {
-    "name": "Organic Pear Slices",
-    "value": 2420
-  },
-  {
-    "name": "Organic Peanut Butter",
-    "value": 1060
-  },
-  {
-    "name": "Organic Peanut",
-    "value": 441
-  },
-  {
-    "name": "Organic Peach",
-    "value": 4210
-  },
-  {
-    "name": "Organic Pasta",
-    "value": 2870
-  },
-  {
-    "name": "Organic Orange Slices",
-    "value": 1660
-  },
-  {
-    "name": "Organic Octo Snacks",
-    "value": 938
-  },
-  {
-    "name": "Organic Oatmeal Cookie",
-    "value": 3810
-  },
-  {
-    "name": "Organic Nectarine",
-    "value": 1660
-  },
-  {
-    "name": "Organic Mushy Peas",
-    "value": 2000
-  },
-  {
-    "name": "Organic Mushroom",
-    "value": 1900
-  },
-  {
-    "name": "Organic Melon Yogurt",
-    "value": 1200
-  },
-  {
-    "name": "Organic Leek",
-    "value": 1970
-  },
-  {
-    "name": "Organic Korbat Pumpkins",
-    "value": 51
-  },
-  {
-    "name": "Organic Kale",
-    "value": 2170
-  },
-  {
-    "name": "Organic Honeycomb",
-    "value": 1960
-  },
-  {
-    "name": "Organic Green Grapes",
-    "value": 2000
-  },
-  {
-    "name": "Organic Green Apple",
-    "value": 2710
-  },
-  {
-    "name": "Organic Grapefruit Yogurt",
-    "value": 807
-  },
-  {
-    "name": "Organic Dill Pickles",
-    "value": 525
-  },
-  {
-    "name": "Organic Dark Chocolate",
-    "value": 1250
-  },
-  {
-    "name": "Organic Cucumber Slices",
-    "value": 1200
-  },
-  {
-    "name": "Organic Cucumber",
-    "value": 990
-  },
-  {
-    "name": "Organic Chia Wort Root",
-    "value": 1680
-  },
-  {
-    "name": "Organic Cherries",
-    "value": 2750
-  },
-  {
-    "name": "Organic Celery",
-    "value": 1000
-  },
-  {
-    "name": "Organic Cashew Butter",
-    "value": 317
-  },
-  {
-    "name": "Organic Carrot Juice",
-    "value": 1400
-  },
-  {
-    "name": "Organic Broccoli",
-    "value": 2330
-  },
-  {
-    "name": "Organic Bran Carrot Muffin",
-    "value": 48
-  },
-  {
-    "name": "Organic Beetroot",
-    "value": 1410
-  },
-  {
-    "name": "Organic Bananas",
-    "value": 2880
-  },
-  {
-    "name": "Organic Baby Carrots",
-    "value": 1140
-  },
-  {
-    "name": "Organic Apple Dip",
-    "value": 2020
-  },
-  {
-    "name": "Organic Almond Butter",
-    "value": 539
-  },
-  {
-    "name": "Organic Almond",
-    "value": 583
-  },
-  {
-    "name": "Orange Stuffed Orange",
-    "value": 969
-  },
-  {
-    "name": "Orange Honey Sticks",
-    "value": 2010
-  },
-  {
-    "name": "Onion and Sliced Mushroom Soup",
-    "value": 1580
-  },
-  {
-    "name": "Onion",
-    "value": 2210
-  },
-  {
-    "name": "Omega Eggs",
-    "value": 1590
-  },
-  {
-    "name": "Oatmeal Bar",
-    "value": 5240
-  },
-  {
-    "name": "Natural Springabee Honey",
-    "value": 8980
-  },
-  {
-    "name": "Natural Gum",
-    "value": 2190
-  },
-  {
-    "name": "Moehog Rice Cakes",
-    "value": 4080
-  },
-  {
-    "name": "Mixed Veggie Kebab",
-    "value": 5370
-  },
-  {
-    "name": "Mixed Nuts",
-    "value": 3580
-  },
-  {
-    "name": "Mixed Greens Salad",
-    "value": 3030
-  },
-  {
-    "name": "Mixed Fruit Noodles",
-    "value": 4020
-  },
-  {
-    "name": "Mixed Fruit Kebab",
-    "value": 3640
-  },
-  {
-    "name": "Mixed Berry Fruit Cup",
-    "value": 350
-  },
-  {
-    "name": "Minestrone Soup",
-    "value": 4770
-  },
-  {
-    "name": "Meriberry Dressing",
-    "value": 6970
-  },
-  {
-    "name": "Mega Carrot Muffin",
-    "value": 2870
-  },
-  {
-    "name": "Meaty Courgette Slice",
-    "value": 370
-  },
-  {
-    "name": "Meaty Asparagus Dish",
-    "value": 1000
-  },
-  {
-    "name": "Meatier Asparagus Dish",
+    "name": "Baby Cabbage with Gravy",
     "value": 10700
   },
   {
-    "name": "Luxury Cabbage Cake",
-    "value": 3350000
+    "name": "Baby Carrots",
+    "value": 1920
   },
   {
-    "name": "Lettuce",
-    "value": 1350
+    "name": "Baby Tomatoes",
+    "value": 1080
   },
   {
-    "name": "Lentil Stew",
-    "value": 898
+    "name": "Baked Apple with Cream and Jam",
+    "value": 2890
   },
   {
-    "name": "Lentil Pie",
-    "value": 3620
+    "name": "Baked Apple with Custard",
+    "value": 2720
   },
   {
-    "name": "Lentil Cookies",
-    "value": 814
+    "name": "Baked Apple with Snowberries",
+    "value": 584000
   },
   {
-    "name": "Lentil Cake",
-    "value": 10100
+    "name": "Baked Apple with Tigerbuggle sauce",
+    "value": 3430
   },
   {
-    "name": "Lemon JubJub Fruit Leather",
-    "value": 1990
+    "name": "Baked Avocado Crisps",
+    "value": 8520
   },
   {
-    "name": "Lemint",
-    "value": 544
+    "name": "Balsamic Dressing",
+    "value": 3070
   },
   {
-    "name": "Leaf Wrap",
-    "value": 6430
+    "name": "Beet Pate",
+    "value": 278
   },
   {
-    "name": "Kyrii Kombucha",
-    "value": 1120
+    "name": "Beetroot Soup",
+    "value": 6750
   },
   {
-    "name": "Kougra Kombucha",
-    "value": 1630
+    "name": "Beetroot Stew",
+    "value": 1390
   },
   {
-    "name": "Korbat Seasonal Fruit Basket",
-    "value": 169
+    "name": "Berry Topped Frozen Yogurt",
+    "value": 499
   },
   {
-    "name": "Koi Kelp Wrap",
-    "value": 2930
+    "name": "Bite Size Celery",
+    "value": 30
   },
   {
-    "name": "Koi Flakes",
-    "value": 2930
+    "name": "Black Eyed Peas",
+    "value": 1840
   },
   {
-    "name": "Kiwi Cookies",
-    "value": 1940
+    "name": "Black Licorice",
+    "value": 1100
   },
   {
-    "name": "Kauliflower",
-    "value": 978
+    "name": "Black Mushroom",
+    "value": 30000
   },
   {
-    "name": "Just Plain Ol Porridge",
-    "value": 4990
+    "name": "Bleumaroo Cheese",
+    "value": 881
   },
   {
-    "name": "Just Broccoli Soup",
-    "value": 4640
+    "name": "Blueberry Baby Food",
+    "value": 3000
   },
   {
-    "name": "Just Broccoli Sandwich",
-    "value": 4720
+    "name": "Bluecheese Dressing",
+    "value": 992
   },
   {
-    "name": "Juicy Steen",
-    "value": 5270
+    "name": "Blumaroo Gummy Vitamins",
+    "value": 3200
   },
   {
-    "name": "Jelly Covered Greycorn",
-    "value": 4440
+    "name": "Bottled Beans",
+    "value": 5980
   },
   {
-    "name": "Jammy Courgette Slice",
-    "value": 399
+    "name": "Broccoli and Mustard Sandwich",
+    "value": 581000
   },
   {
-    "name": "Jacket Potato with Onions",
-    "value": 1140
+    "name": "Broccoli Kebab",
+    "value": 134000
   },
   {
-    "name": "Jacket Potato with Nachos",
-    "value": 1190
+    "name": "Broccoli with Sprinkles",
+    "value": 530000
   },
   {
-    "name": "Jacket Potato with Chicken Wings",
-    "value": 3950
+    "name": "Brogleberry Porridge",
+    "value": 901
   },
   {
-    "name": "Jacket Potato with Broccoli",
-    "value": 2020
+    "name": "Brown Ixi Acorn",
+    "value": 542
   },
   {
-    "name": "Hot Apple Oatmeal",
-    "value": 613
+    "name": "Brown Rice",
+    "value": 6
   },
   {
-    "name": "Honey Yurble",
-    "value": 7520
+    "name": "Brown Rice Bowl",
+    "value": 87
   },
   {
-    "name": "Honey Vandagyre",
-    "value": 8840
-  },
-  {
-    "name": "Honey Bearog",
-    "value": 461
-  },
-  {
-    "name": "Healthy Veggie Deluxe Sandwich",
-    "value": 35
-  },
-  {
-    "name": "Healthy Hearty Veggies",
-    "value": 5380
-  },
-  {
-    "name": "Healthy Apple Pretzel",
-    "value": 3360
-  },
-  {
-    "name": "Healthy Apple Cake",
-    "value": 7380
-  },
-  {
-    "name": "Harffel Fruit Oatmeal",
-    "value": 10200
-  },
-  {
-    "name": "Grilled Veggie Bowl",
-    "value": 77
-  },
-  {
-    "name": "Greycorn",
-    "value": 354
-  },
-  {
-    "name": "Grenanna Meerca Tail Fruit Tape",
-    "value": 1490
-  },
-  {
-    "name": "Green Tea Spaghetti",
-    "value": 11400
-  },
-  {
-    "name": "Green Ixi Acorn",
-    "value": 526
-  },
-  {
-    "name": "Green Herb Dressing",
-    "value": 799
-  },
-  {
-    "name": "Grarrl Garden Salad",
-    "value": 4950
-  },
-  {
-    "name": "Gormball Protein Bites",
+    "name": "Burger Stuffed Orange",
     "value": 707
   },
   {
-    "name": "Goparokko Meerca Tail Fruit Tape",
+    "name": "Cabbage Cupcake",
+    "value": 10200
+  },
+  {
+    "name": "Cabbage Doughnut",
+    "value": 4080
+  },
+  {
+    "name": "Cabbage Quiche",
+    "value": 592
+  },
+  {
+    "name": "Cantelope Fruit Cup",
+    "value": 122
+  },
+  {
+    "name": "Carobchip Cherry Trail Mix",
+    "value": 3490
+  },
+  {
+    "name": "Carrot Wrap",
+    "value": 3590
+  },
+  {
+    "name": "Cashew",
+    "value": 1090
+  },
+  {
+    "name": "Cashew Milk",
+    "value": 4070
+  },
+  {
+    "name": "Cauliflower",
+    "value": 2250
+  },
+  {
+    "name": "Cauliflower Lolly",
+    "value": 4080000
+  },
+  {
+    "name": "Cauliflower Shake",
+    "value": 5480000
+  },
+  {
+    "name": "Cauliflower Soup",
+    "value": 3150000
+  },
+  {
+    "name": "Celeriac",
+    "value": 4580
+  },
+  {
+    "name": "Celery",
+    "value": 2400
+  },
+  {
+    "name": "Celery Root Grits",
+    "value": 4270
+  },
+  {
+    "name": "Celery Stuffed Orange",
+    "value": 661
+  },
+  {
+    "name": "Chard Platter",
+    "value": 2260
+  },
+  {
+    "name": "Cheese and Onion Baked Apple",
+    "value": 2450
+  },
+  {
+    "name": "Cheese Puffs",
+    "value": 972
+  },
+  {
+    "name": "Cheeseless Lasagna",
+    "value": 6230
+  },
+  {
+    "name": "Cheesy Asparagus",
+    "value": 2950000
+  },
+  {
+    "name": "Cheesy Baked Apple Core",
+    "value": 4640
+  },
+  {
+    "name": "Cheesy Broccoli Bite",
+    "value": 855
+  },
+  {
+    "name": "Cheesy Carrots",
+    "value": 2730000
+  },
+  {
+    "name": "Cheesy Courgette Slice",
+    "value": 2880
+  },
+  {
+    "name": "Cherry Granola Bar",
+    "value": 1720
+  },
+  {
+    "name": "Cherry JubJub Fruit Leather",
+    "value": 895
+  },
+  {
+    "name": "Chia Shaped Aubergine",
+    "value": 359
+  },
+  {
+    "name": "Chill Pill",
+    "value": 2290
+  },
+  {
+    "name": "Chocolate Coated Cabbage",
+    "value": 2910
+  },
+  {
+    "name": "Chocolate Parsnip",
+    "value": 964
+  },
+  {
+    "name": "Chocolate Stuffed Orange",
+    "value": 7970
+  },
+  {
+    "name": "Chokato Baby Food",
+    "value": 1110
+  },
+  {
+    "name": "Chokato Burger",
+    "value": 3000
+  },
+  {
+    "name": "Chokato Honey Sticks",
+    "value": 2580
+  },
+  {
+    "name": "Chokato Meerca Tail Fruit Tape",
+    "value": 1770
+  },
+  {
+    "name": "Chokato Parfait",
+    "value": 998
+  },
+  {
+    "name": "Chokato Topped Frozen Yogurt",
+    "value": 802
+  },
+  {
+    "name": "Chomby Leafy Crunch",
+    "value": 3880
+  },
+  {
+    "name": "Chomby Leafy Lollypop",
+    "value": 923
+  },
+  {
+    "name": "Chomby Pie",
+    "value": 4190
+  },
+  {
+    "name": "Chomby Veggie Burger",
+    "value": 694
+  },
+  {
+    "name": "Chunky Cauliflower Soup",
+    "value": 1810
+  },
+  {
+    "name": "Cinnamon Granola Bar",
+    "value": 964
+  },
+  {
+    "name": "Cinnamon Honey Sticks",
+    "value": 2590
+  },
+  {
+    "name": "Cinnamon Oatmeal",
+    "value": 8360
+  },
+  {
+    "name": "Cinnamon Raisin Oatmeal",
+    "value": 27
+  },
+  {
+    "name": "Cone-Shaped Cherry",
+    "value": 2140000
+  },
+  {
+    "name": "Cone-Shaped Lemon",
+    "value": 999315
+  },
+  {
+    "name": "Cone-Shaped Orange",
+    "value": 153000
+  },
+  {
+    "name": "Cone-Shaped Strawberry",
+    "value": 372000
+  },
+  {
+    "name": "Cone-Shaped Watermelon",
+    "value": 11800
+  },
+  {
+    "name": "Cooling Courgette Slice",
+    "value": 848
+  },
+  {
+    "name": "Corn Puffs",
+    "value": 962
+  },
+  {
+    "name": "Corn Salad",
+    "value": 989
+  },
+  {
+    "name": "Crab Salad",
+    "value": 3960
+  },
+  {
+    "name": "Crying Corn",
+    "value": 10600
+  },
+  {
+    "name": "Cube-Shaped Cherry",
+    "value": 12000
+  },
+  {
+    "name": "Cube-Shaped Lemon",
+    "value": 4620
+  },
+  {
+    "name": "Cube-Shaped Orange",
+    "value": 4260
+  },
+  {
+    "name": "Cube-Shaped Strawberry",
+    "value": 4890
+  },
+  {
+    "name": "Cube-Shaped Watermelon",
+    "value": 1230
+  },
+  {
+    "name": "Cucumber and Onion Soup",
+    "value": 976
+  },
+  {
+    "name": "Cybunny Carrot Burger",
+    "value": 5130
+  },
+  {
+    "name": "Cybunny Carrot Cookie",
+    "value": 3750
+  },
+  {
+    "name": "Depressed Potato",
+    "value": 5270
+  },
+  {
+    "name": "Double Green Pumpkin",
+    "value": 1130
+  },
+  {
+    "name": "Dried Carrot Slices",
+    "value": 1600
+  },
+  {
+    "name": "Dried Chokato",
+    "value": 2600
+  },
+  {
+    "name": "Dried Duoroot",
+    "value": 895
+  },
+  {
+    "name": "Dried Grapefruit Slices",
+    "value": 776
+  },
+  {
+    "name": "Dried Lemoran",
+    "value": 1200
+  },
+  {
+    "name": "Dried Mango",
+    "value": 30
+  },
+  {
+    "name": "Dried Teal Juppie",
+    "value": 2310
+  },
+  {
+    "name": "Dried Tigerbuggles",
+    "value": 4980
+  },
+  {
+    "name": "Eliv Thade Salad",
+    "value": 159
+  },
+  {
+    "name": "Fibre Supplement",
+    "value": 1740
+  },
+  {
+    "name": "Figcorn",
+    "value": 7610
+  },
+  {
+    "name": "Flattened Durian",
+    "value": 753
+  },
+  {
+    "name": "Four Layer Carrot Cake",
+    "value": 39800
+  },
+  {
+    "name": "French Onion Soup",
+    "value": 2080000
+  },
+  {
+    "name": "Fresh Melon Cubes",
+    "value": 897
+  },
+  {
+    "name": "Fresh Sushi Cone",
+    "value": 833000
+  },
+  {
+    "name": "Fresh Sushi Roll",
+    "value": 213000
+  },
+  {
+    "name": "Freshly Tinned Carrots",
+    "value": 38
+  },
+  {
+    "name": "Frozen Cucumber Slices",
+    "value": 2310
+  },
+  {
+    "name": "Frozen Fruit Popsicle",
+    "value": 6190
+  },
+  {
+    "name": "Fruity Salad",
+    "value": 1760
+  },
+  {
+    "name": "Garlic Juice",
+    "value": 3890
+  },
+  {
+    "name": "Glowing Lettuce Head",
+    "value": 3130
+  },
+  {
+    "name": "Glowing Pre-Sliced Mushrooms",
+    "value": 13300
+  },
+  {
+    "name": "Golden Ixi Acorn",
+    "value": 603
+  },
+  {
+    "name": "Gooseberry Cupcake",
     "value": 2000
   },
   {
@@ -828,563 +564,827 @@
     "value": 999
   },
   {
-    "name": "Gooseberry Cupcake",
+    "name": "Goparokko Meerca Tail Fruit Tape",
     "value": 2000
   },
   {
-    "name": "Golden Ixi Acorn",
-    "value": 603
-  },
-  {
-    "name": "Glowing Pre-Sliced Mushrooms",
-    "value": 10100
-  },
-  {
-    "name": "Glowing Lettuce Head",
-    "value": 3130
-  },
-  {
-    "name": "Garlic Juice",
-    "value": 3890
-  },
-  {
-    "name": "Fruity Salad",
-    "value": 1760
-  },
-  {
-    "name": "Frozen Fruit Popsicle",
-    "value": 6190
-  },
-  {
-    "name": "Frozen Cucumber Slices",
-    "value": 3180
-  },
-  {
-    "name": "Freshly Tinned Carrots",
-    "value": 38
-  },
-  {
-    "name": "Fresh Sushi Roll",
-    "value": 213000
-  },
-  {
-    "name": "Fresh Sushi Cone",
-    "value": 925000
-  },
-  {
-    "name": "Fresh Melon Cubes",
-    "value": 897
-  },
-  {
-    "name": "French Onion Soup",
-    "value": 2080000
-  },
-  {
-    "name": "Four Layer Carrot Cake",
-    "value": 65300
-  },
-  {
-    "name": "Flattened Durian",
-    "value": 753
-  },
-  {
-    "name": "Figcorn",
-    "value": 7610
-  },
-  {
-    "name": "Fibre Supplement",
-    "value": 1740
-  },
-  {
-    "name": "Eliv Thade Salad",
-    "value": 159
-  },
-  {
-    "name": "Dried Tigerbuggles",
-    "value": 4980
-  },
-  {
-    "name": "Dried Teal Juppie",
-    "value": 2310
-  },
-  {
-    "name": "Dried Mango",
-    "value": 30
-  },
-  {
-    "name": "Dried Lemoran",
-    "value": 1200
-  },
-  {
-    "name": "Dried Grapefruit Slices",
-    "value": 393
-  },
-  {
-    "name": "Dried Duoroot",
-    "value": 989
-  },
-  {
-    "name": "Dried Chokato",
-    "value": 2600
-  },
-  {
-    "name": "Dried Carrot Slices",
-    "value": 1810
-  },
-  {
-    "name": "Double Green Pumpkin",
-    "value": 1130
-  },
-  {
-    "name": "Depressed Potato",
-    "value": 5270
-  },
-  {
-    "name": "Cybunny Carrot Cookie",
-    "value": 3750
-  },
-  {
-    "name": "Cybunny Carrot Burger",
-    "value": 5130
-  },
-  {
-    "name": "Cucumber and Onion Soup",
-    "value": 976
-  },
-  {
-    "name": "Cube-Shaped Watermelon",
-    "value": 1230
-  },
-  {
-    "name": "Cube-Shaped Strawberry",
-    "value": 4890
-  },
-  {
-    "name": "Cube-Shaped Orange",
-    "value": 4260
-  },
-  {
-    "name": "Cube-Shaped Lemon",
-    "value": 4620
-  },
-  {
-    "name": "Cube-Shaped Cherry",
-    "value": 12000
-  },
-  {
-    "name": "Crying Corn",
-    "value": 10600
-  },
-  {
-    "name": "Crab Salad",
-    "value": 3960
-  },
-  {
-    "name": "Corn Salad",
-    "value": 989
-  },
-  {
-    "name": "Corn Puffs",
-    "value": 962
-  },
-  {
-    "name": "Cooling Courgette Slice",
-    "value": 848
-  },
-  {
-    "name": "Cone-Shaped Watermelon",
-    "value": 11800
-  },
-  {
-    "name": "Cone-Shaped Strawberry",
-    "value": 374000
-  },
-  {
-    "name": "Cone-Shaped Orange",
-    "value": 206000
-  },
-  {
-    "name": "Cone-Shaped Lemon",
-    "value": 999315
-  },
-  {
-    "name": "Cone-Shaped Cherry",
-    "value": 1190000
-  },
-  {
-    "name": "Cinnamon Raisin Oatmeal",
-    "value": 27
-  },
-  {
-    "name": "Cinnamon Oatmeal",
-    "value": 9000
-  },
-  {
-    "name": "Cinnamon Honey Sticks",
-    "value": 2590
-  },
-  {
-    "name": "Cinnamon Granola Bar",
-    "value": 964
-  },
-  {
-    "name": "Chunky Cauliflower Soup",
-    "value": 1840
-  },
-  {
-    "name": "Chomby Veggie Burger",
-    "value": 694
-  },
-  {
-    "name": "Chomby Pie",
-    "value": 4190
-  },
-  {
-    "name": "Chomby Leafy Lollypop",
-    "value": 923
-  },
-  {
-    "name": "Chomby Leafy Crunch",
-    "value": 3880
-  },
-  {
-    "name": "Chokato Topped Frozen Yogurt",
-    "value": 802
-  },
-  {
-    "name": "Chokato Parfait",
-    "value": 998
-  },
-  {
-    "name": "Chokato Meerca Tail Fruit Tape",
-    "value": 1770
-  },
-  {
-    "name": "Chokato Honey Sticks",
-    "value": 2580
-  },
-  {
-    "name": "Chokato Burger",
-    "value": 3000
-  },
-  {
-    "name": "Chokato Baby Food",
-    "value": 1110
-  },
-  {
-    "name": "Chocolate Stuffed Orange",
-    "value": 7970
-  },
-  {
-    "name": "Chocolate Parsnip",
-    "value": 964
-  },
-  {
-    "name": "Chocolate Coated Cabbage",
-    "value": 2910
-  },
-  {
-    "name": "Chill Pill",
-    "value": 2290
-  },
-  {
-    "name": "Chia Shaped Aubergine",
-    "value": 414
-  },
-  {
-    "name": "Cherry JubJub Fruit Leather",
-    "value": 978
-  },
-  {
-    "name": "Cherry Granola Bar",
-    "value": 1720
-  },
-  {
-    "name": "Cheesy Courgette Slice",
-    "value": 2880
-  },
-  {
-    "name": "Cheesy Carrots",
-    "value": 3360000
-  },
-  {
-    "name": "Cheesy Broccoli Bite",
-    "value": 855
-  },
-  {
-    "name": "Cheesy Baked Apple Core",
-    "value": 7280
-  },
-  {
-    "name": "Cheesy Asparagus",
-    "value": 2950000
-  },
-  {
-    "name": "Cheeseless Lasagna",
-    "value": 8540
-  },
-  {
-    "name": "Cheese Puffs",
-    "value": 972
-  },
-  {
-    "name": "Cheese and Onion Baked Apple",
-    "value": 2450
-  },
-  {
-    "name": "Chard Platter",
-    "value": 4130
-  },
-  {
-    "name": "Celery Stuffed Orange",
-    "value": 661
-  },
-  {
-    "name": "Celery Root Grits",
-    "value": 4270
-  },
-  {
-    "name": "Celery",
-    "value": 2400
-  },
-  {
-    "name": "Celeriac",
-    "value": 4580
-  },
-  {
-    "name": "Cauliflower Soup",
-    "value": 3150000
-  },
-  {
-    "name": "Cauliflower Shake",
-    "value": 5000000
-  },
-  {
-    "name": "Cauliflower Lolly",
-    "value": 2580000
-  },
-  {
-    "name": "Cauliflower",
-    "value": 2250
-  },
-  {
-    "name": "Cashew Milk",
-    "value": 4070
-  },
-  {
-    "name": "Cashew",
-    "value": 1090
-  },
-  {
-    "name": "Carrot Wrap",
-    "value": 3870
-  },
-  {
-    "name": "Carobchip Cherry Trail Mix",
-    "value": 3490
-  },
-  {
-    "name": "Cantelope Fruit Cup",
-    "value": 122
-  },
-  {
-    "name": "Cabbage Quiche",
-    "value": 592
-  },
-  {
-    "name": "Cabbage Doughnut",
-    "value": 4080
-  },
-  {
-    "name": "Cabbage Cupcake",
-    "value": 12700
-  },
-  {
-    "name": "Burger Stuffed Orange",
+    "name": "Gormball Protein Bites",
     "value": 707
   },
   {
-    "name": "Brown Rice Bowl",
-    "value": 87
+    "name": "Grarrl Garden Salad",
+    "value": 4950
   },
   {
-    "name": "Brown Rice",
-    "value": 7
+    "name": "Green Herb Dressing",
+    "value": 799
   },
   {
-    "name": "Brown Ixi Acorn",
-    "value": 542
+    "name": "Green Ixi Acorn",
+    "value": 526
   },
   {
-    "name": "Brogleberry Porridge",
-    "value": 901
+    "name": "Green Tea Spaghetti",
+    "value": 11400
   },
   {
-    "name": "Broccoli with Sprinkles",
-    "value": 562000
+    "name": "Grenanna Meerca Tail Fruit Tape",
+    "value": 1490
   },
   {
-    "name": "Broccoli Kebab",
-    "value": 161000
+    "name": "Greycorn",
+    "value": 354
   },
   {
-    "name": "Broccoli and Mustard Sandwich",
-    "value": 581000
+    "name": "Grilled Veggie Bowl",
+    "value": 77
   },
   {
-    "name": "Bottled Beans",
-    "value": 5980
+    "name": "Harffel Fruit Oatmeal",
+    "value": 10200
   },
   {
-    "name": "Blumaroo Gummy Vitamins",
-    "value": 3200
+    "name": "Healthy Apple Cake",
+    "value": 7380
   },
   {
-    "name": "Bluecheese Dressing",
-    "value": 992
+    "name": "Healthy Apple Pretzel",
+    "value": 2860
   },
   {
-    "name": "Blueberry Baby Food",
-    "value": 3000
+    "name": "Healthy Hearty Veggies",
+    "value": 5380
   },
   {
-    "name": "Bleumaroo Cheese",
-    "value": 881
+    "name": "Healthy Veggie Deluxe Sandwich",
+    "value": 2
   },
   {
-    "name": "Black Mushroom",
-    "value": 30000
+    "name": "Honey Bearog",
+    "value": 461
   },
   {
-    "name": "Black Licorice",
-    "value": 1100
+    "name": "Honey Vandagyre",
+    "value": 8840
   },
   {
-    "name": "Black Eyed Peas",
-    "value": 1840
+    "name": "Honey Yurble",
+    "value": 7520
   },
   {
-    "name": "Bite Size Celery",
-    "value": 30
+    "name": "Hot Apple Oatmeal",
+    "value": 613
   },
   {
-    "name": "Berry Topped Frozen Yogurt",
-    "value": 499
+    "name": "Jacket Potato with Broccoli",
+    "value": 2020
   },
   {
-    "name": "Beetroot Stew",
-    "value": 1390
+    "name": "Jacket Potato with Chicken Wings",
+    "value": 3850
   },
   {
-    "name": "Beetroot Soup",
-    "value": 6750
+    "name": "Jacket Potato with Nachos",
+    "value": 1190
   },
   {
-    "name": "Beet Pate",
-    "value": 168
+    "name": "Jacket Potato with Onions",
+    "value": 1140
   },
   {
-    "name": "Balsamic Dressing",
-    "value": 3280
+    "name": "Jammy Courgette Slice",
+    "value": 399
   },
   {
-    "name": "Baked Avocado Crisps",
-    "value": 8520
+    "name": "Jelly Covered Greycorn",
+    "value": 4460
   },
   {
-    "name": "Baked Apple with Tigerbuggle sauce",
-    "value": 3430
+    "name": "Juicy Steen",
+    "value": 5270
   },
   {
-    "name": "Baked Apple with Snowberries",
-    "value": 584000
+    "name": "Just Broccoli Sandwich",
+    "value": 4720
   },
   {
-    "name": "Baked Apple with Custard",
-    "value": 2720
+    "name": "Just Broccoli Soup",
+    "value": 4640
   },
   {
-    "name": "Baked Apple with Cream and Jam",
-    "value": 2890
+    "name": "Just Plain Ol Porridge",
+    "value": 4990
   },
   {
-    "name": "Baby Tomatoes",
-    "value": 1080
+    "name": "Kauliflower",
+    "value": 1020
   },
   {
-    "name": "Baby Carrots",
-    "value": 1920
+    "name": "Kiwi Cookies",
+    "value": 1940
   },
   {
-    "name": "Baby Cabbage with Gravy",
+    "name": "Koi Flakes",
+    "value": 2930
+  },
+  {
+    "name": "Koi Kelp Wrap",
+    "value": 2930
+  },
+  {
+    "name": "Korbat Seasonal Fruit Basket",
+    "value": 169
+  },
+  {
+    "name": "Kougra Kombucha",
+    "value": 1630
+  },
+  {
+    "name": "Kyrii Kombucha",
+    "value": 1380
+  },
+  {
+    "name": "Leaf Wrap",
+    "value": 6430
+  },
+  {
+    "name": "Lemint",
+    "value": 544
+  },
+  {
+    "name": "Lemon JubJub Fruit Leather",
+    "value": 1990
+  },
+  {
+    "name": "Lentil Cake",
+    "value": 10100
+  },
+  {
+    "name": "Lentil Cookies",
+    "value": 814
+  },
+  {
+    "name": "Lentil Pie",
+    "value": 3620
+  },
+  {
+    "name": "Lentil Stew",
+    "value": 999
+  },
+  {
+    "name": "Lettuce",
+    "value": 1350
+  },
+  {
+    "name": "Luxury Cabbage Cake",
+    "value": 3350000
+  },
+  {
+    "name": "Meatier Asparagus Dish",
     "value": 10700
   },
   {
-    "name": "Avocado Jam Toast",
-    "value": 1890
+    "name": "Meaty Asparagus Dish",
+    "value": 593
   },
   {
-    "name": "Avocado Baby Food",
-    "value": 7
+    "name": "Meaty Courgette Slice",
+    "value": 370
   },
   {
-    "name": "Aubergine Wrap",
-    "value": 858
+    "name": "Mega Carrot Muffin",
+    "value": 2280
   },
   {
-    "name": "Asparagus Wrap",
-    "value": 9110
+    "name": "Meriberry Dressing",
+    "value": 6430
   },
   {
-    "name": "Asparagus Pie",
-    "value": 9660
+    "name": "Minestrone Soup",
+    "value": 4770
   },
   {
-    "name": "Asparagus Balls",
-    "value": 2250000
+    "name": "Mixed Berry Fruit Cup",
+    "value": 350
   },
   {
-    "name": "Artichoke Fondue",
-    "value": 101000
+    "name": "Mixed Fruit Kebab",
+    "value": 1860
   },
   {
-    "name": "Artichoke Cupcake",
-    "value": 8920000
+    "name": "Mixed Fruit Noodles",
+    "value": 4020
   },
   {
-    "name": "Artichoke and Onion Surprise",
-    "value": 7870000
+    "name": "Mixed Greens Salad",
+    "value": 1940
   },
   {
-    "name": "Apple Tree Broccoli",
-    "value": 15200
+    "name": "Mixed Nuts",
+    "value": 3580
   },
   {
-    "name": "Apple Soup",
-    "value": 3930
+    "name": "Mixed Veggie Kebab",
+    "value": 2350
   },
   {
-    "name": "Apple Oatmeal",
-    "value": 1620
+    "name": "Moehog Rice Cakes",
+    "value": 4080
   },
   {
-    "name": "Apple and Cheese Sandwich",
-    "value": 7
+    "name": "Natural Gum",
+    "value": 2190
   },
   {
-    "name": "Almond Cranberry Trail Mix",
-    "value": 1810
+    "name": "Natural Springabee Honey",
+    "value": 11700
   },
   {
-    "name": "Acara Fruit Salad",
+    "name": "Oatmeal Bar",
+    "value": 5240
+  },
+  {
+    "name": "Omega Eggs",
+    "value": 1410
+  },
+  {
+    "name": "Onion",
+    "value": 2210
+  },
+  {
+    "name": "Onion and Sliced Mushroom Soup",
+    "value": 1580
+  },
+  {
+    "name": "Orange Honey Sticks",
+    "value": 1970
+  },
+  {
+    "name": "Orange Stuffed Orange",
+    "value": 969
+  },
+  {
+    "name": "Organic Almond",
+    "value": 583
+  },
+  {
+    "name": "Organic Almond Butter",
+    "value": 539
+  },
+  {
+    "name": "Organic Apple Dip",
+    "value": 2020
+  },
+  {
+    "name": "Organic Baby Carrots",
+    "value": 1150
+  },
+  {
+    "name": "Organic Bananas",
+    "value": 2880
+  },
+  {
+    "name": "Organic Beetroot",
+    "value": 1410
+  },
+  {
+    "name": "Organic Bran Carrot Muffin",
+    "value": 48
+  },
+  {
+    "name": "Organic Broccoli",
+    "value": 2330
+  },
+  {
+    "name": "Organic Carrot Juice",
+    "value": 1170
+  },
+  {
+    "name": "Organic Cashew Butter",
+    "value": 317
+  },
+  {
+    "name": "Organic Celery",
+    "value": 1000
+  },
+  {
+    "name": "Organic Cherries",
+    "value": 2750
+  },
+  {
+    "name": "Organic Chia Wort Root",
+    "value": 1680
+  },
+  {
+    "name": "Organic Cucumber",
+    "value": 990
+  },
+  {
+    "name": "Organic Cucumber Slices",
+    "value": 1200
+  },
+  {
+    "name": "Organic Dark Chocolate",
+    "value": 1250
+  },
+  {
+    "name": "Organic Dill Pickles",
+    "value": 525
+  },
+  {
+    "name": "Organic Grapefruit Yogurt",
+    "value": 807
+  },
+  {
+    "name": "Organic Green Apple",
+    "value": 2710
+  },
+  {
+    "name": "Organic Green Grapes",
+    "value": 2000
+  },
+  {
+    "name": "Organic Honeycomb",
+    "value": 1080
+  },
+  {
+    "name": "Organic Kale",
+    "value": 2170
+  },
+  {
+    "name": "Organic Korbat Pumpkins",
+    "value": 51
+  },
+  {
+    "name": "Organic Leek",
+    "value": 1970
+  },
+  {
+    "name": "Organic Melon Yogurt",
+    "value": 1200
+  },
+  {
+    "name": "Organic Mushroom",
+    "value": 1900
+  },
+  {
+    "name": "Organic Mushy Peas",
+    "value": 2000
+  },
+  {
+    "name": "Organic Nectarine",
+    "value": 1260
+  },
+  {
+    "name": "Organic Oatmeal Cookie",
+    "value": 3810
+  },
+  {
+    "name": "Organic Octo Snacks",
+    "value": 866
+  },
+  {
+    "name": "Organic Orange Slices",
+    "value": 1660
+  },
+  {
+    "name": "Organic Pasta",
+    "value": 2870
+  },
+  {
+    "name": "Organic Peach",
+    "value": 3160
+  },
+  {
+    "name": "Organic Peanut",
+    "value": 441
+  },
+  {
+    "name": "Organic Peanut Butter",
+    "value": 1060
+  },
+  {
+    "name": "Organic Pear Slices",
+    "value": 2020
+  },
+  {
+    "name": "Organic Pecan",
+    "value": 4500
+  },
+  {
+    "name": "Organic Pineapple",
+    "value": 1530
+  },
+  {
+    "name": "Organic Plain Yogurt",
+    "value": 566
+  },
+  {
+    "name": "Organic Plum",
+    "value": 2100
+  },
+  {
+    "name": "Organic Radish",
+    "value": 1840
+  },
+  {
+    "name": "Organic Red Apple",
+    "value": 3050
+  },
+  {
+    "name": "Organic Red Onion",
+    "value": 1910
+  },
+  {
+    "name": "Organic Seasoning",
+    "value": 3020
+  },
+  {
+    "name": "Organic Slop",
+    "value": 645
+  },
+  {
+    "name": "Organic Spinach Salad",
+    "value": 8960
+  },
+  {
+    "name": "Organic Spring Onion",
+    "value": 1690
+  },
+  {
+    "name": "Organic Strawberry Yogurt",
+    "value": 860
+  },
+  {
+    "name": "Organic String Cheese",
+    "value": 1390
+  },
+  {
+    "name": "Organic Tofu",
+    "value": 1000
+  },
+  {
+    "name": "Organic Tuna Olive Salad",
+    "value": 995
+  },
+  {
+    "name": "Organic Turnip",
+    "value": 3240
+  },
+  {
+    "name": "Organic Walnut",
+    "value": 4750
+  },
+  {
+    "name": "Organic Yellow Tomatoes",
+    "value": 932
+  },
+  {
+    "name": "Parsley Juice",
+    "value": 3260
+  },
+  {
+    "name": "Parsnip",
+    "value": 1850
+  },
+  {
+    "name": "Parsnip Pie",
+    "value": 4570
+  },
+  {
+    "name": "Parsnip Sandwich",
+    "value": 1480
+  },
+  {
+    "name": "Parsnips and Cream",
+    "value": 2660
+  },
+  {
+    "name": "Pea and Lentil Soup",
+    "value": 991
+  },
+  {
+    "name": "Peanut Berry Trail Mix",
+    "value": 1090
+  },
+  {
+    "name": "Peanut Butter Granola Bar",
+    "value": 686
+  },
+  {
+    "name": "Peanut Raisin Trail Mix",
+    "value": 2790
+  },
+  {
+    "name": "Peas Flour Burger",
+    "value": 693
+  },
+  {
+    "name": "Peophin Frozen Yogurt",
+    "value": 536
+  },
+  {
+    "name": "Peophin Fruit Medley",
+    "value": 1070
+  },
+  {
+    "name": "Phear Burger",
+    "value": 89
+  },
+  {
+    "name": "Pickled Cauliflower",
+    "value": 1560000
+  },
+  {
+    "name": "Pineapple Juice",
+    "value": 1940
+  },
+  {
+    "name": "Pineapple Rice Bowl",
+    "value": 8910
+  },
+  {
+    "name": "Pineapple Sorbet",
+    "value": 2020
+  },
+  {
+    "name": "Pistachio Nut",
+    "value": 2010
+  },
+  {
+    "name": "Plain Frozen Yogurt",
+    "value": 932
+  },
+  {
+    "name": "Plain Honey Sticks",
+    "value": 1480
+  },
+  {
+    "name": "Plain Oatmeal",
+    "value": 2400
+  },
+  {
+    "name": "Plate of Peanuts",
+    "value": 1170
+  },
+  {
+    "name": "Potato and Sweetcorn Soup",
+    "value": 808
+  },
+  {
+    "name": "Protein Bar",
+    "value": 2130
+  },
+  {
+    "name": "Pumpcorn",
+    "value": 11700
+  },
+  {
+    "name": "Pumpkin Baby Food",
+    "value": 2880
+  },
+  {
+    "name": "Purple Felberry Soup",
+    "value": 971
+  },
+  {
+    "name": "Purple Ixi Acorn",
+    "value": 121
+  },
+  {
+    "name": "Purpple",
+    "value": 3490
+  },
+  {
+    "name": "Radish and Cheese",
+    "value": 565000
+  },
+  {
+    "name": "Radish Meringue",
+    "value": 274000
+  },
+  {
+    "name": "Radish Pie",
+    "value": 7030
+  },
+  {
+    "name": "Radish Salad",
+    "value": 2090
+  },
+  {
+    "name": "Radish Sprouts",
+    "value": 2410
+  },
+  {
+    "name": "Raisins",
+    "value": 2720
+  },
+  {
+    "name": "Raspberry Sorbet",
+    "value": 2970
+  },
+  {
+    "name": "Red Juppie Burger",
+    "value": 6840
+  },
+  {
+    "name": "Roasted Aubergine Sandwich",
+    "value": 995
+  },
+  {
+    "name": "Roasted Beet Salad",
+    "value": 464
+  },
+  {
+    "name": "Sesame Pistachio Cake",
+    "value": 9820
+  },
+  {
+    "name": "Sesame Sticks",
+    "value": 2400
+  },
+  {
+    "name": "Sliced Strawberries",
+    "value": 2140
+  },
+  {
+    "name": "Sliced Tofu",
+    "value": 3630
+  },
+  {
+    "name": "Sloth Broccoli",
+    "value": 3460
+  },
+  {
+    "name": "Sobbing Onion",
+    "value": 9360
+  },
+  {
+    "name": "Souper Bowl",
+    "value": 14000000
+  },
+  {
+    "name": "Spherical Cherry",
+    "value": 788
+  },
+  {
+    "name": "Spherical Lemon",
+    "value": 1350
+  },
+  {
+    "name": "Spherical Strawberry",
+    "value": 616
+  },
+  {
+    "name": "Spherical Watermelon",
+    "value": 407
+  },
+  {
+    "name": "Spicy Radish Kebab",
+    "value": 4300
+  },
+  {
+    "name": "Spinach Hummus",
+    "value": 4250
+  },
+  {
+    "name": "Spinach Topped Frozen Yogurt",
+    "value": 969
+  },
+  {
+    "name": "Sprout Wrap",
+    "value": 4960
+  },
+  {
+    "name": "Star Shaped Carrot",
+    "value": 1730
+  },
+  {
+    "name": "Stramberry Slushie",
+    "value": 3650
+  },
+  {
+    "name": "Strawberry-Kiwi Fruit Cup",
+    "value": 3270
+  },
+  {
+    "name": "Stretched Apples",
+    "value": 102
+  },
+  {
+    "name": "Stuffed Olive Salad",
+    "value": 7310
+  },
+  {
+    "name": "Tangleberry Meerca Tail Fruit Tape",
+    "value": 2050
+  },
+  {
+    "name": "Tchea and Meatball Noodles",
+    "value": 938
+  },
+  {
+    "name": "Thimble of Soup",
+    "value": 2350
+  },
+  {
+    "name": "Thornberry Noodle Soup",
+    "value": 645
+  },
+  {
+    "name": "Tigersquash Burger",
+    "value": 701
+  },
+  {
+    "name": "Tofu and Veggie Sandwich",
+    "value": 508
+  },
+  {
+    "name": "Tofu Salad",
+    "value": 3180
+  },
+  {
+    "name": "Tomato Basil Juice",
+    "value": 1950
+  },
+  {
+    "name": "Tomato Basil Salad",
+    "value": 5900
+  },
+  {
+    "name": "Tomato Kebab",
+    "value": 2900000
+  },
+  {
+    "name": "Triple Carrot Sandwich",
     "value": 3870
   },
   {
-    "name": "Acara Cabbage Cake",
-    "value": 3730
+    "name": "Tropical Noodle Surprise",
+    "value": 1010
   },
   {
-    "name": "A Sprig of Leaf",
-    "value": 2610
+    "name": "Tropical Trail Mix",
+    "value": 3220
+  },
+  {
+    "name": "Turkey Jerky",
+    "value": 693
+  },
+  {
+    "name": "Turnip",
+    "value": 2110
+  },
+  {
+    "name": "Uni Spinach Sandwich",
+    "value": 1840
+  },
+  {
+    "name": "Uni Veggie Wrap",
+    "value": 1980
+  },
+  {
+    "name": "Uni Veggie Yogurt",
+    "value": 2170
+  },
+  {
+    "name": "Uni Wheat Cookies",
+    "value": 4470
+  },
+  {
+    "name": "Vegetable Dip Platter",
+    "value": 524
+  },
+  {
+    "name": "Vegetarian Krawk Day Pie",
+    "value": 677
+  },
+  {
+    "name": "Veggie Crisps",
+    "value": 1790
+  },
+  {
+    "name": "Veggie Lasagne",
+    "value": 46
+  },
+  {
+    "name": "Vinberry Ice Lolly",
+    "value": 1630
+  },
+  {
+    "name": "Watercress",
+    "value": 1240
+  },
+  {
+    "name": "Watermelon Fruit Cup",
+    "value": 18
+  },
+  {
+    "name": "Weeping Broccoli",
+    "value": 6960
+  },
+  {
+    "name": "Wheat Flour",
+    "value": 1830
   }
 ]
