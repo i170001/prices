@@ -1,339 +1,343 @@
 [
   {
     "name": "Acara Blueberry Muffin",
-    "value": 123000
+    "value": 29500
   },
   {
     "name": "Acara Bran Muffin",
-    "value": 25400
+    "value": 18500
   },
   {
     "name": "Acara Carrot Muffin",
-    "value": 29700
+    "value": 11000
   },
   {
     "name": "Acara Cheese Panini",
-    "value": 4200
+    "value": 2700
   },
   {
     "name": "Acara Chocolate Chip Muffin",
-    "value": 424000
+    "value": 25500
   },
   {
     "name": "Acara Day Waffles",
-    "value": 40300
+    "value": 19000
   },
   {
     "name": "Acara Ham Panini",
-    "value": 7720
+    "value": 6400
   },
   {
     "name": "Acara Peanut Butter and Jelly Panini",
-    "value": 13100
+    "value": 16500
   },
   {
     "name": "Acara Seaweed Panini",
-    "value": 136000
+    "value": 23000
   },
   {
     "name": "Acnefruit Scone",
-    "value": 12700
+    "value": 32000
   },
   {
     "name": "Aisha Angel Cookie",
-    "value": 2410
+    "value": 2600
   },
   {
     "name": "Aisha Cinnamon Roll",
-    "value": 2780
+    "value": 1400
   },
   {
     "name": "Alabriss Almond Cookies",
-    "value": 668
+    "value": 500
   },
   {
     "name": "Almond Kougraclaw",
-    "value": 12000
+    "value": 27000
   },
   {
     "name": "Almond-Dipped Chocolate Biscotti",
-    "value": 32800
+    "value": 30000
   },
   {
     "name": "Amazing Apple Usul Cake",
-    "value": 46700
+    "value": 13500
   },
   {
     "name": "Angry Cinnamon Roll",
-    "value": 5500
+    "value": 9500
+  },
+  {
+    "name": "Angry Varwolf Cookie",
+    "value": 71000
   },
   {
     "name": "Anti-Chia Cake",
-    "value": 17100
+    "value": 3100
   },
   {
     "name": "Anti-Lupe Cake",
-    "value": 4840
+    "value": 5000
   },
   {
     "name": "Apple Cherry Tarts",
-    "value": 188
+    "value": 305
   },
   {
     "name": "Apple Cinnamon Crepe",
-    "value": 769
+    "value": 96
   },
   {
     "name": "Apple Cobbler",
-    "value": 35
+    "value": 400
   },
   {
     "name": "Apple Krawk Cake",
-    "value": 1990
+    "value": 940
   },
   {
     "name": "Apple Lantern Pie",
-    "value": 83500
+    "value": 38000
   },
   {
     "name": "Apple Pie",
-    "value": 2000
+    "value": 1500
   },
   {
     "name": "Arrow Cake",
-    "value": 4910
+    "value": 6400
   },
   {
     "name": "Asparagus and Leek Sandwiches",
-    "value": 1470
+    "value": 2100
   },
   {
     "name": "Asparagus Chia Cupcake",
-    "value": 44000
+    "value": 17500
   },
   {
     "name": "Asparagus Chocolate Cupcake",
-    "value": 20100
+    "value": 17500
   },
   {
     "name": "Assorted Mini Biscuits",
-    "value": 104
+    "value": 680
   },
   {
     "name": "Autumn Usuki Cake",
-    "value": 914
+    "value": 925
   },
   {
     "name": "Babaa Cake",
-    "value": 169000
+    "value": 190000
   },
   {
     "name": "Baby Scorchio Milk Cake",
-    "value": 82800
+    "value": 11500
   },
   {
     "name": "Baby Shoyru Biscuit",
-    "value": 212000
+    "value": 9600
   },
   {
     "name": "Baked Apple Pi Pie",
-    "value": 2040
+    "value": 1500
   },
   {
     "name": "Baked Asparagus Biscuit",
-    "value": 28
+    "value": 18
   },
   {
     "name": "Baked Biscuit Peas",
-    "value": 66900
+    "value": 30000
   },
   {
     "name": "Baked Carrot Biscuit",
-    "value": 299000
+    "value": 30500
   },
   {
     "name": "Baked Cheddar Straws",
-    "value": 101
+    "value": 900
   },
   {
     "name": "Baked Pepper Biscuit",
-    "value": 476000
+    "value": 15500
   },
   {
     "name": "Baked Pumpkin Bread",
-    "value": 476
+    "value": 1900
   },
   {
     "name": "Banana Blumaroo Biscuit",
-    "value": 130
+    "value": 95
   },
   {
     "name": "Banana Blumaroo Waffles",
-    "value": 1010
+    "value": 4100
   },
   {
     "name": "Banana Bori Cupcake",
-    "value": 296
+    "value": 270
   },
   {
     "name": "Banana Chocolate Ganache Cake",
-    "value": 865
+    "value": 465
   },
   {
     "name": "Banana Cookies",
-    "value": 48700
+    "value": 60000
   },
   {
     "name": "Banana Creme Pie",
-    "value": 456
+    "value": 1000
   },
   {
     "name": "Banana Crepe",
-    "value": 41000
+    "value": 42000
   },
   {
     "name": "Banana Faellie Cake",
-    "value": 300
+    "value": 850
   },
   {
     "name": "Banana Hissi Cupcake",
-    "value": 363
+    "value": 315
   },
   {
     "name": "Banana JubJub Muffin",
-    "value": 48600
+    "value": 23500
   },
   {
     "name": "Banana Kite Bread",
-    "value": 14700
+    "value": 16000
   },
   {
     "name": "Banana Meerca Mini Cake",
-    "value": 2430
+    "value": 3000
   },
   {
     "name": "Banana Mince Pie",
-    "value": 15700
+    "value": 26000
   },
   {
     "name": "Banana Moehog Cake",
-    "value": 3110
+    "value": 3400
   },
   {
     "name": "Banana Mynci Day Cupcake",
-    "value": 99700
+    "value": 20000
   },
   {
     "name": "Banana Slorg Pie",
-    "value": 129000
+    "value": 100000
   },
   {
     "name": "Banana Split Swiss Roll",
-    "value": 148000
+    "value": 14500
   },
   {
     "name": "Banana-Smothered French Toast",
-    "value": 5590
+    "value": 1600
   },
   {
     "name": "Basket of Bread",
-    "value": 255
+    "value": 740
   },
   {
     "name": "Bean and Lentil Pasty",
-    "value": 608
+    "value": 685
   },
   {
     "name": "Beetroot Pastry Puff",
-    "value": 1990
+    "value": 1900
   },
   {
     "name": "Berry Cupcake",
-    "value": 1910
+    "value": 2400
   },
   {
     "name": "Berry Jam Croissant",
-    "value": 64800
+    "value": 44500
   },
   {
     "name": "Berry Jhudora Petit Four",
-    "value": 9920
+    "value": 6000
   },
   {
     "name": "Bitten Heart Muffin",
-    "value": 52300
+    "value": 16500
   },
   {
     "name": "Black Cherry Mooncake",
-    "value": 34200
+    "value": 25500
   },
   {
     "name": "Black Cherry Pastry Wrap",
-    "value": 977
+    "value": 1500
   },
   {
     "name": "Black Currant Jam Korbat Sandwich",
-    "value": 765000
+    "value": 28000
   },
   {
     "name": "Blackberry Eyrie Cookie",
-    "value": 1800000
+    "value": 2850000
   },
   {
     "name": "Blackberry Gateau",
-    "value": 1160
+    "value": 2000
   },
   {
     "name": "Blackberry Pie",
-    "value": 64
+    "value": 115
   },
   {
     "name": "Blue 8 Neopets 8th Birthday Cake",
-    "value": 347000
+    "value": 28000
   },
   {
     "name": "Blue Berry Pie",
-    "value": 161
+    "value": 1000
   },
   {
     "name": "Blue Cybunny Negg Cookie",
-    "value": 1320
+    "value": 11000
   },
   {
     "name": "Blue Doughnut",
-    "value": 1220
+    "value": 875
   },
   {
     "name": "Blue Easter Negg Cookie",
-    "value": 6500
+    "value": 2200
   },
   {
     "name": "Blue Gormball Sugar Cookies",
-    "value": 3780
+    "value": 7000
   },
   {
     "name": "Blue Kacheek Iced Cookie",
-    "value": 1050
+    "value": 1000
   },
   {
     "name": "Blue Kougra Cookie Paw",
-    "value": 961
+    "value": 1900
   },
   {
     "name": "Blue PaintBrush Cookie",
-    "value": 1890000
+    "value": 4200000
   },
   {
     "name": "Blue Smug Bug Cookie",
-    "value": 4870
+    "value": 2400
   },
   {
     "name": "Blue Starburst Stained Glass Window Cookie",
-    "value": 10200
+    "value": 9300
   },
   {
     "name": "Blue Techo Cookie",
-    "value": 352000
+    "value": 30500
   },
   {
     "name": "Blueberry Bori Cupcake",
@@ -341,1511 +345,1519 @@
   },
   {
     "name": "Blueberry Buzz Gateau",
-    "value": 954
+    "value": 270
   },
   {
     "name": "Blueberry Chocolate Flotsam Cake",
-    "value": 2620
+    "value": 4500
   },
   {
     "name": "Blueberry Deluxe Cake",
-    "value": 1460000
-  },
-  {
-    "name": "Blueberry Iced Cookie",
-    "value": 70000
-  },
-  {
-    "name": "Blueberry Jam Sandwiches",
-    "value": 19000
-  },
-  {
-    "name": "Blueberry Koi Waffles",
-    "value": 18400
-  },
-  {
-    "name": "Blueberry Lupe Waffles",
-    "value": 995
-  },
-  {
-    "name": "Blueberry Meerca Mini Cake",
-    "value": 1070
-  },
-  {
-    "name": "Blueberry Mooncake",
-    "value": 999049
-  },
-  {
-    "name": "Blueberry Skeith Cookie",
-    "value": 53500
-  },
-  {
-    "name": "Blueberry Smothered Crumpet",
-    "value": 9250
-  },
-  {
-    "name": "Blueberry Strawberry Flotsam Cake",
-    "value": 3100
-  },
-  {
-    "name": "Blueberry Urgoni Cupcake",
-    "value": 8950
-  },
-  {
-    "name": "Blueberry Usul Meringue",
-    "value": 2850
-  },
-  {
-    "name": "Blueberry Vanilla Flotsam Cake",
-    "value": 4800
-  },
-  {
-    "name": "Blueberry Wocky Cake",
-    "value": 607
-  },
-  {
-    "name": "Blueberry-Smothered French Toast",
-    "value": 46600
-  },
-  {
-    "name": "Bluepepper Muffin",
-    "value": 306000
-  },
-  {
-    "name": "Blumaroo Cookie",
-    "value": 15100
-  },
-  {
-    "name": "Blumaroo Pancakes",
-    "value": 44100
-  },
-  {
-    "name": "Blumaroo Waffles",
-    "value": 22800
-  },
-  {
-    "name": "Blunkabean Pie",
-    "value": 22800
-  },
-  {
-    "name": "Blurf Gelert Cake",
-    "value": 1040
-  },
-  {
-    "name": "Boiled Egg on Toast",
-    "value": 571
-  },
-  {
-    "name": "Bonebread",
-    "value": 80300
-  },
-  {
-    "name": "Bori Bagels",
-    "value": 58500
-  },
-  {
-    "name": "Borovan Cupcake",
-    "value": 4470
-  },
-  {
-    "name": "Borovan Doughnut",
-    "value": 97700
-  },
-  {
-    "name": "Box of Wocky Chocolates",
-    "value": 990
-  },
-  {
-    "name": "Brightvale Berry Pudding",
-    "value": 12100
-  },
-  {
-    "name": "Brioche",
-    "value": 47
-  },
-  {
-    "name": "Broccoli and Cheese Pasty",
-    "value": 1770
-  },
-  {
-    "name": "Broccoli Crepe",
-    "value": 13800
-  },
-  {
-    "name": "Broccoli Mince Pie",
-    "value": 27100
-  },
-  {
-    "name": "Broken Heart Cookie",
-    "value": 15000
-  },
-  {
-    "name": "Brown Techo Cookie",
-    "value": 35900
-  },
-  {
-    "name": "Bruce Bow Brownies",
-    "value": 85000
-  },
-  {
-    "name": "Bruce Scotch Fingers",
-    "value": 4920
-  },
-  {
-    "name": "Bucket Cookie",
-    "value": 1780
-  },
-  {
-    "name": "Bullseye Creme Pie",
-    "value": 4340
-  },
-  {
-    "name": "Burnt Bottom Cupcake",
-    "value": 3360
-  },
-  {
-    "name": "Burnt Popover",
-    "value": 24500
-  },
-  {
-    "name": "Butter Popover",
-    "value": 80100
-  },
-  {
-    "name": "Buttered Croissant",
-    "value": 111000
-  },
-  {
-    "name": "Buttered Crumpet",
-    "value": 1760
-  },
-  {
-    "name": "Buttered Juppie Waffle",
-    "value": 168000
-  },
-  {
-    "name": "Buttered Negg Waffle",
-    "value": 2930
-  },
-  {
-    "name": "Butterlicious Muffin",
-    "value": 645
-  },
-  {
-    "name": "Buzz Honey Banana Bread",
-    "value": 21500
-  },
-  {
-    "name": "Buzzer Cupcake",
-    "value": 3900
-  },
-  {
-    "name": "Cabbage Pasty",
-    "value": 110000
-  },
-  {
-    "name": "Candy Cane Cake",
-    "value": 9570
-  },
-  {
-    "name": "Candy Cane Cupcake",
-    "value": 75900
-  },
-  {
-    "name": "Candy Floss Petit Fours",
-    "value": 1360
-  },
-  {
-    "name": "Caramel Apple Mince Pie",
-    "value": 1260
-  },
-  {
-    "name": "Caramel Butter Cookie",
-    "value": 61500
-  },
-  {
-    "name": "Caramel Corn",
-    "value": 9360
-  },
-  {
-    "name": "Caramel Crepe",
-    "value": 85500
-  },
-  {
-    "name": "Caramel Iced Mynci",
-    "value": 49900
-  },
-  {
-    "name": "Caramel Moehog Hoof",
-    "value": 4530
-  },
-  {
-    "name": "Caramel Poogle Biscuit",
-    "value": 23700
-  },
-  {
-    "name": "Caramel Quiggle Foot",
-    "value": 1000
-  },
-  {
-    "name": "Caramel Skeith Cookie",
-    "value": 23800
-  },
-  {
-    "name": "Caramel Skeith Surprise",
-    "value": 28600
-  },
-  {
-    "name": "Caramel Techo Biscuit",
-    "value": 3250
-  },
-  {
-    "name": "Caramel Techo Cookie",
-    "value": 8800
-  },
-  {
-    "name": "Caramel Usul Cake",
-    "value": 81100
-  },
-  {
-    "name": "Caramel Volcano Cake",
-    "value": 34600
-  },
-  {
-    "name": "Card Suit Cupcakes",
-    "value": 11200
-  },
-  {
-    "name": "Carrot Chia Cupcake",
-    "value": 30200
-  },
-  {
-    "name": "Carrot Pastry Puff",
-    "value": 931
-  },
-  {
-    "name": "Carrot Pie",
-    "value": 18800
-  },
-  {
-    "name": "Carrot Shoyru Muffin",
-    "value": 99100
-  },
-  {
-    "name": "Cauliflower Pasty",
-    "value": 203000
-  },
-  {
-    "name": "Chained Vault Cake",
-    "value": 6600
-  },
-  {
-    "name": "Cheese and Chive Crepe",
-    "value": 240000
-  },
-  {
-    "name": "Cheese and Onion Korbat Sandwich",
-    "value": 1000
-  },
-  {
-    "name": "Cheese and Pickle Sandwiches",
-    "value": 33400
-  },
-  {
-    "name": "Cheese and Salsa Pretzel",
-    "value": 948
-  },
-  {
-    "name": "Cheese and Tomato Sub",
-    "value": 1140
-  },
-  {
-    "name": "Cheese Onion Pasty",
-    "value": 22600
-  },
-  {
-    "name": "Cheese Sandwich",
-    "value": 3440
-  },
-  {
-    "name": "Cheesy Croissant",
-    "value": 1540
-  },
-  {
-    "name": "Cheesy Sausage Roll",
-    "value": 1720
-  },
-  {
-    "name": "Cheesy Sloth Cake",
-    "value": 255000
-  },
-  {
-    "name": "Cheops Cupcake",
-    "value": 2150
-  },
-  {
-    "name": "Cherry Aisha Cookie",
-    "value": 18400
-  },
-  {
-    "name": "Cherry Bori Cupcake",
-    "value": 1160
-  },
-  {
-    "name": "Cherry Moehog Cookie",
-    "value": 1000
-  },
-  {
-    "name": "Cherry Mynci Cookie",
-    "value": 12800
-  },
-  {
-    "name": "Cherry Petit Fours",
-    "value": 1980
-  },
-  {
-    "name": "Cherry Pie",
-    "value": 1720
-  },
-  {
-    "name": "Cherry Scone",
-    "value": 76200
-  },
-  {
-    "name": "Cherry Usuki Pastry",
-    "value": 2140
-  },
-  {
-    "name": "Cherry-Smothered French Toast",
-    "value": 984
-  },
-  {
-    "name": "Chia Cake",
-    "value": 7160000
-  },
-  {
-    "name": "Chia Sticky New Year Cake",
-    "value": 501000
-  },
-  {
-    "name": "Chicken Leg Cracker",
-    "value": 11100
-  },
-  {
-    "name": "Choc Chip Werelupe Cookie",
-    "value": 1780
-  },
-  {
-    "name": "Choccy Chip Skeith Biscuit",
-    "value": 719000
-  },
-  {
-    "name": "Choco-Hazelnut Crepe",
-    "value": 8160
-  },
-  {
-    "name": "Choco-mint Aisha Cake",
-    "value": 53200
-  },
-  {
-    "name": "Choco-Strawberry Muffin",
-    "value": 3000
-  },
-  {
-    "name": "Choco-Strawberry Techo Cookie",
-    "value": 1940
-  },
-  {
-    "name": "Chococherry Pancakes",
-    "value": 2360
-  },
-  {
-    "name": "Chocolate Acara Sandwich Cookie",
-    "value": 994
-  },
-  {
-    "name": "Chocolate Blumaroo Biscuit",
-    "value": 1480
-  },
-  {
-    "name": "Chocolate Blumaroo Waffles",
-    "value": 11600
-  },
-  {
-    "name": "Chocolate Bonebread",
-    "value": 98000
-  },
-  {
-    "name": "Chocolate Buzz Gateau",
-    "value": 1580
-  },
-  {
-    "name": "Chocolate Cake",
-    "value": 1850
-  },
-  {
-    "name": "Chocolate Caramel Elephante Cookie",
-    "value": 9090
-  },
-  {
-    "name": "Chocolate Cherry Cheesecake",
-    "value": 2260000
-  },
-  {
-    "name": "Chocolate Chia Cupcake",
-    "value": 33600
-  },
-  {
-    "name": "Chocolate Chia Pancakes",
-    "value": 51200
-  },
-  {
-    "name": "Chocolate Chia Waffles",
-    "value": 16800
-  },
-  {
-    "name": "Chocolate Chip Biscuits",
-    "value": 923
-  },
-  {
-    "name": "Chocolate Chip Chia Gnome Cookie",
-    "value": 1160
-  },
-  {
-    "name": "Chocolate Chip Cookie",
-    "value": 999
-  },
-  {
-    "name": "Chocolate Chip Cookie Square",
-    "value": 506
-  },
-  {
-    "name": "Chocolate Chip Crumpet",
-    "value": 4680
-  },
-  {
-    "name": "Chocolate Chip Cybunny Cookie",
-    "value": 1690
-  },
-  {
-    "name": "Chocolate Chip Elephante Cookie",
-    "value": 8190
-  },
-  {
-    "name": "Chocolate Chip Eyrie Cookie",
-    "value": 5180000
-  },
-  {
-    "name": "Chocolate Chip Heart Cookies",
-    "value": 4100
-  },
-  {
-    "name": "Chocolate Chip JubJub Gnome Cookie",
-    "value": 196000
-  },
-  {
-    "name": "Chocolate Chip Kacheek Gnome Cookie",
-    "value": 206
-  },
-  {
-    "name": "Chocolate Chip Kiko Gnome Cookie",
-    "value": 1360
-  },
-  {
-    "name": "Chocolate Chip Krawk Cookie",
-    "value": 74500
-  },
-  {
-    "name": "Chocolate Chip Kyrii Cookie",
-    "value": 3290
-  },
-  {
-    "name": "Chocolate Chip Lenny Cookie",
-    "value": 155000
-  },
-  {
-    "name": "Chocolate Chip Moehog Gnome Cookie",
-    "value": 288
-  },
-  {
-    "name": "Chocolate Chip Moonrock",
-    "value": 69600
-  },
-  {
-    "name": "Chocolate Chip Nerkmid Biscuit",
-    "value": 5000000
-  },
-  {
-    "name": "Chocolate Chip Peophin Cookie",
-    "value": 65000
-  },
-  {
-    "name": "Chocolate Chip Quiggle Cookie",
-    "value": 2980000
-  },
-  {
-    "name": "Chocolate Chip Yurble Gnome Cookie",
-    "value": 18800
-  },
-  {
-    "name": "Chocolate Chips",
-    "value": 583000
-  },
-  {
-    "name": "Chocolate Chomby Cookie",
-    "value": 4020
-  },
-  {
-    "name": "Chocolate Coconut Bars",
-    "value": 19200
-  },
-  {
-    "name": "Chocolate Covered Crumpet",
-    "value": 216000
-  },
-  {
-    "name": "Chocolate Cream Biscuit",
-    "value": 6820000
-  },
-  {
-    "name": "Chocolate Creme Pie",
-    "value": 62
-  },
-  {
-    "name": "Chocolate Creme Shell",
-    "value": 29600
-  },
-  {
-    "name": "Chocolate Crepe",
-    "value": 16200
-  },
-  {
-    "name": "Chocolate Dipped Madeleines",
-    "value": 19300
-  },
-  {
-    "name": "Chocolate Dipped Peophin Cookie",
-    "value": 4010
-  },
-  {
-    "name": "Chocolate Doughnut Hole",
-    "value": 27400
-  },
-  {
-    "name": "Chocolate Draik Biscuit",
-    "value": 38200
-  },
-  {
-    "name": "Chocolate Drop Mince Pie",
-    "value": 65000
-  },
-  {
-    "name": "Chocolate Drum Cake",
-    "value": 1000
-  },
-  {
-    "name": "Chocolate Eclair",
-    "value": 56900
-  },
-  {
-    "name": "Chocolate Elephante Ear",
-    "value": 17600
-  },
-  {
-    "name": "Chocolate Faellie Cake",
-    "value": 5890
-  },
-  {
-    "name": "Chocolate Gelert Cookie",
-    "value": 6180
-  },
-  {
-    "name": "Chocolate Heart",
-    "value": 20600
-  },
-  {
-    "name": "Chocolate Hissi Cupcake",
-    "value": 15800
-  },
-  {
-    "name": "Chocolate Hissinamon Roll",
-    "value": 27900
-  },
-  {
-    "name": "Chocolate Ixi Cookies",
-    "value": 615000
-  },
-  {
-    "name": "Chocolate Jetsam Fin Cookie",
-    "value": 4350
-  },
-  {
-    "name": "Chocolate Jetsam Mousse Cake",
-    "value": 8580
-  },
-  {
-    "name": "Chocolate JubJub Muffin",
-    "value": 218000
-  },
-  {
-    "name": "Chocolate Kau Cream Cake",
-    "value": 3010
-  },
-  {
-    "name": "Chocolate Kiko Cookie",
-    "value": 24400
-  },
-  {
-    "name": "Chocolate Koi Biscuit",
-    "value": 3260
-  },
-  {
-    "name": "Chocolate Koi Cupcake",
-    "value": 1070
-  },
-  {
-    "name": "Chocolate Kougra Cake",
-    "value": 81600
-  },
-  {
-    "name": "Chocolate Kougraclaw",
-    "value": 10700
-  },
-  {
-    "name": "Chocolate Krawk Cake",
-    "value": 17900
-  },
-  {
-    "name": "Chocolate Kyrii Mountain",
-    "value": 1150
-  },
-  {
-    "name": "Chocolate Lenny Cookies",
-    "value": 452000
-  },
-  {
-    "name": "Chocolate Lenny Sandwich Cookie",
-    "value": 4660
-  },
-  {
-    "name": "Chocolate Lime Pudding",
-    "value": 1340
-  },
-  {
-    "name": "Chocolate Lupe Treat",
-    "value": 63
-  },
-  {
-    "name": "Chocolate Marshmallow Pasty",
-    "value": 3970
-  },
-  {
-    "name": "Chocolate Meerca Roll",
-    "value": 28100
-  },
-  {
-    "name": "Chocolate Mint Swirl Illusen Cake",
-    "value": 4940
-  },
-  {
-    "name": "Chocolate Moehog Cookie",
-    "value": 186000
-  },
-  {
-    "name": "Chocolate Moehog Tower Cake",
-    "value": 1900
-  },
-  {
-    "name": "Chocolate Mousse Jar Cake",
-    "value": 99900
-  },
-  {
-    "name": "Chocolate Mousse Macarons",
-    "value": 21300
-  },
-  {
-    "name": "Chocolate Nimmo Cake",
-    "value": 1070
-  },
-  {
-    "name": "Chocolate Ogrin Cupcake",
-    "value": 8360
-  },
-  {
-    "name": "Chocolate Orange Doughnut",
-    "value": 1000
-  },
-  {
-    "name": "Chocolate Orange Eyrie",
-    "value": 1130
-  },
-  {
-    "name": "Chocolate Orange Ganache Cake",
-    "value": 9900
-  },
-  {
-    "name": "Chocolate Pita Sandwich",
-    "value": 112000
-  },
-  {
-    "name": "Chocolate Quiggle Cupcake",
-    "value": 2310
-  },
-  {
-    "name": "Chocolate Raspberry Ganache Cake",
-    "value": 73500
-  },
-  {
-    "name": "Chocolate Ruki Cookie",
-    "value": 11400
-  },
-  {
-    "name": "Chocolate Scorchio Cookie",
-    "value": 1000
-  },
-  {
-    "name": "Chocolate Scorchio Meringue",
-    "value": 714
-  },
-  {
-    "name": "Chocolate Seasonal Pudding",
-    "value": 1380
-  },
-  {
-    "name": "Chocolate Shoyru Muffin",
-    "value": 15800
-  },
-  {
-    "name": "Chocolate Snowflake Cake",
-    "value": 482
-  },
-  {
-    "name": "Chocolate Spread Croissant",
-    "value": 84900
-  },
-  {
-    "name": "Chocolate Stuffed Pastry",
-    "value": 5000000
-  },
-  {
-    "name": "Chocolate Swiss Roll",
-    "value": 31500
-  },
-  {
-    "name": "Chocolate Techo Biscuit",
-    "value": 130000
-  },
-  {
-    "name": "Chocolate Tonu Cookie",
-    "value": 78700
-  },
-  {
-    "name": "Chocolate Tuskaninny Cookie",
-    "value": 6160
-  },
-  {
-    "name": "Chocolate Vanilla Cupcake",
-    "value": 376000
-  },
-  {
-    "name": "Chocolate Wafflecake",
-    "value": 250000
-  },
-  {
-    "name": "Chocolate Werelupe Cookie",
-    "value": 54000
-  },
-  {
-    "name": "Chocolate Xweetok Biscuit",
-    "value": 185000
-  },
-  {
-    "name": "Chocolate Yurble Cupcake",
-    "value": 2070
-  },
-  {
-    "name": "Chocolate Yurble Meringue Cookie",
-    "value": 70900
-  },
-  {
-    "name": "Chocolate Zafara Cake",
-    "value": 1170
-  },
-  {
-    "name": "Chocolatey Banana Draik Cake",
-    "value": 1840
-  },
-  {
-    "name": "Chocolatey Strawberry Draik Cake",
-    "value": 3840
-  },
-  {
-    "name": "Chokato Biscuits",
-    "value": 2860
-  },
-  {
-    "name": "Chokato Cake",
-    "value": 851000
-  },
-  {
-    "name": "Chokato Creme Pie",
-    "value": 5460
-  },
-  {
-    "name": "Chokato Croissant",
-    "value": 9750
-  },
-  {
-    "name": "Chokato Cybunny Cake",
-    "value": 882
-  },
-  {
-    "name": "Chokato Deluxe Aisha Cake",
-    "value": 1280000
-  },
-  {
-    "name": "Chokato Doughnut",
-    "value": 132000
-  },
-  {
-    "name": "Chokato Draik Cake",
-    "value": 1910
-  },
-  {
-    "name": "Chokato Eyrie Cake",
-    "value": 449
-  },
-  {
-    "name": "Chokato Grarrl Cake",
-    "value": 78200
-  },
-  {
-    "name": "Chokato Hissi Cake",
-    "value": 1980
-  },
-  {
-    "name": "Chokato Jam",
-    "value": 46900
-  },
-  {
-    "name": "Chokato JubJub Muffin",
-    "value": 2390
-  },
-  {
-    "name": "Chokato Kau Cream Cake",
-    "value": 17300
-  },
-  {
-    "name": "Chokato Krawk Tart",
-    "value": 1470
-  },
-  {
-    "name": "Chokato Melt",
-    "value": 1420
-  },
-  {
-    "name": "Chokato Moehog Cupcake",
-    "value": 720
-  },
-  {
-    "name": "Chokato Pie",
-    "value": 212000
-  },
-  {
-    "name": "Chokato Pretzel",
-    "value": 17700
-  },
-  {
-    "name": "Chokato Pudding",
-    "value": 1470
-  },
-  {
-    "name": "Chokato Skeith Iced Bun",
-    "value": 10400
-  },
-  {
-    "name": "Chokato Swirl Pretzel",
-    "value": 48100
-  },
-  {
-    "name": "Chokato Trifle",
-    "value": 3640
-  },
-  {
-    "name": "Chomato Pudding Cake",
-    "value": 3500
-  },
-  {
-    "name": "Chomby Biscuit",
-    "value": 34600
-  },
-  {
-    "name": "Chomby Day Cupcake",
-    "value": 992
-  },
-  {
-    "name": "Chomby Fruit Tart",
-    "value": 23800
-  },
-  {
-    "name": "Chomby Pate",
-    "value": 50900
-  },
-  {
-    "name": "Chomby Rock Cake",
-    "value": 264
-  },
-  {
-    "name": "Christmas Croquembouche",
-    "value": 59400
-  },
-  {
-    "name": "Christmas Pudding",
-    "value": 24900
-  },
-  {
-    "name": "Chunky Chocolate Scone",
-    "value": 5480
-  },
-  {
-    "name": "Cinnamon Dough Bundles",
-    "value": 1820
-  },
-  {
-    "name": "Cinnamon Eyrie Cookie",
-    "value": 6210000
-  },
-  {
-    "name": "Cinnamon Roll",
-    "value": 45
-  },
-  {
-    "name": "Cinnamon Shell Spiral",
-    "value": 250000
-  },
-  {
-    "name": "Cinnamon Swirl",
-    "value": 50200
-  },
-  {
-    "name": "Citrus Cybunny Cake",
-    "value": 2110
-  },
-  {
-    "name": "Citrus Trifle",
-    "value": 4040
-  },
-  {
-    "name": "Cloud Muffin",
-    "value": 13900
-  },
-  {
-    "name": "Club Sandwich",
-    "value": 14400
-  },
-  {
-    "name": "Cobrall Basket Cookie",
-    "value": 18200
-  },
-  {
-    "name": "Cocojuice Cupcake",
-    "value": 1120
-  },
-  {
-    "name": "Coconut Cream Pie",
-    "value": 2710
-  },
-  {
-    "name": "Coconut Creme Pi Pie",
-    "value": 1120
-  },
-  {
-    "name": "Coconut Tonu Cake",
-    "value": 62300
-  },
-  {
-    "name": "Colourful Kougra Cupcake",
-    "value": 1720
-  },
-  {
-    "name": "Compass Cake",
-    "value": 20600
-  },
-  {
-    "name": "Cookie Dough Usul Cake",
-    "value": 49400
-  },
-  {
-    "name": "Corn Pasty",
-    "value": 16600
-  },
-  {
-    "name": "Corncob Cracker",
-    "value": 8550
-  },
-  {
-    "name": "Cranky Croissant",
-    "value": 218000
-  },
-  {
-    "name": "Cream Covered Acara Cookie",
-    "value": 1540
-  },
-  {
-    "name": "Cream Covered Swiss Roll",
-    "value": 91600
-  },
-  {
-    "name": "Cream Fill Chocolate Koi Biscuit",
-    "value": 8570
-  },
-  {
-    "name": "Creamy Kougra Pie",
-    "value": 268
-  },
-  {
-    "name": "Croissant",
-    "value": 106
-  },
-  {
-    "name": "Croquette Sandwich",
-    "value": 1700
-  },
-  {
-    "name": "Crumpet With Jam",
-    "value": 68300
-  },
-  {
-    "name": "Cucumber Korbat Sandwich",
-    "value": 2000
-  },
-  {
-    "name": "Curried Pasty",
-    "value": 2070
-  },
-  {
-    "name": "Custard Doughnut",
-    "value": 38700
-  },
-  {
-    "name": "Dargil Meat Mince Pie",
-    "value": 6200000
-  },
-  {
-    "name": "Dargil Meat Pastry Roll",
-    "value": 1050
-  },
-  {
-    "name": "Darigan Loaf",
-    "value": 332000
-  },
-  {
-    "name": "Dark Nova Sponge Cake",
-    "value": 842
-  },
-  {
-    "name": "Deep-Fried Pie",
-    "value": 61900
-  },
-  {
-    "name": "Deluxe Acara Sundae",
-    "value": 14100
-  },
-  {
-    "name": "Deluxe Chia Cake",
-    "value": 16100
-  },
-  {
-    "name": "Deluxe Heart Waffle",
-    "value": 2790
-  },
-  {
-    "name": "Deluxe Koi Gateau",
-    "value": 1010
-  },
-  {
-    "name": "Deluxe Lemon Mynci Cake",
-    "value": 30700
-  },
-  {
-    "name": "Deluxe Lupe Cake",
-    "value": 930
-  },
-  {
-    "name": "Deluxe Snowflake Cake",
-    "value": 1020
-  },
-  {
-    "name": "Deluxe Strawberry Usul Cake",
-    "value": 23800
-  },
-  {
-    "name": "Desert Dessert",
-    "value": 54700
-  },
-  {
-    "name": "Dewy Apple Peophin Tail Cookie",
-    "value": 73300
-  },
-  {
-    "name": "Dewy Apple Roll",
-    "value": 93500
-  },
-  {
-    "name": "Diamond Ring Cookie",
-    "value": 170000
-  },
-  {
-    "name": "Dice Escape Coffee Cake",
-    "value": 15400
-  },
-  {
-    "name": "Discounted Cake",
-    "value": 1000
-  },
-  {
-    "name": "Doglefox Bread Creature",
-    "value": 948
-  },
-  {
-    "name": "Domed Jhudora Petit Four",
-    "value": 22500
-  },
-  {
-    "name": "Double Caramel Techo Cookie",
-    "value": 68000
-  },
-  {
-    "name": "Double Cream Vanilla Sponge",
-    "value": 3160000
-  },
-  {
-    "name": "Doughnut Holes",
-    "value": 42
-  },
-  {
-    "name": "Dung Berry Tonu Cupcake",
-    "value": 18800
-  },
-  {
-    "name": "Dung Cookie",
-    "value": 106000
-  },
-  {
-    "name": "Dung Mote Cookie",
-    "value": 6390
-  },
-  {
-    "name": "Dung Muffin",
-    "value": 2330
-  },
-  {
-    "name": "Egg and Bacon Sub",
-    "value": 19300
-  },
-  {
-    "name": "Elephante Layer Cake",
-    "value": 275000
-  },
-  {
-    "name": "Elephante Trunk Crepe",
-    "value": 1020
-  },
-  {
-    "name": "Explosive New Year Cake",
-    "value": 789000
-  },
-  {
-    "name": "Extra Carroty Cake",
-    "value": 31000
-  },
-  {
-    "name": "Extra Cheesey Straw",
-    "value": 1040
-  },
-  {
-    "name": "Extra Gooey Korbat Cake",
-    "value": 799
-  },
-  {
-    "name": "Extra Meaty Sausage Roll",
-    "value": 27500
-  },
-  {
-    "name": "Extra Spicy Chilli Cake",
-    "value": 28800
-  },
-  {
-    "name": "Eyrie Meringue",
-    "value": 14400
-  },
-  {
-    "name": "Faellie Christmas Cookie",
-    "value": 110000
-  },
-  {
-    "name": "Faerie Grundo Sugar Cookie",
-    "value": 4850
-  },
-  {
-    "name": "Faerie Kougra Cake",
-    "value": 1990
-  },
-  {
-    "name": "Faerie Wing Cookies",
-    "value": 79500
-  },
-  {
-    "name": "Faerieland Castle Cake",
-    "value": 335000
-  },
-  {
-    "name": "Feather Hat Cake",
-    "value": 20700
-  },
-  {
-    "name": "Feather-shaped Cake",
-    "value": 874
-  },
-  {
-    "name": "Feathery Cupcake",
     "value": 970000
   },
   {
-    "name": "Festive Holiday Pretzel",
-    "value": 83000
+    "name": "Blueberry Iced Cookie",
+    "value": 32500
   },
   {
-    "name": "Festive Petpet Appreciation Cake",
-    "value": 48900
+    "name": "Blueberry Jam Sandwiches",
+    "value": 30500
   },
   {
-    "name": "Festive Petpet Appreciation Cupcake",
-    "value": 25400
+    "name": "Blueberry Koi Waffles",
+    "value": 5100
   },
   {
-    "name": "Fiery Gelert Day Pancakes",
-    "value": 24400
+    "name": "Blueberry Lupe Waffles",
+    "value": 570
   },
   {
-    "name": "Fig Cheesecake",
-    "value": 993
-  },
-  {
-    "name": "Filled Striped Doughnut",
-    "value": 26600
-  },
-  {
-    "name": "Fire Loaf",
+    "name": "Blueberry Meerca Mini Cake",
     "value": 1000
   },
   {
-    "name": "Fire Toast",
-    "value": 87900
+    "name": "Blueberry Mooncake",
+    "value": 39000
   },
   {
-    "name": "Flaming Super Hot Pasty",
+    "name": "Blueberry Skeith Cookie",
+    "value": 13000
+  },
+  {
+    "name": "Blueberry Smothered Crumpet",
+    "value": 11500
+  },
+  {
+    "name": "Blueberry Strawberry Flotsam Cake",
+    "value": 2200
+  },
+  {
+    "name": "Blueberry Urgoni Cupcake",
+    "value": 12500
+  },
+  {
+    "name": "Blueberry Usul Meringue",
+    "value": 2400
+  },
+  {
+    "name": "Blueberry Vanilla Flotsam Cake",
+    "value": 10500
+  },
+  {
+    "name": "Blueberry Wocky Cake",
+    "value": 460
+  },
+  {
+    "name": "Blueberry-Smothered French Toast",
+    "value": 29500
+  },
+  {
+    "name": "Bluepepper Muffin",
+    "value": 320000
+  },
+  {
+    "name": "Blumaroo Cookie",
+    "value": 11000
+  },
+  {
+    "name": "Blumaroo Pancakes",
+    "value": 17000
+  },
+  {
+    "name": "Blumaroo Waffles",
+    "value": 17500
+  },
+  {
+    "name": "Blunkabean Pie",
+    "value": 18000
+  },
+  {
+    "name": "Blurf Gelert Cake",
+    "value": 410
+  },
+  {
+    "name": "Boiled Egg on Toast",
+    "value": 1600
+  },
+  {
+    "name": "Bonebread",
+    "value": 31500
+  },
+  {
+    "name": "Bori Bagels",
+    "value": 86
+  },
+  {
+    "name": "Borovan Cupcake",
+    "value": 810
+  },
+  {
+    "name": "Borovan Doughnut",
+    "value": 21000
+  },
+  {
+    "name": "Box of Wocky Chocolates",
+    "value": 820
+  },
+  {
+    "name": "Brightvale Berry Pudding",
+    "value": 20000
+  },
+  {
+    "name": "Brioche",
+    "value": 460
+  },
+  {
+    "name": "Broccoli and Cheese Pasty",
+    "value": 2400
+  },
+  {
+    "name": "Broccoli Crepe",
+    "value": 2800
+  },
+  {
+    "name": "Broccoli Mince Pie",
+    "value": 11500
+  },
+  {
+    "name": "Broken Heart Cookie",
+    "value": 18000
+  },
+  {
+    "name": "Brown Techo Cookie",
+    "value": 31500
+  },
+  {
+    "name": "Bruce Bow Brownies",
+    "value": 22000
+  },
+  {
+    "name": "Bruce Scotch Fingers",
+    "value": 5400
+  },
+  {
+    "name": "Bucket Cookie",
+    "value": 1600
+  },
+  {
+    "name": "Bullseye Creme Pie",
+    "value": 3800
+  },
+  {
+    "name": "Burnt Bottom Cupcake",
+    "value": 3900
+  },
+  {
+    "name": "Burnt Popover",
+    "value": 7700
+  },
+  {
+    "name": "Butter Popover",
+    "value": 36000
+  },
+  {
+    "name": "Buttered Croissant",
+    "value": 23000
+  },
+  {
+    "name": "Buttered Crumpet",
+    "value": 1500
+  },
+  {
+    "name": "Buttered Juppie Waffle",
+    "value": 230000
+  },
+  {
+    "name": "Buttered Negg Waffle",
+    "value": 2300
+  },
+  {
+    "name": "Butterlicious Muffin",
+    "value": 485
+  },
+  {
+    "name": "Buzz Honey Banana Bread",
+    "value": 100000
+  },
+  {
+    "name": "Buzzer Cupcake",
+    "value": 1900
+  },
+  {
+    "name": "Cabbage Pasty",
+    "value": 10000
+  },
+  {
+    "name": "Candy Cane Cake",
+    "value": 19500
+  },
+  {
+    "name": "Candy Cane Cupcake",
+    "value": 5800
+  },
+  {
+    "name": "Candy Floss Petit Fours",
+    "value": 1500
+  },
+  {
+    "name": "Caramel Apple Mince Pie",
     "value": 1100
   },
   {
-    "name": "Flatfruit Ixi Hoofprint Cookie",
-    "value": 60300
+    "name": "Caramel Butter Cookie",
+    "value": 150000
   },
   {
-    "name": "Flotsam Fingers",
-    "value": 83900
+    "name": "Caramel Corn",
+    "value": 4800
   },
   {
-    "name": "Flotsam Tail Cookies",
-    "value": 17100
+    "name": "Caramel Crepe",
+    "value": 34000
   },
   {
-    "name": "Flowery New Year Cake",
-    "value": 98000
+    "name": "Caramel Iced Mynci",
+    "value": 36500
   },
   {
-    "name": "Flute Loaf",
-    "value": 84800
+    "name": "Caramel Moehog Hoof",
+    "value": 3900
   },
   {
-    "name": "French Onion Soup Cake",
-    "value": 35000
-  },
-  {
-    "name": "French Toast Sticks",
-    "value": 26
-  },
-  {
-    "name": "Fresh Baguette",
-    "value": 1660
-  },
-  {
-    "name": "Fresh Baked Cherry Pie",
-    "value": 99000
-  },
-  {
-    "name": "Fresh Baked Chokato Pie",
-    "value": 20600
-  },
-  {
-    "name": "Fresh Peach Doughnut",
-    "value": 1290
-  },
-  {
-    "name": "Fresh Strawberry Doughnut",
-    "value": 30100
-  },
-  {
-    "name": "Fried Egg on Toast",
-    "value": 100
-  },
-  {
-    "name": "Frosted Babaa Cookies",
-    "value": 4530000
-  },
-  {
-    "name": "Frosted Buttermilk Bar",
-    "value": 19200
-  },
-  {
-    "name": "Frosted Chocolate Doughnut",
-    "value": 4090
-  },
-  {
-    "name": "Frosted Cobrall Cookie",
-    "value": 47000
-  },
-  {
-    "name": "Frosted Daisy Cake",
-    "value": 1890
-  },
-  {
-    "name": "Frosted Kite Cake",
-    "value": 79900
-  },
-  {
-    "name": "Fruit Punch Trifle",
-    "value": 89800
-  },
-  {
-    "name": "Fruity Pancakes",
-    "value": 17
-  },
-  {
-    "name": "Fruity Scone",
-    "value": 595000
-  },
-  {
-    "name": "Fruity Usul Cake",
-    "value": 935
-  },
-  {
-    "name": "Fruity Wocky Log",
-    "value": 673
-  },
-  {
-    "name": "Fudge Koi Waffles",
-    "value": 31700
-  },
-  {
-    "name": "Fun Neopets 8th Birthday Cake",
-    "value": 297000
-  },
-  {
-    "name": "Fyora Cookies",
-    "value": 2700000
-  },
-  {
-    "name": "Fyora Tart",
-    "value": 152000
-  },
-  {
-    "name": "Garden Fantasy Cake",
-    "value": 1770
-  },
-  {
-    "name": "Gelert Crumpet",
-    "value": 82900
-  },
-  {
-    "name": "Gelert Cupcake",
-    "value": 11400
-  },
-  {
-    "name": "Gherkin Pastry Puff",
-    "value": 1620
-  },
-  {
-    "name": "Ghostkerchief Blueberry Roll",
-    "value": 922
-  },
-  {
-    "name": "Ghostkerchief Cookies",
-    "value": 307000
-  },
-  {
-    "name": "Ghostkerchief Island Cake",
-    "value": 921
-  },
-  {
-    "name": "Ghostkercreme Puff",
-    "value": 15500
-  },
-  {
-    "name": "Giant Slice of Neopets Birthday Cake",
-    "value": 3980
-  },
-  {
-    "name": "Ginger Smug Bug Cookie",
-    "value": 15200
-  },
-  {
-    "name": "Gingerbread Lupe",
-    "value": 1800
-  },
-  {
-    "name": "Gingerbread Lupe Treat",
-    "value": 2670
-  },
-  {
-    "name": "Gingerbread Peophin",
-    "value": 1160
-  },
-  {
-    "name": "Gingerbread Sled",
-    "value": 491
-  },
-  {
-    "name": "Gingersnap Cookies",
-    "value": 115000
-  },
-  {
-    "name": "Glaze Doughnut Hole",
+    "name": "Caramel Poogle Biscuit",
     "value": 24000
   },
   {
+    "name": "Caramel Quiggle Foot",
+    "value": 1500
+  },
+  {
+    "name": "Caramel Skeith Cookie",
+    "value": 18000
+  },
+  {
+    "name": "Caramel Skeith Surprise",
+    "value": 21000
+  },
+  {
+    "name": "Caramel Techo Biscuit",
+    "value": 7300
+  },
+  {
+    "name": "Caramel Techo Cookie",
+    "value": 3200
+  },
+  {
+    "name": "Caramel Usul Cake",
+    "value": 10500
+  },
+  {
+    "name": "Caramel Volcano Cake",
+    "value": 16500
+  },
+  {
+    "name": "Card Suit Cupcakes",
+    "value": 4500
+  },
+  {
+    "name": "Carrot Chia Cupcake",
+    "value": 23500
+  },
+  {
+    "name": "Carrot Pastry Puff",
+    "value": 875
+  },
+  {
+    "name": "Carrot Pie",
+    "value": 2300
+  },
+  {
+    "name": "Carrot Shoyru Muffin",
+    "value": 130000
+  },
+  {
+    "name": "Cauliflower Pasty",
+    "value": 41000
+  },
+  {
+    "name": "Chained Vault Cake",
+    "value": 8700
+  },
+  {
+    "name": "Cheese and Chive Crepe",
+    "value": 30500
+  },
+  {
+    "name": "Cheese and Onion Korbat Sandwich",
+    "value": 480
+  },
+  {
+    "name": "Cheese and Pickle Sandwiches",
+    "value": 21000
+  },
+  {
+    "name": "Cheese and Salsa Pretzel",
+    "value": 785
+  },
+  {
+    "name": "Cheese and Tomato Sub",
+    "value": 1900
+  },
+  {
+    "name": "Cheese Onion Pasty",
+    "value": 21500
+  },
+  {
+    "name": "Cheese Sandwich",
+    "value": 2800
+  },
+  {
+    "name": "Cheesy Croissant",
+    "value": 1400
+  },
+  {
+    "name": "Cheesy Sausage Roll",
+    "value": 1600
+  },
+  {
+    "name": "Cheesy Sloth Cake",
+    "value": 21000
+  },
+  {
+    "name": "Cheops Cupcake",
+    "value": 1300
+  },
+  {
+    "name": "Cherry Aisha Cookie",
+    "value": 9900
+  },
+  {
+    "name": "Cherry Bori Cupcake",
+    "value": 1200
+  },
+  {
+    "name": "Cherry Moehog Cookie",
+    "value": 2000
+  },
+  {
+    "name": "Cherry Mynci Cookie",
+    "value": 29500
+  },
+  {
+    "name": "Cherry Petit Fours",
+    "value": 4800
+  },
+  {
+    "name": "Cherry Pie",
+    "value": 1500
+  },
+  {
+    "name": "Cherry Scone",
+    "value": 30500
+  },
+  {
+    "name": "Cherry Usuki Pastry",
+    "value": 1300
+  },
+  {
+    "name": "Cherry-Smothered French Toast",
+    "value": 800
+  },
+  {
+    "name": "Chia Cake",
+    "value": 7750000
+  },
+  {
+    "name": "Chia Sticky New Year Cake",
+    "value": 27000
+  },
+  {
+    "name": "Chicken Leg Cracker",
+    "value": 5700
+  },
+  {
+    "name": "Choc Chip Werelupe Cookie",
+    "value": 1000
+  },
+  {
+    "name": "Choccy Chip Skeith Biscuit",
+    "value": 1000
+  },
+  {
+    "name": "Choco-Hazelnut Crepe",
+    "value": 14000
+  },
+  {
+    "name": "Choco-mint Aisha Cake",
+    "value": 94000
+  },
+  {
+    "name": "Choco-Strawberry Muffin",
+    "value": 2400
+  },
+  {
+    "name": "Choco-Strawberry Techo Cookie",
+    "value": 2300
+  },
+  {
+    "name": "Chococherry Pancakes",
+    "value": 2200
+  },
+  {
+    "name": "Chocolate Acara Sandwich Cookie",
+    "value": 1300
+  },
+  {
+    "name": "Chocolate Blumaroo Biscuit",
+    "value": 1200
+  },
+  {
+    "name": "Chocolate Blumaroo Waffles",
+    "value": 31000
+  },
+  {
+    "name": "Chocolate Bonebread",
+    "value": 22000
+  },
+  {
+    "name": "Chocolate Buzz Gateau",
+    "value": 2400
+  },
+  {
+    "name": "Chocolate Cake",
+    "value": 1300
+  },
+  {
+    "name": "Chocolate Caramel Elephante Cookie",
+    "value": 14000
+  },
+  {
+    "name": "Chocolate Cherry Cheesecake",
+    "value": 7500000
+  },
+  {
+    "name": "Chocolate Chia Cupcake",
+    "value": 18000
+  },
+  {
+    "name": "Chocolate Chia Pancakes",
+    "value": 82000
+  },
+  {
+    "name": "Chocolate Chia Waffles",
+    "value": 16000
+  },
+  {
+    "name": "Chocolate Chip Biscuits",
+    "value": 1900
+  },
+  {
+    "name": "Chocolate Chip Chia Gnome Cookie",
+    "value": 1300
+  },
+  {
+    "name": "Chocolate Chip Cookie",
+    "value": 1200
+  },
+  {
+    "name": "Chocolate Chip Cookie Square",
+    "value": 94
+  },
+  {
+    "name": "Chocolate Chip Crumpet",
+    "value": 2700
+  },
+  {
+    "name": "Chocolate Chip Cybunny Cookie",
+    "value": 3700
+  },
+  {
+    "name": "Chocolate Chip Elephante Cookie",
+    "value": 17000
+  },
+  {
+    "name": "Chocolate Chip Eyrie Cookie",
+    "value": 6750000
+  },
+  {
+    "name": "Chocolate Chip Heart Cookies",
+    "value": 1200
+  },
+  {
+    "name": "Chocolate Chip JubJub Gnome Cookie",
+    "value": 45000
+  },
+  {
+    "name": "Chocolate Chip Kacheek Gnome Cookie",
+    "value": 225
+  },
+  {
+    "name": "Chocolate Chip Kiko Gnome Cookie",
+    "value": 945
+  },
+  {
+    "name": "Chocolate Chip Krawk Cookie",
+    "value": 28000
+  },
+  {
+    "name": "Chocolate Chip Kyrii Cookie",
+    "value": 3500
+  },
+  {
+    "name": "Chocolate Chip Lenny Cookie",
+    "value": 17000
+  },
+  {
+    "name": "Chocolate Chip Moehog Gnome Cookie",
+    "value": 385
+  },
+  {
+    "name": "Chocolate Chip Moonrock",
+    "value": 30000
+  },
+  {
+    "name": "Chocolate Chip Nerkmid Biscuit",
+    "value": 3300000
+  },
+  {
+    "name": "Chocolate Chip Peophin Cookie",
+    "value": 16000
+  },
+  {
+    "name": "Chocolate Chip Quiggle Cookie",
+    "value": 4150000
+  },
+  {
+    "name": "Chocolate Chip Yurble Gnome Cookie",
+    "value": 18500
+  },
+  {
+    "name": "Chocolate Chips",
+    "value": 7500
+  },
+  {
+    "name": "Chocolate Chomby Cookie",
+    "value": 13500
+  },
+  {
+    "name": "Chocolate Coconut Bars",
+    "value": 17000
+  },
+  {
+    "name": "Chocolate Covered Crumpet",
+    "value": 180000
+  },
+  {
+    "name": "Chocolate Cream Biscuit",
+    "value": 5150000
+  },
+  {
+    "name": "Chocolate Creme Pie",
+    "value": 415
+  },
+  {
+    "name": "Chocolate Creme Shell",
+    "value": 8300
+  },
+  {
+    "name": "Chocolate Crepe",
+    "value": 31500
+  },
+  {
+    "name": "Chocolate Dipped Madeleines",
+    "value": 14500
+  },
+  {
+    "name": "Chocolate Dipped Peophin Cookie",
+    "value": 1500
+  },
+  {
+    "name": "Chocolate Doughnut Hole",
+    "value": 5000
+  },
+  {
+    "name": "Chocolate Draik Biscuit",
+    "value": 35000
+  },
+  {
+    "name": "Chocolate Drop Mince Pie",
+    "value": 26000
+  },
+  {
+    "name": "Chocolate Drum Cake",
+    "value": 985
+  },
+  {
+    "name": "Chocolate Eclair",
+    "value": 22500
+  },
+  {
+    "name": "Chocolate Elephante Ear",
+    "value": 12500
+  },
+  {
+    "name": "Chocolate Faellie Cake",
+    "value": 5000
+  },
+  {
+    "name": "Chocolate Gelert Cookie",
+    "value": 5500
+  },
+  {
+    "name": "Chocolate Heart",
+    "value": 50000
+  },
+  {
+    "name": "Chocolate Hissi Cupcake",
+    "value": 20500
+  },
+  {
+    "name": "Chocolate Hissinamon Roll",
+    "value": 23500
+  },
+  {
+    "name": "Chocolate Ixi Cookies",
+    "value": 35000
+  },
+  {
+    "name": "Chocolate Jetsam Fin Cookie",
+    "value": 4400
+  },
+  {
+    "name": "Chocolate Jetsam Mousse Cake",
+    "value": 4000
+  },
+  {
+    "name": "Chocolate JubJub Muffin",
+    "value": 28500
+  },
+  {
+    "name": "Chocolate Kau Cream Cake",
+    "value": 3200
+  },
+  {
+    "name": "Chocolate Kiko Cookie",
+    "value": 30500
+  },
+  {
+    "name": "Chocolate Koi Biscuit",
+    "value": 2700
+  },
+  {
+    "name": "Chocolate Koi Cupcake",
+    "value": 345
+  },
+  {
+    "name": "Chocolate Kougra Cake",
+    "value": 900
+  },
+  {
+    "name": "Chocolate Kougraclaw",
+    "value": 15000
+  },
+  {
+    "name": "Chocolate Krawk Cake",
+    "value": 16500
+  },
+  {
+    "name": "Chocolate Kyrii Mountain",
+    "value": 1400
+  },
+  {
+    "name": "Chocolate Lenny Cookies",
+    "value": 39500
+  },
+  {
+    "name": "Chocolate Lenny Sandwich Cookie",
+    "value": 3800
+  },
+  {
+    "name": "Chocolate Lime Pudding",
+    "value": 680
+  },
+  {
+    "name": "Chocolate Lupe Treat",
+    "value": 62
+  },
+  {
+    "name": "Chocolate Marshmallow Pasty",
+    "value": 4000
+  },
+  {
+    "name": "Chocolate Meerca Roll",
+    "value": 22500
+  },
+  {
+    "name": "Chocolate Mint Swirl Illusen Cake",
+    "value": 17000
+  },
+  {
+    "name": "Chocolate Moehog Cookie",
+    "value": 17500
+  },
+  {
+    "name": "Chocolate Moehog Tower Cake",
+    "value": 3600
+  },
+  {
+    "name": "Chocolate Mousse Jar Cake",
+    "value": 29000
+  },
+  {
+    "name": "Chocolate Mousse Macarons",
+    "value": 17500
+  },
+  {
+    "name": "Chocolate Nimmo Cake",
+    "value": 840
+  },
+  {
+    "name": "Chocolate Ogrin Cupcake",
+    "value": 12500
+  },
+  {
+    "name": "Chocolate Orange Doughnut",
+    "value": 945
+  },
+  {
+    "name": "Chocolate Orange Eyrie",
+    "value": 1200
+  },
+  {
+    "name": "Chocolate Orange Ganache Cake",
+    "value": 12000
+  },
+  {
+    "name": "Chocolate Pita Sandwich",
+    "value": 37000
+  },
+  {
+    "name": "Chocolate Quiggle Cupcake",
+    "value": 5900
+  },
+  {
+    "name": "Chocolate Raspberry Ganache Cake",
+    "value": 48500
+  },
+  {
+    "name": "Chocolate Ruki Cookie",
+    "value": 14000
+  },
+  {
+    "name": "Chocolate Scorchio Cookie",
+    "value": 725
+  },
+  {
+    "name": "Chocolate Scorchio Meringue",
+    "value": 380
+  },
+  {
+    "name": "Chocolate Seasonal Pudding",
+    "value": 690
+  },
+  {
+    "name": "Chocolate Shoyru Muffin",
+    "value": 14000
+  },
+  {
+    "name": "Chocolate Snowflake Cake",
+    "value": 390
+  },
+  {
+    "name": "Chocolate Spread Croissant",
+    "value": 18000
+  },
+  {
+    "name": "Chocolate Stuffed Pastry",
+    "value": 7250000
+  },
+  {
+    "name": "Chocolate Swiss Roll",
+    "value": 15500
+  },
+  {
+    "name": "Chocolate Techo Biscuit",
+    "value": 29000
+  },
+  {
+    "name": "Chocolate Tonu Cookie",
+    "value": 33000
+  },
+  {
+    "name": "Chocolate Tuskaninny Cookie",
+    "value": 4300
+  },
+  {
+    "name": "Chocolate Vanilla Cupcake",
+    "value": 30500
+  },
+  {
+    "name": "Chocolate Wafflecake",
+    "value": 28000
+  },
+  {
+    "name": "Chocolate Werelupe Cookie",
+    "value": 41000
+  },
+  {
+    "name": "Chocolate Xweetok Biscuit",
+    "value": 26500
+  },
+  {
+    "name": "Chocolate Yurble Cupcake",
+    "value": 1700
+  },
+  {
+    "name": "Chocolate Yurble Meringue Cookie",
+    "value": 13000
+  },
+  {
+    "name": "Chocolate Zafara Cake",
+    "value": 280
+  },
+  {
+    "name": "Chocolatey Banana Draik Cake",
+    "value": 1000
+  },
+  {
+    "name": "Chocolatey Strawberry Draik Cake",
+    "value": 2400
+  },
+  {
+    "name": "Chokato Biscuits",
+    "value": 3900
+  },
+  {
+    "name": "Chokato Cake",
+    "value": 42000
+  },
+  {
+    "name": "Chokato Creme Pie",
+    "value": 2900
+  },
+  {
+    "name": "Chokato Croissant",
+    "value": 16000
+  },
+  {
+    "name": "Chokato Cybunny Cake",
+    "value": 485
+  },
+  {
+    "name": "Chokato Deluxe Aisha Cake",
+    "value": 998426
+  },
+  {
+    "name": "Chokato Doughnut",
+    "value": 39000
+  },
+  {
+    "name": "Chokato Draik Cake",
+    "value": 1400
+  },
+  {
+    "name": "Chokato Eyrie Cake",
+    "value": 685
+  },
+  {
+    "name": "Chokato Grarrl Cake",
+    "value": 14000
+  },
+  {
+    "name": "Chokato Hissi Cake",
+    "value": 325
+  },
+  {
+    "name": "Chokato Jam",
+    "value": 86000
+  },
+  {
+    "name": "Chokato JubJub Muffin",
+    "value": 1700
+  },
+  {
+    "name": "Chokato Kau Cream Cake",
+    "value": 13500
+  },
+  {
+    "name": "Chokato Krawk Tart",
+    "value": 1200
+  },
+  {
+    "name": "Chokato Melt",
+    "value": 1000
+  },
+  {
+    "name": "Chokato Moehog Cupcake",
+    "value": 830
+  },
+  {
+    "name": "Chokato Pie",
+    "value": 18000
+  },
+  {
+    "name": "Chokato Pretzel",
+    "value": 23500
+  },
+  {
+    "name": "Chokato Pudding",
+    "value": 1100
+  },
+  {
+    "name": "Chokato Skeith Iced Bun",
+    "value": 9600
+  },
+  {
+    "name": "Chokato Swirl Pretzel",
+    "value": 41500
+  },
+  {
+    "name": "Chokato Trifle",
+    "value": 835
+  },
+  {
+    "name": "Chomato Pudding Cake",
+    "value": 6700
+  },
+  {
+    "name": "Chomby Biscuit",
+    "value": 10500
+  },
+  {
+    "name": "Chomby Day Cupcake",
+    "value": 1800
+  },
+  {
+    "name": "Chomby Fruit Tart",
+    "value": 14500
+  },
+  {
+    "name": "Chomby Pate",
+    "value": 24500
+  },
+  {
+    "name": "Chomby Rock Cake",
+    "value": 285
+  },
+  {
+    "name": "Christmas Croquembouche",
+    "value": 19500
+  },
+  {
+    "name": "Christmas Pudding",
+    "value": 32500
+  },
+  {
+    "name": "Chunky Chocolate Scone",
+    "value": 3000
+  },
+  {
+    "name": "Cinnamon Dough Bundles",
+    "value": 2000
+  },
+  {
+    "name": "Cinnamon Eyrie Cookie",
+    "value": 6000000
+  },
+  {
+    "name": "Cinnamon Roll",
+    "value": 93
+  },
+  {
+    "name": "Cinnamon Shell Spiral",
+    "value": 7200
+  },
+  {
+    "name": "Cinnamon Swirl",
+    "value": 9600
+  },
+  {
+    "name": "Citrus Cybunny Cake",
+    "value": 3600
+  },
+  {
+    "name": "Citrus Trifle",
+    "value": 2200
+  },
+  {
+    "name": "Cloud Muffin",
+    "value": 10500
+  },
+  {
+    "name": "Club Sandwich",
+    "value": 6100
+  },
+  {
+    "name": "Cobrall Basket Cookie",
+    "value": 17000
+  },
+  {
+    "name": "Cocojuice Cupcake",
+    "value": 925
+  },
+  {
+    "name": "Coconut Cream Pie",
+    "value": 2900
+  },
+  {
+    "name": "Coconut Creme Pi Pie",
+    "value": 2000
+  },
+  {
+    "name": "Coconut Tonu Cake",
+    "value": 45000
+  },
+  {
+    "name": "Colourful Kougra Cupcake",
+    "value": 935
+  },
+  {
+    "name": "Compass Cake",
+    "value": 11500
+  },
+  {
+    "name": "Cookie Dough Usul Cake",
+    "value": 30500
+  },
+  {
+    "name": "Corn Pasty",
+    "value": 26500
+  },
+  {
+    "name": "Corncob Cracker",
+    "value": 36000
+  },
+  {
+    "name": "Cranky Croissant",
+    "value": 310000
+  },
+  {
+    "name": "Cream Covered Acara Cookie",
+    "value": 1800
+  },
+  {
+    "name": "Cream Covered Swiss Roll",
+    "value": 19500
+  },
+  {
+    "name": "Cream Fill Chocolate Koi Biscuit",
+    "value": 4500
+  },
+  {
+    "name": "Creamy Kougra Pie",
+    "value": 785
+  },
+  {
+    "name": "Croissant",
+    "value": 21
+  },
+  {
+    "name": "Croquette Sandwich",
+    "value": 1100
+  },
+  {
+    "name": "Crumpet With Jam",
+    "value": 15000
+  },
+  {
+    "name": "Cucumber Korbat Sandwich",
+    "value": 2100
+  },
+  {
+    "name": "Curried Pasty",
+    "value": 1100
+  },
+  {
+    "name": "Custard Doughnut",
+    "value": 46500
+  },
+  {
+    "name": "Cybunny Carrot Cupcake",
+    "value": 24000
+  },
+  {
+    "name": "Dargil Meat Mince Pie",
+    "value": 6800000
+  },
+  {
+    "name": "Dargil Meat Pastry Roll",
+    "value": 1000
+  },
+  {
+    "name": "Darigan Loaf",
+    "value": 26000
+  },
+  {
+    "name": "Dark Nova Sponge Cake",
+    "value": 605
+  },
+  {
+    "name": "Deep-Fried Pie",
+    "value": 12000
+  },
+  {
+    "name": "Deluxe Acara Sundae",
+    "value": 11000
+  },
+  {
+    "name": "Deluxe Chia Cake",
+    "value": 15000
+  },
+  {
+    "name": "Deluxe Heart Waffle",
+    "value": 2900
+  },
+  {
+    "name": "Deluxe Koi Gateau",
+    "value": 1400
+  },
+  {
+    "name": "Deluxe Lemon Mynci Cake",
+    "value": 26500
+  },
+  {
+    "name": "Deluxe Lupe Cake",
+    "value": 935
+  },
+  {
+    "name": "Deluxe Snowflake Cake",
+    "value": 1000
+  },
+  {
+    "name": "Deluxe Strawberry Usul Cake",
+    "value": 25500
+  },
+  {
+    "name": "Desert Dessert",
+    "value": 110000
+  },
+  {
+    "name": "Dewy Apple Peophin Tail Cookie",
+    "value": 13500
+  },
+  {
+    "name": "Dewy Apple Roll",
+    "value": 17500
+  },
+  {
+    "name": "Diamond Ring Cookie",
+    "value": 22500
+  },
+  {
+    "name": "Dice Escape Coffee Cake",
+    "value": 15000
+  },
+  {
+    "name": "Discounted Cake",
+    "value": 2200
+  },
+  {
+    "name": "Doglefox Bread Creature",
+    "value": 405
+  },
+  {
+    "name": "Domed Jhudora Petit Four",
+    "value": 4600
+  },
+  {
+    "name": "Double Caramel Techo Cookie",
+    "value": 35500
+  },
+  {
+    "name": "Double Cream Vanilla Sponge",
+    "value": 3200000
+  },
+  {
+    "name": "Doughnut Holes",
+    "value": 155
+  },
+  {
+    "name": "Dung Berry Tonu Cupcake",
+    "value": 8900
+  },
+  {
+    "name": "Dung Cookie",
+    "value": 51000
+  },
+  {
+    "name": "Dung Mote Cookie",
+    "value": 7000
+  },
+  {
+    "name": "Dung Muffin",
+    "value": 1000
+  },
+  {
+    "name": "Egg and Bacon Sub",
+    "value": 27000
+  },
+  {
+    "name": "Elephante Layer Cake",
+    "value": 18500
+  },
+  {
+    "name": "Elephante Trunk Crepe",
+    "value": 715
+  },
+  {
+    "name": "Explosive New Year Cake",
+    "value": 21000
+  },
+  {
+    "name": "Extra Carroty Cake",
+    "value": 33500
+  },
+  {
+    "name": "Extra Cheesey Straw",
+    "value": 1500
+  },
+  {
+    "name": "Extra Gooey Korbat Cake",
+    "value": 955
+  },
+  {
+    "name": "Extra Meaty Sausage Roll",
+    "value": 18500
+  },
+  {
+    "name": "Extra Spicy Chilli Cake",
+    "value": 29500
+  },
+  {
+    "name": "Eyrie Meringue",
+    "value": 12500
+  },
+  {
+    "name": "Faellie Christmas Cookie",
+    "value": 14000
+  },
+  {
+    "name": "Faerie Grundo Sugar Cookie",
+    "value": 5500
+  },
+  {
+    "name": "Faerie Kougra Cake",
+    "value": 1400
+  },
+  {
+    "name": "Faerie Wing Cookies",
+    "value": 23000
+  },
+  {
+    "name": "Faerieland Castle Cake",
+    "value": 16500
+  },
+  {
+    "name": "Feather Hat Cake",
+    "value": 22000
+  },
+  {
+    "name": "Feather-shaped Cake",
+    "value": 790
+  },
+  {
+    "name": "Feathery Cupcake",
+    "value": 26000
+  },
+  {
+    "name": "Festive Holiday Pretzel",
+    "value": 4500
+  },
+  {
+    "name": "Festive Petpet Appreciation Cake",
+    "value": 22000
+  },
+  {
+    "name": "Festive Petpet Appreciation Cupcake",
+    "value": 27000
+  },
+  {
+    "name": "Fiery Gelert Day Pancakes",
+    "value": 19500
+  },
+  {
+    "name": "Fig Cheesecake",
+    "value": 635
+  },
+  {
+    "name": "Filled Striped Doughnut",
+    "value": 11500
+  },
+  {
+    "name": "Fire Loaf",
+    "value": 655
+  },
+  {
+    "name": "Fire Toast",
+    "value": 10500
+  },
+  {
+    "name": "Flaming Super Hot Pasty",
+    "value": 820
+  },
+  {
+    "name": "Flatfruit Ixi Hoofprint Cookie",
+    "value": 74500
+  },
+  {
+    "name": "Flotsam Fingers",
+    "value": 30000
+  },
+  {
+    "name": "Flotsam Tail Cookies",
+    "value": 8600
+  },
+  {
+    "name": "Flowery New Year Cake",
+    "value": 19500
+  },
+  {
+    "name": "Fluffy Gnorbu Cake",
+    "value": 4900
+  },
+  {
+    "name": "Flute Loaf",
+    "value": 12500
+  },
+  {
+    "name": "French Onion Soup Cake",
+    "value": 21000
+  },
+  {
+    "name": "French Toast Sticks",
+    "value": 19
+  },
+  {
+    "name": "Fresh Baguette",
+    "value": 1700
+  },
+  {
+    "name": "Fresh Baked Cherry Pie",
+    "value": 19500
+  },
+  {
+    "name": "Fresh Baked Chokato Pie",
+    "value": 30500
+  },
+  {
+    "name": "Fresh Peach Doughnut",
+    "value": 1300
+  },
+  {
+    "name": "Fresh Strawberry Doughnut",
+    "value": 25000
+  },
+  {
+    "name": "Fried Egg on Toast",
+    "value": 375
+  },
+  {
+    "name": "Frosted Babaa Cookies",
+    "value": 6800000
+  },
+  {
+    "name": "Frosted Buttermilk Bar",
+    "value": 30000
+  },
+  {
+    "name": "Frosted Chocolate Doughnut",
+    "value": 4400
+  },
+  {
+    "name": "Frosted Cobrall Cookie",
+    "value": 29000
+  },
+  {
+    "name": "Frosted Daisy Cake",
+    "value": 1100
+  },
+  {
+    "name": "Frosted Kite Cake",
+    "value": 32000
+  },
+  {
+    "name": "Fruit Punch Trifle",
+    "value": 220
+  },
+  {
+    "name": "Fruity Pancakes",
+    "value": 34
+  },
+  {
+    "name": "Fruity Scone",
+    "value": 46500
+  },
+  {
+    "name": "Fruity Usul Cake",
+    "value": 865
+  },
+  {
+    "name": "Fruity Wocky Log",
+    "value": 595
+  },
+  {
+    "name": "Fudge Koi Waffles",
+    "value": 16500
+  },
+  {
+    "name": "Fun Neopets 8th Birthday Cake",
+    "value": 45500
+  },
+  {
+    "name": "Fyora Cookies",
+    "value": 5250000
+  },
+  {
+    "name": "Fyora Tart",
+    "value": 19000
+  },
+  {
+    "name": "Garden Fantasy Cake",
+    "value": 965
+  },
+  {
+    "name": "Gelert Crumpet",
+    "value": 150000
+  },
+  {
+    "name": "Gelert Cupcake",
+    "value": 15000
+  },
+  {
+    "name": "Gherkin Pastry Puff",
+    "value": 1000
+  },
+  {
+    "name": "Ghostkerchief Blueberry Roll",
+    "value": 735
+  },
+  {
+    "name": "Ghostkerchief Cookies",
+    "value": 13500
+  },
+  {
+    "name": "Ghostkerchief Island Cake",
+    "value": 950
+  },
+  {
+    "name": "Ghostkercreme Puff",
+    "value": 12500
+  },
+  {
+    "name": "Giant Slice of Neopets Birthday Cake",
+    "value": 13500
+  },
+  {
+    "name": "Ginger Smug Bug Cookie",
+    "value": 26000
+  },
+  {
+    "name": "Gingerbread Lupe",
+    "value": 900
+  },
+  {
+    "name": "Gingerbread Lupe Treat",
+    "value": 2400
+  },
+  {
+    "name": "Gingerbread Peophin",
+    "value": 515
+  },
+  {
+    "name": "Gingerbread Sled",
+    "value": 77
+  },
+  {
+    "name": "Gingersnap Cookies",
+    "value": 15500
+  },
+  {
+    "name": "Glaze Doughnut Hole",
+    "value": 8700
+  },
+  {
     "name": "Glazed Bonebread",
-    "value": 63100
+    "value": 32000
   },
   {
     "name": "Globin Kraku Cake",
-    "value": 1110
+    "value": 1400
   },
   {
     "name": "Glowleaf Melon Hot Cross Buns",
-    "value": 1720
+    "value": 1000
   },
   {
     "name": "Gooseberry Crepe",
-    "value": 5030000
+    "value": 20000000
   },
   {
     "name": "Gooseberry Lupe Waffles",
-    "value": 1390
+    "value": 1300
   },
   {
     "name": "Gooseberry Mousse",
-    "value": 19100
+    "value": 34500
   },
   {
     "name": "Gooseberry Poogle Cake",
@@ -1853,499 +1865,499 @@
   },
   {
     "name": "Gourmet Carrot Cake",
-    "value": 6930
+    "value": 14000
   },
   {
     "name": "Graduation Cap Cake",
-    "value": 59000
+    "value": 21500
   },
   {
     "name": "Grape Bruce Muffin",
-    "value": 2020
+    "value": 1100
   },
   {
     "name": "Grape Sloth Cake",
-    "value": 279000
+    "value": 14500
   },
   {
     "name": "Grapefruit Cake",
-    "value": 7990000
+    "value": 7900000
   },
   {
     "name": "Grapefruit Croissant",
-    "value": 1220
-  },
-  {
-    "name": "Grapefruit Doughnut",
-    "value": 1530
-  },
-  {
-    "name": "Grapefruit Muffin",
-    "value": 16400
-  },
-  {
-    "name": "Grarrl Cookie with Sprinkles",
-    "value": 1020
-  },
-  {
-    "name": "Green Apple Waffle",
-    "value": 11800
-  },
-  {
-    "name": "Green Doughnut",
-    "value": 1520
-  },
-  {
-    "name": "Green Flower Stained Glass Window Cookie",
-    "value": 66200
-  },
-  {
-    "name": "Green Hissi Sugar Cookie",
-    "value": 10700
-  },
-  {
-    "name": "Green Swirly Birthday Cake",
-    "value": 1040
-  },
-  {
-    "name": "Green Techo Cookie",
-    "value": 135000
-  },
-  {
-    "name": "Green Usukicon Layer Cake",
-    "value": 700
-  },
-  {
-    "name": "Grey Cheesecake",
-    "value": 185000
-  },
-  {
-    "name": "Grey Cloud Cake",
-    "value": 1290
-  },
-  {
-    "name": "Grey Cupcake",
-    "value": 814
-  },
-  {
-    "name": "Grey Doughnut",
-    "value": 595000
-  },
-  {
-    "name": "Grey Grundo Muffin",
-    "value": 106000
-  },
-  {
-    "name": "Grey Ice Cream Cookie",
-    "value": 22600
-  },
-  {
-    "name": "Grey Layer Cake",
-    "value": 989
-  },
-  {
-    "name": "Grey Macarons",
-    "value": 206000
-  },
-  {
-    "name": "Grey Pancakes",
-    "value": 23100
-  },
-  {
-    "name": "Grey Sandwich",
-    "value": 1360
-  },
-  {
-    "name": "Grey Sub",
-    "value": 44300
-  },
-  {
-    "name": "Grey Tear Cake",
-    "value": 425000
-  },
-  {
-    "name": "Grilled Cheese Chomby Sandwich",
-    "value": 14900
-  },
-  {
-    "name": "Grilled Cheese Sandwich",
-    "value": 41800
-  },
-  {
-    "name": "Gruisberry Muffin",
-    "value": 327000
-  },
-  {
-    "name": "Grundolicious Cookie",
-    "value": 2970
-  },
-  {
-    "name": "Grunion Fruit Krawk Cake",
-    "value": 755000
-  },
-  {
-    "name": "Gumball Filled Swiss Roll",
-    "value": 1170
-  },
-  {
-    "name": "Haiku Dessert",
-    "value": 3770000
-  },
-  {
-    "name": "Ham and Cheese Crepe",
-    "value": 619000
-  },
-  {
-    "name": "Ham and Cheese Pasty",
-    "value": 98600
-  },
-  {
-    "name": "Ham and Corn Chip Sandwich",
-    "value": 38900
-  },
-  {
-    "name": "Ham and Tomato Korbat Sandwich",
-    "value": 3720
-  },
-  {
-    "name": "Hannah Cupcake",
-    "value": 76
-  },
-  {
-    "name": "Hannahs Rope Cake",
-    "value": 911
-  },
-  {
-    "name": "Harfell Mince Pie",
-    "value": 24900
-  },
-  {
-    "name": "Harffel Fruit Scone",
-    "value": 29300
-  },
-  {
-    "name": "Hazelnut Banana Crepe",
-    "value": 280000
-  },
-  {
-    "name": "Hazelnut Mince Pie",
-    "value": 353000
-  },
-  {
-    "name": "Heart Crepe",
-    "value": 2180
-  },
-  {
-    "name": "Heart Petit Fours",
-    "value": 3990
-  },
-  {
-    "name": "Heart Waffle",
-    "value": 3730
-  },
-  {
-    "name": "Heart Wafflecake",
-    "value": 2850
-  },
-  {
-    "name": "Holiday Gift Cake",
-    "value": 5770
-  },
-  {
-    "name": "Holiday Wocky Cake",
-    "value": 42800
-  },
-  {
-    "name": "Honey and Wheat Baguette",
-    "value": 1310
-  },
-  {
-    "name": "Horn of Pastry",
-    "value": 3060
-  },
-  {
-    "name": "Hostile Quiche",
-    "value": 1390000
-  },
-  {
-    "name": "Hot Buttered Baguette",
-    "value": 3910
-  },
-  {
-    "name": "Hot Buttered Toast",
-    "value": 97
-  },
-  {
-    "name": "Hot Cheese Croissant",
-    "value": 3090
-  },
-  {
-    "name": "Hot Cheesy Baguette",
-    "value": 642
-  },
-  {
-    "name": "Hot Dog and Beans Pie",
-    "value": 43400
-  },
-  {
-    "name": "Ice Cream Sandwich Cookies",
-    "value": 33000
-  },
-  {
-    "name": "Ice Loaf",
-    "value": 74800
-  },
-  {
-    "name": "Iced Chocolate Lupe Cake",
-    "value": 20700
-  },
-  {
-    "name": "Iced Chokato Cake",
-    "value": 990
-  },
-  {
-    "name": "Iced Chomby Biscuit",
-    "value": 40300
-  },
-  {
-    "name": "Iced Chomby Fruit Cake",
-    "value": 309
-  },
-  {
-    "name": "Iced Croissant",
-    "value": 949
-  },
-  {
-    "name": "Iced Crumpet",
-    "value": 90100
-  },
-  {
-    "name": "Iced Cybunny Cookie",
-    "value": 1170
-  },
-  {
-    "name": "Iced Cybunny Head Cookie",
-    "value": 31900
-  },
-  {
-    "name": "Iced Easter Chick Cookie",
-    "value": 1340
-  },
-  {
-    "name": "Iced Eyrie Cupcake",
-    "value": 31300
-  },
-  {
-    "name": "Iced Nerkmid Biscuit",
-    "value": 70400
-  },
-  {
-    "name": "Iced Tigersquash Doughnut",
-    "value": 2110
-  },
-  {
-    "name": "Iced Tuskaninny Cake",
-    "value": 22900
-  },
-  {
-    "name": "Iced Vanilla Kougra Cake",
-    "value": 1030
-  },
-  {
-    "name": "Illusen Biscotti",
-    "value": 570000
-  },
-  {
-    "name": "Illusen Classic Combo",
-    "value": 211000
-  },
-  {
-    "name": "Illusen Crepe",
-    "value": 815000
-  },
-  {
-    "name": "Illusen Day Cake",
-    "value": 304
-  },
-  {
-    "name": "Illusen Waffle",
-    "value": 3770
-  },
-  {
-    "name": "Illusens Glade Cake",
-    "value": 873
-  },
-  {
-    "name": "Invisible Baguette",
-    "value": 64400
-  },
-  {
-    "name": "Invisible Gateau",
-    "value": 992
-  },
-  {
-    "name": "Invisible Muffin",
-    "value": 950000
-  },
-  {
-    "name": "Invisible Pasty",
-    "value": 26900
-  },
-  {
-    "name": "Irate Zafara Claw",
-    "value": 2280000
-  },
-  {
-    "name": "Islandberry Drum Cake",
-    "value": 167000
-  },
-  {
-    "name": "Islandberry Pudding",
-    "value": 326
-  },
-  {
-    "name": "Islandberry Tonu Cupcake",
-    "value": 39400
-  },
-  {
-    "name": "Jam Gelert Crumpet",
     "value": 905
   },
   {
-    "name": "Jam Pastry",
-    "value": 2650
+    "name": "Grapefruit Doughnut",
+    "value": 1300
   },
   {
-    "name": "Jam Scone",
-    "value": 4760
+    "name": "Grapefruit Muffin",
+    "value": 14000
   },
   {
-    "name": "Jam Spread Snowbunny Loaf",
-    "value": 2000
+    "name": "Grarrl Cookie with Sprinkles",
+    "value": 835
   },
   {
-    "name": "Jam-Covered Popover",
-    "value": 66100
+    "name": "Green Apple Waffle",
+    "value": 8200
   },
   {
-    "name": "Jelly Bean Baguette",
-    "value": 122000
+    "name": "Green Doughnut",
+    "value": 1300
   },
   {
-    "name": "Jelly Biscuits",
-    "value": 360000
+    "name": "Green Flower Stained Glass Window Cookie",
+    "value": 19000
   },
   {
-    "name": "Jhudora Day Cake",
-    "value": 350000
+    "name": "Green Hissi Sugar Cookie",
+    "value": 2900
   },
   {
-    "name": "Jhudoras Exploding Muffins",
-    "value": 3210
+    "name": "Green Swirly Birthday Cake",
+    "value": 825
   },
   {
-    "name": "JubJub Cake",
+    "name": "Green Techo Cookie",
+    "value": 19500
+  },
+  {
+    "name": "Green Usukicon Layer Cake",
+    "value": 780
+  },
+  {
+    "name": "Grey Cheesecake",
+    "value": 440
+  },
+  {
+    "name": "Grey Cloud Cake",
+    "value": 60
+  },
+  {
+    "name": "Grey Cupcake",
+    "value": 1
+  },
+  {
+    "name": "Grey Doughnut",
+    "value": 425
+  },
+  {
+    "name": "Grey Grundo Muffin",
+    "value": 22500
+  },
+  {
+    "name": "Grey Ice Cream Cookie",
+    "value": 800
+  },
+  {
+    "name": "Grey Layer Cake",
+    "value": 115
+  },
+  {
+    "name": "Grey Macarons",
+    "value": 48
+  },
+  {
+    "name": "Grey Pancakes",
+    "value": 125
+  },
+  {
+    "name": "Grey Sandwich",
+    "value": 150
+  },
+  {
+    "name": "Grey Sub",
+    "value": 740
+  },
+  {
+    "name": "Grey Tear Cake",
+    "value": 500
+  },
+  {
+    "name": "Grilled Cheese Chomby Sandwich",
+    "value": 16500
+  },
+  {
+    "name": "Grilled Cheese Sandwich",
+    "value": 10500
+  },
+  {
+    "name": "Gruisberry Muffin",
+    "value": 36500
+  },
+  {
+    "name": "Grundolicious Cookie",
+    "value": 2700
+  },
+  {
+    "name": "Grunion Fruit Krawk Cake",
+    "value": 120000
+  },
+  {
+    "name": "Gumball Filled Swiss Roll",
+    "value": 1000
+  },
+  {
+    "name": "Haiku Dessert",
+    "value": 2900000
+  },
+  {
+    "name": "Ham and Cheese Crepe",
+    "value": 19500
+  },
+  {
+    "name": "Ham and Cheese Pasty",
+    "value": 27500
+  },
+  {
+    "name": "Ham and Corn Chip Sandwich",
+    "value": 5500
+  },
+  {
+    "name": "Ham and Tomato Korbat Sandwich",
+    "value": 1500
+  },
+  {
+    "name": "Hannah Cupcake",
+    "value": 96
+  },
+  {
+    "name": "Hannahs Rope Cake",
+    "value": 1200
+  },
+  {
+    "name": "Harfell Mince Pie",
+    "value": 20000
+  },
+  {
+    "name": "Harffel Fruit Scone",
     "value": 18500
   },
   {
+    "name": "Hazelnut Banana Crepe",
+    "value": 110000
+  },
+  {
+    "name": "Hazelnut Mince Pie",
+    "value": 35500
+  },
+  {
+    "name": "Heart Crepe",
+    "value": 3800
+  },
+  {
+    "name": "Heart Petit Fours",
+    "value": 2400
+  },
+  {
+    "name": "Heart Waffle",
+    "value": 6300
+  },
+  {
+    "name": "Heart Wafflecake",
+    "value": 8900
+  },
+  {
+    "name": "Holiday Gift Cake",
+    "value": 6200
+  },
+  {
+    "name": "Holiday Wocky Cake",
+    "value": 15000
+  },
+  {
+    "name": "Honey and Wheat Baguette",
+    "value": 1000
+  },
+  {
+    "name": "Horn of Pastry",
+    "value": 4700
+  },
+  {
+    "name": "Hostile Quiche",
+    "value": 3400000
+  },
+  {
+    "name": "Hot Buttered Baguette",
+    "value": 1100
+  },
+  {
+    "name": "Hot Buttered Toast",
+    "value": 39
+  },
+  {
+    "name": "Hot Cheese Croissant",
+    "value": 3600
+  },
+  {
+    "name": "Hot Cheesy Baguette",
+    "value": 3200
+  },
+  {
+    "name": "Hot Dog and Beans Pie",
+    "value": 3800
+  },
+  {
+    "name": "Ice Cream Sandwich Cookies",
+    "value": 29500
+  },
+  {
+    "name": "Ice Loaf",
+    "value": 55500
+  },
+  {
+    "name": "Iced Chocolate Lupe Cake",
+    "value": 2400
+  },
+  {
+    "name": "Iced Chokato Cake",
+    "value": 970
+  },
+  {
+    "name": "Iced Chomby Biscuit",
+    "value": 28500
+  },
+  {
+    "name": "Iced Chomby Fruit Cake",
+    "value": 375
+  },
+  {
+    "name": "Iced Croissant",
+    "value": 270
+  },
+  {
+    "name": "Iced Crumpet",
+    "value": 19500
+  },
+  {
+    "name": "Iced Cybunny Cookie",
+    "value": 765
+  },
+  {
+    "name": "Iced Cybunny Head Cookie",
+    "value": 9600
+  },
+  {
+    "name": "Iced Easter Chick Cookie",
+    "value": 720
+  },
+  {
+    "name": "Iced Eyrie Cupcake",
+    "value": 31000
+  },
+  {
+    "name": "Iced Nerkmid Biscuit",
+    "value": 15500
+  },
+  {
+    "name": "Iced Tigersquash Doughnut",
+    "value": 1900
+  },
+  {
+    "name": "Iced Tuskaninny Cake",
+    "value": 16000
+  },
+  {
+    "name": "Iced Vanilla Kougra Cake",
+    "value": 1000
+  },
+  {
+    "name": "Illusen Biscotti",
+    "value": 16500
+  },
+  {
+    "name": "Illusen Classic Combo",
+    "value": 18000
+  },
+  {
+    "name": "Illusen Crepe",
+    "value": 29000
+  },
+  {
+    "name": "Illusen Day Cake",
+    "value": 870
+  },
+  {
+    "name": "Illusen Waffle",
+    "value": 8100
+  },
+  {
+    "name": "Illusens Glade Cake",
+    "value": 930
+  },
+  {
+    "name": "Invisible Baguette",
+    "value": 36500
+  },
+  {
+    "name": "Invisible Gateau",
+    "value": 375
+  },
+  {
+    "name": "Invisible Muffin",
+    "value": 44000
+  },
+  {
+    "name": "Invisible Pasty",
+    "value": 30500
+  },
+  {
+    "name": "Irate Zafara Claw",
+    "value": 110000
+  },
+  {
+    "name": "Islandberry Drum Cake",
+    "value": 10500
+  },
+  {
+    "name": "Islandberry Pudding",
+    "value": 490
+  },
+  {
+    "name": "Islandberry Tonu Cupcake",
+    "value": 31500
+  },
+  {
+    "name": "Jam Gelert Crumpet",
+    "value": 785
+  },
+  {
+    "name": "Jam Pastry",
+    "value": 2700
+  },
+  {
+    "name": "Jam Scone",
+    "value": 6600
+  },
+  {
+    "name": "Jam Spread Snowbunny Loaf",
+    "value": 3300
+  },
+  {
+    "name": "Jam-Covered Popover",
+    "value": 29000
+  },
+  {
+    "name": "Jelly Bean Baguette",
+    "value": 22500
+  },
+  {
+    "name": "Jelly Biscuits",
+    "value": 14000
+  },
+  {
+    "name": "Jhudora Day Cake",
+    "value": 27000
+  },
+  {
+    "name": "Jhudoras Exploding Muffins",
+    "value": 3900
+  },
+  {
+    "name": "JubJub Cake",
+    "value": 28500
+  },
+  {
     "name": "JubJub Piper Muffin",
-    "value": 69000
+    "value": 46000
   },
   {
     "name": "Juppie Gelert Cookie",
-    "value": 46500
+    "value": 12000
   },
   {
     "name": "Juppie Jam Croissant",
-    "value": 309
+    "value": 450
   },
   {
     "name": "Juppie Jam Sandwiches",
-    "value": 88800
+    "value": 20500
   },
   {
     "name": "Kacheek Baby Cabbage Sandwiches",
-    "value": 1660000
+    "value": 6350000
   },
   {
     "name": "Kacheek Bread",
-    "value": 3380
+    "value": 6200
   },
   {
     "name": "Kacheek Cake Mix Cookies",
-    "value": 63400
+    "value": 36000
   },
   {
     "name": "Kacheek Fruit Salad Sandwich",
-    "value": 3230000
+    "value": 31500
   },
   {
     "name": "Kacheek Harffel Fruit Sandwich",
-    "value": 25600
+    "value": 31500
   },
   {
     "name": "Kacheek Ombus Fruit Sandwich",
-    "value": 8330
+    "value": 11000
   },
   {
     "name": "Kacheek Tail Bread",
-    "value": 1570
+    "value": 1000
   },
   {
     "name": "Kaykee Wake Cake",
-    "value": 12100
+    "value": 13500
   },
   {
     "name": "Key Lime Pie",
-    "value": 1920
+    "value": 2800
   },
   {
     "name": "Keylime Pi Pie",
-    "value": 2430
+    "value": 2300
   },
   {
     "name": "Kiko Day Cake",
-    "value": 23300
+    "value": 18000
   },
   {
     "name": "Kiko Paw Cake",
-    "value": 8370
+    "value": 11500
   },
   {
     "name": "Kite Cookies",
-    "value": 6260
+    "value": 4100
   },
   {
     "name": "Kiwi Muffin",
-    "value": 107000
+    "value": 18500
   },
   {
     "name": "Kiwi Surprise Mooncake",
-    "value": 61000
+    "value": 33000
   },
   {
     "name": "Koi Bread Creature",
-    "value": 400000
+    "value": 19000
   },
   {
     "name": "Koi Cookie",
-    "value": 3960
+    "value": 3700
   },
   {
     "name": "Koi Sandwich",
-    "value": 274
+    "value": 935
   },
   {
     "name": "Koi Sticky New Year Cake",
-    "value": 35400
+    "value": 23000
   },
   {
     "name": "Korbat Grave Cake",
-    "value": 13600
+    "value": 6500
   },
   {
     "name": "Korbat Meringue",
-    "value": 40400
+    "value": 26500
   },
   {
     "name": "Korbat Mooncake",
@@ -2353,131 +2365,131 @@
   },
   {
     "name": "Kou-Jong Cheesecake",
-    "value": 999
+    "value": 1100
   },
   {
     "name": "Krakuberry Mince Pie",
-    "value": 11800
+    "value": 4100
   },
   {
     "name": "Krawk Cheese Quiche",
-    "value": 230000
+    "value": 34000
   },
   {
     "name": "Krawk Paw Cookie",
-    "value": 978
+    "value": 935
   },
   {
     "name": "Krawk Quiche",
-    "value": 1080
+    "value": 1200
   },
   {
     "name": "Kreludor Surface Cookie",
-    "value": 3440
+    "value": 2400
   },
   {
     "name": "Kyrii Cream Parfait",
-    "value": 16500
+    "value": 10000
   },
   {
     "name": "Kyrii Ice Cream Cake",
-    "value": 2430
+    "value": 900
   },
   {
     "name": "Kyrii Strawberry Cake",
-    "value": 1440
+    "value": 1800
   },
   {
     "name": "Large Chia Cake",
-    "value": 14600
+    "value": 9100
   },
   {
     "name": "Last Blast Chocolate Sandwich Cookie",
-    "value": 2710
+    "value": 4500
   },
   {
     "name": "Layered Cybunny Cake",
-    "value": 5040
+    "value": 4800
   },
   {
     "name": "Leaf Biscuit",
-    "value": 41000
+    "value": 11000
   },
   {
     "name": "Left-Over Turkey Sandwich",
-    "value": 914
+    "value": 1100
   },
   {
     "name": "Lemint Cookie",
-    "value": 1790
+    "value": 940
   },
   {
     "name": "Lemint Mince Pie",
-    "value": 1680
+    "value": 1100
   },
   {
     "name": "Lemon Aisha Cake",
-    "value": 82400
+    "value": 20000
   },
   {
     "name": "Lemon Buzz Gateau",
-    "value": 2380
+    "value": 23000
   },
   {
     "name": "Lemon Cupcake",
-    "value": 52400
+    "value": 43000
   },
   {
     "name": "Lemon Curd Croissant",
-    "value": 77400
+    "value": 20000
   },
   {
     "name": "Lemon Daisy Cake",
-    "value": 1980
+    "value": 2100
   },
   {
     "name": "Lemon Draik Biscuit",
-    "value": 34400
+    "value": 28500
   },
   {
     "name": "Lemon Eyrie Cake",
-    "value": 2220
+    "value": 1100
   },
   {
     "name": "Lemon Kougra Cake",
-    "value": 1420
+    "value": 1400
   },
   {
     "name": "Lemon Lenny Sandwich Cookie",
-    "value": 1930
+    "value": 3000
   },
   {
     "name": "Lemon Lime Ruki Cookie",
-    "value": 12300
+    "value": 48500
   },
   {
     "name": "Lemon Meerca Roll",
-    "value": 26700
+    "value": 17500
   },
   {
     "name": "Lemon Moehog Cupcake",
-    "value": 2210
+    "value": 1900
   },
   {
     "name": "Lemon Nimmo Cake",
-    "value": 4180
+    "value": 9600
   },
   {
     "name": "Lemon Pie",
-    "value": 8010
+    "value": 5400
   },
   {
     "name": "Lemon Rasberry Mousse",
-    "value": 31500
+    "value": 12500
   },
   {
     "name": "Lemon Scorchio Cookie",
-    "value": 1140
+    "value": 940
   },
   {
     "name": "Lemon Skeith Iced Bun",
@@ -2485,895 +2497,903 @@
   },
   {
     "name": "Lemon Sprinkle Doughnut",
-    "value": 1260
-  },
-  {
-    "name": "Lemon Swirl Usul Cake",
-    "value": 57100
-  },
-  {
-    "name": "Lemon Yurble Meringue Cookie",
-    "value": 47800
-  },
-  {
-    "name": "Lemwart Ixi Hoofprint Cookie",
-    "value": 27600
-  },
-  {
-    "name": "Lenny Day Caramel Cake",
-    "value": 167000
-  },
-  {
-    "name": "Lenny Day Carrot Cake",
-    "value": 22500
-  },
-  {
-    "name": "Lenny Day Strawberry Cheesecake",
-    "value": 9380
-  },
-  {
-    "name": "Lenny Day Swirly Cake",
-    "value": 1740
-  },
-  {
-    "name": "Lenny Fruit Tiramisu",
-    "value": 25000
-  },
-  {
-    "name": "Lenny Meringue Pie",
-    "value": 1060
-  },
-  {
-    "name": "Lettuce and Tomato Baguette",
-    "value": 1410
-  },
-  {
-    "name": "Levitating Cake",
-    "value": 64000
-  },
-  {
-    "name": "Licorice Nimmo Cake",
-    "value": 700000
-  },
-  {
-    "name": "Lime and Chocolate Yurble Cupcake",
-    "value": 1470
-  },
-  {
-    "name": "Lime and Orange Year Eight Cake",
-    "value": 18800
-  },
-  {
-    "name": "Lime Bori Cupcake",
-    "value": 997
-  },
-  {
-    "name": "Lime Cheesecake",
-    "value": 2110
-  },
-  {
-    "name": "Lime Chomby Cake",
-    "value": 495000
-  },
-  {
-    "name": "Lime Cupcake",
-    "value": 1270
-  },
-  {
-    "name": "Lime Eyrie Cake",
-    "value": 2030
-  },
-  {
-    "name": "Lime JubJub Muffin",
-    "value": 91700
-  },
-  {
-    "name": "Lime Kougra Cake",
-    "value": 500000
-  },
-  {
-    "name": "Lime Moehog Cupcake",
-    "value": 1830
-  },
-  {
-    "name": "Lime Nimmo Cake",
-    "value": 1050
-  },
-  {
-    "name": "Lime Shoyru Cake",
-    "value": 143000
-  },
-  {
-    "name": "Lime Slorg Cupcake",
-    "value": 187000
-  },
-  {
-    "name": "Lipstick Cookie",
-    "value": 10500
-  },
-  {
-    "name": "Loaf of Banana Bread",
-    "value": 3560
-  },
-  {
-    "name": "Loaf Of Pea Bread",
-    "value": 56500
-  },
-  {
-    "name": "Longan Cake",
-    "value": 1010
-  },
-  {
-    "name": "Longan Sandwich",
-    "value": 15300
-  },
-  {
-    "name": "Loveberry Chocolate Mousse",
-    "value": 120000
-  },
-  {
-    "name": "Loveberry Peophin Tail Cookie",
-    "value": 39200
-  },
-  {
-    "name": "Lupe Bone Cake",
-    "value": 27600
-  },
-  {
-    "name": "Lupe Waffles With Butter",
-    "value": 224000
-  },
-  {
-    "name": "Lutango Creme Puff",
-    "value": 1000
-  },
-  {
-    "name": "Lutango Layer Cake",
-    "value": 633
-  },
-  {
-    "name": "Lutari Feather Cake",
-    "value": 97600
-  },
-  {
-    "name": "Luxurious Kyrii Cake",
-    "value": 1280
-  },
-  {
-    "name": "Madeleine Sandwich Cookies",
-    "value": 20700
-  },
-  {
-    "name": "Maple Crepe with Cream",
-    "value": 166000
-  },
-  {
-    "name": "Maple Doughnut",
-    "value": 96900
-  },
-  {
-    "name": "Maple Koi Waffles",
-    "value": 77900
-  },
-  {
-    "name": "Maraqua Victory Mini Muffins",
-    "value": 970000
-  },
-  {
-    "name": "Maraqua Victory Sponge Cake",
-    "value": 1620
-  },
-  {
-    "name": "Maraquan Kau Cake",
-    "value": 1090
-  },
-  {
-    "name": "Maraquan Pillar Cake",
-    "value": 997
-  },
-  {
-    "name": "Maraquan Shoyru Biscuit",
-    "value": 45000
-  },
-  {
-    "name": "Marmalade Mince Pie",
-    "value": 993
-  },
-  {
-    "name": "Marshmallow and Cherry Grarrl Cake",
-    "value": 245000
-  },
-  {
-    "name": "Marshmallow Jetsam Fin Cookie",
     "value": 1800
   },
   {
-    "name": "Meatball Pasty",
-    "value": 80900
+    "name": "Lemon Swirl Usul Cake",
+    "value": 17000
   },
   {
-    "name": "Meaty Caramel Lupe Cake",
-    "value": 1490
+    "name": "Lemon Yurble Meringue Cookie",
+    "value": 21000
   },
   {
-    "name": "Meaty Grarrl Cake",
-    "value": 90200
+    "name": "Lemwart Ixi Hoofprint Cookie",
+    "value": 6700
   },
   {
-    "name": "Meaty Lupe Treat",
-    "value": 1160
+    "name": "Lenny Day Caramel Cake",
+    "value": 30000
   },
   {
-    "name": "Meaty Potato Grarrl Cake",
-    "value": 562000
+    "name": "Lenny Day Carrot Cake",
+    "value": 7100
   },
   {
-    "name": "Meaty Seeds Pie",
-    "value": 12500
+    "name": "Lenny Day Strawberry Cheesecake",
+    "value": 17500
   },
   {
-    "name": "Meaty Treat Pasty",
-    "value": 48700
+    "name": "Lenny Day Swirly Cake",
+    "value": 2600
   },
   {
-    "name": "Meepit Cookies",
-    "value": 310
-  },
-  {
-    "name": "Meepit Juice Break Marshmallow",
-    "value": 20500
-  },
-  {
-    "name": "Meepit Muffins",
-    "value": 73000000
-  },
-  {
-    "name": "Meerca Chase Loaf",
-    "value": 90
-  },
-  {
-    "name": "Meerca Cookie",
-    "value": 47600
-  },
-  {
-    "name": "Meerca Meriberry Pie",
-    "value": 276000
-  },
-  {
-    "name": "Melon Pretzel",
-    "value": 707
-  },
-  {
-    "name": "Melow Biscuits",
-    "value": 5360
-  },
-  {
-    "name": "Melted Cheese Crumpet",
-    "value": 8520
-  },
-  {
-    "name": "Melted Kacheek Cake",
-    "value": 77100
-  },
-  {
-    "name": "Melted Tuna Sandwich",
-    "value": 20100
-  },
-  {
-    "name": "Milk Chocolate Flotsam Cookie",
-    "value": 8450
-  },
-  {
-    "name": "Milk Chocolate JubJub Cake",
-    "value": 16800
-  },
-  {
-    "name": "Mini Flotsam Cake",
-    "value": 1160
-  },
-  {
-    "name": "Mini Quiche",
-    "value": 1580
-  },
-  {
-    "name": "Minimalist Cake",
-    "value": 50400
-  },
-  {
-    "name": "Mint Acara Sandwich Cookie",
-    "value": 2030
-  },
-  {
-    "name": "Mint Chocolate Draik Cake",
-    "value": 1020
-  },
-  {
-    "name": "Mint Chocolate Gelert Cake",
-    "value": 1430
-  },
-  {
-    "name": "Mint Chocolate Wocky Cupcake",
-    "value": 26000
-  },
-  {
-    "name": "Mint Cybunny Cake",
-    "value": 6930
-  },
-  {
-    "name": "Mint Delight Pretzel",
-    "value": 3630
-  },
-  {
-    "name": "Mint Lenny Sandwich Cookie",
-    "value": 2310
-  },
-  {
-    "name": "Mint Lime Flotsam Cake",
-    "value": 3320
-  },
-  {
-    "name": "Mint Skeith Iced Bun",
-    "value": 2690
-  },
-  {
-    "name": "Mint Trifle",
-    "value": 1980
-  },
-  {
-    "name": "Mint Usul Meringue",
-    "value": 40500
-  },
-  {
-    "name": "Mint Werelupe Cookie",
-    "value": 1020
-  },
-  {
-    "name": "Minty Bruce Muffin",
-    "value": 77600
-  },
-  {
-    "name": "Minty Cherry Mince Pie",
-    "value": 112000
-  },
-  {
-    "name": "Minty Eyrie Cookie",
-    "value": 665000
-  },
-  {
-    "name": "Minty Lupe Treat",
-    "value": 2790
-  },
-  {
-    "name": "Minty Meerca Mini Cake",
-    "value": 11300
-  },
-  {
-    "name": "Minty Mocha Cake",
-    "value": 100000
-  },
-  {
-    "name": "Minty Snowflake Cake",
-    "value": 167000
-  },
-  {
-    "name": "Moehog Fruit Cake",
-    "value": 47200
-  },
-  {
-    "name": "Moehog Sparkler Cake",
-    "value": 13300
-  },
-  {
-    "name": "Moehog Sundae",
-    "value": 10000
-  },
-  {
-    "name": "Moehog Surprise",
-    "value": 35200
-  },
-  {
-    "name": "Mop Cookie",
-    "value": 3410
-  },
-  {
-    "name": "Mortogberry Pie",
-    "value": 1020
-  },
-  {
-    "name": "Munuberry Hot Cross Buns",
-    "value": 1470
-  },
-  {
-    "name": "Mushroom Pastry Puff",
-    "value": 470000
-  },
-  {
-    "name": "Mutant Crackers",
-    "value": 5440
-  },
-  {
-    "name": "Mutant Crepe",
-    "value": 20400
-  },
-  {
-    "name": "Mutant Cupcake",
-    "value": 49200
-  },
-  {
-    "name": "Mutant Meerca Cookie",
-    "value": 56100
-  },
-  {
-    "name": "Mutant Pancakes",
-    "value": 43900
-  },
-  {
-    "name": "Mynci Tail Doughnuts",
-    "value": 8490
-  },
-  {
-    "name": "Mynci Waffles",
-    "value": 1260
-  },
-  {
-    "name": "Nail Polish Cookie",
-    "value": 11100
-  },
-  {
-    "name": "Neopets 7th Birthday Bundt Cake",
-    "value": 2000
-  },
-  {
-    "name": "Neopets 7th Birthday Cake",
-    "value": 3490
-  },
-  {
-    "name": "Neopets 7th Birthday Gift-Wrap Cake",
-    "value": 3260
-  },
-  {
-    "name": "Neopian Mote Cookie",
-    "value": 57900
-  },
-  {
-    "name": "Neopolitan Jetsam Fin Cookie",
-    "value": 5090
-  },
-  {
-    "name": "New Year Bundt Cake",
-    "value": 46700
-  },
-  {
-    "name": "New Year Cake",
-    "value": 336000
-  },
-  {
-    "name": "Nimmo Day Cupcake",
-    "value": 1550
-  },
-  {
-    "name": "Nova Sponge Cake",
-    "value": 1550
-  },
-  {
-    "name": "Nutty Chocolate Brownies",
-    "value": 201
-  },
-  {
-    "name": "Oatmeal Raisin Biscuit",
-    "value": 92
-  },
-  {
-    "name": "Ogrin Confetti Cupcake",
-    "value": 30200
-  },
-  {
-    "name": "Olive Pretzel",
-    "value": 42300
-  },
-  {
-    "name": "Onion Kacheek Bread",
-    "value": 4950
-  },
-  {
-    "name": "Oranella Hot Cross Buns",
-    "value": 1850
-  },
-  {
-    "name": "Orange Bonebread",
-    "value": 98900
-  },
-  {
-    "name": "Orange Chia Cake",
-    "value": 15300
-  },
-  {
-    "name": "Orange Ixi Cake",
-    "value": 1910
-  },
-  {
-    "name": "Orange Kougra Cake",
-    "value": 5440
-  },
-  {
-    "name": "Orange Kougra Cupcake",
-    "value": 1990
-  },
-  {
-    "name": "Orange Krawk Cake",
-    "value": 16800
-  },
-  {
-    "name": "Orange Leaf Cake",
-    "value": 45700
-  },
-  {
-    "name": "Orange Marmalade Cupcake",
-    "value": 1540
-  },
-  {
-    "name": "Orange Mynci Cookie",
-    "value": 36900
-  },
-  {
-    "name": "Orange Rambus Pudding",
-    "value": 1060
-  },
-  {
-    "name": "Orange Scorchio Cookie",
-    "value": 2280
-  },
-  {
-    "name": "Orange Sloth Cake",
-    "value": 500000
-  },
-  {
-    "name": "Orange Smothered Swiss Roll",
-    "value": 211000
-  },
-  {
-    "name": "Orange Smug Bug Cookie",
-    "value": 37200
-  },
-  {
-    "name": "Orange Swirl Pudding",
-    "value": 982
-  },
-  {
-    "name": "Pannetonu",
-    "value": 250000
-  },
-  {
-    "name": "Parmesan Herb Bread",
-    "value": 75900
-  },
-  {
-    "name": "Passionberry Pie",
-    "value": 20900
-  },
-  {
-    "name": "Pastrami Sandwich",
-    "value": 1060
-  },
-  {
-    "name": "Peach Cobbler",
-    "value": 39200
-  },
-  {
-    "name": "Peach Pretzel",
-    "value": 1370
-  },
-  {
-    "name": "Peachbread",
-    "value": 998833
-  },
-  {
-    "name": "Peanut Butter and Marshmallow Sandwich",
-    "value": 9420
-  },
-  {
-    "name": "Peanut Butter Biscuits",
-    "value": 30700
-  },
-  {
-    "name": "Peanut Butter Elephante Cookie",
-    "value": 2250
-  },
-  {
-    "name": "Peanut Butter Moehog Cookie",
-    "value": 425000
-  },
-  {
-    "name": "Peanut Cracker",
-    "value": 18900
-  },
-  {
-    "name": "Peanut Mynci Day Cupcake",
-    "value": 1660
-  },
-  {
-    "name": "Peophin Berry Bread",
-    "value": 1650
-  },
-  {
-    "name": "Peophin Pie",
-    "value": 1050
-  },
-  {
-    "name": "Peophin Tail Loaf",
-    "value": 937
-  },
-  {
-    "name": "Peophin-shaped Souffle",
-    "value": 15100
-  },
-  {
-    "name": "Pepper Omelette Swiss Roll",
-    "value": 3980
-  },
-  {
-    "name": "Peppermint Kougra Cake",
-    "value": 39600
-  },
-  {
-    "name": "Peppermint Mince Pie",
-    "value": 1760
-  },
-  {
-    "name": "Peppermint Urgoni Cupcake",
+    "name": "Lenny Fruit Tiramisu",
     "value": 26500
   },
   {
-    "name": "Pepperoni Pizza Doughnut",
-    "value": 807000
+    "name": "Lenny Meringue Pie",
+    "value": 1300
   },
   {
-    "name": "Petpet Chocolate",
-    "value": 4230
+    "name": "Lettuce and Tomato Baguette",
+    "value": 1600
   },
   {
-    "name": "Petpet Mints",
-    "value": 125000
+    "name": "Levitating Cake",
+    "value": 18500
   },
   {
-    "name": "Piece of my Heart Gingerbread Cookies",
-    "value": 204
+    "name": "Licorice Nimmo Cake",
+    "value": 39000
   },
   {
-    "name": "Pine Cone Cake",
-    "value": 20400
+    "name": "Lime and Chocolate Yurble Cupcake",
+    "value": 850
   },
   {
-    "name": "Pine Nut Cake",
-    "value": 76400
-  },
-  {
-    "name": "Pineapple Muffin",
-    "value": 19400
-  },
-  {
-    "name": "Pineapple Pie",
-    "value": 2730
-  },
-  {
-    "name": "Pink Doughnut",
-    "value": 1490
-  },
-  {
-    "name": "Pink Easter Negg Cookie",
-    "value": 7240
-  },
-  {
-    "name": "Pink Gormball Sugar Cookies",
-    "value": 4360
-  },
-  {
-    "name": "Pink Lemonade Ruki Cookie",
-    "value": 3100
-  },
-  {
-    "name": "Pink Nimmo Sugar Cookie",
-    "value": 386000
-  },
-  {
-    "name": "Pink Sprinkle Doughnut",
-    "value": 862
-  },
-  {
-    "name": "Pink Starburst Stained Glass Window Cookie",
-    "value": 63900
-  },
-  {
-    "name": "Pizza Pasty",
-    "value": 3420
-  },
-  {
-    "name": "Plain Elephante Ear",
-    "value": 629000
-  },
-  {
-    "name": "Plain Hissinamon Roll",
-    "value": 31300
-  },
-  {
-    "name": "Plain Nerkmid Biscuit",
-    "value": 37500
-  },
-  {
-    "name": "Plain Old French Toast",
-    "value": 33900
-  },
-  {
-    "name": "Plain Popover",
-    "value": 39700
-  },
-  {
-    "name": "Plain Scone",
-    "value": 3910
-  },
-  {
-    "name": "Plain Snowbunny Loaf",
-    "value": 183000
-  },
-  {
-    "name": "Plain Sourdough Baguette",
-    "value": 2160
-  },
-  {
-    "name": "Plantcake Pastry Roll",
-    "value": 30300
-  },
-  {
-    "name": "Plate of Banana Biscuits",
-    "value": 4870
-  },
-  {
-    "name": "Plate of Chocolate Chip Biscuits",
-    "value": 68700
-  },
-  {
-    "name": "Plate of Grunion Fruit Biscuits",
-    "value": 6340
-  },
-  {
-    "name": "Plate of Lime Biscuits",
-    "value": 8420
-  },
-  {
-    "name": "Plumberry Slorg Cupcake",
-    "value": 538000
-  },
-  {
-    "name": "Pomegranate Bread",
-    "value": 33000
-  },
-  {
-    "name": "Pomegranate Cupcake",
-    "value": 25700
-  },
-  {
-    "name": "Pomegranate Doughnut",
-    "value": 50300
-  },
-  {
-    "name": "Poogle Biscuit",
-    "value": 19800
-  },
-  {
-    "name": "Popcorn Bread Pudding",
-    "value": 3070
-  },
-  {
-    "name": "Popcorn Cupcake",
-    "value": 12000
-  },
-  {
-    "name": "Popcorn Sandwich",
-    "value": 2710
-  },
-  {
-    "name": "Pot-a-toon-ion Crepe",
-    "value": 68200
-  },
-  {
-    "name": "Potato Puff",
+    "name": "Lime and Orange Year Eight Cake",
     "value": 28000
   },
   {
-    "name": "Powdered Sugar Doughnut",
-    "value": 4050
+    "name": "Lime Bori Cupcake",
+    "value": 855
   },
   {
-    "name": "Pteri Seed Cake",
-    "value": 76700
+    "name": "Lime Cheesecake",
+    "value": 2000
   },
   {
-    "name": "Pterimisu",
-    "value": 1890000
+    "name": "Lime Chomby Cake",
+    "value": 460000
   },
   {
-    "name": "Pumpkin Cinnamon Yurble Ear",
-    "value": 137000
+    "name": "Lime Cupcake",
+    "value": 2000
   },
   {
-    "name": "Pumpkin Jetsam Mousse Cake",
-    "value": 2990
+    "name": "Lime Eyrie Cake",
+    "value": 955
   },
   {
-    "name": "Pumpkin Pasty",
-    "value": 19800
+    "name": "Lime JubJub Muffin",
+    "value": 55500
   },
   {
-    "name": "Pumpkin Seasonal Pudding",
-    "value": 4550
+    "name": "Lime Kougra Cake",
+    "value": 28000
   },
   {
-    "name": "Pumpkin Waffles",
-    "value": 51200
+    "name": "Lime Moehog Cupcake",
+    "value": 2000
   },
   {
-    "name": "Pumpkin-Filled Doughnut",
-    "value": 13800
+    "name": "Lime Nimmo Cake",
+    "value": 955
   },
   {
-    "name": "Pure Chocolate Biscotti",
-    "value": 20000
+    "name": "Lime Shoyru Cake",
+    "value": 19000
   },
   {
-    "name": "Pure Vanilla Biscotti",
-    "value": 5020
+    "name": "Lime Slorg Cupcake",
+    "value": 22000
   },
   {
-    "name": "Purple Cybunny Negg Cookie",
-    "value": 683
+    "name": "Lipstick Cookie",
+    "value": 34500
   },
   {
-    "name": "Purple Doughnut",
-    "value": 1420
+    "name": "Loaf of Banana Bread",
+    "value": 13000
   },
   {
-    "name": "Purple Gormball Sugar Cookies",
-    "value": 2300
+    "name": "Loaf Of Pea Bread",
+    "value": 31500
   },
   {
-    "name": "Purple Juppie Pudding",
-    "value": 1710
+    "name": "Longan Cake",
+    "value": 275
   },
   {
-    "name": "Purple Koi Cake",
+    "name": "Longan Sandwich",
+    "value": 6400
+  },
+  {
+    "name": "Loveberry Chocolate Mousse",
+    "value": 26500
+  },
+  {
+    "name": "Loveberry Peophin Tail Cookie",
+    "value": 2200
+  },
+  {
+    "name": "Lupe Bone Cake",
+    "value": 10000
+  },
+  {
+    "name": "Lupe Waffles With Butter",
+    "value": 13500
+  },
+  {
+    "name": "Lutango Creme Puff",
+    "value": 975
+  },
+  {
+    "name": "Lutango Layer Cake",
+    "value": 995
+  },
+  {
+    "name": "Lutari Feather Cake",
+    "value": 32000
+  },
+  {
+    "name": "Luxurious Kyrii Cake",
+    "value": 1100
+  },
+  {
+    "name": "Madeleine Sandwich Cookies",
+    "value": 21000
+  },
+  {
+    "name": "Maple Crepe with Cream",
+    "value": 31000
+  },
+  {
+    "name": "Maple Doughnut",
+    "value": 7400
+  },
+  {
+    "name": "Maple Koi Waffles",
+    "value": 23500
+  },
+  {
+    "name": "Maraqua Victory Mini Muffins",
+    "value": 28500
+  },
+  {
+    "name": "Maraqua Victory Sponge Cake",
+    "value": 865
+  },
+  {
+    "name": "Maraquan Kau Cake",
+    "value": 940
+  },
+  {
+    "name": "Maraquan Pillar Cake",
+    "value": 485
+  },
+  {
+    "name": "Maraquan Shoyru Biscuit",
+    "value": 13000
+  },
+  {
+    "name": "Marmalade Mince Pie",
     "value": 1000
   },
   {
+    "name": "Marshmallow and Cherry Grarrl Cake",
+    "value": 21000
+  },
+  {
+    "name": "Marshmallow Jetsam Fin Cookie",
+    "value": 2400
+  },
+  {
+    "name": "Meatball Pasty",
+    "value": 18500
+  },
+  {
+    "name": "Meaty Caramel Lupe Cake",
+    "value": 1600
+  },
+  {
+    "name": "Meaty Grarrl Cake",
+    "value": 45500
+  },
+  {
+    "name": "Meaty Lupe Treat",
+    "value": 1700
+  },
+  {
+    "name": "Meaty Potato Grarrl Cake",
+    "value": 30500
+  },
+  {
+    "name": "Meaty Seeds Pie",
+    "value": 3800
+  },
+  {
+    "name": "Meaty Treat Pasty",
+    "value": 41500
+  },
+  {
+    "name": "Meepit Cookies",
+    "value": 150
+  },
+  {
+    "name": "Meepit Juice Break Marshmallow",
+    "value": 12500
+  },
+  {
+    "name": "Meepit Muffins",
+    "value": 27000000
+  },
+  {
+    "name": "Meerca Chase Loaf",
+    "value": 520
+  },
+  {
+    "name": "Meerca Cookie",
+    "value": 14500
+  },
+  {
+    "name": "Meerca Meriberry Pie",
+    "value": 17500
+  },
+  {
+    "name": "Melon Pretzel",
+    "value": 690
+  },
+  {
+    "name": "Melow Biscuits",
+    "value": 6700
+  },
+  {
+    "name": "Melted Cheese Crumpet",
+    "value": 4100
+  },
+  {
+    "name": "Melted Kacheek Cake",
+    "value": 13000
+  },
+  {
+    "name": "Melted Tuna Sandwich",
+    "value": 11500
+  },
+  {
+    "name": "Milk Chocolate Flotsam Cookie",
+    "value": 16000
+  },
+  {
+    "name": "Milk Chocolate JubJub Cake",
+    "value": 43000
+  },
+  {
+    "name": "Mini Flotsam Cake",
+    "value": 925
+  },
+  {
+    "name": "Mini Quiche",
+    "value": 985
+  },
+  {
+    "name": "Minimalist Cake",
+    "value": 21500
+  },
+  {
+    "name": "Mint Acara Sandwich Cookie",
+    "value": 2300
+  },
+  {
+    "name": "Mint Chocolate Draik Cake",
+    "value": 1000
+  },
+  {
+    "name": "Mint Chocolate Gelert Cake",
+    "value": 1000
+  },
+  {
+    "name": "Mint Chocolate Wocky Cupcake",
+    "value": 3900
+  },
+  {
+    "name": "Mint Cybunny Cake",
+    "value": 7100
+  },
+  {
+    "name": "Mint Delight Pretzel",
+    "value": 4600
+  },
+  {
+    "name": "Mint Lenny Sandwich Cookie",
+    "value": 2700
+  },
+  {
+    "name": "Mint Lime Flotsam Cake",
+    "value": 2200
+  },
+  {
+    "name": "Mint Skeith Iced Bun",
+    "value": 2200
+  },
+  {
+    "name": "Mint Trifle",
+    "value": 2100
+  },
+  {
+    "name": "Mint Usul Meringue",
+    "value": 12500
+  },
+  {
+    "name": "Mint Werelupe Cookie",
+    "value": 920
+  },
+  {
+    "name": "Minty Bruce Muffin",
+    "value": 49500
+  },
+  {
+    "name": "Minty Cherry Mince Pie",
+    "value": 8100
+  },
+  {
+    "name": "Minty Eyrie Cookie",
+    "value": 800000
+  },
+  {
+    "name": "Minty Lupe Treat",
+    "value": 3400
+  },
+  {
+    "name": "Minty Meerca Mini Cake",
+    "value": 15000
+  },
+  {
+    "name": "Minty Mocha Cake",
+    "value": 48500
+  },
+  {
+    "name": "Minty Snowflake Cake",
+    "value": 38500
+  },
+  {
+    "name": "Moehog Fruit Cake",
+    "value": 19000
+  },
+  {
+    "name": "Moehog Sparkler Cake",
+    "value": 11000
+  },
+  {
+    "name": "Moehog Sundae",
+    "value": 9900
+  },
+  {
+    "name": "Moehog Surprise",
+    "value": 30000
+  },
+  {
+    "name": "Mop Cookie",
+    "value": 3600
+  },
+  {
+    "name": "Mortogberry Pie",
+    "value": 1000
+  },
+  {
+    "name": "Munuberry Hot Cross Buns",
+    "value": 3100
+  },
+  {
+    "name": "Mushroom Pastry Puff",
+    "value": 16500
+  },
+  {
+    "name": "Mutant Crackers",
+    "value": 2800
+  },
+  {
+    "name": "Mutant Crepe",
+    "value": 6300
+  },
+  {
+    "name": "Mutant Cupcake",
+    "value": 4900
+  },
+  {
+    "name": "Mutant Meerca Cookie",
+    "value": 35500
+  },
+  {
+    "name": "Mutant Pancakes",
+    "value": 13000
+  },
+  {
+    "name": "Mynci Tail Doughnuts",
+    "value": 9700
+  },
+  {
+    "name": "Mynci Waffles",
+    "value": 955
+  },
+  {
+    "name": "Nail Polish Cookie",
+    "value": 26000
+  },
+  {
+    "name": "Neopets 7th Birthday Bundt Cake",
+    "value": 1700
+  },
+  {
+    "name": "Neopets 7th Birthday Cake",
+    "value": 1500
+  },
+  {
+    "name": "Neopets 7th Birthday Gift-Wrap Cake",
+    "value": 5800
+  },
+  {
+    "name": "Neopian Mote Cookie",
+    "value": 5300
+  },
+  {
+    "name": "Neopolitan Jetsam Fin Cookie",
+    "value": 1400
+  },
+  {
+    "name": "New Year Bundt Cake",
+    "value": 16000
+  },
+  {
+    "name": "New Year Cake",
+    "value": 16000
+  },
+  {
+    "name": "Nimmo Day Cupcake",
+    "value": 1600
+  },
+  {
+    "name": "Nova Sponge Cake",
+    "value": 2900
+  },
+  {
+    "name": "Nutty Chocolate Brownies",
+    "value": 165
+  },
+  {
+    "name": "Oatmeal Raisin Biscuit",
+    "value": 21
+  },
+  {
+    "name": "Ogrin Confetti Cupcake",
+    "value": 10000
+  },
+  {
+    "name": "Olive Pretzel",
+    "value": 4500
+  },
+  {
+    "name": "Onion Kacheek Bread",
+    "value": 3400
+  },
+  {
+    "name": "Oranella Hot Cross Buns",
+    "value": 1900
+  },
+  {
+    "name": "Orange Bonebread",
+    "value": 15000
+  },
+  {
+    "name": "Orange Chia Cake",
+    "value": 13500
+  },
+  {
+    "name": "Orange Ixi Cake",
+    "value": 5400
+  },
+  {
+    "name": "Orange Kougra Cake",
+    "value": 26500
+  },
+  {
+    "name": "Orange Kougra Pudding",
+    "value": 2000
+  },
+  {
+    "name": "Orange Krawk Cake",
+    "value": 8900
+  },
+  {
+    "name": "Orange Leaf Cake",
+    "value": 29000
+  },
+  {
+    "name": "Orange Marmalade Cupcake",
+    "value": 2100
+  },
+  {
+    "name": "Orange Mynci Cookie",
+    "value": 33500
+  },
+  {
+    "name": "Orange Rambus Pudding",
+    "value": 980
+  },
+  {
+    "name": "Orange Scorchio Cookie",
+    "value": 1100
+  },
+  {
+    "name": "Orange Sloth Cake",
+    "value": 30500
+  },
+  {
+    "name": "Orange Smothered Swiss Roll",
+    "value": 22000
+  },
+  {
+    "name": "Orange Smug Bug Cookie",
+    "value": 8600
+  },
+  {
+    "name": "Orange Swirl Pudding",
+    "value": 2000
+  },
+  {
+    "name": "Pannetonu",
+    "value": 52000
+  },
+  {
+    "name": "Parmesan Herb Bread",
+    "value": 45500
+  },
+  {
+    "name": "Passionberry Pie",
+    "value": 13500
+  },
+  {
+    "name": "Pastrami Sandwich",
+    "value": 1100
+  },
+  {
+    "name": "Peach Cobbler",
+    "value": 19000
+  },
+  {
+    "name": "Peach Pretzel",
+    "value": 2000
+  },
+  {
+    "name": "Peachbread",
+    "value": 98000
+  },
+  {
+    "name": "Peanut Butter and Marshmallow Sandwich",
+    "value": 16000
+  },
+  {
+    "name": "Peanut Butter Biscuits",
+    "value": 16000
+  },
+  {
+    "name": "Peanut Butter Elephante Cookie",
+    "value": 2100
+  },
+  {
+    "name": "Peanut Butter Moehog Cookie",
+    "value": 46000
+  },
+  {
+    "name": "Peanut Cracker",
+    "value": 39000
+  },
+  {
+    "name": "Peanut Mynci Day Cupcake",
+    "value": 1400
+  },
+  {
+    "name": "Peophin Berry Bread",
+    "value": 1000
+  },
+  {
+    "name": "Peophin Pie",
+    "value": 575
+  },
+  {
+    "name": "Peophin Tail Loaf",
+    "value": 1000
+  },
+  {
+    "name": "Peophin-shaped Souffle",
+    "value": 17000
+  },
+  {
+    "name": "Pepper Omelette Swiss Roll",
+    "value": 3300
+  },
+  {
+    "name": "Peppermint Kougra Cake",
+    "value": 21500
+  },
+  {
+    "name": "Peppermint Mince Pie",
+    "value": 380
+  },
+  {
+    "name": "Peppermint Urgoni Cupcake",
+    "value": 16000
+  },
+  {
+    "name": "Pepperoni Pizza Doughnut",
+    "value": 18500
+  },
+  {
+    "name": "Petpet Chocolate",
+    "value": 2300
+  },
+  {
+    "name": "Petpet Mints",
+    "value": 230000
+  },
+  {
+    "name": "Piece of my Heart Gingerbread Cookies",
+    "value": 7800
+  },
+  {
+    "name": "Pine Cone Cake",
+    "value": 13500
+  },
+  {
+    "name": "Pine Nut Cake",
+    "value": 240000
+  },
+  {
+    "name": "Pineapple Muffin",
+    "value": 11500
+  },
+  {
+    "name": "Pineapple Pie",
+    "value": 30000
+  },
+  {
+    "name": "Pink Doughnut",
+    "value": 1100
+  },
+  {
+    "name": "Pink Easter Negg Cookie",
+    "value": 3100
+  },
+  {
+    "name": "Pink Gormball Sugar Cookies",
+    "value": 2800
+  },
+  {
+    "name": "Pink Lemonade Ruki Cookie",
+    "value": 96500
+  },
+  {
+    "name": "Pink Nimmo Sugar Cookie",
+    "value": 31000
+  },
+  {
+    "name": "Pink Sprinkle Doughnut",
+    "value": 895
+  },
+  {
+    "name": "Pink Starburst Stained Glass Window Cookie",
+    "value": 5400
+  },
+  {
+    "name": "Pizza Pasty",
+    "value": 3700
+  },
+  {
+    "name": "Plain Elephante Ear",
+    "value": 24000
+  },
+  {
+    "name": "Plain Hissinamon Roll",
+    "value": 30500
+  },
+  {
+    "name": "Plain Nerkmid Biscuit",
+    "value": 16500
+  },
+  {
+    "name": "Plain Old French Toast",
+    "value": 14500
+  },
+  {
+    "name": "Plain Popover",
+    "value": 31500
+  },
+  {
+    "name": "Plain Scone",
+    "value": 3300
+  },
+  {
+    "name": "Plain Snowbunny Loaf",
+    "value": 7500
+  },
+  {
+    "name": "Plain Sourdough Baguette",
+    "value": 5800
+  },
+  {
+    "name": "Plantcake Pastry Roll",
+    "value": 38000
+  },
+  {
+    "name": "Plate of Banana Biscuits",
+    "value": 3400
+  },
+  {
+    "name": "Plate of Chocolate Chip Biscuits",
+    "value": 13000
+  },
+  {
+    "name": "Plate of Grunion Fruit Biscuits",
+    "value": 5300
+  },
+  {
+    "name": "Plate of Lime Biscuits",
+    "value": 7700
+  },
+  {
+    "name": "Plumberry Slorg Cupcake",
+    "value": 32000
+  },
+  {
+    "name": "Pomegranate Bread",
+    "value": 31500
+  },
+  {
+    "name": "Pomegranate Cupcake",
+    "value": 27500
+  },
+  {
+    "name": "Pomegranate Doughnut",
+    "value": 18500
+  },
+  {
+    "name": "Poogle Biscuit",
+    "value": 19000
+  },
+  {
+    "name": "Popcorn Bread Pudding",
+    "value": 825
+  },
+  {
+    "name": "Popcorn Cupcake",
+    "value": 21500
+  },
+  {
+    "name": "Popcorn Sandwich",
+    "value": 3100
+  },
+  {
+    "name": "Pot-a-toon-ion Crepe",
+    "value": 18000
+  },
+  {
+    "name": "Potato Puff",
+    "value": 4600
+  },
+  {
+    "name": "Powdered Sugar Doughnut",
+    "value": 2700
+  },
+  {
+    "name": "Pteri Seed Cake",
+    "value": 41000
+  },
+  {
+    "name": "Pterimisu",
+    "value": 3590000
+  },
+  {
+    "name": "Pumpkin Cinnamon Yurble Ear",
+    "value": 30500
+  },
+  {
+    "name": "Pumpkin Jetsam Mousse Cake",
+    "value": 3500
+  },
+  {
+    "name": "Pumpkin Pasty",
+    "value": 19500
+  },
+  {
+    "name": "Pumpkin Seasonal Pudding",
+    "value": 1100
+  },
+  {
+    "name": "Pumpkin Waffles",
+    "value": 19000
+  },
+  {
+    "name": "Pumpkin-Filled Doughnut",
+    "value": 29000
+  },
+  {
+    "name": "Pure Chocolate Biscotti",
+    "value": 8900
+  },
+  {
+    "name": "Pure Vanilla Biscotti",
+    "value": 1600
+  },
+  {
+    "name": "Purple Cybunny Negg Cookie",
+    "value": 10000
+  },
+  {
+    "name": "Purple Doughnut",
+    "value": 1500
+  },
+  {
+    "name": "Purple Elephante Blueberry Pie",
+    "value": 5200
+  },
+  {
+    "name": "Purple Gormball Sugar Cookies",
+    "value": 2500
+  },
+  {
+    "name": "Purple Juppie Pudding",
+    "value": 1800
+  },
+  {
+    "name": "Purple Koi Cake",
+    "value": 370
+  },
+  {
     "name": "Purple Kougra Cookie Paw",
-    "value": 959
+    "value": 1300
   },
   {
     "name": "Purple Orchid Sugar Cookie",
-    "value": 3030
+    "value": 2100
   },
   {
     "name": "Purple Techo Cookie",
-    "value": 74600
+    "value": 29500
   },
   {
     "name": "Purplum and Cheese Sandwich",
-    "value": 2030
+    "value": 1300
   },
   {
     "name": "Purplum Pie",
-    "value": 55700
+    "value": 26000
   },
   {
     "name": "Purse Cookie",
-    "value": 14100
+    "value": 1500
   },
   {
     "name": "Radioactive Sloth Cake",
-    "value": 876
+    "value": 1100
   },
   {
     "name": "Rainbow Cupcake",
-    "value": 40100
+    "value": 39500
+  },
+  {
+    "name": "Rainbow Cybunny Cake",
+    "value": 16000
   },
   {
     "name": "Rainbow Cybunny Negg Cookie",
@@ -3381,663 +3401,663 @@
   },
   {
     "name": "Rainbow Doughnut",
-    "value": 896
+    "value": 860
   },
   {
     "name": "Rainbow Gelert Cupcake",
-    "value": 35500
+    "value": 17500
   },
   {
     "name": "Rainbow Gelert Day Pancakes",
-    "value": 235000
+    "value": 22000
   },
   {
     "name": "Rainbow Iced Swiss Roll",
-    "value": 1000
-  },
-  {
-    "name": "Rainbow Smug Bug Cookie",
-    "value": 9060
-  },
-  {
-    "name": "Raisin Kacheek Bread",
-    "value": 5310
-  },
-  {
-    "name": "Raspberry Butter Cookie",
-    "value": 87500
-  },
-  {
-    "name": "Raspberry Eyrie Cookie",
-    "value": 1040
-  },
-  {
-    "name": "Raspberry Gelert Cake",
-    "value": 986
-  },
-  {
-    "name": "Raspberry Jam Sandwich Cookie",
-    "value": 116000
-  },
-  {
-    "name": "Raspberry Jetsam Mousse Cake",
-    "value": 4570
-  },
-  {
-    "name": "Raspberry Macarons",
-    "value": 63400
-  },
-  {
-    "name": "Raspberry Scorchio Cookie",
-    "value": 983
-  },
-  {
-    "name": "Raspberry Scorchio Head Cookie",
-    "value": 1020
-  },
-  {
-    "name": "Raspberry Shell Twist",
-    "value": 326000
-  },
-  {
-    "name": "Red Bean Doughnut",
-    "value": 5830
-  },
-  {
-    "name": "Red PaintBrush Cookie",
-    "value": 1620000
-  },
-  {
-    "name": "Red Poinsettia Sugar Cookie",
-    "value": 1970
-  },
-  {
-    "name": "Red Rose Sugar Cookie",
-    "value": 4390
-  },
-  {
-    "name": "Red Velvet Cake",
-    "value": 390000
-  },
-  {
-    "name": "Red Wocky Sugar Cookie",
-    "value": 44400
-  },
-  {
-    "name": "Rhubarb and Custard Pretzel",
-    "value": 7260
-  },
-  {
-    "name": "Rhubarb Cheesecake",
-    "value": 53500
-  },
-  {
-    "name": "Roast Chestnut Pie",
-    "value": 57200
-  },
-  {
-    "name": "Roast Chestnut Sandwich",
-    "value": 23500
-  },
-  {
-    "name": "Roast Ummagine Pastry Roll",
-    "value": 8650
-  },
-  {
-    "name": "Robot Grundo Sugar Cookie",
-    "value": 5460
-  },
-  {
-    "name": "Rock Christmas Cookie",
-    "value": 1780
-  },
-  {
-    "name": "Rock Mote Cookie",
-    "value": 18600
-  },
-  {
-    "name": "Rose Cake",
-    "value": 3790
-  },
-  {
-    "name": "Ruki Lime Cake",
-    "value": 759
-  },
-  {
-    "name": "Sand Doughnut",
-    "value": 1940
-  },
-  {
-    "name": "Sandwich",
-    "value": 1000
-  },
-  {
-    "name": "Sandwich Book Cookie",
-    "value": 5340
-  },
-  {
-    "name": "Sausage and Cheese Pasty",
-    "value": 2350
-  },
-  {
-    "name": "Savoury Pear Pastry Roll",
-    "value": 600000
-  },
-  {
-    "name": "Savoury Sausage Roll",
-    "value": 35300
-  },
-  {
-    "name": "Scamander Cookies",
-    "value": 1080000
-  },
-  {
-    "name": "Scorchio Buffalo Bites",
-    "value": 9490
-  },
-  {
-    "name": "Scorchio Chicken Bites",
-    "value": 1250
-  },
-  {
-    "name": "Scorchio Chocolate Cream Cake",
-    "value": 62900
-  },
-  {
-    "name": "Scorchio Seaweed Cake",
-    "value": 450000
-  },
-  {
-    "name": "Scorchio Shortcake",
-    "value": 6200
-  },
-  {
-    "name": "Scorchio Spice Cake",
-    "value": 11400
-  },
-  {
-    "name": "Scrambled Egg on Toast",
-    "value": 290
-  },
-  {
-    "name": "Scrambled Egg Pie",
-    "value": 13800
-  },
-  {
-    "name": "Screlon Pie",
-    "value": 17200
-  },
-  {
-    "name": "Seafood Pasty",
-    "value": 5370
-  },
-  {
-    "name": "Seasoned Sausage Roll",
-    "value": 169000
-  },
-  {
-    "name": "Seaweed Krawk Cake",
-    "value": 8140
-  },
-  {
-    "name": "Seedless Skeem Roll",
-    "value": 31000
-  },
-  {
-    "name": "Sergeant Zarex Cookie",
-    "value": 2860
-  },
-  {
-    "name": "Sergeant Zarex Sugar Cookie",
-    "value": 2680
-  },
-  {
-    "name": "Shell Madeleine",
-    "value": 116000
-  },
-  {
-    "name": "Shenkuu-Themed Neopets 7th Birthday Cake",
-    "value": 108000
-  },
-  {
-    "name": "Simple New Year Cake",
-    "value": 18900
-  },
-  {
-    "name": "Skeem Quiggle Cupcake",
-    "value": 10300
-  },
-  {
-    "name": "Sketch Swiss Roll",
-    "value": 966
-  },
-  {
-    "name": "Sleep Ray Sandwich Cookie",
-    "value": 2370
-  },
-  {
-    "name": "Slice of Deluxe Lemon Mynci Cake",
-    "value": 324000
-  },
-  {
-    "name": "Slice Of Pea Pie",
-    "value": 11000
-  },
-  {
-    "name": "Slice of Pink Neopets 8th Birthday Cake",
-    "value": 2910
-  },
-  {
-    "name": "Slimy Usul Cake",
-    "value": 34500
-  },
-  {
-    "name": "Slingshot Sugar Cookie",
-    "value": 10600
-  },
-  {
-    "name": "Small Bomberry Pie",
-    "value": 2370
-  },
-  {
-    "name": "Small Chokato Pie",
-    "value": 1150
-  },
-  {
-    "name": "Small Elppa Pie",
-    "value": 826
-  },
-  {
-    "name": "Small Lemwart Pie",
-    "value": 601
-  },
-  {
-    "name": "Smooshed Heart Cake",
-    "value": 7910
-  },
-  {
-    "name": "Snacking Bread",
-    "value": 65400
-  },
-  {
-    "name": "Sniddberry Butter Cookie",
-    "value": 699000
-  },
-  {
-    "name": "Snow Mote Cookie",
-    "value": 27400
-  },
-  {
-    "name": "Snowberry Biscuits",
-    "value": 2950
-  },
-  {
-    "name": "Snowberry Poogle Cake",
-    "value": 1000
-  },
-  {
-    "name": "Snowberry Quiggle Cake",
-    "value": 22300
-  },
-  {
-    "name": "Snowbunny in Hat Cake",
-    "value": 14300
-  },
-  {
-    "name": "Snowflake Bread",
-    "value": 87400
-  },
-  {
-    "name": "Snowflake Cake",
-    "value": 400
-  },
-  {
-    "name": "Snowflake Cookie",
-    "value": 190000
-  },
-  {
-    "name": "Snowflake Muffin",
-    "value": 374000
-  },
-  {
-    "name": "Snowy Pancakes",
-    "value": 1530
-  },
-  {
-    "name": "Sour Uni Cake",
-    "value": 47100
-  },
-  {
-    "name": "Sourdough Baguette",
-    "value": 822
-  },
-  {
-    "name": "Speckled Cupcake",
-    "value": 955000
-  },
-  {
-    "name": "Speckled Doughnut",
-    "value": 3980
-  },
-  {
-    "name": "Spice Ruki Biscuit",
-    "value": 22500
-  },
-  {
-    "name": "Spicy Juppie Pasty",
-    "value": 17100
-  },
-  {
-    "name": "Spiky Spiral Pretzels",
-    "value": 19100
-  },
-  {
-    "name": "Spinach and Asparagus Pasty",
-    "value": 2290
-  },
-  {
-    "name": "Split Grundo Sugar Cookie",
-    "value": 2140
-  },
-  {
-    "name": "Split Loaf",
-    "value": 185000
-  },
-  {
-    "name": "Sponge Korbat Ears",
-    "value": 1270
-  },
-  {
-    "name": "Spoogentberry Ixi Hoofprint Cookie",
-    "value": 1240
-  },
-  {
-    "name": "Spotted Gelert Day Pancakes",
-    "value": 26300
-  },
-  {
-    "name": "Spotted Kau Cake",
-    "value": 1260
-  },
-  {
-    "name": "Squibble Berry Tonu Cupcake",
-    "value": 262000
-  },
-  {
-    "name": "Squirming Squid Pasty",
-    "value": 9190
-  },
-  {
-    "name": "Stack It High Cake",
-    "value": 5900000
-  },
-  {
-    "name": "Stained Glass Holiday Cookie",
-    "value": 47400
-  },
-  {
-    "name": "Starberry Drum Cake",
-    "value": 90100
-  },
-  {
-    "name": "Starberry Poogle Cake",
     "value": 2200
   },
   {
-    "name": "Starberry Scorchio Pancakes",
-    "value": 2550
+    "name": "Rainbow Smug Bug Cookie",
+    "value": 12500
   },
   {
-    "name": "Starberry Techo Biscuit",
+    "name": "Raisin Kacheek Bread",
+    "value": 3200
+  },
+  {
+    "name": "Raspberry Butter Cookie",
+    "value": 15000
+  },
+  {
+    "name": "Raspberry Eyrie Cookie",
     "value": 1000
   },
   {
-    "name": "Starry Birthday Cake",
-    "value": 278
+    "name": "Raspberry Gelert Cake",
+    "value": 740
   },
   {
-    "name": "Starry Chocolate Usul Cake",
-    "value": 28000
+    "name": "Raspberry Jam Sandwich Cookie",
+    "value": 31000
   },
   {
-    "name": "Starry Scorchio Cupcake",
-    "value": 5120
+    "name": "Raspberry Jetsam Mousse Cake",
+    "value": 9800
   },
   {
-    "name": "Starry Toast",
-    "value": 12300
+    "name": "Raspberry Macarons",
+    "value": 39000
   },
   {
-    "name": "Steak Cake",
-    "value": 999
-  },
-  {
-    "name": "Sticky Buns",
-    "value": 6510
-  },
-  {
-    "name": "Strawberries and Cream Lenny Cookie",
+    "name": "Raspberry Scorchio Cookie",
     "value": 1000
   },
   {
-    "name": "Strawberry Acara Sandwich Cookie",
-    "value": 1710
+    "name": "Raspberry Scorchio Head Cookie",
+    "value": 955
   },
   {
-    "name": "Strawberry Aisha Cookie",
-    "value": 754
+    "name": "Raspberry Shell Twist",
+    "value": 6600
   },
   {
-    "name": "Strawberry and Chocolate Yurble Cupcake",
-    "value": 1000
-  },
-  {
-    "name": "Strawberry Blumaroo Waffles",
-    "value": 34300
-  },
-  {
-    "name": "Strawberry Bruce Muffin",
-    "value": 18300
-  },
-  {
-    "name": "Strawberry Buzz Gateau",
-    "value": 988
-  },
-  {
-    "name": "Strawberry Carrot Cake",
-    "value": 2980
-  },
-  {
-    "name": "Strawberry Chip Quiggle Cookie",
-    "value": 1420
-  },
-  {
-    "name": "Strawberry Cobbler",
-    "value": 42800
-  },
-  {
-    "name": "Strawberry Cream Cybunny Paw",
-    "value": 27000
-  },
-  {
-    "name": "Strawberry Crepe",
-    "value": 10400
-  },
-  {
-    "name": "Strawberry Crumpet",
-    "value": 2220
-  },
-  {
-    "name": "Strawberry Cybunny Cake",
-    "value": 2210
-  },
-  {
-    "name": "Strawberry Cybunny Cheesecake",
-    "value": 338000
-  },
-  {
-    "name": "Strawberry Cybunny Cookie",
-    "value": 51500
-  },
-  {
-    "name": "Strawberry Delight Aisha Cake",
-    "value": 13200
-  },
-  {
-    "name": "Strawberry Draik Biscuit",
-    "value": 21700
-  },
-  {
-    "name": "Strawberry Draik Cake",
-    "value": 577
-  },
-  {
-    "name": "Strawberry Elephante Cookie",
-    "value": 16500
-  },
-  {
-    "name": "Strawberry Eyrie Cake",
-    "value": 796
-  },
-  {
-    "name": "Strawberry Faellie Cake",
-    "value": 38000
-  },
-  {
-    "name": "Strawberry Frosted Doughnut",
+    "name": "Red Bean Doughnut",
     "value": 3000
   },
   {
-    "name": "Strawberry Fruit Cup",
-    "value": 2020
+    "name": "Red PaintBrush Cookie",
+    "value": 37000
   },
   {
-    "name": "Strawberry Gelert Cookie",
-    "value": 7840
+    "name": "Red Poinsettia Sugar Cookie",
+    "value": 1200
   },
   {
-    "name": "Strawberry Gelert Cupcake",
-    "value": 26600
+    "name": "Red Rose Sugar Cookie",
+    "value": 3100
   },
   {
-    "name": "Strawberry Grarrl Cupcake",
-    "value": 1970
+    "name": "Red Velvet Cake",
+    "value": 24000
   },
   {
-    "name": "Strawberry Hissinamon Roll",
-    "value": 23400
+    "name": "Red Wocky Sugar Cookie",
+    "value": 53000
   },
   {
-    "name": "Strawberry Ice Cream Tonu Cake",
-    "value": 16700
+    "name": "Rhubarb and Custard Pretzel",
+    "value": 9100
   },
   {
-    "name": "Strawberry Iced Mynci",
-    "value": 1960
+    "name": "Rhubarb Cheesecake",
+    "value": 7600
   },
   {
-    "name": "Strawberry Jam Sandwich Cookie",
-    "value": 96
+    "name": "Roast Chestnut Pie",
+    "value": 28000
   },
   {
-    "name": "Strawberry Jetsam Fin Cookie",
-    "value": 1650
+    "name": "Roast Chestnut Sandwich",
+    "value": 22000
   },
   {
-    "name": "Strawberry JubJub Cake",
-    "value": 46800
+    "name": "Roast Ummagine Pastry Roll",
+    "value": 11500
   },
   {
-    "name": "Strawberry Kau Cream Cake",
-    "value": 834
+    "name": "Robot Grundo Sugar Cookie",
+    "value": 4800
   },
   {
-    "name": "Strawberry Kite Cake",
-    "value": 13800
+    "name": "Rock Christmas Cookie",
+    "value": 715
   },
   {
-    "name": "Strawberry Koi Biscuit",
-    "value": 3030
+    "name": "Rock Mote Cookie",
+    "value": 29500
   },
   {
-    "name": "Strawberry Koi Cupcake",
-    "value": 24900
+    "name": "Rose Cake",
+    "value": 4800
   },
   {
-    "name": "Strawberry Koi Waffles",
-    "value": 80500
+    "name": "Ruki Lime Cake",
+    "value": 325
   },
   {
-    "name": "Strawberry Kougra Cookie",
-    "value": 1450
+    "name": "Sand Doughnut",
+    "value": 1400
   },
   {
-    "name": "Strawberry Krawk Cookie",
-    "value": 27200
+    "name": "Sandwich",
+    "value": 2800
   },
   {
-    "name": "Strawberry Kyrii Cookie",
+    "name": "Sandwich Book Cookie",
+    "value": 30000
+  },
+  {
+    "name": "Sausage and Cheese Pasty",
+    "value": 3400
+  },
+  {
+    "name": "Savoury Pear Pastry Roll",
+    "value": 10000
+  },
+  {
+    "name": "Savoury Sausage Roll",
+    "value": 30500
+  },
+  {
+    "name": "Scamander Cookies",
+    "value": 830000
+  },
+  {
+    "name": "Scorchio Buffalo Bites",
+    "value": 17500
+  },
+  {
+    "name": "Scorchio Chicken Bites",
+    "value": 1400
+  },
+  {
+    "name": "Scorchio Chocolate Cream Cake",
     "value": 19000
   },
   {
+    "name": "Scorchio Seaweed Cake",
+    "value": 31500
+  },
+  {
+    "name": "Scorchio Shortcake",
+    "value": 5700
+  },
+  {
+    "name": "Scorchio Spice Cake",
+    "value": 33500
+  },
+  {
+    "name": "Scrambled Egg on Toast",
+    "value": 325
+  },
+  {
+    "name": "Scrambled Egg Pie",
+    "value": 4900
+  },
+  {
+    "name": "Screlon Pie",
+    "value": 28500
+  },
+  {
+    "name": "Seafood Pasty",
+    "value": 7200
+  },
+  {
+    "name": "Seasoned Sausage Roll",
+    "value": 31500
+  },
+  {
+    "name": "Seaweed Krawk Cake",
+    "value": 10000
+  },
+  {
+    "name": "Seedless Skeem Roll",
+    "value": 26500
+  },
+  {
+    "name": "Sergeant Zarex Cookie",
+    "value": 3700
+  },
+  {
+    "name": "Sergeant Zarex Sugar Cookie",
+    "value": 3000
+  },
+  {
+    "name": "Shell Madeleine",
+    "value": 30000
+  },
+  {
+    "name": "Shenkuu-Themed Neopets 7th Birthday Cake",
+    "value": 9200
+  },
+  {
+    "name": "Simple New Year Cake",
+    "value": 12500
+  },
+  {
+    "name": "Skeem Quiggle Cupcake",
+    "value": 14000
+  },
+  {
+    "name": "Sketch Swiss Roll",
+    "value": 110
+  },
+  {
+    "name": "Sleep Ray Sandwich Cookie",
+    "value": 1600
+  },
+  {
+    "name": "Slice of Deluxe Lemon Mynci Cake",
+    "value": 18500
+  },
+  {
+    "name": "Slice Of Pea Pie",
+    "value": 10000
+  },
+  {
+    "name": "Slice of Pink Neopets 8th Birthday Cake",
+    "value": 3600
+  },
+  {
+    "name": "Slimy Usul Cake",
+    "value": 16000
+  },
+  {
+    "name": "Slingshot Sugar Cookie",
+    "value": 9500
+  },
+  {
+    "name": "Small Bomberry Pie",
+    "value": 1000
+  },
+  {
+    "name": "Small Chokato Pie",
+    "value": 950
+  },
+  {
+    "name": "Small Elppa Pie",
+    "value": 960
+  },
+  {
+    "name": "Small Lemwart Pie",
+    "value": 120
+  },
+  {
+    "name": "Smooshed Heart Cake",
+    "value": 3500
+  },
+  {
+    "name": "Snacking Bread",
+    "value": 34500
+  },
+  {
+    "name": "Sniddberry Butter Cookie",
+    "value": 31500
+  },
+  {
+    "name": "Snow Mote Cookie",
+    "value": 10000
+  },
+  {
+    "name": "Snowberry Biscuits",
+    "value": 2200
+  },
+  {
+    "name": "Snowberry Poogle Cake",
+    "value": 410
+  },
+  {
+    "name": "Snowberry Quiggle Cake",
+    "value": 20000
+  },
+  {
+    "name": "Snowbunny in Hat Cake",
+    "value": 23500
+  },
+  {
+    "name": "Snowflake Bread",
+    "value": 23500
+  },
+  {
+    "name": "Snowflake Cake",
+    "value": 575
+  },
+  {
+    "name": "Snowflake Cookie",
+    "value": 31000
+  },
+  {
+    "name": "Snowflake Muffin",
+    "value": 33000
+  },
+  {
+    "name": "Snowy Pancakes",
+    "value": 5100
+  },
+  {
+    "name": "Sour Uni Cake",
+    "value": 30000
+  },
+  {
+    "name": "Sourdough Baguette",
+    "value": 925
+  },
+  {
+    "name": "Speckled Cupcake",
+    "value": 32500
+  },
+  {
+    "name": "Speckled Doughnut",
+    "value": 6500
+  },
+  {
+    "name": "Spice Ruki Biscuit",
+    "value": 18000
+  },
+  {
+    "name": "Spicy Juppie Pasty",
+    "value": 14000
+  },
+  {
+    "name": "Spiky Spiral Pretzels",
+    "value": 12500
+  },
+  {
+    "name": "Spinach and Asparagus Pasty",
+    "value": 2700
+  },
+  {
+    "name": "Split Grundo Sugar Cookie",
+    "value": 1000
+  },
+  {
+    "name": "Split Loaf",
+    "value": 15500
+  },
+  {
+    "name": "Sponge Korbat Ears",
+    "value": 1100
+  },
+  {
+    "name": "Spoogentberry Ixi Hoofprint Cookie",
+    "value": 3400
+  },
+  {
+    "name": "Spotted Gelert Day Pancakes",
+    "value": 14500
+  },
+  {
+    "name": "Spotted Kau Cake",
+    "value": 1100
+  },
+  {
+    "name": "Squibble Berry Tonu Cupcake",
+    "value": 13500
+  },
+  {
+    "name": "Squirming Squid Pasty",
+    "value": 6900
+  },
+  {
+    "name": "Stack It High Cake",
+    "value": 5500000
+  },
+  {
+    "name": "Stained Glass Holiday Cookie",
+    "value": 96500
+  },
+  {
+    "name": "Starberry Drum Cake",
+    "value": 97000
+  },
+  {
+    "name": "Starberry Poogle Cake",
+    "value": 1300
+  },
+  {
+    "name": "Starberry Scorchio Pancakes",
+    "value": 2700
+  },
+  {
+    "name": "Starberry Techo Biscuit",
+    "value": 585
+  },
+  {
+    "name": "Starry Birthday Cake",
+    "value": 4200
+  },
+  {
+    "name": "Starry Chocolate Usul Cake",
+    "value": 26000
+  },
+  {
+    "name": "Starry Scorchio Cupcake",
+    "value": 2000
+  },
+  {
+    "name": "Starry Toast",
+    "value": 8700
+  },
+  {
+    "name": "Steak Cake",
+    "value": 865
+  },
+  {
+    "name": "Sticky Buns",
+    "value": 15500
+  },
+  {
+    "name": "Strawberries and Cream Lenny Cookie",
+    "value": 1500
+  },
+  {
+    "name": "Strawberry Acara Sandwich Cookie",
+    "value": 2500
+  },
+  {
+    "name": "Strawberry Aisha Cookie",
+    "value": 1000
+  },
+  {
+    "name": "Strawberry and Chocolate Yurble Cupcake",
+    "value": 485
+  },
+  {
+    "name": "Strawberry Blumaroo Waffles",
+    "value": 19500
+  },
+  {
+    "name": "Strawberry Bruce Muffin",
+    "value": 16000
+  },
+  {
+    "name": "Strawberry Buzz Gateau",
+    "value": 1300
+  },
+  {
+    "name": "Strawberry Carrot Cake",
+    "value": 2900
+  },
+  {
+    "name": "Strawberry Chip Quiggle Cookie",
+    "value": 2000
+  },
+  {
+    "name": "Strawberry Cobbler",
+    "value": 8300
+  },
+  {
+    "name": "Strawberry Cream Cybunny Paw",
+    "value": 20000
+  },
+  {
+    "name": "Strawberry Crepe",
+    "value": 42500
+  },
+  {
+    "name": "Strawberry Crumpet",
+    "value": 3100
+  },
+  {
+    "name": "Strawberry Cybunny Cake",
+    "value": 3100
+  },
+  {
+    "name": "Strawberry Cybunny Cheesecake",
+    "value": 33000
+  },
+  {
+    "name": "Strawberry Cybunny Cookie",
+    "value": 61500
+  },
+  {
+    "name": "Strawberry Delight Aisha Cake",
+    "value": 23500
+  },
+  {
+    "name": "Strawberry Draik Biscuit",
+    "value": 30500
+  },
+  {
+    "name": "Strawberry Draik Cake",
+    "value": 520
+  },
+  {
+    "name": "Strawberry Elephante Cookie",
+    "value": 42000
+  },
+  {
+    "name": "Strawberry Eyrie Cake",
+    "value": 750
+  },
+  {
+    "name": "Strawberry Faellie Cake",
+    "value": 15000
+  },
+  {
+    "name": "Strawberry Frosted Doughnut",
+    "value": 2700
+  },
+  {
+    "name": "Strawberry Fruit Cup",
+    "value": 1600
+  },
+  {
+    "name": "Strawberry Gelert Cookie",
+    "value": 14500
+  },
+  {
+    "name": "Strawberry Gelert Cupcake",
+    "value": 18000
+  },
+  {
+    "name": "Strawberry Grarrl Cupcake",
+    "value": 1100
+  },
+  {
+    "name": "Strawberry Hissinamon Roll",
+    "value": 36500
+  },
+  {
+    "name": "Strawberry Ice Cream Tonu Cake",
+    "value": 18000
+  },
+  {
+    "name": "Strawberry Iced Mynci",
+    "value": 1500
+  },
+  {
+    "name": "Strawberry Jam Sandwich Cookie",
+    "value": 160
+  },
+  {
+    "name": "Strawberry Jetsam Fin Cookie",
+    "value": 1200
+  },
+  {
+    "name": "Strawberry JubJub Cake",
+    "value": 21000
+  },
+  {
+    "name": "Strawberry Kau Cream Cake",
+    "value": 1000
+  },
+  {
+    "name": "Strawberry Kite Cake",
+    "value": 30000
+  },
+  {
+    "name": "Strawberry Koi Biscuit",
+    "value": 3000
+  },
+  {
+    "name": "Strawberry Koi Cupcake",
+    "value": 20000
+  },
+  {
+    "name": "Strawberry Koi Waffles",
+    "value": 29000
+  },
+  {
+    "name": "Strawberry Kougra Cookie",
+    "value": 1200
+  },
+  {
+    "name": "Strawberry Krawk Cookie",
+    "value": 27000
+  },
+  {
+    "name": "Strawberry Kyrii Cookie",
+    "value": 31000
+  },
+  {
     "name": "Strawberry Lemon Jar Cake",
-    "value": 30100
+    "value": 31500
   },
   {
     "name": "Strawberry Lupe Treat",
-    "value": 65400
+    "value": 35500
   },
   {
     "name": "Strawberry Madeleines",
-    "value": 75500
+    "value": 38000
   },
   {
     "name": "Strawberry Meerca Mini Cake",
-    "value": 1030
+    "value": 1100
   },
   {
     "name": "Strawberry Mince Pie",
-    "value": 28200
+    "value": 21500
   },
   {
     "name": "Strawberry Moehog Cake",
-    "value": 1940
+    "value": 1100
   },
   {
     "name": "Strawberry Moehog Cookie",
-    "value": 337000
+    "value": 48500
   },
   {
     "name": "Strawberry Moehog Cupcake",
-    "value": 957
+    "value": 370
   },
   {
     "name": "Strawberry Mynci Day Cupcake",
-    "value": 994
+    "value": 1800
   },
   {
     "name": "Strawberry Nova Waffle",
-    "value": 40700
+    "value": 17000
   },
   {
     "name": "Strawberry Ogrin Biscuit",
-    "value": 69400
+    "value": 33000
   },
   {
     "name": "Strawberry Petpet Candies",
-    "value": 163000
+    "value": 25000
   },
   {
     "name": "Strawberry Pi Pie",
-    "value": 301
+    "value": 775
   },
   {
     "name": "Strawberry Poogle Biscuit",
-    "value": 17600
+    "value": 16000
   },
   {
     "name": "Strawberry Poogle Cake",
-    "value": 4590
+    "value": 5700
   },
   {
     "name": "Strawberry Pretzel",
@@ -4045,503 +4065,503 @@
   },
   {
     "name": "Strawberry Quiggle Cupcake",
-    "value": 11000
+    "value": 24000
   },
   {
     "name": "Strawberry Ruki Biscuit",
-    "value": 32700
-  },
-  {
-    "name": "Strawberry Scorchio Cookie",
-    "value": 889
-  },
-  {
-    "name": "Strawberry Scorchio Meringue",
-    "value": 1000
-  },
-  {
-    "name": "Strawberry Seasonal Pudding",
-    "value": 2360
-  },
-  {
-    "name": "Strawberry Shimmer Cake",
-    "value": 99600
-  },
-  {
-    "name": "Strawberry Shortcake",
-    "value": 1360
-  },
-  {
-    "name": "Strawberry Skeith Biscuit",
-    "value": 91000
-  },
-  {
-    "name": "Strawberry Skeith Iced Bun",
-    "value": 1230
-  },
-  {
-    "name": "Strawberry Smothered Swiss Roll",
-    "value": 84400
-  },
-  {
-    "name": "Strawberry Snowflake Cake",
-    "value": 990
-  },
-  {
-    "name": "Strawberry Techo Biscuit",
-    "value": 62100
-  },
-  {
-    "name": "Strawberry Techo Cookie",
-    "value": 2210
-  },
-  {
-    "name": "Strawberry Tonu Cookie",
-    "value": 67000
-  },
-  {
-    "name": "Strawberry Tonu Foot Shortcake",
-    "value": 13300
-  },
-  {
-    "name": "Strawberry Urgoni Cupcake",
-    "value": 17300
-  },
-  {
-    "name": "Strawberry Usul Meringue",
-    "value": 394000
-  },
-  {
-    "name": "Strawberry Werelupe Cookie",
-    "value": 231
-  },
-  {
-    "name": "Strawberry Wocky Meringue",
-    "value": 302000
-  },
-  {
-    "name": "Strawberry Wocky Pancakes",
-    "value": 106000
-  },
-  {
-    "name": "Strawberry Yurble Meringue Cookie",
-    "value": 22000
-  },
-  {
-    "name": "Strawberry Zafara Cake",
-    "value": 1200
-  },
-  {
-    "name": "Striped Gelert Day Pancakes",
-    "value": 900000
-  },
-  {
-    "name": "Stuffed Cabbage Pastry",
-    "value": 980000
-  },
-  {
-    "name": "Stuffed Cauliflower Pastry",
-    "value": 161000
-  },
-  {
-    "name": "Sugar Coated Lupe Treat",
-    "value": 1900
-  },
-  {
-    "name": "Sugar Doughnut",
-    "value": 722
-  },
-  {
-    "name": "Sugar Nerkmid Biscuit",
-    "value": 1760000
-  },
-  {
-    "name": "Sugary Sausage Roll",
-    "value": 9350
-  },
-  {
-    "name": "Sunflower Sugar Cookie",
-    "value": 4970
-  },
-  {
-    "name": "Super Creamy Kyrii Cake",
-    "value": 819
-  },
-  {
-    "name": "Super Deluxe Maraquan Victory Cake",
-    "value": 29100
-  },
-  {
-    "name": "Super Fancy Birthday Cake",
-    "value": 41800
-  },
-  {
-    "name": "Super Sub",
-    "value": 1340
-  },
-  {
-    "name": "Suti Muffin",
-    "value": 229000
-  },
-  {
-    "name": "Sweetcorn Snowbunny Loaf",
-    "value": 1140
-  },
-  {
-    "name": "Swirled Jhudora Petit Four",
-    "value": 7480
-  },
-  {
-    "name": "Swirled Pancakes",
-    "value": 911000
-  },
-  {
-    "name": "Swirly Werelupe Cookie",
-    "value": 600000
-  },
-  {
-    "name": "Swiss Cheese Cracker",
-    "value": 15700
-  },
-  {
-    "name": "Tagobo Gelert Cake",
-    "value": 1040
-  },
-  {
-    "name": "Tangella Slorg Cupcake",
-    "value": 874
-  },
-  {
-    "name": "Tchea Fruit Pastry",
     "value": 12500
   },
   {
-    "name": "Tchea Fruit Pasty",
-    "value": 10100
+    "name": "Strawberry Scorchio Cookie",
+    "value": 900
   },
   {
-    "name": "Tchea Hissi Cake",
-    "value": 1900
+    "name": "Strawberry Scorchio Meringue",
+    "value": 605
   },
   {
-    "name": "Tchea Peophin Tail Cookie",
-    "value": 23200
-  },
-  {
-    "name": "TeaLeef Sandwich",
-    "value": 4910
-  },
-  {
-    "name": "Terror Mountain Tilt Commemorative Cake",
-    "value": 42900
-  },
-  {
-    "name": "Terror Mountain Tilt Commemorative Cupcake",
-    "value": 33700
-  },
-  {
-    "name": "Tetraberry Tonu Cupcake",
-    "value": 43400
-  },
-  {
-    "name": "Thistleberry Crepe",
-    "value": 30900
-  },
-  {
-    "name": "Thistleberry Pie",
-    "value": 17800
-  },
-  {
-    "name": "Thornberry Hissi Cake",
-    "value": 850
-  },
-  {
-    "name": "Thornberry Kougraclaw",
-    "value": 203000
-  },
-  {
-    "name": "Thornberry Krawk Tart",
-    "value": 1160
-  },
-  {
-    "name": "Thornberry Mince Pie",
-    "value": 882000
-  },
-  {
-    "name": "Tiered Neopets 8th Birthday Cake",
-    "value": 73800
-  },
-  {
-    "name": "Tigerbuggle Jam on Toast",
-    "value": 3560
-  },
-  {
-    "name": "Tigerbuggle Scorchio Cookie",
-    "value": 7420
-  },
-  {
-    "name": "Tigerfruit Hissi Cake",
+    "name": "Strawberry Seasonal Pudding",
     "value": 1400
   },
   {
-    "name": "Tigerfruit Krawk Tart",
-    "value": 310
+    "name": "Strawberry Shimmer Cake",
+    "value": 130000
   },
   {
-    "name": "Tigersquash Blumaroo Biscuit",
-    "value": 30200
+    "name": "Strawberry Shortcake",
+    "value": 970
   },
   {
-    "name": "Tigersquash Kougraclaw",
-    "value": 723
+    "name": "Strawberry Skeith Biscuit",
+    "value": 56500
   },
   {
-    "name": "Tigersquash Mince Pie",
-    "value": 422000
-  },
-  {
-    "name": "Tigersquash Pretzel",
-    "value": 14300
-  },
-  {
-    "name": "Tigersquash Sandwich",
-    "value": 1280
-  },
-  {
-    "name": "Toad in a Hole",
-    "value": 225
-  },
-  {
-    "name": "Toast A La King",
-    "value": 22600
-  },
-  {
-    "name": "Toast With Au Jus",
-    "value": 19700
-  },
-  {
-    "name": "Toast With Cheese",
-    "value": 22900
-  },
-  {
-    "name": "Toast with Jam",
-    "value": 201
-  },
-  {
-    "name": "Toasty Jam Surprise",
-    "value": 61000
-  },
-  {
-    "name": "Tobbie Fruit Peophin Tail Cookie",
-    "value": 23100
-  },
-  {
-    "name": "Tobbie Fruit Scone",
-    "value": 991
-  },
-  {
-    "name": "Toffee Covered Strawberry Techo Cookie",
-    "value": 74400
-  },
-  {
-    "name": "Tomato and Cheese Mooncake",
-    "value": 1910
-  },
-  {
-    "name": "Tomato Cheese Basil Sandwich",
-    "value": 1060
-  },
-  {
-    "name": "Tooth Faerie Muffin",
-    "value": 10000
-  },
-  {
-    "name": "Top Hat Cake",
-    "value": 8470
-  },
-  {
-    "name": "Tower Wafflecake",
-    "value": 2780
-  },
-  {
-    "name": "Transparaberry Hot Cross Buns",
-    "value": 329000
-  },
-  {
-    "name": "Triple Choco-Strawberry Cake",
-    "value": 2970
-  },
-  {
-    "name": "Triple Chocolate Mince Pie",
-    "value": 36700
-  },
-  {
-    "name": "Tropicolour Cake",
-    "value": 10000
-  },
-  {
-    "name": "Turtum Cookie",
-    "value": 1270
-  },
-  {
-    "name": "Tuskaninny Cupcake",
-    "value": 3970
-  },
-  {
-    "name": "Twirly Fruit Creme Pie",
-    "value": 3740
-  },
-  {
-    "name": "Twirly Fruit Ixi Hoofprint Cookie",
-    "value": 17600
-  },
-  {
-    "name": "Twisty Sugar Doughnut",
-    "value": 2230
-  },
-  {
-    "name": "Ultimate Grilled Cheese Sandwich",
-    "value": 3390000
-  },
-  {
-    "name": "Ultranova Sponge Cake",
-    "value": 62000
-  },
-  {
-    "name": "Ummagine Pie",
-    "value": 46000
-  },
-  {
-    "name": "Uni Breadsticks",
-    "value": 8850
-  },
-  {
-    "name": "Uni Carrot Cake",
-    "value": 87000
-  },
-  {
-    "name": "Uni Chokato Cake",
-    "value": 392000
-  },
-  {
-    "name": "Uni Day BLT Sandwich",
-    "value": 533000
-  },
-  {
-    "name": "Uni Day Chokato Sandwich",
-    "value": 649
-  },
-  {
-    "name": "Uni Day Grilled Cheese Sandwich",
-    "value": 1400
-  },
-  {
-    "name": "Uni Day Jam Sandwich",
-    "value": 1140
-  },
-  {
-    "name": "Uni Kiwi Cake",
-    "value": 1190
-  },
-  {
-    "name": "Uni Lemon Cake",
-    "value": 49800
-  },
-  {
-    "name": "Uni Orange Cake",
-    "value": 1020
-  },
-  {
-    "name": "Uni Rainbow Cake",
-    "value": 755
-  },
-  {
-    "name": "Unity Frosting Sugar Cookie",
-    "value": 2860
-  },
-  {
-    "name": "Usuki Baby Cupcake",
-    "value": 558000
-  },
-  {
-    "name": "Usuki Box-o-Biscuits",
-    "value": 2710
-  },
-  {
-    "name": "Usuki Haircake",
+    "name": "Strawberry Skeith Iced Bun",
     "value": 2000
   },
   {
+    "name": "Strawberry Smothered Swiss Roll",
+    "value": 100000
+  },
+  {
+    "name": "Strawberry Snowflake Cake",
+    "value": 325
+  },
+  {
+    "name": "Strawberry Techo Biscuit",
+    "value": 30000
+  },
+  {
+    "name": "Strawberry Techo Cookie",
+    "value": 1900
+  },
+  {
+    "name": "Strawberry Tonu Cookie",
+    "value": 27000
+  },
+  {
+    "name": "Strawberry Tonu Foot Shortcake",
+    "value": 8400
+  },
+  {
+    "name": "Strawberry Urgoni Cupcake",
+    "value": 22500
+  },
+  {
+    "name": "Strawberry Usul Meringue",
+    "value": 22500
+  },
+  {
+    "name": "Strawberry Werelupe Cookie",
+    "value": 380
+  },
+  {
+    "name": "Strawberry Wocky Meringue",
+    "value": 32000
+  },
+  {
+    "name": "Strawberry Wocky Pancakes",
+    "value": 17500
+  },
+  {
+    "name": "Strawberry Yurble Meringue Cookie",
+    "value": 43500
+  },
+  {
+    "name": "Strawberry Zafara Cake",
+    "value": 1000
+  },
+  {
+    "name": "Striped Gelert Day Pancakes",
+    "value": 60000
+  },
+  {
+    "name": "Stuffed Cabbage Pastry",
+    "value": 7900
+  },
+  {
+    "name": "Stuffed Cauliflower Pastry",
+    "value": 12
+  },
+  {
+    "name": "Sugar Coated Lupe Treat",
+    "value": 1800
+  },
+  {
+    "name": "Sugar Doughnut",
+    "value": 1100
+  },
+  {
+    "name": "Sugar Nerkmid Biscuit",
+    "value": 1600000
+  },
+  {
+    "name": "Sugary Sausage Roll",
+    "value": 7600
+  },
+  {
+    "name": "Sunflower Sugar Cookie",
+    "value": 1200
+  },
+  {
+    "name": "Super Creamy Kyrii Cake",
+    "value": 1300
+  },
+  {
+    "name": "Super Deluxe Maraquan Victory Cake",
+    "value": 4800
+  },
+  {
+    "name": "Super Fancy Birthday Cake",
+    "value": 32500
+  },
+  {
+    "name": "Super Sub",
+    "value": 1800
+  },
+  {
+    "name": "Suti Muffin",
+    "value": 20000
+  },
+  {
+    "name": "Sweetcorn Snowbunny Loaf",
+    "value": 2100
+  },
+  {
+    "name": "Swirled Jhudora Petit Four",
+    "value": 7400
+  },
+  {
+    "name": "Swirled Pancakes",
+    "value": 18500
+  },
+  {
+    "name": "Swirly Werelupe Cookie",
+    "value": 23500
+  },
+  {
+    "name": "Swiss Cheese Cracker",
+    "value": 4500
+  },
+  {
+    "name": "Tagobo Gelert Cake",
+    "value": 1100
+  },
+  {
+    "name": "Tangella Slorg Cupcake",
+    "value": 1600
+  },
+  {
+    "name": "Tchea Fruit Pastry",
+    "value": 26000
+  },
+  {
+    "name": "Tchea Fruit Pasty",
+    "value": 11000
+  },
+  {
+    "name": "Tchea Hissi Cake",
+    "value": 2000
+  },
+  {
+    "name": "Tchea Peophin Tail Cookie",
+    "value": 28000
+  },
+  {
+    "name": "TeaLeef Sandwich",
+    "value": 1700
+  },
+  {
+    "name": "Terror Mountain Tilt Commemorative Cake",
+    "value": 17000
+  },
+  {
+    "name": "Terror Mountain Tilt Commemorative Cupcake",
+    "value": 19000
+  },
+  {
+    "name": "Tetraberry Tonu Cupcake",
+    "value": 19000
+  },
+  {
+    "name": "Thistleberry Crepe",
+    "value": 27000
+  },
+  {
+    "name": "Thistleberry Pie",
+    "value": 11500
+  },
+  {
+    "name": "Thornberry Hissi Cake",
+    "value": 975
+  },
+  {
+    "name": "Thornberry Kougraclaw",
+    "value": 23000
+  },
+  {
+    "name": "Thornberry Krawk Tart",
+    "value": 540
+  },
+  {
+    "name": "Thornberry Mince Pie",
+    "value": 35500
+  },
+  {
+    "name": "Tiered Neopets 8th Birthday Cake",
+    "value": 53500
+  },
+  {
+    "name": "Tigerbuggle Jam on Toast",
+    "value": 5700
+  },
+  {
+    "name": "Tigerbuggle Scorchio Cookie",
+    "value": 13000
+  },
+  {
+    "name": "Tigerfruit Hissi Cake",
+    "value": 1900
+  },
+  {
+    "name": "Tigerfruit Krawk Tart",
+    "value": 845
+  },
+  {
+    "name": "Tigersquash Blumaroo Biscuit",
+    "value": 48500
+  },
+  {
+    "name": "Tigersquash Kougraclaw",
+    "value": 1100
+  },
+  {
+    "name": "Tigersquash Mince Pie",
+    "value": 14500
+  },
+  {
+    "name": "Tigersquash Pretzel",
+    "value": 9700
+  },
+  {
+    "name": "Tigersquash Sandwich",
+    "value": 1600
+  },
+  {
+    "name": "Toad in a Hole",
+    "value": 265
+  },
+  {
+    "name": "Toast A La King",
+    "value": 19000
+  },
+  {
+    "name": "Toast With Au Jus",
+    "value": 17000
+  },
+  {
+    "name": "Toast With Cheese",
+    "value": 21000
+  },
+  {
+    "name": "Toast with Jam",
+    "value": 205
+  },
+  {
+    "name": "Toasty Jam Surprise",
+    "value": 11500
+  },
+  {
+    "name": "Tobbie Fruit Peophin Tail Cookie",
+    "value": 31500
+  },
+  {
+    "name": "Tobbie Fruit Scone",
+    "value": 780
+  },
+  {
+    "name": "Toffee Covered Strawberry Techo Cookie",
+    "value": 14500
+  },
+  {
+    "name": "Tomato and Cheese Mooncake",
+    "value": 1800
+  },
+  {
+    "name": "Tomato Cheese Basil Sandwich",
+    "value": 1200
+  },
+  {
+    "name": "Tooth Faerie Muffin",
+    "value": 25000
+  },
+  {
+    "name": "Top Hat Cake",
+    "value": 8900
+  },
+  {
+    "name": "Tower Wafflecake",
+    "value": 780
+  },
+  {
+    "name": "Transparaberry Hot Cross Buns",
+    "value": 53500
+  },
+  {
+    "name": "Triple Choco-Strawberry Cake",
+    "value": 14000
+  },
+  {
+    "name": "Triple Chocolate Mince Pie",
+    "value": 13000
+  },
+  {
+    "name": "Tropicolour Cake",
+    "value": 25000
+  },
+  {
+    "name": "Turtum Cookie",
+    "value": 1000
+  },
+  {
+    "name": "Tuskaninny Cupcake",
+    "value": 3800
+  },
+  {
+    "name": "Twirly Fruit Creme Pie",
+    "value": 2800
+  },
+  {
+    "name": "Twirly Fruit Ixi Hoofprint Cookie",
+    "value": 10500
+  },
+  {
+    "name": "Twisty Sugar Doughnut",
+    "value": 3400
+  },
+  {
+    "name": "Ultimate Grilled Cheese Sandwich",
+    "value": 3750000
+  },
+  {
+    "name": "Ultranova Sponge Cake",
+    "value": 31000
+  },
+  {
+    "name": "Ummagine Pie",
+    "value": 26000
+  },
+  {
+    "name": "Uni Breadsticks",
+    "value": 15000
+  },
+  {
+    "name": "Uni Carrot Cake",
+    "value": 34500
+  },
+  {
+    "name": "Uni Chokato Cake",
+    "value": 28500
+  },
+  {
+    "name": "Uni Day BLT Sandwich",
+    "value": 60000
+  },
+  {
+    "name": "Uni Day Chokato Sandwich",
+    "value": 520
+  },
+  {
+    "name": "Uni Day Grilled Cheese Sandwich",
+    "value": 1600
+  },
+  {
+    "name": "Uni Day Jam Sandwich",
+    "value": 1100
+  },
+  {
+    "name": "Uni Kiwi Cake",
+    "value": 1500
+  },
+  {
+    "name": "Uni Lemon Cake",
+    "value": 32000
+  },
+  {
+    "name": "Uni Orange Cake",
+    "value": 1200
+  },
+  {
+    "name": "Uni Rainbow Cake",
+    "value": 890
+  },
+  {
+    "name": "Unity Frosting Sugar Cookie",
+    "value": 2100
+  },
+  {
+    "name": "Usuki Baby Cupcake",
+    "value": 30000
+  },
+  {
+    "name": "Usuki Box-o-Biscuits",
+    "value": 4900
+  },
+  {
+    "name": "Usuki Haircake",
+    "value": 1300
+  },
+  {
     "name": "Usuki Iced Cookies",
-    "value": 1690
+    "value": 1400
   },
   {
     "name": "Usuki Pie",
-    "value": 4170
+    "value": 3400
   },
   {
     "name": "Usukigirl Cupcake",
-    "value": 31200
+    "value": 10500
   },
   {
     "name": "Usul Day Petit Fours Sampler",
-    "value": 651
+    "value": 610
   },
   {
     "name": "Usul Petit Fours",
-    "value": 686000
+    "value": 33000
   },
   {
     "name": "Valentines Cookies",
-    "value": 3820
+    "value": 4200
   },
   {
     "name": "Valentines Muffin",
-    "value": 21700
+    "value": 7900
   },
   {
     "name": "Vanilla Acara Sandwich Cookie",
-    "value": 571
+    "value": 970
   },
   {
     "name": "Vanilla and Chocolate Yurble Cupcake",
-    "value": 2130
+    "value": 1900
   },
   {
     "name": "Vanilla Blumaroo Biscuit",
-    "value": 184000
+    "value": 31500
   },
   {
     "name": "Vanilla Bruce Muffin",
-    "value": 59800
+    "value": 31500
   },
   {
     "name": "Vanilla Creme Brulee",
-    "value": 479000
+    "value": 28500
   },
   {
     "name": "Vanilla Draik Biscuit",
-    "value": 56200
+    "value": 32000
   },
   {
     "name": "Vanilla Drum Cake",
-    "value": 19800
+    "value": 19000
   },
   {
     "name": "Vanilla Faellie Cake",
-    "value": 13500
+    "value": 7300
   },
   {
     "name": "Vanilla Gelert Cookie",
-    "value": 19900
+    "value": 23500
   },
   {
     "name": "Vanilla Gnorbu Biscuit",
-    "value": 239
+    "value": 26
   },
   {
     "name": "Vanilla Hissinamon Roll",
-    "value": 62400
+    "value": 5100
   },
   {
     "name": "Vanilla Jetsam Mousse Cake",
@@ -4549,254 +4569,254 @@
   },
   {
     "name": "Vanilla Kau Cream Cake",
-    "value": 7990
+    "value": 8600
   },
   {
     "name": "Vanilla Koi Biscuit",
-    "value": 2650
+    "value": 3700
   },
   {
     "name": "Vanilla Lenny Sandwich Cookie",
-    "value": 2790
+    "value": 2400
   },
   {
     "name": "Vanilla Moehog Cookie",
-    "value": 83800
+    "value": 30500
   },
   {
     "name": "Vanilla Peophin Cookie",
-    "value": 11700
+    "value": 7000
   },
   {
     "name": "Vanilla Petpet Candies",
-    "value": 10300
+    "value": 7300
   },
   {
     "name": "Vanilla Quiggle Cupcake",
-    "value": 34300
-  },
-  {
-    "name": "Vanilla Ruki Cookie",
-    "value": 19100
-  },
-  {
-    "name": "Vanilla Seasonal Pudding",
-    "value": 1210
-  },
-  {
-    "name": "Vanilla Tuskaninny Cookie",
-    "value": 4220
-  },
-  {
-    "name": "Vanilla Usul Meringue",
-    "value": 3520
-  },
-  {
-    "name": "Vanilla Wocky Cookie",
-    "value": 6560
-  },
-  {
-    "name": "Vanilla-Dipped Chocolate Biscotti",
-    "value": 86900
-  },
-  {
-    "name": "Variberry Butter Cookie",
-    "value": 18000
-  },
-  {
-    "name": "Vegetarian Meat Pie",
-    "value": 72
-  },
-  {
-    "name": "Vionanna Mince Pie",
-    "value": 1110000
-  },
-  {
-    "name": "Voidberry Pudding",
-    "value": 90
-  },
-  {
-    "name": "Voidberry Slorg Cupcake",
-    "value": 82
-  },
-  {
-    "name": "Wafflecake",
-    "value": 7610
-  },
-  {
-    "name": "Watermelon Cupcake",
-    "value": 64100
-  },
-  {
-    "name": "Welcome to Level Six Cake",
-    "value": 19400
-  },
-  {
-    "name": "Werelupe Full Moon Cookie",
-    "value": 206000
-  },
-  {
-    "name": "Wheat Kacheek Bread",
-    "value": 2330
-  },
-  {
-    "name": "Wheaty Snowbunny Loaf",
-    "value": 1240
-  },
-  {
-    "name": "Whinny Almond Cookies",
-    "value": 1040
-  },
-  {
-    "name": "White Chocolate Chip Biscuits",
-    "value": 2380
-  },
-  {
-    "name": "White Chocolate Cookie Square",
-    "value": 485
-  },
-  {
-    "name": "White Chocolate Cookies",
-    "value": 1010
-  },
-  {
-    "name": "White Chocolate Cybunny Cookie",
-    "value": 12000
-  },
-  {
-    "name": "White Chocolate Dipped Sandwich",
-    "value": 5440
-  },
-  {
-    "name": "White Chocolate Flotsam Cookie",
-    "value": 17300
-  },
-  {
-    "name": "White Chocolate Iced Mynci",
-    "value": 227000
-  },
-  {
-    "name": "White Chocolate JubJub Cake",
-    "value": 10200
-  },
-  {
-    "name": "White Chocolate Moonrock",
-    "value": 3390
-  },
-  {
-    "name": "White Chocolate Muffin",
-    "value": 302000
-  },
-  {
-    "name": "White Chocolate Techo Cookie",
-    "value": 1140
-  },
-  {
-    "name": "Winged Jhudora Petit Four",
-    "value": 5330
-  },
-  {
-    "name": "Winter Snowflake Cake",
-    "value": 35900
-  },
-  {
-    "name": "Winter Tilt Cake",
-    "value": 18700
-  },
-  {
-    "name": "Wizard Hat Cookie",
-    "value": 5810
-  },
-  {
-    "name": "Wocky Hamwich",
-    "value": 61100
-  },
-  {
-    "name": "Wocky Loaf",
-    "value": 52000
-  },
-  {
-    "name": "Wormy Urgoni Cupcake",
-    "value": 4450
-  },
-  {
-    "name": "Xweetok Cream Puff",
-    "value": 149000
-  },
-  {
-    "name": "Xweetok Pancakes",
-    "value": 969
-  },
-  {
-    "name": "Xweetok Tail Pastry",
     "value": 32000
   },
   {
+    "name": "Vanilla Ruki Cookie",
+    "value": 8800
+  },
+  {
+    "name": "Vanilla Seasonal Pudding",
+    "value": 695
+  },
+  {
+    "name": "Vanilla Tuskaninny Cookie",
+    "value": 4900
+  },
+  {
+    "name": "Vanilla Usul Meringue",
+    "value": 2400
+  },
+  {
+    "name": "Vanilla Wocky Cookie",
+    "value": 7200
+  },
+  {
+    "name": "Vanilla-Dipped Chocolate Biscotti",
+    "value": 7500
+  },
+  {
+    "name": "Variberry Butter Cookie",
+    "value": 13500
+  },
+  {
+    "name": "Vegetarian Meat Pie",
+    "value": 55
+  },
+  {
+    "name": "Vionanna Mince Pie",
+    "value": 2750000
+  },
+  {
+    "name": "Voidberry Pudding",
+    "value": 1
+  },
+  {
+    "name": "Voidberry Slorg Cupcake",
+    "value": 1
+  },
+  {
+    "name": "Wafflecake",
+    "value": 26000
+  },
+  {
+    "name": "Watermelon Cupcake",
+    "value": 11000
+  },
+  {
+    "name": "Welcome to Level Six Cake",
+    "value": 9900
+  },
+  {
+    "name": "Werelupe Full Moon Cookie",
+    "value": 31500
+  },
+  {
+    "name": "Wheat Kacheek Bread",
+    "value": 2600
+  },
+  {
+    "name": "Wheaty Snowbunny Loaf",
+    "value": 2000
+  },
+  {
+    "name": "Whinny Almond Cookies",
+    "value": 440
+  },
+  {
+    "name": "White Chocolate Chip Biscuits",
+    "value": 2400
+  },
+  {
+    "name": "White Chocolate Cookie Square",
+    "value": 325
+  },
+  {
+    "name": "White Chocolate Cookies",
+    "value": 1700
+  },
+  {
+    "name": "White Chocolate Cybunny Cookie",
+    "value": 4900
+  },
+  {
+    "name": "White Chocolate Dipped Sandwich",
+    "value": 5700
+  },
+  {
+    "name": "White Chocolate Flotsam Cookie",
+    "value": 13500
+  },
+  {
+    "name": "White Chocolate Iced Mynci",
+    "value": 18000
+  },
+  {
+    "name": "White Chocolate JubJub Cake",
+    "value": 12500
+  },
+  {
+    "name": "White Chocolate Moonrock",
+    "value": 2200
+  },
+  {
+    "name": "White Chocolate Muffin",
+    "value": 27000
+  },
+  {
+    "name": "White Chocolate Techo Cookie",
+    "value": 4400
+  },
+  {
+    "name": "Winged Jhudora Petit Four",
+    "value": 4300
+  },
+  {
+    "name": "Winter Snowflake Cake",
+    "value": 21000
+  },
+  {
+    "name": "Winter Tilt Cake",
+    "value": 44000
+  },
+  {
+    "name": "Wizard Hat Cookie",
+    "value": 4900
+  },
+  {
+    "name": "Wocky Hamwich",
+    "value": 30500
+  },
+  {
+    "name": "Wocky Loaf",
+    "value": 39000
+  },
+  {
+    "name": "Wormy Urgoni Cupcake",
+    "value": 4700
+  },
+  {
+    "name": "Xweetok Cream Puff",
+    "value": 9400
+  },
+  {
+    "name": "Xweetok Pancakes",
+    "value": 1000
+  },
+  {
+    "name": "Xweetok Tail Pastry",
+    "value": 34500
+  },
+  {
     "name": "Y9 Festive Floral Cake",
-    "value": 3620
+    "value": 3400
   },
   {
     "name": "Y9 Gift Wrapped Cake",
-    "value": 3850
+    "value": 5700
   },
   {
     "name": "Y9 Layer Birthday Cake",
-    "value": 1290
+    "value": 495
   },
   {
     "name": "Y9 Purple Swirl Cake",
-    "value": 3100
+    "value": 4700
   },
   {
     "name": "Yellow and Blue Birthday Cake",
-    "value": 60200
+    "value": 3900
   },
   {
     "name": "Yellow Flower Stained Glass Window Cookie",
-    "value": 8030
+    "value": 11000
   },
   {
     "name": "Yellow Gormball Sugar Cookies",
-    "value": 6460
+    "value": 1400
   },
   {
     "name": "Yellow Uni Sugar Cookie",
-    "value": 27400
+    "value": 20500
   },
   {
     "name": "Yurble Face Cookie",
-    "value": 3260
+    "value": 4000
   },
   {
     "name": "Yurble Janitor Cookie",
-    "value": 4270
+    "value": 5000
   },
   {
     "name": "Yurble Meringue Cookie",
-    "value": 23200
+    "value": 9100
   },
   {
     "name": "Zafara Banana Split",
-    "value": 2420
+    "value": 1500
   },
   {
     "name": "Zafara Cherry Strudel",
-    "value": 21600
+    "value": 24000
   },
   {
     "name": "Zafara Claw",
-    "value": 957
+    "value": 1100
   },
   {
     "name": "Zafara Surprise",
-    "value": 14100
+    "value": 21000
   },
   {
     "name": "Zafara Zeppole",
-    "value": 99400
+    "value": 27500
   },
   {
     "name": "Zeenana Krawk Tart",
-    "value": 1450
+    "value": 1200
   }
 ]

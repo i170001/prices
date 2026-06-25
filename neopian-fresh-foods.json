@@ -1,355 +1,343 @@
 [
   {
-    "name": "Pavlovoida",
-    "value": 1000000
-  },
-  {
-    "name": "Sketch Burger",
-    "value": 1000000
-  },
-  {
-    "name": "Lime Negg",
-    "value": 1000000
-  },
-  {
     "name": "A Dozen Neggs",
-    "value": 53100
+    "value": 2900
   },
   {
     "name": "A Smatter of Butter",
-    "value": 1790
+    "value": 3100
   },
   {
     "name": "A Smatter of Ketchup",
-    "value": 41200
+    "value": 87000
   },
   {
     "name": "A Smatter of Mayo",
-    "value": 51800
+    "value": 20000
   },
   {
     "name": "A Smatter of Mustard",
-    "value": 30900
+    "value": 27500
   },
   {
     "name": "Acara Day Burger",
-    "value": 968
+    "value": 1000
   },
   {
     "name": "Acara Day Pancakes",
-    "value": 1000
+    "value": 960
   },
   {
     "name": "Acara Day Spaghetti",
-    "value": 1140
+    "value": 1300
   },
   {
     "name": "Acara Ice Cream Surprise",
-    "value": 8130000
+    "value": 7600000
   },
   {
     "name": "Acara Rainbow Lollypop",
-    "value": 55500
+    "value": 98000
   },
   {
     "name": "Achyfi Ice",
-    "value": 863
+    "value": 1200
   },
   {
     "name": "Aisha Avocado Toast",
-    "value": 430000
+    "value": 21500
   },
   {
     "name": "Aisha Cheeseburger",
-    "value": 592
+    "value": 610
   },
   {
     "name": "Aisha Chocolate Cheesecake",
-    "value": 1890
+    "value": 1000
   },
   {
     "name": "Aisha Cucumber Riceball",
-    "value": 3230
+    "value": 2300
   },
   {
     "name": "Aisha Day Soup",
-    "value": 63300
+    "value": 68000
   },
   {
     "name": "Aisha Hot Chocolate",
-    "value": 2430
+    "value": 3300
   },
   {
     "name": "Aisha Ice Cream",
-    "value": 1000
+    "value": 1400
   },
   {
     "name": "Aisha Mega Burger",
-    "value": 380000
+    "value": 43500
   },
   {
     "name": "Aisha Radish Riceball",
-    "value": 2390
+    "value": 4400
   },
   {
     "name": "Aisha Riceball",
-    "value": 368
+    "value": 905
   },
   {
     "name": "Aisha Riceball with Meat",
-    "value": 3320
+    "value": 2100
   },
   {
     "name": "Aisha Toffee Apple",
-    "value": 1280
+    "value": 1300
   },
   {
     "name": "Aisha Tomato and Potato Soup",
-    "value": 803000
+    "value": 47000
   },
   {
     "name": "Animal-style Chips",
-    "value": 14500000
+    "value": 780000
   },
   {
     "name": "Apple Achyfi",
-    "value": 58100
+    "value": 74500
   },
   {
     "name": "Apple Flavoured Borovan",
-    "value": 71900
+    "value": 375
   },
   {
     "name": "Apple Juice",
-    "value": 921
+    "value": 1200
   },
   {
     "name": "Apple Juice Sippy Cup",
-    "value": 291000
+    "value": 24500
   },
   {
     "name": "Apple Neocola",
-    "value": 1770
+    "value": 1600
   },
   {
     "name": "Apple Rigamaroll",
-    "value": 4020
+    "value": 6100
   },
   {
     "name": "Apple Walnut Tea Sandwiches",
-    "value": 696000
+    "value": 49500
   },
   {
     "name": "Apricot Gnorbu Juice",
-    "value": 3290
+    "value": 3900
   },
   {
     "name": "Artichoke Ice Pop",
-    "value": 11500
+    "value": 7200
   },
   {
     "name": "Asparagus and Hollandaise Sauce",
-    "value": 155
+    "value": 500
   },
   {
     "name": "Asparagus Borovan Lasagne",
-    "value": 387000
+    "value": 87000
   },
   {
     "name": "Assorted Vandagyre Approved Nuts",
-    "value": 583000
+    "value": 700000
   },
   {
     "name": "Azzle Onigiri",
-    "value": 1000
+    "value": 910
   },
   {
     "name": "B-B-Q Pork",
-    "value": 700
+    "value": 840
   },
   {
     "name": "Baby Bloater",
-    "value": 8780
+    "value": 6200
   },
   {
     "name": "Baby Bruce Milk Bottle",
-    "value": 1740
+    "value": 4900
   },
   {
     "name": "Baby Elephante Milk Bottle",
-    "value": 658000
+    "value": 110000
   },
   {
     "name": "Baby Kougra Custard",
-    "value": 3720
+    "value": 2400
   },
   {
     "name": "Baby Shoyru Baby Bottle",
-    "value": 4550
+    "value": 4700
   },
   {
     "name": "Bacon Achyfi",
-    "value": 273000
+    "value": 46500
   },
   {
     "name": "Bacon Muffin",
-    "value": 896
+    "value": 2200
   },
   {
     "name": "Bacon Taco",
-    "value": 2340
+    "value": 4900
   },
   {
     "name": "Bacon Tape",
-    "value": 44000
+    "value": 37500
   },
   {
     "name": "Bag of Chips",
-    "value": 259
+    "value": 300
   },
   {
     "name": "Bag of Nuts",
-    "value": 3240
+    "value": 3500
   },
   {
     "name": "Bag of Peanuts",
-    "value": 46400
+    "value": 27500
   },
   {
     "name": "Bagel and Egg Sandwich",
-    "value": 1620
+    "value": 1900
   },
   {
     "name": "Baked Apple Jacket Potato",
-    "value": 1500
-  },
-  {
-    "name": "Baked Avocado with Curried Sauce",
-    "value": 7870
-  },
-  {
-    "name": "Baked Chomby Crisps",
-    "value": 3930
-  },
-  {
-    "name": "Baked Juppie",
-    "value": 6460
-  },
-  {
-    "name": "Banana Achyfi",
-    "value": 2260
-  },
-  {
-    "name": "Banana Grub",
-    "value": 13600
-  },
-  {
-    "name": "Banana Honey Gormball Sandwich",
-    "value": 1950
-  },
-  {
-    "name": "Banana Milkshake",
-    "value": 248
-  },
-  {
-    "name": "Banana Roll",
-    "value": 4020
-  },
-  {
-    "name": "Banana Sundae",
-    "value": 932
-  },
-  {
-    "name": "Bangers and Mash",
-    "value": 1200000
-  },
-  {
-    "name": "Barbecued Meat",
-    "value": 5320
-  },
-  {
-    "name": "Barnacle Bills Belt Busting Burger",
-    "value": 4660000
-  },
-  {
-    "name": "Basket of Spaghetti",
-    "value": 4250
-  },
-  {
-    "name": "Battle Duck Negg",
-    "value": 244000
-  },
-  {
-    "name": "Beans on Toast",
-    "value": 1070
-  },
-  {
-    "name": "Beef and Veg Baby Food",
-    "value": 154
-  },
-  {
-    "name": "Beef and Veggie Soup",
-    "value": 27800
-  },
-  {
-    "name": "Beef Wellington",
-    "value": 1180
-  },
-  {
-    "name": "Beefy Broccoli",
-    "value": 537
-  },
-  {
-    "name": "Beetroot and Cream Smores",
-    "value": 998
-  },
-  {
-    "name": "Beetroot Ice Cream",
-    "value": 841
-  },
-  {
-    "name": "Berry Buzz Ice Cream",
-    "value": 1990
-  },
-  {
-    "name": "Berry Delight",
-    "value": 9720
-  },
-  {
-    "name": "Berry Eyrie Souffle",
-    "value": 34700
-  },
-  {
-    "name": "Berry Joy Fun Pop",
-    "value": 897000
-  },
-  {
-    "name": "Berry Onigiri",
     "value": 900
   },
   {
+    "name": "Baked Avocado with Curried Sauce",
+    "value": 10500
+  },
+  {
+    "name": "Baked Chomby Crisps",
+    "value": 3000
+  },
+  {
+    "name": "Baked Juppie",
+    "value": 11000
+  },
+  {
+    "name": "Banana Achyfi",
+    "value": 940
+  },
+  {
+    "name": "Banana Grub",
+    "value": 12000
+  },
+  {
+    "name": "Banana Honey Gormball Sandwich",
+    "value": 2700
+  },
+  {
+    "name": "Banana Milkshake",
+    "value": 385
+  },
+  {
+    "name": "Banana Roll",
+    "value": 2800
+  },
+  {
+    "name": "Banana Sundae",
+    "value": 705
+  },
+  {
+    "name": "Bangers and Mash",
+    "value": 6950000
+  },
+  {
+    "name": "Barbecued Meat",
+    "value": 4000
+  },
+  {
+    "name": "Barnacle Bills Belt Busting Burger",
+    "value": 3400000
+  },
+  {
+    "name": "Basket of Spaghetti",
+    "value": 6100
+  },
+  {
+    "name": "Battle Duck Negg",
+    "value": 300000
+  },
+  {
+    "name": "Beans on Toast",
+    "value": 31000
+  },
+  {
+    "name": "Beef and Veg Baby Food",
+    "value": 350
+  },
+  {
+    "name": "Beef and Veggie Soup",
+    "value": 31000
+  },
+  {
+    "name": "Beef Wellington",
+    "value": 1900
+  },
+  {
+    "name": "Beefy Broccoli",
+    "value": 2300
+  },
+  {
+    "name": "Beetroot and Cream Smores",
+    "value": 1200
+  },
+  {
+    "name": "Beetroot Ice Cream",
+    "value": 1700
+  },
+  {
+    "name": "Berry Buzz Ice Cream",
+    "value": 1900
+  },
+  {
+    "name": "Berry Delight",
+    "value": 55000
+  },
+  {
+    "name": "Berry Eyrie Souffle",
+    "value": 29500
+  },
+  {
+    "name": "Berry Joy Fun Pop",
+    "value": 999997
+  },
+  {
+    "name": "Berry Onigiri",
+    "value": 850
+  },
+  {
     "name": "Berry Smore",
-    "value": 1170
+    "value": 620
   },
   {
     "name": "Berry Xweetok Ice Cream",
-    "value": 23200
+    "value": 30500
   },
   {
     "name": "BeYOUtiful Burgers",
-    "value": 65700
+    "value": 24000
   },
   {
     "name": "Big Gulp Neocola",
-    "value": 999
+    "value": 1100
   },
   {
     "name": "Bilge Rat Madeira",
-    "value": 2260000
+    "value": 3600000
   },
   {
     "name": "Bitten Green Apple",
-    "value": 142
+    "value": 745
   },
   {
     "name": "Bitten Red Apple",
@@ -357,1535 +345,1543 @@
   },
   {
     "name": "Black Caviar",
-    "value": 2390
-  },
-  {
-    "name": "Black Cherry Ice Lolly",
-    "value": 392000
-  },
-  {
-    "name": "Black Cherry Ixi Drink",
-    "value": 1040
-  },
-  {
-    "name": "Black Cherry Pudding",
-    "value": 4130
-  },
-  {
-    "name": "Black Cherry Sundae",
-    "value": 3860
-  },
-  {
-    "name": "Black Cherry Taco",
-    "value": 300000
-  },
-  {
-    "name": "Black Currant Juice",
-    "value": 4390000
-  },
-  {
-    "name": "Black Currant Milkshake",
-    "value": 1570
-  },
-  {
-    "name": "Blackberry Elephante Sundae",
-    "value": 1420
-  },
-  {
-    "name": "Blackberry Sorbet",
-    "value": 215000
-  },
-  {
-    "name": "Blackberry Sundae",
-    "value": 1860
-  },
-  {
-    "name": "Blended Pipper",
-    "value": 1920
-  },
-  {
-    "name": "Blooble and Cheese Plate",
-    "value": 107
-  },
-  {
-    "name": "BLT Croissant",
-    "value": 5690000
-  },
-  {
-    "name": "BLT Sandwich with Cheese",
-    "value": 84100
-  },
-  {
-    "name": "Blue Acara Cake",
-    "value": 39500
-  },
-  {
-    "name": "Blue Berry Aisha Ice Cream",
-    "value": 31400
-  },
-  {
-    "name": "Blue Bruce Juice",
-    "value": 57100
-  },
-  {
-    "name": "Blue Cheese and Tchea Plate",
-    "value": 1570
-  },
-  {
-    "name": "Blue Cheese Draik Head",
-    "value": 368
-  },
-  {
-    "name": "Blue Cybunny Negg",
-    "value": 560000
-  },
-  {
-    "name": "Blue Goo Techo Cake",
-    "value": 30500
-  },
-  {
-    "name": "Blue Negg",
-    "value": 165000
-  },
-  {
-    "name": "Blue Picnic Hamper",
-    "value": 9640000
-  },
-  {
-    "name": "Blue Swirl Cheesicle",
-    "value": 488
-  },
-  {
-    "name": "Blueberry Achyfi",
-    "value": 74300
-  },
-  {
-    "name": "Blueberry and Chokato Achyfi",
-    "value": 651
-  },
-  {
-    "name": "Blueberry and Orange Blend",
-    "value": 87200
-  },
-  {
-    "name": "Blueberry and Oyster Ice Cream",
-    "value": 1230000
-  },
-  {
-    "name": "Blueberry Crescent Lolly",
-    "value": 6980
-  },
-  {
-    "name": "Blueberry Jelly Doughnut",
-    "value": 8450
-  },
-  {
-    "name": "Blueberry Jelly Draik Head",
-    "value": 1020
-  },
-  {
-    "name": "Blueberry Jelly Twirl",
-    "value": 45000
-  },
-  {
-    "name": "Blueberry Jetsam Jelly",
-    "value": 784
-  },
-  {
-    "name": "Blueberry Roll",
-    "value": 2990
-  },
-  {
-    "name": "Blumaroo Burrito",
-    "value": 2220
-  },
-  {
-    "name": "Blumaroo Ice Cream Sundae",
-    "value": 551000
-  },
-  {
-    "name": "Boiled Egg",
-    "value": 5580
-  },
-  {
-    "name": "Boiled Peanut Dash Peanuts",
-    "value": 380000
-  },
-  {
-    "name": "Bomberry Grog",
-    "value": 245000
-  },
-  {
-    "name": "Bombshroom",
-    "value": 83300
-  },
-  {
-    "name": "Bori Bowl of Fruit",
-    "value": 6110
-  },
-  {
-    "name": "Bori Cheese Sandwich",
-    "value": 5200
-  },
-  {
-    "name": "Bori Veggie Special",
-    "value": 706000
-  },
-  {
-    "name": "Borovan Brownies",
-    "value": 6430
-  },
-  {
-    "name": "Borovan Chicken",
-    "value": 6470
-  },
-  {
-    "name": "Borovan Cookies",
-    "value": 3920
-  },
-  {
-    "name": "Borovan Hot Chocolate Bomb",
-    "value": 4180000
-  },
-  {
-    "name": "Borovan Ice Cream Scoop",
-    "value": 482
-  },
-  {
-    "name": "Borovan Layered Cake",
-    "value": 3620000
-  },
-  {
-    "name": "Borovan Pavlova",
-    "value": 2600
-  },
-  {
-    "name": "Bottle of Water",
-    "value": 1410
-  },
-  {
-    "name": "Bowl Hominy",
-    "value": 238000
-  },
-  {
-    "name": "Bowl of Mushy Peas",
-    "value": 157000
-  },
-  {
-    "name": "Bowl of Wocky Day Soup",
-    "value": 1040
-  },
-  {
-    "name": "Bran Boulders",
-    "value": 4320
-  },
-  {
-    "name": "Breakfast Cake",
-    "value": 85500
-  },
-  {
-    "name": "Breakfast Croissant",
-    "value": 1380
-  },
-  {
-    "name": "Brightly Coloured Easter Negg",
-    "value": 5850
-  },
-  {
-    "name": "Brightvale Rigamaroll",
-    "value": 1000
-  },
-  {
-    "name": "Broccoli",
-    "value": 1460
-  },
-  {
-    "name": "Broccoli Achyfi",
-    "value": 286000
-  },
-  {
-    "name": "Brown Sugar Oatmeal",
-    "value": 721000
-  },
-  {
-    "name": "Bubble Negg",
-    "value": 7290
-  },
-  {
-    "name": "Bubbling Blue Soup",
-    "value": 51
-  },
-  {
-    "name": "Bubbling Blueberry Cheese Wedge",
-    "value": 98800
-  },
-  {
-    "name": "Bubbling Bori Beverage",
-    "value": 2440
-  },
-  {
-    "name": "Bubbly Harffel Fruit Juice",
-    "value": 126000
-  },
-  {
-    "name": "Bubbly Rhuby Fruit Juice",
-    "value": 91100
-  },
-  {
-    "name": "Bubbly Roseatte Juice",
-    "value": 88300
-  },
-  {
-    "name": "Bubbly Twirly Fruit Juice",
-    "value": 49900
-  },
-  {
-    "name": "Bug-a-licious Parfait",
-    "value": 375000
-  },
-  {
-    "name": "Buried Treasure Crackers",
-    "value": 304
-  },
-  {
-    "name": "Bursting Water Muffin",
-    "value": 1410
-  },
-  {
-    "name": "Butter Toffee Popcorn",
-    "value": 2220
-  },
-  {
-    "name": "Buttered Popcorn",
-    "value": 1820
-  },
-  {
-    "name": "Buttered Toast",
-    "value": 111
-  },
-  {
-    "name": "Butternut Ravioli",
-    "value": 2310
-  },
-  {
-    "name": "Butterscotch Milkshake",
-    "value": 3810
-  },
-  {
-    "name": "Buttery Chomby Waffles",
-    "value": 331000
-  },
-  {
-    "name": "Buzz Bread Salad",
-    "value": 21400
-  },
-  {
-    "name": "Buzz Dung Cone",
-    "value": 27600
-  },
-  {
-    "name": "Buzz Honey Pot",
-    "value": 5780
-  },
-  {
-    "name": "Buzz Mashed Potato",
-    "value": 39500
-  },
-  {
-    "name": "Buzz Meatloaf",
-    "value": 599
-  },
-  {
-    "name": "Buzz Sandwich",
-    "value": 91800
-  },
-  {
-    "name": "Buzz Sandwich With Honey",
-    "value": 269000
-  },
-  {
-    "name": "Cabbage Taco",
-    "value": 867
-  },
-  {
-    "name": "Caesar Salad",
-    "value": 3620
-  },
-  {
-    "name": "Caffeine Free Neocola",
-    "value": 1110
-  },
-  {
-    "name": "Camouflage Hot Dog",
-    "value": 4230
-  },
-  {
-    "name": "Can of Neocola",
-    "value": 560
-  },
-  {
-    "name": "Can of Sausages",
-    "value": 1860
-  },
-  {
-    "name": "Candy Cane Negg",
-    "value": 761000
-  },
-  {
-    "name": "Candy Floss Carrot",
-    "value": 5250000
-  },
-  {
-    "name": "Cannon Fodder",
-    "value": 395000
-  },
-  {
-    "name": "Cantaloupe Melon",
-    "value": 2180
-  },
-  {
-    "name": "Capn Threelegs Cutlass Crusade",
-    "value": 6070000
-  },
-  {
-    "name": "Captain Scarblade Crunch Cereal",
-    "value": 27700
-  },
-  {
-    "name": "Caramel Acara On A Stick",
-    "value": 474
-  },
-  {
-    "name": "Caramel Chia Parfait",
-    "value": 11500
-  },
-  {
-    "name": "Caramel Coated Pear",
-    "value": 2390
-  },
-  {
-    "name": "Caramel Flavoured Kougra Milk",
-    "value": 4100
-  },
-  {
-    "name": "Carnapepper Finger Sandwiches",
-    "value": 2090
-  },
-  {
-    "name": "Carnapepper Soup",
-    "value": 1460
-  },
-  {
-    "name": "Carrot",
-    "value": 2060
-  },
-  {
-    "name": "Carrot Cone",
-    "value": 3470
-  },
-  {
-    "name": "Carrot Crown",
-    "value": 5000000
-  },
-  {
-    "name": "Carrot Cupcake",
-    "value": 49300
-  },
-  {
-    "name": "Carrot Fizz Achyfi",
-    "value": 37700
-  },
-  {
-    "name": "Carrot Lupe Treat",
-    "value": 1580
-  },
-  {
-    "name": "Carrot On A Stick",
-    "value": 391000
-  },
-  {
-    "name": "Carrot Salad",
-    "value": 449000
-  },
-  {
-    "name": "Carrots in Salad",
-    "value": 809000
-  },
-  {
-    "name": "Carton of Orange Juice",
-    "value": 1470
-  },
-  {
-    "name": "Caviar Sandwich",
-    "value": 4840
-  },
-  {
-    "name": "Cawl",
-    "value": 1380
-  },
-  {
-    "name": "Celery Achyfi",
-    "value": 146000
-  },
-  {
-    "name": "Celery Salad",
-    "value": 185000
-  },
-  {
-    "name": "Chain of Onions",
-    "value": 4090000
-  },
-  {
-    "name": "Checkered Burger",
-    "value": 3040
-  },
-  {
-    "name": "Checkered Cake",
-    "value": 3400
-  },
-  {
-    "name": "Checkered Carrot",
-    "value": 4020
-  },
-  {
-    "name": "Checkered Ice Cream",
-    "value": 38500
-  },
-  {
-    "name": "Checkered Steak",
-    "value": 1950
-  },
-  {
-    "name": "Cheddar and Screlon Plate",
-    "value": 62500
-  },
-  {
-    "name": "Cheddar Fries",
-    "value": 2730
-  },
-  {
-    "name": "Cheddar Kacheek Cheese",
-    "value": 211000
-  },
-  {
-    "name": "Cheery Tomato Soup Bowl",
-    "value": 2050
-  },
-  {
-    "name": "Cheery Tomatoes",
-    "value": 1740
-  },
-  {
-    "name": "Cheese",
-    "value": 999
-  },
-  {
-    "name": "Cheese and Pickle Packed Lunch",
-    "value": 6650
-  },
-  {
-    "name": "Cheese and Raspberry Plate",
-    "value": 51800
-  },
-  {
-    "name": "Cheese and Tomato Muffin",
-    "value": 1100
-  },
-  {
-    "name": "Cheese and Tonu Crackers",
-    "value": 191000
-  },
-  {
-    "name": "Cheese Covered Pretzel",
-    "value": 3150
-  },
-  {
-    "name": "Cheese Negg",
-    "value": 1370
-  },
-  {
-    "name": "Cheese Rigamaroll",
-    "value": 20800
-  },
-  {
-    "name": "Cheese Spread on a Plank",
-    "value": 1110
-  },
-  {
-    "name": "Cheese Sticks",
-    "value": 164000
-  },
-  {
-    "name": "Cheese Stuffed Mushrooms",
-    "value": 929
-  },
-  {
-    "name": "Cheese Tortilla",
-    "value": 1180
-  },
-  {
-    "name": "Cheese Xweetok",
-    "value": 821
-  },
-  {
-    "name": "Cheeseburger",
-    "value": 687
-  },
-  {
-    "name": "Cheesecake Salad",
-    "value": 411
-  },
-  {
-    "name": "Cheesenana",
-    "value": 203000
-  },
-  {
-    "name": "Cheesy Carrot Chunks",
-    "value": 2810000
-  },
-  {
-    "name": "Cheesy Choco Cookie",
-    "value": 138000
-  },
-  {
-    "name": "Cheesy Chocoshake",
-    "value": 3610000
-  },
-  {
-    "name": "Cheesy Chokato Pie",
-    "value": 127000
-  },
-  {
-    "name": "Cheesy Jetsam Sandwich",
-    "value": 46300
-  },
-  {
-    "name": "Cheesy Kois",
-    "value": 23200
-  },
-  {
-    "name": "Cheesy Krawk Dip",
-    "value": 3290000
-  },
-  {
-    "name": "Cheesy Krawk Pot",
-    "value": 2110
-  },
-  {
-    "name": "Cheesy Krawk Sandwich",
-    "value": 658
-  },
-  {
-    "name": "Cheesy Kyrii Sandwich",
-    "value": 58900
-  },
-  {
-    "name": "Cheesy Mashed Potato",
-    "value": 4820
-  },
-  {
-    "name": "Cheesy Meat Wrap",
-    "value": 498
-  },
-  {
-    "name": "Cheesy Onion Noodle Soup",
-    "value": 212000
-  },
-  {
-    "name": "Cheesy Onion Sticks",
     "value": 4600
   },
   {
-    "name": "Cheesy Popcorn",
-    "value": 2160
+    "name": "Black Cherry Ice Lolly",
+    "value": 34500
   },
   {
-    "name": "Cheesy Shoyru Meatball",
-    "value": 2690
-  },
-  {
-    "name": "Cheesy Slorgwich",
-    "value": 3790
-  },
-  {
-    "name": "Cheesy Strawberry Slice",
-    "value": 12000000
-  },
-  {
-    "name": "Cheesykraut Hot Dog",
-    "value": 85100
-  },
-  {
-    "name": "Cherimoya",
-    "value": 1820
-  },
-  {
-    "name": "Cherries",
-    "value": 159
-  },
-  {
-    "name": "Cherry Carrot Ice Cream",
-    "value": 4260
-  },
-  {
-    "name": "Cherry Milkshake",
-    "value": 619
-  },
-  {
-    "name": "Cherry Mynci Burger",
-    "value": 63400
-  },
-  {
-    "name": "Cherry Pop",
-    "value": 985000
-  },
-  {
-    "name": "Cherry Twist Lollypop",
-    "value": 1500
-  },
-  {
-    "name": "Cherry Xweetok Cupcake",
-    "value": 445
-  },
-  {
-    "name": "Chestnut Shortcake",
-    "value": 215000
-  },
-  {
-    "name": "Chestnut Soup",
-    "value": 108000
-  },
-  {
-    "name": "Chia Cereal",
-    "value": 124000
-  },
-  {
-    "name": "Chia Cheese Blintz",
-    "value": 1010
-  },
-  {
-    "name": "Chia Chia Pudding",
-    "value": 808000
-  },
-  {
-    "name": "Chiazilla Quesadilla",
-    "value": 8150
-  },
-  {
-    "name": "Chicken Curry",
-    "value": 84600
-  },
-  {
-    "name": "Chicken Dumpling Soup",
-    "value": 56500
-  },
-  {
-    "name": "Chicken Filets with Fancy Sauce",
-    "value": 924000
-  },
-  {
-    "name": "Chicken Taquitos",
-    "value": 314000
-  },
-  {
-    "name": "Chicken Tuskabob",
-    "value": 62200
-  },
-  {
-    "name": "Chicken With Vegetables",
-    "value": 158000
-  },
-  {
-    "name": "Chilli Chia Hot Sauce",
-    "value": 390
-  },
-  {
-    "name": "Chilli Salmon Souffle",
-    "value": 1340
-  },
-  {
-    "name": "Chip Butty with Tomato Sauce",
-    "value": 5680
-  },
-  {
-    "name": "Chips and Curry Sauce",
-    "value": 2620
-  },
-  {
-    "name": "Chips and Egg",
-    "value": 3480
-  },
-  {
-    "name": "Chips and Gravy",
-    "value": 3980
-  },
-  {
-    "name": "Chocolate Aisha Sundae",
-    "value": 20600
-  },
-  {
-    "name": "Chocolate and Asparagus Achyfi",
-    "value": 999
-  },
-  {
-    "name": "Chocolate Carrot Sundae",
-    "value": 1080
-  },
-  {
-    "name": "Chocolate Chip Gelert Ice Cream Sandwich",
-    "value": 88400
-  },
-  {
-    "name": "Chocolate Chip Zafara Cookie",
-    "value": 932
-  },
-  {
-    "name": "Chocolate Chomby Ice Cream Sandwich",
-    "value": 29300
-  },
-  {
-    "name": "Chocolate Coated Blue Cheese",
-    "value": 495000
-  },
-  {
-    "name": "Chocolate Coated Cheese",
-    "value": 1430000
-  },
-  {
-    "name": "Chocolate Coated Cheese Strings",
-    "value": 5270000
-  },
-  {
-    "name": "Chocolate Coated Flies",
-    "value": 247
-  },
-  {
-    "name": "Chocolate Coated Holey Cheese",
-    "value": 1310000
-  },
-  {
-    "name": "Chocolate Coated Pear",
-    "value": 3340
-  },
-  {
-    "name": "Chocolate Coated Tangy Cheese",
-    "value": 2510
-  },
-  {
-    "name": "Chocolate Covered Apple",
-    "value": 7710
-  },
-  {
-    "name": "Chocolate Covered Carrot",
-    "value": 828000
-  },
-  {
-    "name": "Chocolate Covered Strawberries",
-    "value": 1000
-  },
-  {
-    "name": "Chocolate Covered Toffee",
-    "value": 12100
-  },
-  {
-    "name": "Chocolate Covered Tomato",
-    "value": 351000
-  },
-  {
-    "name": "Chocolate Custard",
-    "value": 248000
-  },
-  {
-    "name": "Chocolate Deluxe Flotsam Day Shake",
+    "name": "Black Cherry Ixi Drink",
     "value": 1200
   },
   {
-    "name": "Chocolate Dipped Ruki Lolly",
-    "value": 998
+    "name": "Black Cherry Pudding",
+    "value": 15000
   },
   {
-    "name": "Chocolate Drizzled Popcorn",
-    "value": 667000
+    "name": "Black Cherry Sundae",
+    "value": 6800
   },
   {
-    "name": "Chocolate Elephante Doughnut",
-    "value": 489000
+    "name": "Black Cherry Taco",
+    "value": 36000
   },
   {
-    "name": "Chocolate Elephante Sundae",
-    "value": 833
+    "name": "Black Currant Juice",
+    "value": 3850000
   },
   {
-    "name": "Chocolate Gnome Crunch",
-    "value": 175000
+    "name": "Black Currant Milkshake",
+    "value": 1800
   },
   {
-    "name": "Chocolate Green Tea Parfait",
-    "value": 22200
+    "name": "Blackberry Elephante Sundae",
+    "value": 1200
   },
   {
-    "name": "Chocolate Ice Cream",
-    "value": 93600
+    "name": "Blackberry Sorbet",
+    "value": 43500
   },
   {
-    "name": "Chocolate Ixi Ice Cream Sandwich",
-    "value": 749
+    "name": "Blackberry Sundae",
+    "value": 995
   },
   {
-    "name": "Chocolate Joy Fun Pop",
-    "value": 825000
+    "name": "Blended Pipper",
+    "value": 2900
   },
   {
-    "name": "Chocolate JubJub Sundae",
-    "value": 1030
+    "name": "Blooble and Cheese Plate",
+    "value": 980
   },
   {
-    "name": "Chocolate Kau Milk",
-    "value": 16600
+    "name": "BLT Croissant",
+    "value": 13000000
   },
   {
-    "name": "Chocolate Kougra Pudding",
-    "value": 779
+    "name": "BLT Sandwich with Cheese",
+    "value": 43000
   },
   {
-    "name": "Chocolate Lupe Ice Cream",
-    "value": 401000
+    "name": "Blue Acara Cake",
+    "value": 39000
   },
   {
-    "name": "Chocolate Milk",
-    "value": 1640
+    "name": "Blue Berry Aisha Ice Cream",
+    "value": 39500
   },
   {
-    "name": "Chocolate Milkshake",
-    "value": 305
+    "name": "Blue Bruce Juice",
+    "value": 52500
   },
   {
-    "name": "Chocolate Nimmo Dessert",
-    "value": 98200
-  },
-  {
-    "name": "Chocolate Peanut Butter Bagel",
-    "value": 994
-  },
-  {
-    "name": "Chocolate Poogle Cupcake",
-    "value": 163000
-  },
-  {
-    "name": "Chocolate Poogle Lolly",
-    "value": 303000
-  },
-  {
-    "name": "Chocolate Shoyru Meatball",
-    "value": 1120
-  },
-  {
-    "name": "Chocolate Skeith Cone",
-    "value": 1680
-  },
-  {
-    "name": "Chocolate Techo Cookie",
-    "value": 3050
-  },
-  {
-    "name": "Chocolate Techo Foot",
-    "value": 6020
-  },
-  {
-    "name": "Chocolate Waffle Cone",
-    "value": 2600
-  },
-  {
-    "name": "Chocolate Xweetok Ice Cream Sandwich",
-    "value": 260
-  },
-  {
-    "name": "Chocolatey Pork Chops",
-    "value": 7710
-  },
-  {
-    "name": "Chocomalt Milkshake",
-    "value": 3670
-  },
-  {
-    "name": "Chocopie Slice",
-    "value": 158
-  },
-  {
-    "name": "Chokato Chew",
-    "value": 4590
-  },
-  {
-    "name": "Chokato Chomby Crisps",
-    "value": 3420
-  },
-  {
-    "name": "Chokato Cream Cheese Dip",
-    "value": 394000
-  },
-  {
-    "name": "Chokato Crisps",
-    "value": 711
-  },
-  {
-    "name": "Chokato JubJub Mini Burger",
-    "value": 1420
-  },
-  {
-    "name": "Chokato Kougra Pudding",
-    "value": 1630
-  },
-  {
-    "name": "Chokato Mash Jacket Potato",
-    "value": 343
-  },
-  {
-    "name": "Chokato Neggnog",
-    "value": 868000
-  },
-  {
-    "name": "Chokato Omurice",
-    "value": 63700
-  },
-  {
-    "name": "Chokato Rigamaroll",
-    "value": 7950
-  },
-  {
-    "name": "Chokato Sundae",
-    "value": 172000
-  },
-  {
-    "name": "Chokato Toasty",
-    "value": 852
-  },
-  {
-    "name": "Chokato Toffee Apple",
-    "value": 57300
-  },
-  {
-    "name": "Chokatoade",
-    "value": 1540
-  },
-  {
-    "name": "Chomate Triple Decker",
-    "value": 1040
-  },
-  {
-    "name": "Chomby Chips",
-    "value": 822
-  },
-  {
-    "name": "Chomby Day Potato Soup",
-    "value": 1870
-  },
-  {
-    "name": "Chomby Hot Dog",
-    "value": 78800
-  },
-  {
-    "name": "Chomby Juice",
-    "value": 3870
-  },
-  {
-    "name": "Chomby Meatloaf",
-    "value": 932
-  },
-  {
-    "name": "Chomby Tail Burger",
-    "value": 964
-  },
-  {
-    "name": "Christmas Pattern Negg",
-    "value": 247000
-  },
-  {
-    "name": "Christmas Quiggle Lettuce and Tomato Wrap",
-    "value": 3490
-  },
-  {
-    "name": "Christmas Wocky Cranberry Meatloaf",
-    "value": 82400
-  },
-  {
-    "name": "Chunky Mushroom Soup",
-    "value": 206000
-  },
-  {
-    "name": "Churros",
-    "value": 1870
-  },
-  {
-    "name": "Cinnamon Apple Chips",
-    "value": 720000
-  },
-  {
-    "name": "Cinnamon Neocola",
-    "value": 200000
-  },
-  {
-    "name": "Cinnamon Toasties",
-    "value": 468000
-  },
-  {
-    "name": "Cinnamon Toasties Blast",
-    "value": 5490
-  },
-  {
-    "name": "Citrus Usul Shake",
-    "value": 869
-  },
-  {
-    "name": "Clam and Meatball Pizza",
-    "value": 20000
-  },
-  {
-    "name": "Clam Linguine",
-    "value": 4140
-  },
-  {
-    "name": "Clove Ham",
-    "value": 1680
-  },
-  {
-    "name": "Clown Chia Zeenana Ice Cream",
-    "value": 970
-  },
-  {
-    "name": "Coco NeoCrunch",
+    "name": "Blue Cheese and Tchea Plate",
     "value": 1000
   },
   {
-    "name": "Coconut and Gooseberry Achyfi",
-    "value": 96
+    "name": "Blue Cheese Draik Head",
+    "value": 995
   },
   {
-    "name": "Coffee",
-    "value": 543
+    "name": "Blue Cybunny Negg",
+    "value": 390000
   },
   {
-    "name": "Coffee Milkshake",
-    "value": 2160
+    "name": "Blue Goo Techo Cake",
+    "value": 36000
   },
   {
-    "name": "Cole Slaw",
-    "value": 168000
+    "name": "Blue Negg",
+    "value": 180000
   },
   {
-    "name": "Coltzan Negg",
+    "name": "Blue Picnic Hamper",
+    "value": 51000
+  },
+  {
+    "name": "Blue Snorkle Hot Tea",
+    "value": 1200000
+  },
+  {
+    "name": "Blue Swirl Cheesicle",
+    "value": 805
+  },
+  {
+    "name": "Blueberry Achyfi",
+    "value": 62000
+  },
+  {
+    "name": "Blueberry and Chokato Achyfi",
+    "value": 1100
+  },
+  {
+    "name": "Blueberry and Orange Blend",
+    "value": 43000
+  },
+  {
+    "name": "Blueberry and Oyster Ice Cream",
+    "value": 850000
+  },
+  {
+    "name": "Blueberry Crescent Lolly",
+    "value": 48500
+  },
+  {
+    "name": "Blueberry Jelly Doughnut",
+    "value": 28000
+  },
+  {
+    "name": "Blueberry Jelly Draik Head",
+    "value": 975
+  },
+  {
+    "name": "Blueberry Jelly Twirl",
+    "value": 150000
+  },
+  {
+    "name": "Blueberry Jetsam Jelly",
+    "value": 3600
+  },
+  {
+    "name": "Blueberry Roll",
+    "value": 1400
+  },
+  {
+    "name": "Blumaroo Burrito",
+    "value": 1100
+  },
+  {
+    "name": "Blumaroo Ice Cream Sundae",
+    "value": 52000
+  },
+  {
+    "name": "Boiled Egg",
     "value": 2000
   },
   {
-    "name": "Communal Meatloaf",
-    "value": 550
+    "name": "Boiled Peanut Dash Peanuts",
+    "value": 59000
   },
   {
-    "name": "Congratulations Negg",
-    "value": 45600
+    "name": "Bomberry Grog",
+    "value": 320000
   },
   {
-    "name": "Container of Purple Liquid",
-    "value": 457000
+    "name": "Bombshroom",
+    "value": 34000
   },
   {
-    "name": "Continuous Meat",
-    "value": 13200
+    "name": "Bori Bowl of Fruit",
+    "value": 3200
   },
   {
-    "name": "Cookie Negg",
-    "value": 63300
+    "name": "Bori Cheese Sandwich",
+    "value": 4600
   },
   {
-    "name": "Coral Delight",
-    "value": 338000
+    "name": "Bori Veggie Special",
+    "value": 1400
   },
   {
-    "name": "Corn Bread",
-    "value": 76
-  },
-  {
-    "name": "Corn Chowder Soup Bowl",
-    "value": 3950
-  },
-  {
-    "name": "Corn Horn",
-    "value": 780
-  },
-  {
-    "name": "Corned Beef on Rye",
-    "value": 3720
-  },
-  {
-    "name": "CPMPB Pizza",
-    "value": 341000
-  },
-  {
-    "name": "CPMPB Salad",
-    "value": 98300
-  },
-  {
-    "name": "CPMPB Sandwich",
-    "value": 39400
-  },
-  {
-    "name": "Crab Spaghetti",
-    "value": 912
-  },
-  {
-    "name": "Cranberry Flavoured Borovan",
-    "value": 2930
-  },
-  {
-    "name": "Cranberry Fog Drink",
-    "value": 2990
-  },
-  {
-    "name": "Cranberry Turkey Sandwich",
-    "value": 3000
-  },
-  {
-    "name": "Cream Cheese Dip",
-    "value": 5840
-  },
-  {
-    "name": "Cream Cheese Pretzel Bites",
-    "value": 20200
-  },
-  {
-    "name": "Cream of Tchea Soup",
-    "value": 122000
-  },
-  {
-    "name": "Creamed Corn",
-    "value": 61000
-  },
-  {
-    "name": "Creamy Carrot Soup",
-    "value": 2580
-  },
-  {
-    "name": "Creamy Carrot Trifle",
-    "value": 1180
-  },
-  {
-    "name": "Creamy Chicken Dish",
-    "value": 11000
-  },
-  {
-    "name": "Creamy Jello Jigglers",
-    "value": 90200
-  },
-  {
-    "name": "Creamy Sweet Potato Soup",
-    "value": 338000
-  },
-  {
-    "name": "Crimson Ham",
-    "value": 4150
-  },
-  {
-    "name": "Crispies",
-    "value": 988
-  },
-  {
-    "name": "Crispy Crunchy Cookies Cereal",
-    "value": 2670
-  },
-  {
-    "name": "Crunchy Buzz Honey Delight",
-    "value": 53000
-  },
-  {
-    "name": "Crunchy Carrot Burger",
-    "value": 1930
-  },
-  {
-    "name": "Crunchy Kacheek Cereal",
-    "value": 1960
-  },
-  {
-    "name": "Crunchy Quiggles",
-    "value": 936
-  },
-  {
-    "name": "Crusty Clam Surprise",
-    "value": 11600
-  },
-  {
-    "name": "Cucumber Salad",
-    "value": 6940
-  },
-  {
-    "name": "Cucumber Tea Sandwiches",
-    "value": 75300
-  },
-  {
-    "name": "Cup of Tea",
-    "value": 971
-  },
-  {
-    "name": "Cup of Wocky Day Soup",
-    "value": 528
-  },
-  {
-    "name": "Cupcake with Rainbow Frosting",
-    "value": 19600
-  },
-  {
-    "name": "Cupid Negg",
-    "value": 7240
-  },
-  {
-    "name": "Curried Chicken Tea Sandwiches",
-    "value": 34800
-  },
-  {
-    "name": "Custard",
-    "value": 4630
-  },
-  {
-    "name": "Custard Cheesecake",
-    "value": 3550
-  },
-  {
-    "name": "Custard Parfait",
-    "value": 3930
-  },
-  {
-    "name": "Cybunny Candy Floss",
-    "value": 3590
-  },
-  {
-    "name": "Cybunny Carrot Pasta",
-    "value": 245
-  },
-  {
-    "name": "Cybunny Carrot Stew",
-    "value": 4680
-  },
-  {
-    "name": "Cybunny Day Canape",
-    "value": 2550
-  },
-  {
-    "name": "Cybunny Pancakes",
-    "value": 4250
-  },
-  {
-    "name": "Dark Chocolate Covered Toffee",
-    "value": 7090
-  },
-  {
-    "name": "Date Milkshake",
-    "value": 3520
-  },
-  {
-    "name": "Deceptive Salad",
-    "value": 1320
-  },
-  {
-    "name": "Deceptive Soup",
-    "value": 13400
-  },
-  {
-    "name": "Decorative Negg",
-    "value": 181000
-  },
-  {
-    "name": "Deep-Fried Candy Floss",
-    "value": 29100
-  },
-  {
-    "name": "Deep-Fried Fried Fishsticks",
-    "value": 2480
-  },
-  {
-    "name": "Deep-Fried Mac-n-Cheese Loaf",
-    "value": 70200
-  },
-  {
-    "name": "Deep-Fried Okra",
-    "value": 315000
-  },
-  {
-    "name": "Deep-Fried Vegetables",
-    "value": 67800
-  },
-  {
-    "name": "Deli Turkey Slices",
-    "value": 357
-  },
-  {
-    "name": "Delicious Borovan Crepe",
-    "value": 2340
-  },
-  {
-    "name": "Delicious Custard Brulee",
-    "value": 891
-  },
-  {
-    "name": "Delicious Ruki Crackers",
-    "value": 311
-  },
-  {
-    "name": "Deluxe Cheese Fondue",
-    "value": 95900
-  },
-  {
-    "name": "Deluxe Chocolate Fondue",
-    "value": 5960
-  },
-  {
-    "name": "Deluxe Elephante Burger",
-    "value": 1110
-  },
-  {
-    "name": "Deluxe Elephante Cake",
-    "value": 221000
-  },
-  {
-    "name": "Deluxe Ham Sub",
-    "value": 56800
-  },
-  {
-    "name": "Deluxe Peophin Burger",
-    "value": 6970
-  },
-  {
-    "name": "Dewy Apple Sandwich",
-    "value": 1700
-  },
-  {
-    "name": "Diet Big Gulp Neocola",
-    "value": 317000
-  },
-  {
-    "name": "Diet Neocola",
-    "value": 1060
-  },
-  {
-    "name": "Dipping Apples",
-    "value": 6780
-  },
-  {
-    "name": "Dirt Achyfi",
-    "value": 306000
-  },
-  {
-    "name": "Dirt Burgers",
-    "value": 33900
-  },
-  {
-    "name": "Dirt Cheese",
-    "value": 2770
-  },
-  {
-    "name": "Dirt Ice Cream",
-    "value": 49200
-  },
-  {
-    "name": "Dirt Pie",
-    "value": 142
-  },
-  {
-    "name": "Disco Ice Cream",
-    "value": 80000
-  },
-  {
-    "name": "Disco Toast",
-    "value": 325000
-  },
-  {
-    "name": "Doglefox Candy Floss",
-    "value": 465000
-  },
-  {
-    "name": "Doglefox Cookies",
-    "value": 4790
-  },
-  {
-    "name": "Doglefox Ice Cream Scoops",
-    "value": 499000
-  },
-  {
-    "name": "Doglefox Popcorn",
+    "name": "Borovan Brownies",
     "value": 10000
   },
   {
-    "name": "Donut Burger",
-    "value": 3250000
+    "name": "Borovan Chicken",
+    "value": 5700
   },
   {
-    "name": "Dorkleshroom",
-    "value": 555000
+    "name": "Borovan Cookies",
+    "value": 4100
   },
   {
-    "name": "Double Chicken Leg",
-    "value": 29700
+    "name": "Borovan Hot Chocolate Bomb",
+    "value": 5000000
   },
   {
-    "name": "Double Scoop of Sorbet",
-    "value": 97600
+    "name": "Borovan Ice Cream Scoop",
+    "value": 810
   },
   {
-    "name": "Double Stuffed Guppy",
-    "value": 32200
+    "name": "Borovan Layered Cake",
+    "value": 3850000
   },
   {
-    "name": "Doughnutfruit Punch",
-    "value": 293000
+    "name": "Borovan Pavlova",
+    "value": 7600
   },
   {
-    "name": "Dr. Sloth Gormball Recovery Drink",
-    "value": 999999
+    "name": "Bottle of Water",
+    "value": 1500
   },
   {
-    "name": "Draik Cracker Sandwich",
-    "value": 3370
-  },
-  {
-    "name": "Draik Salad",
-    "value": 886000
-  },
-  {
-    "name": "Draik Soup",
-    "value": 81800
-  },
-  {
-    "name": "Draik Steak",
-    "value": 844
-  },
-  {
-    "name": "Draik Wrap",
-    "value": 680000
-  },
-  {
-    "name": "Draining Negg Slice",
-    "value": 178
-  },
-  {
-    "name": "Dressing and Cranberry Sandwich",
-    "value": 586000
-  },
-  {
-    "name": "Dried Chilli Peppers",
-    "value": 79100
-  },
-  {
-    "name": "Dried Gruel Capsules",
-    "value": 1630
-  },
-  {
-    "name": "Dried Lupe Snack",
+    "name": "Bowl Hominy",
     "value": 40000
   },
   {
+    "name": "Bowl of Mushy Peas",
+    "value": 41000
+  },
+  {
+    "name": "Bowl of Wocky Day Soup",
+    "value": 1500
+  },
+  {
+    "name": "Bran Boulders",
+    "value": 4900
+  },
+  {
+    "name": "Breakfast Cake",
+    "value": 57000
+  },
+  {
+    "name": "Breakfast Croissant",
+    "value": 1100
+  },
+  {
+    "name": "Brightly Coloured Easter Negg",
+    "value": 10500
+  },
+  {
+    "name": "Brightvale Rigamaroll",
+    "value": 620
+  },
+  {
+    "name": "Broccoli",
+    "value": 1600
+  },
+  {
+    "name": "Broccoli Achyfi",
+    "value": 19000
+  },
+  {
+    "name": "Brown Sugar Oatmeal",
+    "value": 37000
+  },
+  {
+    "name": "Bubble Negg",
+    "value": 41000
+  },
+  {
+    "name": "Bubbling Blue Soup",
+    "value": 42
+  },
+  {
+    "name": "Bubbling Blueberry Cheese Wedge",
+    "value": 27500
+  },
+  {
+    "name": "Bubbling Bori Beverage",
+    "value": 2600
+  },
+  {
+    "name": "Bubbly Harffel Fruit Juice",
+    "value": 29500
+  },
+  {
+    "name": "Bubbly Rhuby Fruit Juice",
+    "value": 32000
+  },
+  {
+    "name": "Bubbly Roseatte Juice",
+    "value": 44000
+  },
+  {
+    "name": "Bubbly Twirly Fruit Juice",
+    "value": 41000
+  },
+  {
+    "name": "Bug-a-licious Parfait",
+    "value": 95500
+  },
+  {
+    "name": "Buried Treasure Crackers",
+    "value": 1000
+  },
+  {
+    "name": "Bursting Water Muffin",
+    "value": 770
+  },
+  {
+    "name": "Butter Toffee Popcorn",
+    "value": 2100
+  },
+  {
+    "name": "Buttered Popcorn",
+    "value": 1200
+  },
+  {
+    "name": "Buttered Toast",
+    "value": 39
+  },
+  {
+    "name": "Butternut Ravioli",
+    "value": 5700
+  },
+  {
+    "name": "Butterscotch Milkshake",
+    "value": 3000
+  },
+  {
+    "name": "Buttery Chomby Waffles",
+    "value": 38000
+  },
+  {
+    "name": "Buzz Bread Salad",
+    "value": 8000
+  },
+  {
+    "name": "Buzz Dung Cone",
+    "value": 5600
+  },
+  {
+    "name": "Buzz Honey Pot",
+    "value": 21500
+  },
+  {
+    "name": "Buzz Mashed Potato",
+    "value": 20500
+  },
+  {
+    "name": "Buzz Meatloaf",
+    "value": 670
+  },
+  {
+    "name": "Buzz Sandwich",
+    "value": 23500
+  },
+  {
+    "name": "Buzz Sandwich With Honey",
+    "value": 26000
+  },
+  {
+    "name": "Cabbage Taco",
+    "value": 925
+  },
+  {
+    "name": "Caesar Salad",
+    "value": 3100
+  },
+  {
+    "name": "Caffeine Free Neocola",
+    "value": 2300
+  },
+  {
+    "name": "Camouflage Hot Dog",
+    "value": 4100
+  },
+  {
+    "name": "Can of Neocola",
+    "value": 500
+  },
+  {
+    "name": "Can of Sausages",
+    "value": 2100
+  },
+  {
+    "name": "Candy Cane Negg",
+    "value": 230000
+  },
+  {
+    "name": "Candy Floss Carrot",
+    "value": 14000000
+  },
+  {
+    "name": "Candy Gelert Pancakes",
+    "value": 3000
+  },
+  {
+    "name": "Cannon Fodder",
+    "value": 850000
+  },
+  {
+    "name": "Cantaloupe Melon",
+    "value": 3100
+  },
+  {
+    "name": "Capn Threelegs Cutlass Crusade",
+    "value": 3900000
+  },
+  {
+    "name": "Captain Scarblade Crunch Cereal",
+    "value": 85500
+  },
+  {
+    "name": "Caramel Acara On A Stick",
+    "value": 1700
+  },
+  {
+    "name": "Caramel Chia Parfait",
+    "value": 18500
+  },
+  {
+    "name": "Caramel Coated Pear",
+    "value": 3500
+  },
+  {
+    "name": "Caramel Flavoured Kougra Milk",
+    "value": 37000
+  },
+  {
+    "name": "Carnapepper Finger Sandwiches",
+    "value": 2500
+  },
+  {
+    "name": "Carnapepper Soup",
+    "value": 595
+  },
+  {
+    "name": "Carrot",
+    "value": 900
+  },
+  {
+    "name": "Carrot Cone",
+    "value": 2400
+  },
+  {
+    "name": "Carrot Crown",
+    "value": 1000
+  },
+  {
+    "name": "Carrot Cupcake",
+    "value": 12500
+  },
+  {
+    "name": "Carrot Fizz Achyfi",
+    "value": 42500
+  },
+  {
+    "name": "Carrot Lupe Treat",
+    "value": 1300
+  },
+  {
+    "name": "Carrot On A Stick",
+    "value": 91500
+  },
+  {
+    "name": "Carrot Salad",
+    "value": 39500
+  },
+  {
+    "name": "Carrots in Salad",
+    "value": 26500
+  },
+  {
+    "name": "Carton of Orange Juice",
+    "value": 825
+  },
+  {
+    "name": "Caviar Sandwich",
+    "value": 1400
+  },
+  {
+    "name": "Cawl",
+    "value": 3400
+  },
+  {
+    "name": "Celery Achyfi",
+    "value": 55000
+  },
+  {
+    "name": "Celery Salad",
+    "value": 34000
+  },
+  {
+    "name": "Chain of Onions",
+    "value": 240000
+  },
+  {
+    "name": "Checkered Burger",
+    "value": 3100
+  },
+  {
+    "name": "Checkered Cake",
+    "value": 1600
+  },
+  {
+    "name": "Checkered Carrot",
+    "value": 7800
+  },
+  {
+    "name": "Checkered Ice Cream",
+    "value": 53500
+  },
+  {
+    "name": "Checkered Steak",
+    "value": 2400
+  },
+  {
+    "name": "Cheddar and Screlon Plate",
+    "value": 45000
+  },
+  {
+    "name": "Cheddar Fries",
+    "value": 1900
+  },
+  {
+    "name": "Cheddar Kacheek Cheese",
+    "value": 17000
+  },
+  {
+    "name": "Cheery Tomato Soup Bowl",
+    "value": 1200
+  },
+  {
+    "name": "Cheery Tomatoes",
+    "value": 3300
+  },
+  {
+    "name": "Cheese",
+    "value": 995
+  },
+  {
+    "name": "Cheese and Pickle Packed Lunch",
+    "value": 9300
+  },
+  {
+    "name": "Cheese and Raspberry Plate",
+    "value": 54500
+  },
+  {
+    "name": "Cheese and Tomato Muffin",
+    "value": 855
+  },
+  {
+    "name": "Cheese and Tonu Crackers",
+    "value": 37000
+  },
+  {
+    "name": "Cheese Covered Pretzel",
+    "value": 3100
+  },
+  {
+    "name": "Cheese Negg",
+    "value": 18500
+  },
+  {
+    "name": "Cheese Rigamaroll",
+    "value": 14500
+  },
+  {
+    "name": "Cheese Spread on a Plank",
+    "value": 1800
+  },
+  {
+    "name": "Cheese Sticks",
+    "value": 100000
+  },
+  {
+    "name": "Cheese Stuffed Mushrooms",
+    "value": 1900
+  },
+  {
+    "name": "Cheese Tortilla",
+    "value": 1300
+  },
+  {
+    "name": "Cheese Xweetok",
+    "value": 990
+  },
+  {
+    "name": "Cheeseburger",
+    "value": 900
+  },
+  {
+    "name": "Cheesecake Salad",
+    "value": 1200
+  },
+  {
+    "name": "Cheesenana",
+    "value": 31000
+  },
+  {
+    "name": "Cheesy Carrot Chunks",
+    "value": 10000000
+  },
+  {
+    "name": "Cheesy Choco Cookie",
+    "value": 45000
+  },
+  {
+    "name": "Cheesy Chocoshake",
+    "value": 9850000
+  },
+  {
+    "name": "Cheesy Chokato Pie",
+    "value": 140000
+  },
+  {
+    "name": "Cheesy Jetsam Sandwich",
+    "value": 29500
+  },
+  {
+    "name": "Cheesy Kois",
+    "value": 16500
+  },
+  {
+    "name": "Cheesy Krawk Dip",
+    "value": 3200000
+  },
+  {
+    "name": "Cheesy Krawk Pot",
+    "value": 1600
+  },
+  {
+    "name": "Cheesy Krawk Sandwich",
+    "value": 1200
+  },
+  {
+    "name": "Cheesy Kyrii Sandwich",
+    "value": 40500
+  },
+  {
+    "name": "Cheesy Mashed Potato",
+    "value": 24500
+  },
+  {
+    "name": "Cheesy Meat Wrap",
+    "value": 255
+  },
+  {
+    "name": "Cheesy Onion Noodle Soup",
+    "value": 30500
+  },
+  {
+    "name": "Cheesy Onion Sticks",
+    "value": 6000
+  },
+  {
+    "name": "Cheesy Popcorn",
+    "value": 1400
+  },
+  {
+    "name": "Cheesy Shoyru Meatball",
+    "value": 3000
+  },
+  {
+    "name": "Cheesy Slorgwich",
+    "value": 1900
+  },
+  {
+    "name": "Cheesy Strawberry Slice",
+    "value": 16000000
+  },
+  {
+    "name": "Cheesykraut Hot Dog",
+    "value": 30500
+  },
+  {
+    "name": "Cherimoya",
+    "value": 1900
+  },
+  {
+    "name": "Cherries",
+    "value": 870
+  },
+  {
+    "name": "Cherry Carrot Ice Cream",
+    "value": 5100
+  },
+  {
+    "name": "Cherry Milkshake",
+    "value": 745
+  },
+  {
+    "name": "Cherry Mynci Burger",
+    "value": 34500
+  },
+  {
+    "name": "Cherry Pop",
+    "value": 1700000
+  },
+  {
+    "name": "Cherry Twist Lollypop",
+    "value": 2200
+  },
+  {
+    "name": "Cherry Xweetok Cupcake",
+    "value": 810
+  },
+  {
+    "name": "Chestnut Shortcake",
+    "value": 36500
+  },
+  {
+    "name": "Chestnut Soup",
+    "value": 31500
+  },
+  {
+    "name": "Chia Cereal",
+    "value": 49500
+  },
+  {
+    "name": "Chia Cheese Blintz",
+    "value": 1000
+  },
+  {
+    "name": "Chia Chia Pudding",
+    "value": 42000
+  },
+  {
+    "name": "Chiazilla Quesadilla",
+    "value": 4800
+  },
+  {
+    "name": "Chicken Curry",
+    "value": 36000
+  },
+  {
+    "name": "Chicken Dumpling Soup",
+    "value": 36000
+  },
+  {
+    "name": "Chicken Filets with Fancy Sauce",
+    "value": 650000
+  },
+  {
+    "name": "Chicken Taquitos",
+    "value": 34500
+  },
+  {
+    "name": "Chicken Tuskabob",
+    "value": 33000
+  },
+  {
+    "name": "Chicken With Vegetables",
+    "value": 99000
+  },
+  {
+    "name": "Chilli Chia Hot Sauce",
+    "value": 1200
+  },
+  {
+    "name": "Chilli Salmon Souffle",
+    "value": 4900
+  },
+  {
+    "name": "Chip Butty with Tomato Sauce",
+    "value": 3500
+  },
+  {
+    "name": "Chips and Curry Sauce",
+    "value": 2600
+  },
+  {
+    "name": "Chips and Egg",
+    "value": 1000
+  },
+  {
+    "name": "Chips and Gravy",
+    "value": 4700
+  },
+  {
+    "name": "Chocolate Aisha Sundae",
+    "value": 42500
+  },
+  {
+    "name": "Chocolate and Asparagus Achyfi",
+    "value": 2000
+  },
+  {
+    "name": "Chocolate Carrot Sundae",
+    "value": 570
+  },
+  {
+    "name": "Chocolate Chip Gelert Ice Cream Sandwich",
+    "value": 29500
+  },
+  {
+    "name": "Chocolate Chip Zafara Cookie",
+    "value": 840
+  },
+  {
+    "name": "Chocolate Chomby Ice Cream Sandwich",
+    "value": 30500
+  },
+  {
+    "name": "Chocolate Coated Blue Cheese",
+    "value": 240000
+  },
+  {
+    "name": "Chocolate Coated Cheese",
+    "value": 960000
+  },
+  {
+    "name": "Chocolate Coated Cheese Strings",
+    "value": 7500000
+  },
+  {
+    "name": "Chocolate Coated Flies",
+    "value": 110
+  },
+  {
+    "name": "Chocolate Coated Holey Cheese",
+    "value": 999971
+  },
+  {
+    "name": "Chocolate Coated Pear",
+    "value": 3400
+  },
+  {
+    "name": "Chocolate Coated Tangy Cheese",
+    "value": 3300
+  },
+  {
+    "name": "Chocolate Covered Apple",
+    "value": 5000
+  },
+  {
+    "name": "Chocolate Covered Carrot",
+    "value": 110000
+  },
+  {
+    "name": "Chocolate Covered Strawberries",
+    "value": 650
+  },
+  {
+    "name": "Chocolate Covered Toffee",
+    "value": 20500
+  },
+  {
+    "name": "Chocolate Covered Tomato",
+    "value": 39500
+  },
+  {
+    "name": "Chocolate Custard",
+    "value": 37000
+  },
+  {
+    "name": "Chocolate Deluxe Flotsam Day Shake",
+    "value": 280
+  },
+  {
+    "name": "Chocolate Dipped Ruki Lolly",
+    "value": 545
+  },
+  {
+    "name": "Chocolate Drizzled Popcorn",
+    "value": 4800
+  },
+  {
+    "name": "Chocolate Elephante Doughnut",
+    "value": 69500
+  },
+  {
+    "name": "Chocolate Elephante Sundae",
+    "value": 335
+  },
+  {
+    "name": "Chocolate Gnome Crunch",
+    "value": 93500
+  },
+  {
+    "name": "Chocolate Green Tea Parfait",
+    "value": 45000
+  },
+  {
+    "name": "Chocolate Ice Cream",
+    "value": 44500
+  },
+  {
+    "name": "Chocolate Ixi Ice Cream Sandwich",
+    "value": 1500
+  },
+  {
+    "name": "Chocolate Joy Fun Pop",
+    "value": 1100000
+  },
+  {
+    "name": "Chocolate JubJub Sundae",
+    "value": 2500
+  },
+  {
+    "name": "Chocolate Kau Milk",
+    "value": 16000
+  },
+  {
+    "name": "Chocolate Kougra Pudding",
+    "value": 34
+  },
+  {
+    "name": "Chocolate Lupe Ice Cream",
+    "value": 24000
+  },
+  {
+    "name": "Chocolate Milk",
+    "value": 1400
+  },
+  {
+    "name": "Chocolate Milkshake",
+    "value": 650
+  },
+  {
+    "name": "Chocolate Nimmo Dessert",
+    "value": 49500
+  },
+  {
+    "name": "Chocolate Peanut Butter Bagel",
+    "value": 930
+  },
+  {
+    "name": "Chocolate Poogle Cupcake",
+    "value": 40500
+  },
+  {
+    "name": "Chocolate Poogle Lolly",
+    "value": 38000
+  },
+  {
+    "name": "Chocolate Shoyru Meatball",
+    "value": 4900
+  },
+  {
+    "name": "Chocolate Skeith Cone",
+    "value": 1600
+  },
+  {
+    "name": "Chocolate Techo Cookie",
+    "value": 4200
+  },
+  {
+    "name": "Chocolate Techo Foot",
+    "value": 4200
+  },
+  {
+    "name": "Chocolate Waffle Cone",
+    "value": 3300
+  },
+  {
+    "name": "Chocolate Xweetok Ice Cream Sandwich",
+    "value": 875
+  },
+  {
+    "name": "Chocolatey Pork Chops",
+    "value": 2800
+  },
+  {
+    "name": "Chocomalt Milkshake",
+    "value": 2400
+  },
+  {
+    "name": "Chocopie Slice",
+    "value": 495
+  },
+  {
+    "name": "Chokato Chew",
+    "value": 2300
+  },
+  {
+    "name": "Chokato Chomby Crisps",
+    "value": 4800
+  },
+  {
+    "name": "Chokato Cream Cheese Dip",
+    "value": 39500
+  },
+  {
+    "name": "Chokato Crisps",
+    "value": 705
+  },
+  {
+    "name": "Chokato JubJub Mini Burger",
+    "value": 995
+  },
+  {
+    "name": "Chokato Kougra Pudding",
+    "value": 2800
+  },
+  {
+    "name": "Chokato Mash Jacket Potato",
+    "value": 930
+  },
+  {
+    "name": "Chokato Neggnog",
+    "value": 160000
+  },
+  {
+    "name": "Chokato Omurice",
+    "value": 18000
+  },
+  {
+    "name": "Chokato Rigamaroll",
+    "value": 9600
+  },
+  {
+    "name": "Chokato Sundae",
+    "value": 66000
+  },
+  {
+    "name": "Chokato Toasty",
+    "value": 1100
+  },
+  {
+    "name": "Chokato Toffee Apple",
+    "value": 20000
+  },
+  {
+    "name": "Chokatoade",
+    "value": 1800
+  },
+  {
+    "name": "Chomate Triple Decker",
+    "value": 870
+  },
+  {
+    "name": "Chomby Chips",
+    "value": 1000
+  },
+  {
+    "name": "Chomby Day Potato Soup",
+    "value": 4100
+  },
+  {
+    "name": "Chomby Hot Dog",
+    "value": 14500
+  },
+  {
+    "name": "Chomby Juice",
+    "value": 11000
+  },
+  {
+    "name": "Chomby Meatloaf",
+    "value": 1100
+  },
+  {
+    "name": "Chomby Tail Burger",
+    "value": 970
+  },
+  {
+    "name": "Christmas Pattern Negg",
+    "value": 300000
+  },
+  {
+    "name": "Christmas Quiggle Lettuce and Tomato Wrap",
+    "value": 1800
+  },
+  {
+    "name": "Christmas Wocky Cranberry Meatloaf",
+    "value": 52000
+  },
+  {
+    "name": "Chunky Mushroom Soup",
+    "value": 26500
+  },
+  {
+    "name": "Churros",
+    "value": 665
+  },
+  {
+    "name": "Cinnamon Apple Chips",
+    "value": 47000
+  },
+  {
+    "name": "Cinnamon Neocola",
+    "value": 100000
+  },
+  {
+    "name": "Cinnamon Toasties",
+    "value": 47000
+  },
+  {
+    "name": "Cinnamon Toasties Blast",
+    "value": 7800
+  },
+  {
+    "name": "Citrus Usul Shake",
+    "value": 1800
+  },
+  {
+    "name": "Clam and Meatball Pizza",
+    "value": 36000
+  },
+  {
+    "name": "Clam Linguine",
+    "value": 2000
+  },
+  {
+    "name": "Clove Ham",
+    "value": 1100
+  },
+  {
+    "name": "Clown Chia Zeenana Ice Cream",
+    "value": 1000
+  },
+  {
+    "name": "Coco NeoCrunch",
+    "value": 920
+  },
+  {
+    "name": "Coconut and Gooseberry Achyfi",
+    "value": 435
+  },
+  {
+    "name": "Coffee",
+    "value": 710
+  },
+  {
+    "name": "Coffee Milkshake",
+    "value": 3000
+  },
+  {
+    "name": "Cole Slaw",
+    "value": 75000
+  },
+  {
+    "name": "Coltzan Negg",
+    "value": 15000
+  },
+  {
+    "name": "Communal Meatloaf",
+    "value": 825
+  },
+  {
+    "name": "Congratulations Negg",
+    "value": 75000
+  },
+  {
+    "name": "Container of Purple Liquid",
+    "value": 77000
+  },
+  {
+    "name": "Continuous Meat",
+    "value": 9800
+  },
+  {
+    "name": "Cookie Negg",
+    "value": 75500
+  },
+  {
+    "name": "Coral Delight",
+    "value": 40500
+  },
+  {
+    "name": "Corn Bread",
+    "value": 105
+  },
+  {
+    "name": "Corn Chowder Soup Bowl",
+    "value": 945
+  },
+  {
+    "name": "Corn Horn",
+    "value": 415
+  },
+  {
+    "name": "Corned Beef on Rye",
+    "value": 2900
+  },
+  {
+    "name": "CPMPB Pizza",
+    "value": 89000
+  },
+  {
+    "name": "CPMPB Salad",
+    "value": 53500
+  },
+  {
+    "name": "CPMPB Sandwich",
+    "value": 29000
+  },
+  {
+    "name": "Crab Spaghetti",
+    "value": 745
+  },
+  {
+    "name": "Cranberry Flavoured Borovan",
+    "value": 1000
+  },
+  {
+    "name": "Cranberry Fog Drink",
+    "value": 4700
+  },
+  {
+    "name": "Cranberry Turkey Sandwich",
+    "value": 2700
+  },
+  {
+    "name": "Cream Cheese Dip",
+    "value": 4200
+  },
+  {
+    "name": "Cream Cheese Pretzel Bites",
+    "value": 28000
+  },
+  {
+    "name": "Cream of Tchea Soup",
+    "value": 31500
+  },
+  {
+    "name": "Creamed Corn",
+    "value": 30500
+  },
+  {
+    "name": "Creamy Carrot Soup",
+    "value": 2100
+  },
+  {
+    "name": "Creamy Carrot Trifle",
+    "value": 1700
+  },
+  {
+    "name": "Creamy Chicken Dish",
+    "value": 59000
+  },
+  {
+    "name": "Creamy Jello Jigglers",
+    "value": 42000
+  },
+  {
+    "name": "Creamy Sweet Potato Soup",
+    "value": 41500
+  },
+  {
+    "name": "Crimson Ham",
+    "value": 3600
+  },
+  {
+    "name": "Crispies",
+    "value": 1200
+  },
+  {
+    "name": "Crispy Crunchy Cookies Cereal",
+    "value": 3600
+  },
+  {
+    "name": "Crunchy Buzz Honey Delight",
+    "value": 42000
+  },
+  {
+    "name": "Crunchy Carrot Burger",
+    "value": 1100
+  },
+  {
+    "name": "Crunchy Kacheek Cereal",
+    "value": 3800
+  },
+  {
+    "name": "Crunchy Quiggles",
+    "value": 4000
+  },
+  {
+    "name": "Crusty Clam Surprise",
+    "value": 10500
+  },
+  {
+    "name": "Cucumber Salad",
+    "value": 4800
+  },
+  {
+    "name": "Cucumber Tea Sandwiches",
+    "value": 46000
+  },
+  {
+    "name": "Cup of Tea",
+    "value": 935
+  },
+  {
+    "name": "Cup of Wocky Day Soup",
+    "value": 930
+  },
+  {
+    "name": "Cupcake with Rainbow Frosting",
+    "value": 93500
+  },
+  {
+    "name": "Cupid Negg",
+    "value": 6300
+  },
+  {
+    "name": "Curried Chicken Tea Sandwiches",
+    "value": 30000
+  },
+  {
+    "name": "Custard",
+    "value": 48500
+  },
+  {
+    "name": "Custard Cheesecake",
+    "value": 11500
+  },
+  {
+    "name": "Custard Parfait",
+    "value": 1100
+  },
+  {
+    "name": "Cybunny Candy Floss",
+    "value": 2600
+  },
+  {
+    "name": "Cybunny Carrot Pasta",
+    "value": 1100
+  },
+  {
+    "name": "Cybunny Carrot Stew",
+    "value": 6900
+  },
+  {
+    "name": "Cybunny Day Canape",
+    "value": 3100
+  },
+  {
+    "name": "Cybunny Pancakes",
+    "value": 8900
+  },
+  {
+    "name": "Dark Chocolate Covered Toffee",
+    "value": 7600
+  },
+  {
+    "name": "Date Milkshake",
+    "value": 3700
+  },
+  {
+    "name": "Deceptive Salad",
+    "value": 635
+  },
+  {
+    "name": "Deceptive Soup",
+    "value": 13000
+  },
+  {
+    "name": "Decorative Negg",
+    "value": 220000
+  },
+  {
+    "name": "Deep-Fried Candy Floss",
+    "value": 51000
+  },
+  {
+    "name": "Deep-Fried Fried Fishsticks",
+    "value": 1900
+  },
+  {
+    "name": "Deep-Fried Mac-n-Cheese Loaf",
+    "value": 42000
+  },
+  {
+    "name": "Deep-Fried Okra",
+    "value": 67000
+  },
+  {
+    "name": "Deep-Fried Vegetables",
+    "value": 31500
+  },
+  {
+    "name": "Deli Turkey Slices",
+    "value": 715
+  },
+  {
+    "name": "Delicious Borovan Crepe",
+    "value": 7800
+  },
+  {
+    "name": "Delicious Custard Brulee",
+    "value": 2200
+  },
+  {
+    "name": "Delicious Ruki Crackers",
+    "value": 71
+  },
+  {
+    "name": "Deluxe Cheese Fondue",
+    "value": 58500
+  },
+  {
+    "name": "Deluxe Chocolate Fondue",
+    "value": 42500
+  },
+  {
+    "name": "Deluxe Elephante Burger",
+    "value": 1000
+  },
+  {
+    "name": "Deluxe Elephante Cake",
+    "value": 93500
+  },
+  {
+    "name": "Deluxe Ham Sub",
+    "value": 36500
+  },
+  {
+    "name": "Deluxe Peophin Burger",
+    "value": 910
+  },
+  {
+    "name": "Dewy Apple Sandwich",
+    "value": 815
+  },
+  {
+    "name": "Diet Big Gulp Neocola",
+    "value": 300000
+  },
+  {
+    "name": "Diet Neocola",
+    "value": 375
+  },
+  {
+    "name": "Dipping Apples",
+    "value": 11000
+  },
+  {
+    "name": "Dirt Achyfi",
+    "value": 89500
+  },
+  {
+    "name": "Dirt Burgers",
+    "value": 33500
+  },
+  {
+    "name": "Dirt Cheese",
+    "value": 4200
+  },
+  {
+    "name": "Dirt Ice Cream",
+    "value": 29500
+  },
+  {
+    "name": "Dirt Pie",
+    "value": 28
+  },
+  {
+    "name": "Disco Ice Cream",
+    "value": 41000
+  },
+  {
+    "name": "Disco Toast",
+    "value": 89000
+  },
+  {
+    "name": "Doglefox Candy Floss",
+    "value": 97000
+  },
+  {
+    "name": "Doglefox Cookies",
+    "value": 2000
+  },
+  {
+    "name": "Doglefox Ice Cream Scoops",
+    "value": 37500
+  },
+  {
+    "name": "Doglefox Popcorn",
+    "value": 22000
+  },
+  {
+    "name": "Donut Burger",
+    "value": 1900000
+  },
+  {
+    "name": "Dorkleshroom",
+    "value": 34500
+  },
+  {
+    "name": "Double Chicken Leg",
+    "value": 37500
+  },
+  {
+    "name": "Double Scoop of Sorbet",
+    "value": 42000
+  },
+  {
+    "name": "Double Stuffed Guppy",
+    "value": 28000
+  },
+  {
+    "name": "Doughnutfruit Punch",
+    "value": 17500
+  },
+  {
+    "name": "Dr. Sloth Gormball Recovery Drink",
+    "value": 12500
+  },
+  {
+    "name": "Draik Cracker Sandwich",
+    "value": 2500
+  },
+  {
+    "name": "Draik Salad",
+    "value": 27500
+  },
+  {
+    "name": "Draik Soup",
+    "value": 21500
+  },
+  {
+    "name": "Draik Steak",
+    "value": 940
+  },
+  {
+    "name": "Draik Wrap",
+    "value": 53500
+  },
+  {
+    "name": "Draining Negg Slice",
+    "value": 200
+  },
+  {
+    "name": "Dressing and Cranberry Sandwich",
+    "value": 79500
+  },
+  {
+    "name": "Dried Chilli Peppers",
+    "value": 32000
+  },
+  {
+    "name": "Dried Gruel Capsules",
+    "value": 3500
+  },
+  {
+    "name": "Dried Lupe Snack",
+    "value": 30000
+  },
+  {
     "name": "Dried Squid on a Stick",
-    "value": 112
+    "value": 8
   },
   {
     "name": "Dubloon Nuggets",
-    "value": 94600
+    "value": 23000
   },
   {
     "name": "Dumb Negg Juice Negg",
@@ -1897,619 +1893,619 @@
   },
   {
     "name": "Dung Ice Cream",
-    "value": 160
+    "value": 43
   },
   {
     "name": "Dung Negg",
-    "value": 99500
+    "value": 28500
   },
   {
     "name": "Durian Biscuit",
-    "value": 1940
+    "value": 2000
   },
   {
     "name": "Durian Custard",
-    "value": 828
+    "value": 985
   },
   {
     "name": "Durian Lupe Treat",
-    "value": 1370
+    "value": 6400
   },
   {
     "name": "Durian Pie",
-    "value": 600
+    "value": 860
   },
   {
     "name": "Edible Argyle Socks",
-    "value": 35700
+    "value": 29500
   },
   {
     "name": "Edible Orange Socks",
-    "value": 8430
+    "value": 2400
   },
   {
     "name": "Edible Purple Socks",
-    "value": 25700
+    "value": 1200
   },
   {
     "name": "Edible Smelly Gym Socks",
-    "value": 4
+    "value": 35
   },
   {
     "name": "Egg and Carrots",
-    "value": 134000
+    "value": 35500
   },
   {
     "name": "Egg and Tomato Sandwich",
-    "value": 4000000
+    "value": 9500000
   },
   {
     "name": "Egg Gelatin",
-    "value": 3680
+    "value": 4000
   },
   {
     "name": "Egg Hot Dog",
-    "value": 3480
+    "value": 9300
   },
   {
     "name": "Egg Pate",
-    "value": 96500
+    "value": 23500
   },
   {
     "name": "Egg Roll",
-    "value": 468000
+    "value": 41500
   },
   {
     "name": "Egg Salad and Cheese Sandwich",
-    "value": 126
+    "value": 230
   },
   {
     "name": "Egg Salad Packed Lunch",
-    "value": 6780
+    "value": 7800
   },
   {
     "name": "Egg Stew",
-    "value": 164000
+    "value": 24500
   },
   {
     "name": "Eggs Benedict",
-    "value": 5450
+    "value": 6200
   },
   {
     "name": "Eggy Weggs",
-    "value": 42500
+    "value": 33000
   },
   {
     "name": "El Champion",
-    "value": 989
+    "value": 815
   },
   {
     "name": "Elderberry Achyfi",
-    "value": 283
+    "value": 145
   },
   {
     "name": "Elephante Chicken Nuggets",
-    "value": 3940
+    "value": 28000
   },
   {
     "name": "Elephante Empanadas",
-    "value": 460000
+    "value": 33500
   },
   {
     "name": "Elephante Ice Cream",
-    "value": 467000
+    "value": 46000
   },
   {
     "name": "Elephante Milkshake",
-    "value": 3820
+    "value": 3700
   },
   {
     "name": "Elephante Salad",
-    "value": 4870
+    "value": 7000
   },
   {
     "name": "Endless Salad and Bread Sticks",
-    "value": 245
+    "value": 185
   },
   {
     "name": "Enoki-n-Cheese Plank",
-    "value": 3740
+    "value": 2400
   },
   {
     "name": "ErgyFruit Grog",
-    "value": 1670000
+    "value": 1400000
   },
   {
     "name": "Escargot with Kelp Salad",
-    "value": 7540
+    "value": 90500
   },
   {
     "name": "Evil Popcorn",
-    "value": 12600
+    "value": 16000
   },
   {
     "name": "Exotic Plant",
-    "value": 47400
+    "value": 50000
   },
   {
     "name": "Exotic Sliced Truffles",
-    "value": 168000
+    "value": 42000
   },
   {
     "name": "Extra Crispy Bacon Gum",
-    "value": 409000
+    "value": 11000
   },
   {
     "name": "Extra Fancy Crackers",
-    "value": 1270000
+    "value": 25500
   },
   {
     "name": "Extra Large Fizzy Drink",
-    "value": 181000
+    "value": 23500
   },
   {
     "name": "Extra Large Xweetok Sushi",
-    "value": 356000
+    "value": 71500
   },
   {
     "name": "Extra Meaty Pie",
-    "value": 12700
+    "value": 47500
   },
   {
     "name": "Extra Meaty Sandwich",
-    "value": 224000
+    "value": 29500
   },
   {
     "name": "Extra Sour Seedless Skeem Jam",
-    "value": 190000
+    "value": 16000
   },
   {
     "name": "Eyrie Gumbo",
-    "value": 4760
-  },
-  {
-    "name": "Eyrie Meatloaf",
-    "value": 2460
-  },
-  {
-    "name": "Eyrie Pancake",
-    "value": 1270
-  },
-  {
-    "name": "Eyrie Sushi",
-    "value": 2520
-  },
-  {
-    "name": "Faeriemoya",
-    "value": 2000
-  },
-  {
-    "name": "Fajita Chips",
-    "value": 718
-  },
-  {
-    "name": "Fake Blumaroo Steak",
-    "value": 106
-  },
-  {
-    "name": "Fall Leaf Salad",
-    "value": 1130000
-  },
-  {
-    "name": "Fancy Rack of Lamb",
-    "value": 19700
-  },
-  {
-    "name": "Fancy Rack of Lamb with Fruit",
-    "value": 3650000
-  },
-  {
-    "name": "Fancy Seafood",
-    "value": 3070
-  },
-  {
-    "name": "Fancy Star Burger",
-    "value": 137000
-  },
-  {
-    "name": "Fancy Sundae",
-    "value": 1980
-  },
-  {
-    "name": "Fancy Waffles",
-    "value": 4580
-  },
-  {
-    "name": "Felberry Gormball Sandwich",
-    "value": 44300
-  },
-  {
-    "name": "Festive Faerie Fizz",
-    "value": 23200
-  },
-  {
-    "name": "Filet Mignon",
-    "value": 9330
-  },
-  {
-    "name": "Filling Skeith Steak",
-    "value": 712
-  },
-  {
-    "name": "Fire Apple",
-    "value": 2530
-  },
-  {
-    "name": "Fire Carrot",
-    "value": 1060
-  },
-  {
-    "name": "Fire Fondue",
-    "value": 5810
-  },
-  {
-    "name": "Fire Tonic",
-    "value": 95200
-  },
-  {
-    "name": "Firefish Basket",
-    "value": 4320
-  },
-  {
-    "name": "Fish and Chips",
-    "value": 190
-  },
-  {
-    "name": "Fish Bone Delight",
-    "value": 52
-  },
-  {
-    "name": "Fish Burger",
-    "value": 647
-  },
-  {
-    "name": "Fish Egg Basket",
-    "value": 436
-  },
-  {
-    "name": "Fish Filet Sandwich",
-    "value": 85400
-  },
-  {
-    "name": "Fish Negg Stew",
-    "value": 985000
-  },
-  {
-    "name": "Fishy Poogle Pate",
-    "value": 4190
-  },
-  {
-    "name": "Fizzy Apple Juice",
-    "value": 61600
-  },
-  {
-    "name": "Fizzy Grape Lupe Drink",
-    "value": 216000
-  },
-  {
-    "name": "Flaming BBQ Crisps",
-    "value": 75
-  },
-  {
-    "name": "Flaming Blooble Fruit Juice",
-    "value": 853
-  },
-  {
-    "name": "Flaming Chocolate Cake",
-    "value": 345000
-  },
-  {
-    "name": "Flaming Hot Banana",
-    "value": 478
-  },
-  {
-    "name": "Flaming Hot Burger",
-    "value": 550000
-  },
-  {
-    "name": "Flaming Hot Burrito",
-    "value": 2000
-  },
-  {
-    "name": "Flaming Hot Chilli Bowl",
-    "value": 1500
-  },
-  {
-    "name": "Flaming Hot Chips",
-    "value": 7250
-  },
-  {
-    "name": "Flaming Hot Custard",
-    "value": 1300
-  },
-  {
-    "name": "Flaming Hot Meat Taco",
-    "value": 97900
-  },
-  {
-    "name": "Flaming Hot Pizza",
-    "value": 688
-  },
-  {
-    "name": "Flaming Tuskaninny Ice Cream",
-    "value": 858
-  },
-  {
-    "name": "Flied Rice",
-    "value": 207000
-  },
-  {
-    "name": "Florg Burger",
-    "value": 115000
-  },
-  {
-    "name": "Florg Ice Cream",
-    "value": 960
-  },
-  {
-    "name": "Florg Nachos",
-    "value": 1330
-  },
-  {
-    "name": "Florg Os Cereal",
-    "value": 85800
-  },
-  {
-    "name": "Flotato-Stuffed Turkey",
-    "value": 352000
-  },
-  {
-    "name": "Flotsam Fin Soup",
-    "value": 47600
-  },
-  {
-    "name": "Flotsam Flakes",
-    "value": 3190
-  },
-  {
-    "name": "Flotsam Ice Cream Sundae",
-    "value": 20700
-  },
-  {
-    "name": "Flotsam Kelp Shake",
-    "value": 3050
-  },
-  {
-    "name": "Flower Nectar",
-    "value": 786000
-  },
-  {
-    "name": "Flowers and Coffee",
-    "value": 190000
-  },
-  {
-    "name": "Forbidden Forever Fruit",
-    "value": 574000
-  },
-  {
-    "name": "Forbidden Plunder",
-    "value": 289000
-  },
-  {
-    "name": "Forest Fruit Baby Food",
-    "value": 210
-  },
-  {
-    "name": "Fortune Cookie",
-    "value": 1450
-  },
-  {
-    "name": "Freeze Dried Bacon",
-    "value": 65100
-  },
-  {
-    "name": "Freeze Dried Meat",
-    "value": 180000
-  },
-  {
-    "name": "Freeze Dried Sausage",
-    "value": 31700
-  },
-  {
-    "name": "French Toast",
-    "value": 306000
-  },
-  {
-    "name": "French Toast PB&J Sandwich",
-    "value": 990
-  },
-  {
-    "name": "Fresh Basil Soup",
-    "value": 4280
-  },
-  {
-    "name": "Fresh Borovan and Asparagus Tart",
-    "value": 94300
-  },
-  {
-    "name": "Fresh Chicken Broth",
-    "value": 2170
-  },
-  {
-    "name": "Fresh Durian",
-    "value": 127000
-  },
-  {
-    "name": "Fresh Green Salad",
-    "value": 5550
-  },
-  {
-    "name": "Fresh Lemint Juice",
-    "value": 2000
-  },
-  {
-    "name": "Fresh Popcorn",
     "value": 3500
   },
   {
+    "name": "Eyrie Meatloaf",
+    "value": 3300
+  },
+  {
+    "name": "Eyrie Pancake",
+    "value": 1800
+  },
+  {
+    "name": "Eyrie Sushi",
+    "value": 4800
+  },
+  {
+    "name": "Faeriemoya",
+    "value": 8500
+  },
+  {
+    "name": "Fajita Chips",
+    "value": 1000
+  },
+  {
+    "name": "Fake Blumaroo Steak",
+    "value": 43
+  },
+  {
+    "name": "Fall Leaf Salad",
+    "value": 150000
+  },
+  {
+    "name": "Fancy Rack of Lamb",
+    "value": 9700
+  },
+  {
+    "name": "Fancy Rack of Lamb with Fruit",
+    "value": 9000000
+  },
+  {
+    "name": "Fancy Seafood",
+    "value": 3300
+  },
+  {
+    "name": "Fancy Star Burger",
+    "value": 400000
+  },
+  {
+    "name": "Fancy Sundae",
+    "value": 3400
+  },
+  {
+    "name": "Fancy Waffles",
+    "value": 4400
+  },
+  {
+    "name": "Felberry Gormball Sandwich",
+    "value": 34000
+  },
+  {
+    "name": "Festive Faerie Fizz",
+    "value": 18500
+  },
+  {
+    "name": "Filet Mignon",
+    "value": 7800
+  },
+  {
+    "name": "Filling Skeith Steak",
+    "value": 165
+  },
+  {
+    "name": "Fire Apple",
+    "value": 3500
+  },
+  {
+    "name": "Fire Carrot",
+    "value": 2300
+  },
+  {
+    "name": "Fire Fondue",
+    "value": 1100
+  },
+  {
+    "name": "Fire Tonic",
+    "value": 43000
+  },
+  {
+    "name": "Firefish Basket",
+    "value": 2000
+  },
+  {
+    "name": "Fish and Chips",
+    "value": 65
+  },
+  {
+    "name": "Fish Bone Delight",
+    "value": 260
+  },
+  {
+    "name": "Fish Burger",
+    "value": 860
+  },
+  {
+    "name": "Fish Egg Basket",
+    "value": 930
+  },
+  {
+    "name": "Fish Filet Sandwich",
+    "value": 37000
+  },
+  {
+    "name": "Fish Negg Stew",
+    "value": 490000
+  },
+  {
+    "name": "Fishy Poogle Pate",
+    "value": 2200
+  },
+  {
+    "name": "Fizzy Apple Juice",
+    "value": 41500
+  },
+  {
+    "name": "Fizzy Grape Lupe Drink",
+    "value": 52500
+  },
+  {
+    "name": "Flaming BBQ Crisps",
+    "value": 100
+  },
+  {
+    "name": "Flaming Blooble Fruit Juice",
+    "value": 950
+  },
+  {
+    "name": "Flaming Chocolate Cake",
+    "value": 34500
+  },
+  {
+    "name": "Flaming Hot Banana",
+    "value": 780
+  },
+  {
+    "name": "Flaming Hot Burger",
+    "value": 52500
+  },
+  {
+    "name": "Flaming Hot Burrito",
+    "value": 980
+  },
+  {
+    "name": "Flaming Hot Chilli Bowl",
+    "value": 1300
+  },
+  {
+    "name": "Flaming Hot Chips",
+    "value": 42000
+  },
+  {
+    "name": "Flaming Hot Custard",
+    "value": 1200
+  },
+  {
+    "name": "Flaming Hot Meat Taco",
+    "value": 31500
+  },
+  {
+    "name": "Flaming Hot Pizza",
+    "value": 425
+  },
+  {
+    "name": "Flaming Tuskaninny Ice Cream",
+    "value": 1300
+  },
+  {
+    "name": "Flied Rice",
+    "value": 42500
+  },
+  {
+    "name": "Florg Burger",
+    "value": 48000
+  },
+  {
+    "name": "Florg Ice Cream",
+    "value": 940
+  },
+  {
+    "name": "Florg Nachos",
+    "value": 115
+  },
+  {
+    "name": "Florg Os Cereal",
+    "value": 33000
+  },
+  {
+    "name": "Flotato-Stuffed Turkey",
+    "value": 36500
+  },
+  {
+    "name": "Flotsam Fin Soup",
+    "value": 27000
+  },
+  {
+    "name": "Flotsam Flakes",
+    "value": 6200
+  },
+  {
+    "name": "Flotsam Ice Cream Sundae",
+    "value": 30000
+  },
+  {
+    "name": "Flotsam Kelp Shake",
+    "value": 5800
+  },
+  {
+    "name": "Flower Nectar",
+    "value": 56500
+  },
+  {
+    "name": "Flowers and Coffee",
+    "value": 34500
+  },
+  {
+    "name": "Forbidden Forever Fruit",
+    "value": 44500
+  },
+  {
+    "name": "Forbidden Plunder",
+    "value": 590000
+  },
+  {
+    "name": "Forest Fruit Baby Food",
+    "value": 390
+  },
+  {
+    "name": "Fortune Cookie",
+    "value": 1200
+  },
+  {
+    "name": "Freeze Dried Bacon",
+    "value": 34000
+  },
+  {
+    "name": "Freeze Dried Meat",
+    "value": 53500
+  },
+  {
+    "name": "Freeze Dried Sausage",
+    "value": 29500
+  },
+  {
+    "name": "French Toast",
+    "value": 33500
+  },
+  {
+    "name": "French Toast PB&J Sandwich",
+    "value": 2200
+  },
+  {
+    "name": "Fresh Basil Soup",
+    "value": 3400
+  },
+  {
+    "name": "Fresh Borovan and Asparagus Tart",
+    "value": 30000
+  },
+  {
+    "name": "Fresh Chicken Broth",
+    "value": 2200
+  },
+  {
+    "name": "Fresh Durian",
+    "value": 46000
+  },
+  {
+    "name": "Fresh Green Salad",
+    "value": 4300
+  },
+  {
+    "name": "Fresh Lemint Juice",
+    "value": 165
+  },
+  {
+    "name": "Fresh Popcorn",
+    "value": 3000
+  },
+  {
     "name": "Fresh Turnip Sandwich",
-    "value": 3620
+    "value": 6400
   },
   {
     "name": "Fried Chicken and Waffles",
-    "value": 748
+    "value": 500
   },
   {
     "name": "Fried Chicken Breast",
-    "value": 787
+    "value": 815
   },
   {
     "name": "Fried Egg",
-    "value": 469
+    "value": 710
   },
   {
     "name": "Fried Eggs and Scallion Tortillas",
-    "value": 903
+    "value": 2600
   },
   {
     "name": "Fried Negg Sandwich",
-    "value": 999998
+    "value": 160000
   },
   {
     "name": "Fried Potato Balls",
-    "value": 337000
+    "value": 91000
   },
   {
     "name": "Fried Salmon",
-    "value": 102000
+    "value": 30500
   },
   {
     "name": "Fried Shrimp",
-    "value": 1070
+    "value": 3000
   },
   {
     "name": "Fried Something",
-    "value": 998
+    "value": 245
   },
   {
     "name": "Fried Something Something",
-    "value": 5330
+    "value": 12500
   },
   {
     "name": "Frozen Veggie Delight",
-    "value": 331000
+    "value": 340000
   },
   {
     "name": "Fruit Basket",
-    "value": 44700
+    "value": 24500
   },
   {
     "name": "Fruit Krawk Pot",
-    "value": 133000
+    "value": 14000
   },
   {
     "name": "Fruit Punch Roll",
-    "value": 422000
+    "value": 55500
   },
   {
     "name": "Fruit Tart",
-    "value": 13700
+    "value": 940000
   },
   {
     "name": "Fruit Tuskabob",
-    "value": 757000
+    "value": 52000
   },
   {
     "name": "Fruity Aisha Sundae",
-    "value": 91500
+    "value": 67000
   },
   {
     "name": "Fruity Fondue",
-    "value": 7920
+    "value": 39500
   },
   {
     "name": "Fruity Usul Acorns",
-    "value": 2530
+    "value": 5000
   },
   {
     "name": "Fun Icy Cheese Pop",
-    "value": 3910000
+    "value": 7100000
   },
   {
     "name": "Funky Carrot",
-    "value": 752
+    "value": 460
   },
   {
     "name": "Funnydew Neggnog",
-    "value": 1890
+    "value": 2800
   },
   {
     "name": "Furanga Fruit Sandwich",
-    "value": 257000
+    "value": 38000
   },
   {
     "name": "Gamaberry Stuffed Jacket Potato",
-    "value": 1250
+    "value": 922
   },
   {
     "name": "Garlic Bread Halves",
-    "value": 393
+    "value": 1000
   },
   {
     "name": "Garlic Cheese Toast",
-    "value": 179
+    "value": 475
   },
   {
     "name": "Garlic Kebab",
-    "value": 2840
+    "value": 12000
   },
   {
     "name": "Garlic Mashed Potatoes",
-    "value": 89100
+    "value": 300000
   },
   {
     "name": "Garlicy Mushrooms",
-    "value": 6070
+    "value": 2300
   },
   {
     "name": "Gelert Day Cereal",
-    "value": 92000
+    "value": 48000
   },
   {
     "name": "Gelert Sticky Rice Cake",
-    "value": 3800
+    "value": 3100
   },
   {
     "name": "Giant Chocolette",
-    "value": 226
+    "value": 2700
   },
   {
     "name": "Giant Grarrl Burger",
-    "value": 2440
+    "value": 3800
   },
   {
     "name": "Giblets Gravy",
-    "value": 25600
+    "value": 26500
   },
   {
     "name": "Gingerbread Cookie Box",
-    "value": 68100
+    "value": 53000
   },
   {
     "name": "Glass Negg",
-    "value": 156000
+    "value": 190000
   },
   {
     "name": "Glass of Water",
-    "value": 102000
+    "value": 18000
   },
   {
     "name": "Glowing Apple",
-    "value": 4480000
+    "value": 230000
   },
   {
     "name": "Glowing Green Soup",
-    "value": 648
+    "value": 370
   },
   {
     "name": "Gnarly Negg Slice",
@@ -2517,411 +2513,411 @@
   },
   {
     "name": "Gnocchi Beef Stew",
-    "value": 3580
+    "value": 4900
   },
   {
     "name": "Gnome Crunch",
-    "value": 641000
+    "value": 46500
   },
   {
     "name": "Gnome Crunch Deluxe Cereal",
-    "value": 2980
+    "value": 3000
   },
   {
     "name": "Gnorbu Burger",
-    "value": 282
+    "value": 270
   },
   {
     "name": "Gnorbu Chocolate Pudding",
-    "value": 32000
+    "value": 44000
   },
   {
     "name": "Gnorbu Salad",
-    "value": 922
+    "value": 745
   },
   {
     "name": "Gnorbu Sushi",
-    "value": 2330
+    "value": 1100
   },
   {
     "name": "Gnorbu Wool and Jelly Sandwich",
-    "value": 22000
+    "value": 13500
   },
   {
     "name": "Gnorbu Wool Burger",
-    "value": 67800
+    "value": 28000
   },
   {
     "name": "Gnorbu Wool Candy Floss",
-    "value": 154000
+    "value": 34000
   },
   {
     "name": "Gnorbu Wool Noodles",
-    "value": 29200
+    "value": 43000
   },
   {
     "name": "Gobi Fruit Sandwich",
-    "value": 988
+    "value": 890
   },
   {
     "name": "Gold Koi Crackers",
-    "value": 47200
+    "value": 17000
   },
   {
     "name": "Golden Caviar",
-    "value": 154000
+    "value": 53500
   },
   {
     "name": "Golden Tangerines",
-    "value": 73700
+    "value": 54500
   },
   {
     "name": "Goldy Crackers",
-    "value": 1250
+    "value": 1000
   },
   {
     "name": "Good Popcorn",
-    "value": 80800
+    "value": 64500
   },
   {
     "name": "Gooey Green Shake",
-    "value": 9300
+    "value": 10000
   },
   {
     "name": "Gooey Jetsam Sandwich",
-    "value": 50000
+    "value": 39500
   },
   {
     "name": "Gooseberry Jam Packed Lunch",
-    "value": 7610
+    "value": 8200
   },
   {
     "name": "Gooseberry Tuskaninny Ice Cream",
-    "value": 201
+    "value": 975
   },
   {
     "name": "Gourmet Fried Chicken and Waffles",
-    "value": 41900
+    "value": 31000
   },
   {
     "name": "Gourmet Grilled Steak Salad",
-    "value": 252000
+    "value": 27500
   },
   {
     "name": "Granola Parfait",
-    "value": 48900
+    "value": 41500
   },
   {
     "name": "Grape Juice Sippy Cup",
-    "value": 17200
+    "value": 12000
   },
   {
     "name": "Grape Pop",
-    "value": 1900000
+    "value": 1500000
   },
   {
     "name": "Grape Roll",
-    "value": 1620
+    "value": 2900
   },
   {
     "name": "Grapeade",
-    "value": 11900
+    "value": 18500
   },
   {
     "name": "Grapefruit",
-    "value": 3550
+    "value": 3800
   },
   {
     "name": "Grapefruit Biscuits",
-    "value": 24600
+    "value": 32500
   },
   {
     "name": "Grapefruit Neocola",
-    "value": 2910
+    "value": 5200
   },
   {
     "name": "Grarrl Breakfast Platter",
-    "value": 1190
-  },
-  {
-    "name": "Grarrl Cheese Slices",
-    "value": 4920
-  },
-  {
-    "name": "Grarrl Crackers",
-    "value": 1890
-  },
-  {
-    "name": "Grarrl Macaroni",
-    "value": 5110
-  },
-  {
-    "name": "Grarrlnola Bar",
-    "value": 4570
-  },
-  {
-    "name": "Green Apple",
-    "value": 271
-  },
-  {
-    "name": "Green Cabbage",
-    "value": 1130
-  },
-  {
-    "name": "Green Grapes",
-    "value": 202
-  },
-  {
-    "name": "Green Ham",
-    "value": 983
-  },
-  {
-    "name": "Green Negg",
-    "value": 89500
-  },
-  {
-    "name": "Green Oat Cereal",
-    "value": 4320
-  },
-  {
-    "name": "Green Picnic Hamper",
-    "value": 19400000
-  },
-  {
-    "name": "Green Scorchipepper",
-    "value": 12600
-  },
-  {
-    "name": "Grey Cheese",
-    "value": 1350
-  },
-  {
-    "name": "Grey Doughnutfruit",
-    "value": 1020
-  },
-  {
-    "name": "Grey Eggs and Bacon",
-    "value": 5760
-  },
-  {
-    "name": "Grey Ice Cream",
-    "value": 132000
-  },
-  {
-    "name": "Grey Ice Cream Cone",
     "value": 1400
   },
   {
+    "name": "Grarrl Cheese Slices",
+    "value": 1600
+  },
+  {
+    "name": "Grarrl Crackers",
+    "value": 5700
+  },
+  {
+    "name": "Grarrl Macaroni",
+    "value": 1300
+  },
+  {
+    "name": "Grarrlnola Bar",
+    "value": 2700
+  },
+  {
+    "name": "Green Apple",
+    "value": 430
+  },
+  {
+    "name": "Green Cabbage",
+    "value": 815
+  },
+  {
+    "name": "Green Grapes",
+    "value": 700
+  },
+  {
+    "name": "Green Ham",
+    "value": 2000
+  },
+  {
+    "name": "Green Negg",
+    "value": 110000
+  },
+  {
+    "name": "Green Oat Cereal",
+    "value": 1500
+  },
+  {
+    "name": "Green Picnic Hamper",
+    "value": 220000
+  },
+  {
+    "name": "Green Scorchipepper",
+    "value": 11000
+  },
+  {
+    "name": "Grey Cheese",
+    "value": 63
+  },
+  {
+    "name": "Grey Doughnutfruit",
+    "value": 23
+  },
+  {
+    "name": "Grey Eggs and Bacon",
+    "value": 1800
+  },
+  {
+    "name": "Grey Ice Cream",
+    "value": 235
+  },
+  {
+    "name": "Grey Ice Cream Cone",
+    "value": 130
+  },
+  {
     "name": "Grey Juice",
-    "value": 996199
+    "value": 75
   },
   {
     "name": "Grey Peach Pie",
-    "value": 972
+    "value": 210
   },
   {
     "name": "Grey Toast",
-    "value": 206000
+    "value": 10000
   },
   {
     "name": "Grey Waffles",
-    "value": 9640
+    "value": 3400
   },
   {
     "name": "Grilled Asparagus",
-    "value": 228
+    "value": 200
   },
   {
     "name": "Grilled Cheese Soup Dippers",
-    "value": 346000
+    "value": 43000
   },
   {
     "name": "Grilled Chicken Sandwich",
-    "value": 3200
+    "value": 1400
   },
   {
     "name": "Grilled Chokato on Toast",
-    "value": 1420
+    "value": 1100
   },
   {
     "name": "Grilled Doughnutfruit",
-    "value": 457
+    "value": 2000
   },
   {
     "name": "Grilled Islandberry Slices",
-    "value": 587000
+    "value": 81500
   },
   {
     "name": "Grilled Negg",
-    "value": 6150
+    "value": 26000
   },
   {
     "name": "Grilled Ummagine",
-    "value": 454000
+    "value": 90500
   },
   {
     "name": "Grog Light",
-    "value": 200000
+    "value": 460000
   },
   {
     "name": "Grootafruit Punch",
-    "value": 435000
+    "value": 27500
   },
   {
     "name": "Gruel Cake",
-    "value": 999
+    "value": 1800
   },
   {
     "name": "Gruel Ice Lolly",
-    "value": 4750
+    "value": 7900
   },
   {
     "name": "Gruel Pizza",
-    "value": 3960
+    "value": 2800
   },
   {
     "name": "Gruel Sandwich",
-    "value": 1040
+    "value": 5500
   },
   {
     "name": "Guava Roll",
-    "value": 1410
+    "value": 880
   },
   {
     "name": "Gummy Dice Salad",
-    "value": 3360
+    "value": 3100
   },
   {
     "name": "Gummy Pirate Candies",
-    "value": 2
+    "value": 1
   },
   {
     "name": "Haaaarrd Boiled Egg",
-    "value": 962
+    "value": 1000
   },
   {
     "name": "Hairy Fungus Salad",
-    "value": 6250
+    "value": 3000
   },
   {
     "name": "Ham",
-    "value": 982
+    "value": 1200
   },
   {
     "name": "Ham and Cheese Mashed Potato",
-    "value": 3180
+    "value": 3700
   },
   {
     "name": "Ham and Mustard Packed Lunch",
-    "value": 5230
+    "value": 4600
   },
   {
     "name": "Ham Casserole",
-    "value": 166000
+    "value": 61000
   },
   {
     "name": "Hammy Cheese Wedge",
-    "value": 994
+    "value": 920
   },
   {
     "name": "Hannah Lunch Box",
-    "value": 945
+    "value": 345
   },
   {
     "name": "Happy Anniversary Negg",
-    "value": 1360000
+    "value": 480000
   },
   {
     "name": "Happy Birthday Negg",
-    "value": 3280
+    "value": 7300
   },
   {
     "name": "Harffel Flavoured Milk",
-    "value": 239000
+    "value": 57000
   },
   {
     "name": "Harvest Soup Bowl",
-    "value": 220
+    "value": 340
   },
   {
     "name": "Hasee Puff Cereal",
-    "value": 13
+    "value": 48
   },
   {
     "name": "Hash Browns",
-    "value": 83900
+    "value": 22500
   },
   {
     "name": "Haunted Woods Chocolate Milk Glass",
-    "value": 303
+    "value": 695
   },
   {
     "name": "Headless Horsefish",
-    "value": 4030000
+    "value": 2850000
   },
   {
     "name": "Heart Shaped Negg",
-    "value": 1460000
+    "value": 1950000
   },
   {
     "name": "Hearty Pie",
-    "value": 96900
+    "value": 47500
   },
   {
     "name": "Hidden Treasure Pasta",
-    "value": 1980
+    "value": 2300
   },
   {
     "name": "Hissi Oil Salad",
-    "value": 279000
+    "value": 200000
   },
   {
     "name": "Hogshead",
-    "value": 3380000
+    "value": 3500000
   },
   {
     "name": "Holiday Yule Log",
-    "value": 9300
+    "value": 755
   },
   {
     "name": "Honey and Bacon Burger",
-    "value": 248000
+    "value": 87000
   },
   {
     "name": "Honey Coated Apple Slices",
-    "value": 2130
+    "value": 1300
   },
   {
     "name": "Honey Glazed Ham",
-    "value": 121000
+    "value": 38000
   },
   {
     "name": "Honey Nut Pebbles",
-    "value": 3150
+    "value": 925
   },
   {
     "name": "Honey Topped Buzz Sundae",
-    "value": 5210
+    "value": 7300
   },
   {
     "name": "Honeydew Melon",
-    "value": 6590
+    "value": 3500
   },
   {
     "name": "Hot Banana Soup",
-    "value": 914
+    "value": 925
   },
   {
     "name": "Hot Blunella Punch",
-    "value": 3020
+    "value": 3900
   },
   {
     "name": "Hot Buzz Pie",
-    "value": 485000
+    "value": 19500
   },
   {
     "name": "Hot Cakes",
-    "value": 1960
+    "value": 1400
   },
   {
     "name": "Hot Dog and Fizzy Drink",
@@ -2929,419 +2925,423 @@
   },
   {
     "name": "Hot Dog on a Stick",
-    "value": 24700
+    "value": 49500
   },
   {
     "name": "Hot Doughnutfruit Juice",
-    "value": 7470
+    "value": 3300
   },
   {
     "name": "Hot Fruit Soup",
-    "value": 12800
+    "value": 24000
   },
   {
     "name": "Hot Fudge Sundae",
-    "value": 8140
+    "value": 5600
   },
   {
     "name": "Hot Lime Jelly",
-    "value": 2900
+    "value": 3300
   },
   {
     "name": "Hot Meerca Tea",
-    "value": 5130
+    "value": 13000
   },
   {
     "name": "Hot Munuberry Juice",
-    "value": 8000
+    "value": 8600
   },
   {
     "name": "Hot Strawberry Soup",
-    "value": 2260
+    "value": 1400
   },
   {
     "name": "Ice Apple",
-    "value": 1000000
-  },
-  {
-    "name": "Ice Cream Covered Jacket Potato",
-    "value": 58100
-  },
-  {
-    "name": "Iced Berry Water",
-    "value": 5750
-  },
-  {
-    "name": "Iced Borovan",
-    "value": 4320
-  },
-  {
-    "name": "Iced Kougra Coffee",
-    "value": 1490
-  },
-  {
-    "name": "Iced Lutari Cookie",
-    "value": 1130
-  },
-  {
-    "name": "Iced Shoyru Meatball",
-    "value": 189000
-  },
-  {
-    "name": "Illusen Lunch Box",
-    "value": 1260
-  },
-  {
-    "name": "Illusen Negg",
-    "value": 5130
-  },
-  {
-    "name": "Illusens Family Recipe Cake",
-    "value": 11300
-  },
-  {
-    "name": "Ink Pasta",
-    "value": 1420
-  },
-  {
-    "name": "Inkade",
-    "value": 580
-  },
-  {
-    "name": "Invisible Cookie",
-    "value": 7000000
-  },
-  {
-    "name": "Invisible Negg",
-    "value": 631000
-  },
-  {
-    "name": "Island Meatloaf",
-    "value": 891000
-  },
-  {
-    "name": "Ixi Acorn Meatball",
-    "value": 194000
-  },
-  {
-    "name": "Ixi Bagel",
-    "value": 133000
-  },
-  {
-    "name": "Ixi Double Veggie Burger",
-    "value": 761000
-  },
-  {
-    "name": "Jalapeno Kacheek Cheese",
-    "value": 250000
-  },
-  {
-    "name": "Jalapeno Popper",
-    "value": 1440
-  },
-  {
-    "name": "Jalapeno Pretzel",
-    "value": 3010
-  },
-  {
-    "name": "Jammy Kyrii Sandwich",
-    "value": 48200
-  },
-  {
-    "name": "Jar Of Flies",
-    "value": 1080
-  },
-  {
-    "name": "Jelly Negg",
-    "value": 82600
-  },
-  {
-    "name": "Jelly Neocola",
-    "value": 519000
-  },
-  {
-    "name": "Jelly Smores",
-    "value": 11800
-  },
-  {
-    "name": "Jetsam Apple Cake",
-    "value": 1000
-  },
-  {
-    "name": "Jetsam Jam",
-    "value": 6150
-  },
-  {
-    "name": "Jetsam Seafood Soup",
-    "value": 22800
-  },
-  {
-    "name": "Jhudora Day Burger",
-    "value": 957
-  },
-  {
-    "name": "Jhudora Day Ice Cream",
-    "value": 1430
-  },
-  {
-    "name": "Jhudora Day Pastry",
-    "value": 4640
-  },
-  {
-    "name": "Jhudora Day Soup",
-    "value": 7050
-  },
-  {
-    "name": "Jhudora Eyeball Pasta",
-    "value": 268000
-  },
-  {
-    "name": "Jhudora Rotten Negg",
-    "value": 1
-  },
-  {
-    "name": "Jhudoras Achyfi",
-    "value": 1670
-  },
-  {
-    "name": "Jicama",
-    "value": 3260
-  },
-  {
-    "name": "Jinjah Ale",
-    "value": 632000
-  },
-  {
-    "name": "Jinjah Maple Mocktail",
-    "value": 74400
-  },
-  {
-    "name": "Joint of Ham",
-    "value": 1440
-  },
-  {
-    "name": "JubJub Blueberry Juice",
-    "value": 636
-  },
-  {
-    "name": "JubJub Coconut Juice",
     "value": 2150000
   },
   {
-    "name": "JubJub Orange Juice",
-    "value": 2250
+    "name": "Ice Cream Covered Jacket Potato",
+    "value": 44500
   },
   {
-    "name": "JubJub Strawberry Juice",
-    "value": 652000
+    "name": "Iced Berry Water",
+    "value": 4000
   },
   {
-    "name": "Juicee",
-    "value": 994
+    "name": "Iced Borovan",
+    "value": 3600
   },
   {
-    "name": "Jumbo Pea Sandwich",
-    "value": 997
+    "name": "Iced Kougra Coffee",
+    "value": 1100
   },
   {
-    "name": "Juppie Cheese Wedge",
-    "value": 2410
+    "name": "Iced Lutari Cookie",
+    "value": 2900
   },
   {
-    "name": "Kacheek Cheeseburger",
-    "value": 8190
+    "name": "Iced Shoyru Meatball",
+    "value": 32000
   },
   {
-    "name": "Kacheek Marshmallows on a Stick",
-    "value": 3080
+    "name": "Illusen Lunch Box",
+    "value": 12000
   },
   {
-    "name": "Kacheek Meatball",
-    "value": 504000
+    "name": "Illusen Negg",
+    "value": 5800
   },
   {
-    "name": "Kacheek Pretzels",
-    "value": 3730
+    "name": "Illusens Family Recipe Cake",
+    "value": 2600
   },
   {
-    "name": "Kacheek Sticky Rice Cake",
-    "value": 2990
-  },
-  {
-    "name": "Kacheek Vanilla Pudding",
-    "value": 2520
-  },
-  {
-    "name": "Kadoatie Biscuits",
-    "value": 486000
-  },
-  {
-    "name": "Kadoatie Puffs",
-    "value": 74600
-  },
-  {
-    "name": "Kale",
-    "value": 3720
-  },
-  {
-    "name": "Kau Cupcake",
+    "name": "Ink Pasta",
     "value": 1000
   },
   {
-    "name": "Kau Ice Lolly",
-    "value": 429
+    "name": "Inkade",
+    "value": 100
   },
   {
-    "name": "Kau Kau Farm Cheddar Cheese Brick",
-    "value": 736
+    "name": "Invisible Cookie",
+    "value": 5000000
   },
   {
-    "name": "Kau Kau Farm Cheese Wedge",
-    "value": 770
+    "name": "Invisible Negg",
+    "value": 57000
   },
   {
-    "name": "Kau Kau Farm Half And Half",
-    "value": 1280
+    "name": "Island Lupe Cup",
+    "value": 270000
   },
   {
-    "name": "Kau Kau Farm Organic Bottled Milk",
-    "value": 9460
+    "name": "Island Meatloaf",
+    "value": 1350000
   },
   {
-    "name": "Kau Kau Farm Soy Milk",
-    "value": 793000
+    "name": "Ixi Acorn Meatball",
+    "value": 38000
   },
   {
-    "name": "Kau Waffles",
-    "value": 11400
+    "name": "Ixi Bagel",
+    "value": 32000
   },
   {
-    "name": "Keel Haul",
-    "value": 984000
+    "name": "Ixi Double Veggie Burger",
+    "value": 76000
   },
   {
-    "name": "Kiko Duchess Potatoes",
-    "value": 7060000
+    "name": "Jalapeno Kacheek Cheese",
+    "value": 58000
   },
   {
-    "name": "Kiwi",
-    "value": 2240
+    "name": "Jalapeno Popper",
+    "value": 895
   },
   {
-    "name": "Kiwi and Cucumber Sandwich",
-    "value": 1880
+    "name": "Jalapeno Pretzel",
+    "value": 4900
   },
   {
-    "name": "Kiwi Milkshake",
-    "value": 999
+    "name": "Jammy Kyrii Sandwich",
+    "value": 29000
   },
   {
-    "name": "Kiwi Sorbet",
-    "value": 16900
+    "name": "Jar Of Flies",
+    "value": 465
   },
   {
-    "name": "Knowledge Hungry Burger",
-    "value": 37400
+    "name": "Jelly Negg",
+    "value": 43000
   },
   {
-    "name": "Koi Seaweed Sundae",
-    "value": 72000
+    "name": "Jelly Neocola",
+    "value": 50000
   },
   {
-    "name": "Korbat Cheese and Crackers",
-    "value": 83200
+    "name": "Jelly Smores",
+    "value": 30500
   },
   {
-    "name": "Korbat Pasta and Meatballs",
-    "value": 465000
+    "name": "Jetsam Apple Cake",
+    "value": 860
   },
   {
-    "name": "Korbat Tea Sandwiches",
-    "value": 459000
+    "name": "Jetsam Jam",
+    "value": 32000
   },
   {
-    "name": "Korbat Veggie Plate",
-    "value": 296000
+    "name": "Jetsam Seafood Soup",
+    "value": 63500
   },
   {
-    "name": "Kougra Day Burger",
-    "value": 1220
+    "name": "Jhudora Day Burger",
+    "value": 1400
   },
   {
-    "name": "Krakuberry Cove",
-    "value": 947000
-  },
-  {
-    "name": "Krakuberry Grog",
-    "value": 1950000
-  },
-  {
-    "name": "Krawk Apple",
-    "value": 3890
-  },
-  {
-    "name": "Krawk Apple Cake",
-    "value": 597
-  },
-  {
-    "name": "Krawk Brand Crisps",
-    "value": 2370
-  },
-  {
-    "name": "Krawk Ice Cream Sandwich",
-    "value": 1030
-  },
-  {
-    "name": "Krawken Calamari",
-    "value": 6150000
-  },
-  {
-    "name": "Kyrii Agueena Milkshake",
-    "value": 110000
-  },
-  {
-    "name": "Kyrii Chocolate Milkshake",
+    "name": "Jhudora Day Ice Cream",
     "value": 2000
   },
   {
-    "name": "Kyrii Dewy Apple Milkshake",
-    "value": 132000
+    "name": "Jhudora Day Pastry",
+    "value": 1600
   },
   {
-    "name": "Kyrii Florange Milkshake",
-    "value": 290000
+    "name": "Jhudora Day Soup",
+    "value": 37500
   },
   {
-    "name": "Kyrii Jumbleberry Milkshake",
-    "value": 145000
+    "name": "Jhudora Eyeball Pasta",
+    "value": 46000
   },
   {
-    "name": "Lamb Chop",
-    "value": 778
+    "name": "Jhudora Rotten Negg",
+    "value": 4
   },
   {
-    "name": "Land Lubber",
+    "name": "Jhudoras Achyfi",
+    "value": 2300
+  },
+  {
+    "name": "Jicama",
+    "value": 2200
+  },
+  {
+    "name": "Jinjah Ale",
+    "value": 58000
+  },
+  {
+    "name": "Jinjah Maple Mocktail",
+    "value": 41000
+  },
+  {
+    "name": "Joint of Ham",
+    "value": 2200
+  },
+  {
+    "name": "JubJub Blueberry Juice",
+    "value": 435
+  },
+  {
+    "name": "JubJub Coconut Juice",
+    "value": 990
+  },
+  {
+    "name": "JubJub Orange Juice",
+    "value": 1200
+  },
+  {
+    "name": "JubJub Strawberry Juice",
+    "value": 46000
+  },
+  {
+    "name": "Juicee",
+    "value": 275
+  },
+  {
+    "name": "Jumbo Pea Sandwich",
+    "value": 235
+  },
+  {
+    "name": "Juppie Cheese Wedge",
+    "value": 3400
+  },
+  {
+    "name": "Kacheek Cheeseburger",
+    "value": 4500
+  },
+  {
+    "name": "Kacheek Marshmallows on a Stick",
+    "value": 3000
+  },
+  {
+    "name": "Kacheek Meatball",
+    "value": 34000
+  },
+  {
+    "name": "Kacheek Pretzels",
+    "value": 3800
+  },
+  {
+    "name": "Kacheek Sticky Rice Cake",
+    "value": 3200
+  },
+  {
+    "name": "Kacheek Vanilla Pudding",
+    "value": 2800
+  },
+  {
+    "name": "Kadoatie Biscuits",
+    "value": 160000
+  },
+  {
+    "name": "Kadoatie Puffs",
+    "value": 150000
+  },
+  {
+    "name": "Kale",
+    "value": 10500
+  },
+  {
+    "name": "Kau Cupcake",
+    "value": 1900
+  },
+  {
+    "name": "Kau Ice Lolly",
+    "value": 630
+  },
+  {
+    "name": "Kau Kau Farm Cheddar Cheese Brick",
+    "value": 820
+  },
+  {
+    "name": "Kau Kau Farm Cheese Wedge",
+    "value": 1000
+  },
+  {
+    "name": "Kau Kau Farm Half And Half",
+    "value": 2600
+  },
+  {
+    "name": "Kau Kau Farm Organic Bottled Milk",
+    "value": 10500
+  },
+  {
+    "name": "Kau Kau Farm Soy Milk",
+    "value": 81500
+  },
+  {
+    "name": "Kau Waffles",
+    "value": 9100
+  },
+  {
+    "name": "Keel Haul",
+    "value": 1050000
+  },
+  {
+    "name": "Kiko Duchess Potatoes",
+    "value": 4600
+  },
+  {
+    "name": "Kiwi",
+    "value": 2300
+  },
+  {
+    "name": "Kiwi and Cucumber Sandwich",
+    "value": 2000
+  },
+  {
+    "name": "Kiwi Milkshake",
+    "value": 735
+  },
+  {
+    "name": "Kiwi Sorbet",
+    "value": 20000
+  },
+  {
+    "name": "Knowledge Hungry Burger",
+    "value": 13000
+  },
+  {
+    "name": "Koi Seaweed Sundae",
+    "value": 60000
+  },
+  {
+    "name": "Korbat Cheese and Crackers",
+    "value": 31000
+  },
+  {
+    "name": "Korbat Pasta and Meatballs",
+    "value": 29000
+  },
+  {
+    "name": "Korbat Tea Sandwiches",
+    "value": 18500
+  },
+  {
+    "name": "Korbat Veggie Plate",
+    "value": 27500
+  },
+  {
+    "name": "Kougra Day Burger",
+    "value": 940
+  },
+  {
+    "name": "Krakuberry Cove",
     "value": 1200000
   },
   {
+    "name": "Krakuberry Grog",
+    "value": 1400000
+  },
+  {
+    "name": "Krawk Apple",
+    "value": 3500
+  },
+  {
+    "name": "Krawk Apple Cake",
+    "value": 290
+  },
+  {
+    "name": "Krawk Brand Crisps",
+    "value": 3900
+  },
+  {
+    "name": "Krawk Ice Cream Sandwich",
+    "value": 1100
+  },
+  {
+    "name": "Krawken Calamari",
+    "value": 1850000
+  },
+  {
+    "name": "Kyrii Agueena Milkshake",
+    "value": 38500
+  },
+  {
+    "name": "Kyrii Chocolate Milkshake",
+    "value": 2100
+  },
+  {
+    "name": "Kyrii Dewy Apple Milkshake",
+    "value": 23500
+  },
+  {
+    "name": "Kyrii Florange Milkshake",
+    "value": 36500
+  },
+  {
+    "name": "Kyrii Jumbleberry Milkshake",
+    "value": 22500
+  },
+  {
+    "name": "Lamb Chop",
+    "value": 28000
+  },
+  {
+    "name": "Land Lubber",
+    "value": 1500000
+  },
+  {
     "name": "Large Tonu Day Burger",
-    "value": 1440
+    "value": 950
   },
   {
     "name": "Lava Bread",
-    "value": 1130
+    "value": 1200
   },
   {
     "name": "Lava Bread Bowl",
-    "value": 762
+    "value": 1500
   },
   {
     "name": "Lawyerbot Degreaser",
-    "value": 31200
+    "value": 50000
   },
   {
     "name": "Lawyerbrat",
-    "value": 1080
+    "value": 1000
   },
   {
     "name": "Lazy Negg Slice",
@@ -3349,1035 +3349,1055 @@
   },
   {
     "name": "Le Sausage",
-    "value": 997756
+    "value": 270000
   },
   {
     "name": "Leaf Taco",
-    "value": 108000000
+    "value": 54000000
   },
   {
     "name": "Leafy Krawk Pot",
-    "value": 93900
+    "value": 86500
   },
   {
     "name": "Leafy Slorgwich",
-    "value": 719
+    "value": 735
   },
   {
     "name": "Leek",
-    "value": 885
+    "value": 860
   },
   {
     "name": "Leek Stew",
-    "value": 1080
+    "value": 1300
   },
   {
     "name": "Left-Over Sliced Turkey Sandwich",
-    "value": 76200
+    "value": 36500
   },
   {
     "name": "Left-Over Turkey Drumstick Sandwich",
-    "value": 1860
+    "value": 8900
   },
   {
     "name": "Left-Over Turkey Steak Sandwich",
-    "value": 3040
+    "value": 4400
   },
   {
     "name": "Left-Over Turkey Wing Sandwich",
-    "value": 3990
-  },
-  {
-    "name": "Leftover Shortcrust Pastry",
-    "value": 3000000
-  },
-  {
-    "name": "Lemberry Chia Jelly",
-    "value": 2770
-  },
-  {
-    "name": "Lemint Custard",
-    "value": 1630
-  },
-  {
-    "name": "Lemint Green Salad",
-    "value": 459000
-  },
-  {
-    "name": "Lemint Muffin",
-    "value": 360
-  },
-  {
-    "name": "Lemint Pizza Slice",
-    "value": 1030
-  },
-  {
-    "name": "Lemon",
-    "value": 2390
-  },
-  {
-    "name": "Lemon and Orange Blend",
-    "value": 88900
-  },
-  {
-    "name": "Lemon and Thornberry Jelly",
-    "value": 2460
-  },
-  {
-    "name": "Lemon Lava Cake",
-    "value": 9250
-  },
-  {
-    "name": "Lemon Lime Neocola",
-    "value": 86700
-  },
-  {
-    "name": "Lemon Meringue Baby Food",
-    "value": 191
-  },
-  {
-    "name": "Lemon Pop",
-    "value": 883000
-  },
-  {
-    "name": "Lemon Swirly Negg",
-    "value": 131000
-  },
-  {
-    "name": "Lemonade",
-    "value": 75100
-  },
-  {
-    "name": "Lenny Casserole",
-    "value": 400000
-  },
-  {
-    "name": "Lenny Cream of Onion Soup",
-    "value": 4540
-  },
-  {
-    "name": "Lenny Meaty Burger",
-    "value": 2190
-  },
-  {
-    "name": "Lenny Mint Chocolate Chip Ice Cream",
-    "value": 3150
-  },
-  {
-    "name": "Lenny Salad",
-    "value": 1400
-  },
-  {
-    "name": "Lenny Strawberry Ice Cream",
-    "value": 3020
-  },
-  {
-    "name": "Lenny Vegetable Soup",
-    "value": 2380
-  },
-  {
-    "name": "Lenny Veggie Burger",
-    "value": 998
-  },
-  {
-    "name": "Lettuce Wrap",
-    "value": 52000
-  },
-  {
-    "name": "Lime",
-    "value": 1210
-  },
-  {
-    "name": "Lime Achyfi",
-    "value": 799
-  },
-  {
-    "name": "Lime Ice Cream",
-    "value": 10000
-  },
-  {
-    "name": "Lime Ruki Sundae",
-    "value": 766
-  },
-  {
-    "name": "Lime Sorbet",
-    "value": 2220
-  },
-  {
-    "name": "Lime Swirly Negg",
-    "value": 126000
-  },
-  {
-    "name": "Lime Usul Shake",
-    "value": 1220
-  },
-  {
-    "name": "Lime Yurblecone",
-    "value": 95700
-  },
-  {
-    "name": "Limeade",
-    "value": 470000
-  },
-  {
-    "name": "Liver Poogle Pate",
-    "value": 110000
-  },
-  {
-    "name": "Loretta Fontaines Perfect Pizza",
-    "value": 4500000
-  },
-  {
-    "name": "Low Fat Milk",
-    "value": 2390
-  },
-  {
-    "name": "Lucky Slothy Day Dip",
-    "value": 833000
-  },
-  {
-    "name": "Lunch Cereal",
-    "value": 984
-  },
-  {
-    "name": "Lupe Burger",
-    "value": 39100
-  },
-  {
-    "name": "Lupe Snack Pack",
-    "value": 1
-  },
-  {
-    "name": "Lupe Snowcone",
-    "value": 94300
-  },
-  {
-    "name": "Lupe Soup",
-    "value": 5640
-  },
-  {
-    "name": "Lupe Sticky Rice Cake",
-    "value": 4890
-  },
-  {
-    "name": "Lussion Fruit",
-    "value": 365000
-  },
-  {
-    "name": "Lutari Fizz",
-    "value": 104000
-  },
-  {
-    "name": "Lutari Pancakes",
-    "value": 101000
-  },
-  {
-    "name": "Lutaya",
-    "value": 93100
-  },
-  {
-    "name": "Lutical Berries",
-    "value": 103000
-  },
-  {
-    "name": "Lychee",
-    "value": 3000
-  },
-  {
-    "name": "Mac and Cheese",
-    "value": 1530
-  },
-  {
-    "name": "Man O War",
-    "value": 934000
-  },
-  {
-    "name": "Mango",
-    "value": 1960
-  },
-  {
-    "name": "Maple Syrup Negg",
-    "value": 176000
-  },
-  {
-    "name": "Marble Cake",
-    "value": 1120
-  },
-  {
-    "name": "Marshmallow Milkshake",
-    "value": 1990
-  },
-  {
-    "name": "Marshmallow Yam Soup",
-    "value": 4580
-  },
-  {
-    "name": "Mashed Potato With Gravy",
-    "value": 247
-  },
-  {
-    "name": "Mayonnaise Artichoke",
-    "value": 3980
-  },
-  {
-    "name": "Mayonnaise Chilli and Cheese covered Corn on the Cob",
-    "value": 34700
-  },
-  {
-    "name": "Meat and Potatoes Krawk Pot",
-    "value": 28000
-  },
-  {
-    "name": "Meat Lasagne",
-    "value": 2860
-  },
-  {
-    "name": "Meat Tuskabob",
-    "value": 394000
-  },
-  {
-    "name": "Meat Wrap",
-    "value": 225
-  },
-  {
-    "name": "Meatball Toasty",
-    "value": 4000
-  },
-  {
-    "name": "Meatless Meatballs",
-    "value": 996
-  },
-  {
-    "name": "Meaty Chia Soup",
-    "value": 106000
-  },
-  {
-    "name": "Meaty Gnorbu Pie",
-    "value": 63400
-  },
-  {
-    "name": "Meaty Pot Pie",
-    "value": 931
-  },
-  {
-    "name": "Meaty Usul Wrap",
-    "value": 1790
-  },
-  {
-    "name": "Meerca Apertif",
-    "value": 2060000
-  },
-  {
-    "name": "Meerca Bolognese",
-    "value": 862
-  },
-  {
-    "name": "Meerca Cinnamon Bun",
-    "value": 4050
-  },
-  {
-    "name": "Meerca Fruit Burger",
-    "value": 3260
-  },
-  {
-    "name": "Meerca Sundae",
-    "value": 8250
-  },
-  {
-    "name": "Mega Carrot Pie",
-    "value": 993
-  },
-  {
-    "name": "Mega Manoroot Sandwich",
-    "value": 223000
-  },
-  {
-    "name": "Mega Pipper Sandwich",
-    "value": 1760
-  },
-  {
-    "name": "Mega Sandwich",
-    "value": 75800
-  },
-  {
-    "name": "Mega Tonu Day Burger",
-    "value": 1080
-  },
-  {
-    "name": "Mega Tuna Sandwich",
-    "value": 999721
-  },
-  {
-    "name": "Melowhirl Juice",
-    "value": 2000
-  },
-  {
-    "name": "Meridellian Chocolate Milk Glass",
-    "value": 3150
-  },
-  {
-    "name": "Microphone Cake Pops",
-    "value": 2220
-  },
-  {
-    "name": "Mighty Grarrl Burger",
-    "value": 922000
-  },
-  {
-    "name": "Mighty Steakwich",
-    "value": 5590000
-  },
-  {
-    "name": "Mild Cheddar Jetsam Fin Crackers",
-    "value": 713000
-  },
-  {
-    "name": "Mini Cheddar Kau Cheese Wheel",
-    "value": 5630
-  },
-  {
-    "name": "Mini Ice Cream",
-    "value": 390000
-  },
-  {
-    "name": "Mini Kau Cheese Wheel",
-    "value": 175000
-  },
-  {
-    "name": "Mini Koi Cereal",
-    "value": 529000
-  },
-  {
-    "name": "Mini Swiss Kau Cheese Wheel",
-    "value": 176000
-  },
-  {
-    "name": "Mint Chip Skeith Cone",
-    "value": 38200
-  },
-  {
-    "name": "Mint Chocolate Chip JubJub Sundae",
-    "value": 861
-  },
-  {
-    "name": "Mint Chocolate Chip Smore",
-    "value": 992
-  },
-  {
-    "name": "Mint Flavoured Borovan",
-    "value": 1180
-  },
-  {
-    "name": "Mint Ice Cream",
-    "value": 731
-  },
-  {
-    "name": "Minty Aisha Sundae",
-    "value": 84300
-  },
-  {
-    "name": "Minty Blumaroo Cone",
-    "value": 18300
-  },
-  {
-    "name": "Minty Flotsam Day Shake",
-    "value": 182
-  },
-  {
-    "name": "Mixed Grarrl Salad",
-    "value": 5140
-  },
-  {
-    "name": "Mocha Joy Fun Pop",
-    "value": 887000
-  },
-  {
-    "name": "Mocha Smore",
-    "value": 1020
-  },
-  {
-    "name": "Moehog Fruit Leather",
-    "value": 794000
-  },
-  {
-    "name": "Moehog Grilled Peanut Butter Sandwich",
-    "value": 829000
-  },
-  {
-    "name": "Moehog Marmalade",
-    "value": 608000
-  },
-  {
-    "name": "Moehog Milkshake",
-    "value": 590000
-  },
-  {
-    "name": "Moehog Salad",
-    "value": 88500
-  },
-  {
-    "name": "Moehog Veggie Sandwich",
-    "value": 1000
-  },
-  {
-    "name": "Molten Hot Chilli",
-    "value": 920
-  },
-  {
-    "name": "Morel Mushroom Dip",
-    "value": 98100
-  },
-  {
-    "name": "Mosaic Negg",
-    "value": 77100
-  },
-  {
-    "name": "Mouldy Mini Kau Cheese Wheel",
-    "value": 73900
-  },
-  {
-    "name": "Multi-scoop Ice Cream",
-    "value": 1070
-  },
-  {
-    "name": "Mushroom and Herb Salad",
-    "value": 1550
-  },
-  {
-    "name": "Mushroom Sandwich",
-    "value": 36300
-  },
-  {
-    "name": "Mushrooms On A Stick",
-    "value": 73500
-  },
-  {
-    "name": "Mutant Apple",
-    "value": 610
-  },
-  {
-    "name": "Mutant Asparagus",
-    "value": 260000
-  },
-  {
-    "name": "Mutant Carrot",
-    "value": 999
-  },
-  {
-    "name": "Mutant Cheese Pizza Slice",
-    "value": 205000
-  },
-  {
-    "name": "Mutant Doughnut",
-    "value": 323000
-  },
-  {
-    "name": "Mutant Hot Dog",
-    "value": 176000
-  },
-  {
-    "name": "Mutant Kau Milkshake",
-    "value": 98000
-  },
-  {
-    "name": "Mutant Toast",
-    "value": 656000
-  },
-  {
-    "name": "Mutated Negg",
-    "value": 443000
-  },
-  {
-    "name": "Mynci Banana Split",
-    "value": 2910
-  },
-  {
-    "name": "Mynci Cristo Sandwich",
-    "value": 75500
-  },
-  {
-    "name": "Mynci Delight",
-    "value": 1030
-  },
-  {
-    "name": "Mynci Fruit Kebab",
-    "value": 376000
-  },
-  {
-    "name": "Mynci Ham and Cheese Sandwich",
-    "value": 2710
-  },
-  {
-    "name": "Mynci Meat Pie",
-    "value": 3400
-  },
-  {
-    "name": "Mynci Mushroom Soup",
-    "value": 35100
-  },
-  {
-    "name": "Mynci Steak",
-    "value": 387
-  },
-  {
-    "name": "Mynci Surprise Ice Cream",
-    "value": 51500
-  },
-  {
-    "name": "Mynci Vegetable Burger",
-    "value": 5420
-  },
-  {
-    "name": "Mynci Vegetable Melt Sandwich",
-    "value": 2850
-  },
-  {
-    "name": "Mynci Vegetable Soup",
-    "value": 705
-  },
-  {
-    "name": "Mynci Veggie Plate",
-    "value": 1750
-  },
-  {
-    "name": "Myncironi and Cheese",
-    "value": 2180
-  },
-  {
-    "name": "Mystery Island Chocolate Milk Glass",
-    "value": 1960
-  },
-  {
-    "name": "Nachos With Cheese",
-    "value": 4240
-  },
-  {
-    "name": "Negg",
-    "value": 33000
-  },
-  {
-    "name": "Negg Noodle Soup",
-    "value": 5570
-  },
-  {
-    "name": "Neggdrop Soup",
-    "value": 9110
-  },
-  {
-    "name": "Neggnog Cheesecake",
-    "value": 42000
-  },
-  {
-    "name": "Neggy Custard Pie",
-    "value": 3
-  },
-  {
-    "name": "Neo Crackers",
-    "value": 55
-  },
-  {
-    "name": "Neo Taco",
-    "value": 835
-  },
-  {
-    "name": "Neocrunch Cereal",
-    "value": 4110
-  },
-  {
-    "name": "Neopets 18th Birthday Cake",
-    "value": 2970
-  },
-  {
-    "name": "Neopia Central Chocolate Milk Glass",
-    "value": 5770
-  },
-  {
-    "name": "Neopian Jambalaya",
-    "value": 94800
-  },
-  {
-    "name": "Neopolitan Milkshake",
-    "value": 3910
-  },
-  {
-    "name": "Nimmo Bubbly Surprise",
-    "value": 1840
-  },
-  {
-    "name": "Nimmo Cream Cakes",
-    "value": 2480
-  },
-  {
-    "name": "Nimmo Day Fruit Cake",
-    "value": 66000
-  },
-  {
-    "name": "Nimmo Day Sandwich",
-    "value": 694
-  },
-  {
-    "name": "Nimmo Meatloaf",
-    "value": 394000
-  },
-  {
-    "name": "Nimmo Sheppards Pie",
-    "value": 189000
-  },
-  {
-    "name": "Nimmo Veggie Platter",
-    "value": 108000
-  },
-  {
-    "name": "Noil Candy Floss",
-    "value": 66700
-  },
-  {
-    "name": "Noil Cracker",
-    "value": 4080
-  },
-  {
-    "name": "Noil Mashed Potatoes",
-    "value": 69900
-  },
-  {
-    "name": "Number Crackers and Cheese",
-    "value": 22800
-  },
-  {
-    "name": "Number Fruit Leather",
-    "value": 103000
-  },
-  {
-    "name": "Number Jelly Parfait",
-    "value": 194000
-  },
-  {
-    "name": "Number Pasta",
-    "value": 64800
-  },
-  {
-    "name": "Numbers and Shapes Soup",
-    "value": 1810
-  },
-  {
-    "name": "Nutty Spaghetti",
-    "value": 68600
-  },
-  {
-    "name": "Oatmeal Raisins",
-    "value": 17400
-  },
-  {
-    "name": "Ogrin Fruit Salad",
-    "value": 2860
-  },
-  {
-    "name": "Ogrin Meatballs",
-    "value": 7290
-  },
-  {
-    "name": "Ogrin Pasta",
-    "value": 186000
-  },
-  {
-    "name": "Ogrin Peanut Butter and Jelly Sandwich",
-    "value": 98700
-  },
-  {
-    "name": "Olive Cupcake",
-    "value": 5000
-  },
-  {
-    "name": "Olivetato",
-    "value": 72200
-  },
-  {
-    "name": "Omelette with Cream Sauce",
-    "value": 2680
-  },
-  {
-    "name": "Onion and Mustard Pie",
-    "value": 3770000
-  },
-  {
-    "name": "Onion Bagel",
-    "value": 888
-  },
-  {
-    "name": "Onion Shoyru Meatball",
-    "value": 6070
-  },
-  {
-    "name": "Open Top Onion Sandwich",
-    "value": 49100
-  },
-  {
-    "name": "Orange",
-    "value": 212
-  },
-  {
-    "name": "Orange Baby Aisha Lollypop",
-    "value": 53500
-  },
-  {
-    "name": "Orange Bruce Juice",
-    "value": 420
-  },
-  {
-    "name": "Orange Chicken",
-    "value": 131
-  },
-  {
-    "name": "Orange Filled Jacket Potato",
-    "value": 511000
-  },
-  {
-    "name": "Orange Flavored Ribs",
-    "value": 3640
-  },
-  {
-    "name": "Orange Flavoured Borovan",
-    "value": 3700
-  },
-  {
-    "name": "Orange Gnorbu Cake",
-    "value": 1070
-  },
-  {
-    "name": "Orange Ixi Drink",
-    "value": 809
-  },
-  {
-    "name": "Orange Jetsam Cupcake",
-    "value": 81200
-  },
-  {
-    "name": "Orange Juice",
-    "value": 575
-  },
-  {
-    "name": "Orange Lupe Treat",
-    "value": 4830
-  },
-  {
-    "name": "Orange Negg",
-    "value": 109000
-  },
-  {
-    "name": "Orange Roll",
-    "value": 11800
-  },
-  {
-    "name": "Orange Spanner Jelly",
-    "value": 16600
-  },
-  {
-    "name": "Orange Uni Sherbert Sundae",
-    "value": 988
-  },
-  {
-    "name": "Orange Yurblecone",
-    "value": 419000
-  },
-  {
-    "name": "Orange-Stuffed Turkey with Jam Dressing",
     "value": 4100
   },
   {
-    "name": "Orapple Fizz",
-    "value": 3840
+    "name": "Leftover Shortcrust Pastry",
+    "value": 6750000
   },
   {
-    "name": "Origami Breakfast",
-    "value": 856000
+    "name": "Lemberry Chia Jelly",
+    "value": 3300
   },
   {
-    "name": "Origami Donut",
-    "value": 32200
+    "name": "Lemint Custard",
+    "value": 1500
   },
   {
-    "name": "Ornate Purple Negg",
-    "value": 164000
+    "name": "Lemint Green Salad",
+    "value": 29500
   },
   {
-    "name": "Our Famous Krawk Pie",
-    "value": 4450000
+    "name": "Lemint Muffin",
+    "value": 185
   },
   {
-    "name": "Oyster Obsession",
-    "value": 10700
+    "name": "Lemint Pizza Slice",
+    "value": 1200
   },
   {
-    "name": "Oysters on a Half Shell",
-    "value": 2610
+    "name": "Lemon",
+    "value": 2700
   },
   {
-    "name": "Pack o Pumpkin Seeds",
+    "name": "Lemon and Orange Blend",
+    "value": 30500
+  },
+  {
+    "name": "Lemon and Thornberry Jelly",
+    "value": 2600
+  },
+  {
+    "name": "Lemon Lava Cake",
+    "value": 5900
+  },
+  {
+    "name": "Lemon Lime Neocola",
+    "value": 99000
+  },
+  {
+    "name": "Lemon Meringue Baby Food",
+    "value": 310
+  },
+  {
+    "name": "Lemon Pop",
+    "value": 1300000
+  },
+  {
+    "name": "Lemon Swirly Negg",
+    "value": 150000
+  },
+  {
+    "name": "Lemonade",
+    "value": 47000
+  },
+  {
+    "name": "Lenny Casserole",
+    "value": 46500
+  },
+  {
+    "name": "Lenny Cream of Onion Soup",
+    "value": 6200
+  },
+  {
+    "name": "Lenny Meaty Burger",
+    "value": 1100
+  },
+  {
+    "name": "Lenny Mint Chocolate Chip Ice Cream",
+    "value": 2900
+  },
+  {
+    "name": "Lenny Salad",
+    "value": 1700
+  },
+  {
+    "name": "Lenny Strawberry Ice Cream",
+    "value": 2900
+  },
+  {
+    "name": "Lenny Vegetable Soup",
+    "value": 3100
+  },
+  {
+    "name": "Lenny Veggie Burger",
+    "value": 485
+  },
+  {
+    "name": "Lettuce Wrap",
+    "value": 18000
+  },
+  {
+    "name": "Lime",
+    "value": 7300
+  },
+  {
+    "name": "Lime Achyfi",
+    "value": 545
+  },
+  {
+    "name": "Lime Ice Cream",
+    "value": 23500
+  },
+  {
+    "name": "Lime Negg",
+    "value": 2550000
+  },
+  {
+    "name": "Lime Ruki Sundae",
+    "value": 1000
+  },
+  {
+    "name": "Lime Sorbet",
+    "value": 1300
+  },
+  {
+    "name": "Lime Swirly Negg",
+    "value": 110000
+  },
+  {
+    "name": "Lime Usul Shake",
+    "value": 2900
+  },
+  {
+    "name": "Lime Yurblecone",
+    "value": 23000
+  },
+  {
+    "name": "Limeade",
+    "value": 56500
+  },
+  {
+    "name": "Liver Poogle Pate",
+    "value": 41000
+  },
+  {
+    "name": "Loretta Fontaines Perfect Pizza",
+    "value": 3000000
+  },
+  {
+    "name": "Low Fat Milk",
+    "value": 4700
+  },
+  {
+    "name": "Lucky Slothy Day Dip",
+    "value": 50500
+  },
+  {
+    "name": "Lunch Cereal",
+    "value": 880
+  },
+  {
+    "name": "Lupe Burger",
+    "value": 49500
+  },
+  {
+    "name": "Lupe Cup",
+    "value": 100000
+  },
+  {
+    "name": "Lupe Snack Pack",
+    "value": 9
+  },
+  {
+    "name": "Lupe Snowcone",
+    "value": 42000
+  },
+  {
+    "name": "Lupe Soup",
+    "value": 3100
+  },
+  {
+    "name": "Lupe Sticky Rice Cake",
+    "value": 4000
+  },
+  {
+    "name": "Lussion Fruit",
+    "value": 42500
+  },
+  {
+    "name": "Lutari Fizz",
+    "value": 999998
+  },
+  {
+    "name": "Lutari Pancakes",
+    "value": 35000
+  },
+  {
+    "name": "Lutaya",
+    "value": 43000
+  },
+  {
+    "name": "Lutical Berries",
+    "value": 26000
+  },
+  {
+    "name": "Lychee",
+    "value": 4300
+  },
+  {
+    "name": "Mac and Cheese",
+    "value": 2000
+  },
+  {
+    "name": "Man O War",
+    "value": 1300000
+  },
+  {
+    "name": "Mango",
+    "value": 1400
+  },
+  {
+    "name": "Maple Syrup Negg",
+    "value": 230000
+  },
+  {
+    "name": "Marble Cake",
+    "value": 3700
+  },
+  {
+    "name": "Marshmallow Milkshake",
+    "value": 1700
+  },
+  {
+    "name": "Marshmallow Yam Soup",
+    "value": 7500
+  },
+  {
+    "name": "Mashed Potato With Gravy",
+    "value": 160
+  },
+  {
+    "name": "Mayonnaise Artichoke",
+    "value": 4700
+  },
+  {
+    "name": "Mayonnaise Chilli and Cheese covered Corn on the Cob",
+    "value": 100000
+  },
+  {
+    "name": "Meat and Potatoes Krawk Pot",
+    "value": 31000
+  },
+  {
+    "name": "Meat Lasagne",
+    "value": 1000
+  },
+  {
+    "name": "Meat Tuskabob",
+    "value": 59500
+  },
+  {
+    "name": "Meat Wrap",
     "value": 500
   },
   {
-    "name": "Pant Devil Lunch Box",
-    "value": 694
+    "name": "Meatball Toasty",
+    "value": 2600
   },
   {
-    "name": "Paper Negg",
-    "value": 855000
+    "name": "Meatless Meatballs",
+    "value": 1600
   },
   {
-    "name": "Paper-Wrapped Cheese",
-    "value": 1510
+    "name": "Meaty Chia Soup",
+    "value": 51000
   },
   {
-    "name": "Paper-Wrapped Chicken",
-    "value": 85600
+    "name": "Meaty Gnorbu Pie",
+    "value": 110000
   },
   {
-    "name": "Paper-Wrapped Salmon",
-    "value": 174000
+    "name": "Meaty Pot Pie",
+    "value": 1100
   },
   {
-    "name": "Paper-Wrapped Veggies",
-    "value": 165000
+    "name": "Meaty Usul Wrap",
+    "value": 1900
   },
   {
-    "name": "Partially Eaten Chocolate Buzz Dessert Platter",
-    "value": 678
+    "name": "Meerca Apertif",
+    "value": 2650000
   },
   {
-    "name": "Partitioned Negg",
-    "value": 182000
+    "name": "Meerca Bolognese",
+    "value": 1200
   },
   {
-    "name": "Pasta Nest",
-    "value": 1410
+    "name": "Meerca Cinnamon Bun",
+    "value": 3900
   },
   {
-    "name": "Pastel Xweetok Cotton Candy",
-    "value": 819000
+    "name": "Meerca Fruit Burger",
+    "value": 3300
   },
   {
-    "name": "Pastrami Gormball Sandwich",
-    "value": 45600
+    "name": "Meerca Sundae",
+    "value": 5200
   },
   {
-    "name": "Pastrami Milkshake",
-    "value": 3930
+    "name": "Mega Carrot Pie",
+    "value": 630
   },
   {
-    "name": "Pat of Butter",
-    "value": 2930
+    "name": "Mega Manoroot Sandwich",
+    "value": 110000
   },
   {
-    "name": "Pea and Carrot-Stuffed Turkey",
-    "value": 5050
+    "name": "Mega Pipper Sandwich",
+    "value": 9800
   },
   {
-    "name": "Pea and Ham Baby Food",
-    "value": 2010
+    "name": "Mega Sandwich",
+    "value": 190000
   },
   {
-    "name": "Peach Ice Cream",
-    "value": 1220
+    "name": "Mega Tonu Day Burger",
+    "value": 1700
   },
   {
-    "name": "Peach Jelly",
-    "value": 1870000
+    "name": "Mega Tuna Sandwich",
+    "value": 610000
   },
   {
-    "name": "Peach Milkshake",
-    "value": 982
+    "name": "Melowhirl Juice",
+    "value": 1100
   },
   {
-    "name": "Peanut",
-    "value": 4450
+    "name": "Meridellian Chocolate Milk Glass",
+    "value": 5300
   },
   {
-    "name": "Peanut Butter & Jelly JubJub Sandwich",
-    "value": 14300
+    "name": "Microphone Cake Pops",
+    "value": 1700
   },
   {
-    "name": "Peanut Butter & Jelly Waffle Sandwich",
-    "value": 55400
+    "name": "Mighty Grarrl Burger",
+    "value": 67000
   },
   {
-    "name": "Peanut Butter and Banana Sandwich",
-    "value": 2680
+    "name": "Mighty Steakwich",
+    "value": 7000000
   },
   {
-    "name": "Peanut Butter and Honey Sandwich",
-    "value": 679
+    "name": "Mild Cheddar Jetsam Fin Crackers",
+    "value": 54500
   },
   {
-    "name": "Peanut Butter and Jam Sandwich",
-    "value": 3830
+    "name": "Mini Cheddar Kau Cheese Wheel",
+    "value": 3100
   },
   {
-    "name": "Peanut Butter and Jelly Gormball Sandwich",
-    "value": 108000
+    "name": "Mini Ice Cream",
+    "value": 48000
   },
   {
-    "name": "Peanut Butter and Jelly Hot Dog",
-    "value": 578000
+    "name": "Mini Kau Cheese Wheel",
+    "value": 35000
   },
   {
-    "name": "Peanut Butter Bone",
-    "value": 4630
+    "name": "Mini Koi Cereal",
+    "value": 23500
   },
   {
-    "name": "Peanut Butter Crackers",
-    "value": 872
+    "name": "Mini Swiss Kau Cheese Wheel",
+    "value": 30500
   },
   {
-    "name": "Peanut Butter Smores",
+    "name": "Mint Chip Skeith Cone",
+    "value": 25500
+  },
+  {
+    "name": "Mint Chocolate Chip JubJub Sundae",
+    "value": 2500
+  },
+  {
+    "name": "Mint Chocolate Chip Smore",
+    "value": 1300
+  },
+  {
+    "name": "Mint Flavoured Borovan",
+    "value": 1100
+  },
+  {
+    "name": "Mint Ice Cream",
+    "value": 915
+  },
+  {
+    "name": "Minty Aisha Sundae",
+    "value": 26500
+  },
+  {
+    "name": "Minty Blumaroo Cone",
+    "value": 31000
+  },
+  {
+    "name": "Minty Flotsam Day Shake",
+    "value": 995
+  },
+  {
+    "name": "Mixed Grarrl Salad",
+    "value": 8300
+  },
+  {
+    "name": "Mocha Joy Fun Pop",
+    "value": 1850000
+  },
+  {
+    "name": "Mocha Smore",
+    "value": 1200
+  },
+  {
+    "name": "Moehog Fruit Leather",
+    "value": 32500
+  },
+  {
+    "name": "Moehog Grilled Peanut Butter Sandwich",
+    "value": 85500
+  },
+  {
+    "name": "Moehog Marmalade",
+    "value": 48000
+  },
+  {
+    "name": "Moehog Milkshake",
+    "value": 57000
+  },
+  {
+    "name": "Moehog Salad",
+    "value": 40000
+  },
+  {
+    "name": "Moehog Veggie Sandwich",
+    "value": 1300
+  },
+  {
+    "name": "Molten Hot Chilli",
+    "value": 640
+  },
+  {
+    "name": "Morel Mushroom Dip",
+    "value": 140000
+  },
+  {
+    "name": "Mosaic Negg",
+    "value": 50500
+  },
+  {
+    "name": "Mouldy Mini Kau Cheese Wheel",
+    "value": 22500
+  },
+  {
+    "name": "Multi-scoop Ice Cream",
+    "value": 1800
+  },
+  {
+    "name": "Mushroom and Herb Salad",
+    "value": 1900
+  },
+  {
+    "name": "Mushroom Sandwich",
+    "value": 93500
+  },
+  {
+    "name": "Mushrooms On A Stick",
+    "value": 50000
+  },
+  {
+    "name": "Mutant Apple",
+    "value": 1300
+  },
+  {
+    "name": "Mutant Asparagus",
+    "value": 41000
+  },
+  {
+    "name": "Mutant Carrot",
+    "value": 645
+  },
+  {
+    "name": "Mutant Cheese Pizza Slice",
+    "value": 73000
+  },
+  {
+    "name": "Mutant Doughnut",
+    "value": 34000
+  },
+  {
+    "name": "Mutant Hot Dog",
     "value": 47500
   },
   {
+    "name": "Mutant Kau Milkshake",
+    "value": 40500
+  },
+  {
+    "name": "Mutant Toast",
+    "value": 34000
+  },
+  {
+    "name": "Mutated Negg",
+    "value": 430000
+  },
+  {
+    "name": "Mynci Banana Split",
+    "value": 3700
+  },
+  {
+    "name": "Mynci Cristo Sandwich",
+    "value": 21500
+  },
+  {
+    "name": "Mynci Delight",
+    "value": 1000
+  },
+  {
+    "name": "Mynci Fruit Kebab",
+    "value": 32500
+  },
+  {
+    "name": "Mynci Ham and Cheese Sandwich",
+    "value": 17000
+  },
+  {
+    "name": "Mynci Meat Pie",
+    "value": 1700
+  },
+  {
+    "name": "Mynci Mushroom Soup",
+    "value": 75500
+  },
+  {
+    "name": "Mynci Steak",
+    "value": 900
+  },
+  {
+    "name": "Mynci Surprise Ice Cream",
+    "value": 28500
+  },
+  {
+    "name": "Mynci Vegetable Burger",
+    "value": 6300
+  },
+  {
+    "name": "Mynci Vegetable Melt Sandwich",
+    "value": 5000
+  },
+  {
+    "name": "Mynci Vegetable Soup",
+    "value": 735
+  },
+  {
+    "name": "Mynci Veggie Plate",
+    "value": 4900
+  },
+  {
+    "name": "Myncironi and Cheese",
+    "value": 2000
+  },
+  {
+    "name": "Mystery Island Chocolate Milk Glass",
+    "value": 3900
+  },
+  {
+    "name": "Nachos With Cheese",
+    "value": 4200
+  },
+  {
+    "name": "Negg",
+    "value": 38000
+  },
+  {
+    "name": "Negg Noodle Soup",
+    "value": 19000
+  },
+  {
+    "name": "Neggdrop Soup",
+    "value": 30500
+  },
+  {
+    "name": "Neggnog Cheesecake",
+    "value": 2000
+  },
+  {
+    "name": "Neggy Custard Pie",
+    "value": 18
+  },
+  {
+    "name": "Neo Crackers",
+    "value": 17
+  },
+  {
+    "name": "Neo Taco",
+    "value": 1500
+  },
+  {
+    "name": "Neocrunch Cereal",
+    "value": 2600
+  },
+  {
+    "name": "Neopets 18th Birthday Cake",
+    "value": 6200
+  },
+  {
+    "name": "Neopia Central Chocolate Milk Glass",
+    "value": 3500
+  },
+  {
+    "name": "Neopian Jambalaya",
+    "value": 25000
+  },
+  {
+    "name": "Neopolitan Milkshake",
+    "value": 4200
+  },
+  {
+    "name": "Nimmo Bubbly Surprise",
+    "value": 3500
+  },
+  {
+    "name": "Nimmo Cream Cakes",
+    "value": 1900
+  },
+  {
+    "name": "Nimmo Day Fruit Cake",
+    "value": 42500
+  },
+  {
+    "name": "Nimmo Day Sandwich",
+    "value": 945
+  },
+  {
+    "name": "Nimmo Meatloaf",
+    "value": 100000
+  },
+  {
+    "name": "Nimmo Sheppards Pie",
+    "value": 40500
+  },
+  {
+    "name": "Nimmo Veggie Platter",
+    "value": 19500
+  },
+  {
+    "name": "Noil Candy Floss",
+    "value": 33000
+  },
+  {
+    "name": "Noil Cracker",
+    "value": 5900
+  },
+  {
+    "name": "Noil Mashed Potatoes",
+    "value": 17000
+  },
+  {
+    "name": "Number Crackers and Cheese",
+    "value": 24000
+  },
+  {
+    "name": "Number Fruit Leather",
+    "value": 36000
+  },
+  {
+    "name": "Number Jelly Parfait",
+    "value": 40000
+  },
+  {
+    "name": "Number Pasta",
+    "value": 54000
+  },
+  {
+    "name": "Numbers and Shapes Soup",
+    "value": 2000
+  },
+  {
+    "name": "Nutty Spaghetti",
+    "value": 200000
+  },
+  {
+    "name": "Oat Kau Milk Alternative",
+    "value": 1500000
+  },
+  {
+    "name": "Oatmeal Raisins",
+    "value": 32000
+  },
+  {
+    "name": "Ogrin Fruit Salad",
+    "value": 3900
+  },
+  {
+    "name": "Ogrin Meatballs",
+    "value": 2900
+  },
+  {
+    "name": "Ogrin Orange Slices",
+    "value": 16000
+  },
+  {
+    "name": "Ogrin Pasta",
+    "value": 45000
+  },
+  {
+    "name": "Ogrin Peanut Butter and Jelly Sandwich",
+    "value": 24000
+  },
+  {
+    "name": "Olive Cupcake",
+    "value": 4900
+  },
+  {
+    "name": "Olivetato",
+    "value": 39000
+  },
+  {
+    "name": "Omelette with Cream Sauce",
+    "value": 3200
+  },
+  {
+    "name": "Onion and Mustard Pie",
+    "value": 18000000
+  },
+  {
+    "name": "Onion Bagel",
+    "value": 905
+  },
+  {
+    "name": "Onion Shoyru Meatball",
+    "value": 5700
+  },
+  {
+    "name": "Open Top Onion Sandwich",
+    "value": 94500
+  },
+  {
+    "name": "Orange",
+    "value": 280
+  },
+  {
+    "name": "Orange Baby Aisha Lollypop",
+    "value": 44000
+  },
+  {
+    "name": "Orange Bruce Juice",
+    "value": 665
+  },
+  {
+    "name": "Orange Chicken",
+    "value": 92
+  },
+  {
+    "name": "Orange Filled Jacket Potato",
+    "value": 180000
+  },
+  {
+    "name": "Orange Flavored Ribs",
+    "value": 4800
+  },
+  {
+    "name": "Orange Flavoured Borovan",
+    "value": 205
+  },
+  {
+    "name": "Orange Gnorbu Cake",
+    "value": 975
+  },
+  {
+    "name": "Orange Ixi Drink",
+    "value": 1300
+  },
+  {
+    "name": "Orange Jetsam Cupcake",
+    "value": 83000
+  },
+  {
+    "name": "Orange Juice",
+    "value": 990
+  },
+  {
+    "name": "Orange Lupe Treat",
+    "value": 6200
+  },
+  {
+    "name": "Orange Negg",
+    "value": 150000
+  },
+  {
+    "name": "Orange Roll",
+    "value": 3100
+  },
+  {
+    "name": "Orange Spanner Jelly",
+    "value": 3000
+  },
+  {
+    "name": "Orange Uni Sherbert Sundae",
+    "value": 1200
+  },
+  {
+    "name": "Orange Yurblecone",
+    "value": 49000
+  },
+  {
+    "name": "Orange-Stuffed Turkey with Jam Dressing",
+    "value": 5500
+  },
+  {
+    "name": "Orapple Fizz",
+    "value": 5900
+  },
+  {
+    "name": "Origami Breakfast",
+    "value": 35000
+  },
+  {
+    "name": "Origami Donut",
+    "value": 16500
+  },
+  {
+    "name": "Ornate Purple Negg",
+    "value": 190000
+  },
+  {
+    "name": "Our Famous Krawk Pie",
+    "value": 4750000
+  },
+  {
+    "name": "Oyster Obsession",
+    "value": 7700
+  },
+  {
+    "name": "Oysters on a Half Shell",
+    "value": 2000
+  },
+  {
+    "name": "Pack o Pumpkin Seeds",
+    "value": 880
+  },
+  {
+    "name": "Pant Devil Lunch Box",
+    "value": 645
+  },
+  {
+    "name": "Paper Negg",
+    "value": 20500
+  },
+  {
+    "name": "Paper-Wrapped Cheese",
+    "value": 1600
+  },
+  {
+    "name": "Paper-Wrapped Chicken",
+    "value": 41500
+  },
+  {
+    "name": "Paper-Wrapped Salmon",
+    "value": 39000
+  },
+  {
+    "name": "Paper-Wrapped Veggies",
+    "value": 65500
+  },
+  {
+    "name": "Partially Eaten Chocolate Buzz Dessert Platter",
+    "value": 3300
+  },
+  {
+    "name": "Partitioned Negg",
+    "value": 230000
+  },
+  {
+    "name": "Pasta Nest",
+    "value": 1900
+  },
+  {
+    "name": "Pastel Xweetok Cotton Candy",
+    "value": 23500
+  },
+  {
+    "name": "Pastrami Gormball Sandwich",
+    "value": 100000
+  },
+  {
+    "name": "Pastrami Milkshake",
+    "value": 10000
+  },
+  {
+    "name": "Pat of Butter",
+    "value": 1100
+  },
+  {
+    "name": "Pavlovoida",
+    "value": 9800000
+  },
+  {
+    "name": "Pea and Carrot-Stuffed Turkey",
+    "value": 5400
+  },
+  {
+    "name": "Pea and Ham Baby Food",
+    "value": 1900
+  },
+  {
+    "name": "Peach Ice Cream",
+    "value": 1900
+  },
+  {
+    "name": "Peach Jelly",
+    "value": 999844
+  },
+  {
+    "name": "Peach Milkshake",
+    "value": 790
+  },
+  {
+    "name": "Peanut",
+    "value": 5100
+  },
+  {
+    "name": "Peanut Butter & Jelly JubJub Sandwich",
+    "value": 7300
+  },
+  {
+    "name": "Peanut Butter & Jelly Waffle Sandwich",
+    "value": 38500
+  },
+  {
+    "name": "Peanut Butter and Banana Sandwich",
+    "value": 3600
+  },
+  {
+    "name": "Peanut Butter and Honey Sandwich",
+    "value": 960
+  },
+  {
+    "name": "Peanut Butter and Jam Sandwich",
+    "value": 2200
+  },
+  {
+    "name": "Peanut Butter and Jelly Gormball Sandwich",
+    "value": 45500
+  },
+  {
+    "name": "Peanut Butter and Jelly Hot Dog",
+    "value": 51000
+  },
+  {
+    "name": "Peanut Butter Bone",
+    "value": 3000
+  },
+  {
+    "name": "Peanut Butter Crackers",
+    "value": 4000
+  },
+  {
+    "name": "Peanut Butter Smores",
+    "value": 54500
+  },
+  {
     "name": "Peanut Butter Toast",
-    "value": 3750
+    "value": 3700
   },
   {
     "name": "Peanut Butter Tonu Crackers",
-    "value": 157000
+    "value": 93000
   },
   {
     "name": "Peanut Crunch Cereal",
-    "value": 3720
+    "value": 2900
   },
   {
     "name": "Peanut Dash Cookie",
-    "value": 35900
+    "value": 65000
   },
   {
     "name": "Peanut Dash Shake",
-    "value": 304000
+    "value": 82000
   },
   {
     "name": "Peanut Dash Stir Fry",
-    "value": 383
+    "value": 1700
   },
   {
     "name": "Pear",
-    "value": 1840
+    "value": 2000
   },
   {
     "name": "Pear Lollypop",
-    "value": 1610
+    "value": 1900
   },
   {
     "name": "Pegleg Chicken",
-    "value": 61
+    "value": 100
   },
   {
     "name": "Peophin Pancakes",
-    "value": 264000
+    "value": 41500
   },
   {
     "name": "Pepper Lupe Treat",
-    "value": 766000
+    "value": 50500
   },
   {
     "name": "Peppered Salmon Dish",
-    "value": 449000
+    "value": 42000
   },
   {
     "name": "Persicot",
@@ -4385,75 +4405,75 @@
   },
   {
     "name": "Petpet Crackers",
-    "value": 1170
+    "value": 2100
   },
   {
     "name": "Phear Flavoured Milk",
-    "value": 86600
+    "value": 39000
   },
   {
     "name": "Pickled Apples",
-    "value": 75500
+    "value": 27000
   },
   {
     "name": "Pickled Onion",
-    "value": 17200
+    "value": 23500
   },
   {
     "name": "Pickled Onions",
-    "value": 3500
+    "value": 3100
   },
   {
     "name": "Pickled Pears",
-    "value": 51700
+    "value": 37500
   },
   {
     "name": "Pickled Peppers",
-    "value": 448000
+    "value": 53000
   },
   {
     "name": "Pinanna Paradise",
-    "value": 352000
+    "value": 520000
   },
   {
     "name": "Pineapple",
-    "value": 1330
+    "value": 1300
   },
   {
     "name": "Pineapple and Broccoli Pie",
-    "value": 181000
+    "value": 48500
   },
   {
     "name": "Pineapple and Oranges",
-    "value": 7360
+    "value": 3500
   },
   {
     "name": "Pineapple Ham",
-    "value": 1280
+    "value": 2200
   },
   {
     "name": "Pink Cheese",
-    "value": 259000
+    "value": 50000
   },
   {
     "name": "Pink Negg",
-    "value": 243000
+    "value": 190000
   },
   {
     "name": "Pink Triple Decker Sandwich",
-    "value": 158000
+    "value": 21500
   },
   {
     "name": "Pirate Lupe Pasta",
-    "value": 567
+    "value": 630
   },
   {
     "name": "Pirate Negg",
-    "value": 989000
+    "value": 1250000
   },
   {
     "name": "Pirate Pancakes",
-    "value": 19100
+    "value": 37500
   },
   {
     "name": "Pirate Potato Crisps",
@@ -4461,743 +4481,747 @@
   },
   {
     "name": "Pizza Sandwich",
-    "value": 3000000
+    "value": 6050000
   },
   {
     "name": "Plain Bagel",
-    "value": 551000
+    "value": 86500
   },
   {
     "name": "Plain Cheesicle",
-    "value": 87500
+    "value": 40000
   },
   {
     "name": "Plain Crackers",
-    "value": 238000
+    "value": 4000
   },
   {
     "name": "Plain Eyrie Souffle",
-    "value": 107000
-  },
-  {
-    "name": "Plain Mashed Potato",
-    "value": 4920
-  },
-  {
-    "name": "Plain Negg Neggnog",
-    "value": 1510
-  },
-  {
-    "name": "Plain Omurice",
-    "value": 2270
-  },
-  {
-    "name": "Plain Onigiri",
-    "value": 990000
-  },
-  {
-    "name": "Plain Shoyru Meatball",
-    "value": 2670
-  },
-  {
-    "name": "Plain Sloth Day Burger",
-    "value": 122000
-  },
-  {
-    "name": "Plate of Crudites",
-    "value": 3610
-  },
-  {
-    "name": "Plum",
-    "value": 2540000
-  },
-  {
-    "name": "Plushie Broccoli",
-    "value": 3790
-  },
-  {
-    "name": "Plushie Burger",
-    "value": 5040
-  },
-  {
-    "name": "Plushie Slice of Cake",
-    "value": 1830
-  },
-  {
-    "name": "Plushie Turkey",
-    "value": 4880
-  },
-  {
-    "name": "Polka Carrot",
-    "value": 38100
-  },
-  {
-    "name": "Pomegranate",
-    "value": 53600
-  },
-  {
-    "name": "Poogle Pot Pie",
-    "value": 33900
-  },
-  {
-    "name": "Poogle Spaghetti",
-    "value": 18600
-  },
-  {
-    "name": "Poogle Sushi",
-    "value": 185000
-  },
-  {
-    "name": "Popcorn",
-    "value": 3580
-  },
-  {
-    "name": "Portobello Platter",
-    "value": 59100
-  },
-  {
-    "name": "Potato Chips on a Paper Plate",
-    "value": 45400
-  },
-  {
-    "name": "Potato Omelette Sandwich",
-    "value": 2370
-  },
-  {
-    "name": "Potato Salad",
-    "value": 36400
-  },
-  {
-    "name": "Potato Wedges",
-    "value": 789
-  },
-  {
-    "name": "Potato-Stuffed Turkey",
-    "value": 4980
-  },
-  {
-    "name": "Pretty Purple Princess Negg",
-    "value": 873000
-  },
-  {
-    "name": "Prickly Merato Sandwich",
-    "value": 740
-  },
-  {
-    "name": "Pteri Burger",
-    "value": 3100
-  },
-  {
-    "name": "Pteri Kabob",
-    "value": 3680
-  },
-  {
-    "name": "Pteri Spaghetti",
-    "value": 3100
-  },
-  {
-    "name": "Pteri Sundae",
-    "value": 1000
-  },
-  {
-    "name": "Pteri Wrap",
-    "value": 1420
-  },
-  {
-    "name": "Pumpkin Bread",
-    "value": 38400
-  },
-  {
-    "name": "Pumpkin Eyrie Souffle",
-    "value": 377000
-  },
-  {
-    "name": "Puntec Cupcake",
-    "value": 1630000
-  },
-  {
-    "name": "Puntec Parcel",
-    "value": 1110
-  },
-  {
-    "name": "Purple Bruce Juice",
-    "value": 432
-  },
-  {
-    "name": "Purple Carrot",
-    "value": 1170
-  },
-  {
-    "name": "Purple Crisps",
-    "value": 213000
-  },
-  {
-    "name": "Purple Cybunny Negg",
-    "value": 556000
-  },
-  {
-    "name": "Purple Eyrie Jelly Sandwich",
-    "value": 98800
-  },
-  {
-    "name": "Purple Hamburger",
-    "value": 98700
-  },
-  {
-    "name": "Purple Negg",
-    "value": 178000
-  },
-  {
-    "name": "Purple Pasta",
-    "value": 203000
-  },
-  {
-    "name": "Purple Picnic Hamper",
-    "value": 6280000
-  },
-  {
-    "name": "Purple Potato Aperitif",
-    "value": 383000
-  },
-  {
-    "name": "Puzzle Fruit",
-    "value": 1110000
-  },
-  {
-    "name": "Pyranegg",
-    "value": 2600
-  },
-  {
-    "name": "Quadruple Fudge Cheese Wedge",
-    "value": 722
-  },
-  {
-    "name": "Quadruple Scoop of Sorbet",
     "value": 29500
   },
   {
-    "name": "Quiggle Fly Pie",
-    "value": 677000
+    "name": "Plain Mashed Potato",
+    "value": 6300
   },
   {
-    "name": "Quiggle Foot Wrap",
-    "value": 1060
+    "name": "Plain Negg Neggnog",
+    "value": 1100
   },
   {
-    "name": "Quiggle Grilled Cheese Sandwich",
-    "value": 150000
+    "name": "Plain Omurice",
+    "value": 1300
   },
   {
-    "name": "Quiggle Pasta Salad",
-    "value": 18300
+    "name": "Plain Onigiri",
+    "value": 64000
   },
   {
-    "name": "Quiggle Stew",
-    "value": 867000
+    "name": "Plain Shoyru Meatball",
+    "value": 4200
   },
   {
-    "name": "Quiggle Veggie Soup",
-    "value": 466000
+    "name": "Plain Sloth Day Burger",
+    "value": 21000
   },
   {
-    "name": "Radish",
+    "name": "Plate of Crudites",
+    "value": 2400
+  },
+  {
+    "name": "Plum",
+    "value": 26000
+  },
+  {
+    "name": "Plushie Broccoli",
+    "value": 1100
+  },
+  {
+    "name": "Plushie Burger",
+    "value": 4000
+  },
+  {
+    "name": "Plushie Slice of Cake",
+    "value": 2300
+  },
+  {
+    "name": "Plushie Turkey",
+    "value": 3500
+  },
+  {
+    "name": "Polka Carrot",
+    "value": 17500
+  },
+  {
+    "name": "Pomegranate",
+    "value": 29500
+  },
+  {
+    "name": "Poogle Pot Pie",
+    "value": 50000
+  },
+  {
+    "name": "Poogle Spaghetti",
+    "value": 19500
+  },
+  {
+    "name": "Poogle Sushi",
+    "value": 41500
+  },
+  {
+    "name": "Popcorn",
+    "value": 3100
+  },
+  {
+    "name": "Portobello Platter",
+    "value": 18500
+  },
+  {
+    "name": "Potato Chips on a Paper Plate",
+    "value": 47000
+  },
+  {
+    "name": "Potato Omelette Sandwich",
+    "value": 7100
+  },
+  {
+    "name": "Potato Salad",
+    "value": 19000
+  },
+  {
+    "name": "Potato Wedges",
+    "value": 565
+  },
+  {
+    "name": "Potato-Stuffed Turkey",
+    "value": 4000
+  },
+  {
+    "name": "Pretty Purple Princess Negg",
+    "value": 140000
+  },
+  {
+    "name": "Prickly Merato Sandwich",
+    "value": 110
+  },
+  {
+    "name": "Pteri Burger",
+    "value": 6700
+  },
+  {
+    "name": "Pteri Kabob",
+    "value": 2900
+  },
+  {
+    "name": "Pteri Spaghetti",
+    "value": 1500
+  },
+  {
+    "name": "Pteri Sundae",
+    "value": 185
+  },
+  {
+    "name": "Pteri Wrap",
     "value": 1700
   },
   {
-    "name": "Rainbow Apple",
-    "value": 1620000
+    "name": "Pumpkin Bread",
+    "value": 16000
   },
   {
-    "name": "Rainbow Artichoke",
-    "value": 98400
+    "name": "Pumpkin Eyrie Souffle",
+    "value": 33000
   },
   {
-    "name": "Rainbow Burger with Cheese",
-    "value": 3860
+    "name": "Puntec Cupcake",
+    "value": 140000
   },
   {
-    "name": "Rainbow Carrot",
-    "value": 3250000
+    "name": "Puntec Parcel",
+    "value": 1400
   },
   {
-    "name": "Rainbow Cybunny Negg",
-    "value": 3220000
+    "name": "Purple Bruce Juice",
+    "value": 125
   },
   {
-    "name": "Rainbow Negg",
-    "value": 296000
+    "name": "Purple Carrot",
+    "value": 3100
   },
   {
-    "name": "Rainbow Neggnog",
-    "value": 1980000
+    "name": "Purple Crisps",
+    "value": 62000
   },
   {
-    "name": "Rainbow Poogle Lolly",
-    "value": 10000
+    "name": "Purple Cybunny Negg",
+    "value": 420000
   },
   {
-    "name": "Rainbow Toast with Rainbow Jam",
-    "value": 9650
+    "name": "Purple Eyrie Jelly Sandwich",
+    "value": 38000
   },
   {
-    "name": "Rambus Salad Sandwich",
-    "value": 3740
+    "name": "Purple Hamburger",
+    "value": 24000
   },
   {
-    "name": "Rangamelon",
-    "value": 7830
+    "name": "Purple Negg",
+    "value": 290000
   },
   {
-    "name": "Raspberry Achyfi",
-    "value": 3560
+    "name": "Purple Pasta",
+    "value": 34000
   },
   {
-    "name": "Raspberry Aisha Waffle",
+    "name": "Purple Picnic Hamper",
+    "value": 140000
+  },
+  {
+    "name": "Purple Potato Aperitif",
+    "value": 92500
+  },
+  {
+    "name": "Puzzle Fruit",
+    "value": 3300000
+  },
+  {
+    "name": "Pyranegg",
+    "value": 1200
+  },
+  {
+    "name": "Quadruple Fudge Cheese Wedge",
+    "value": 1200
+  },
+  {
+    "name": "Quadruple Scoop of Sorbet",
+    "value": 11500
+  },
+  {
+    "name": "Quiggle Fly Pie",
+    "value": 31500
+  },
+  {
+    "name": "Quiggle Foot Wrap",
+    "value": 995
+  },
+  {
+    "name": "Quiggle Grilled Cheese Sandwich",
+    "value": 23000
+  },
+  {
+    "name": "Quiggle Pasta Salad",
+    "value": 27000
+  },
+  {
+    "name": "Quiggle Stew",
+    "value": 88500
+  },
+  {
+    "name": "Quiggle Veggie Soup",
     "value": 130000
   },
   {
-    "name": "Raspberry Baby JubJub Lollypop",
-    "value": 301000
-  },
-  {
-    "name": "Raspberry Basket",
-    "value": 237000
-  },
-  {
-    "name": "Raspberry Blumaroo Cone",
-    "value": 1050
-  },
-  {
-    "name": "Raspberry Chicken",
-    "value": 26400
-  },
-  {
-    "name": "Raspberry Cranberry Juice",
-    "value": 83800
-  },
-  {
-    "name": "Raspberry Jam",
-    "value": 2630
-  },
-  {
-    "name": "Raspberry Jelly Draik Head",
-    "value": 1310
-  },
-  {
-    "name": "Raspberry JubJub Mini Burger",
-    "value": 1540
-  },
-  {
-    "name": "Raspberry Milkshake",
-    "value": 1810
-  },
-  {
-    "name": "Raspberry Neocola",
-    "value": 983
-  },
-  {
-    "name": "Raspberry Pop",
-    "value": 940000
-  },
-  {
-    "name": "Raspberry Scones",
-    "value": 356000
-  },
-  {
-    "name": "Raspberry Sundae",
-    "value": 25600
-  },
-  {
-    "name": "Raspberry Toffee Apple",
-    "value": 3110000
-  },
-  {
-    "name": "Raspberry Usul Shake",
-    "value": 755
-  },
-  {
-    "name": "Raspberry Yurblecone",
-    "value": 471000
-  },
-  {
-    "name": "Real Cheese Cheesecake",
-    "value": 2370
-  },
-  {
-    "name": "Red Apple",
-    "value": 1580
-  },
-  {
-    "name": "Red Bruce Juice",
-    "value": 61000
-  },
-  {
-    "name": "Red Buzz Energy Drink",
-    "value": 74400
-  },
-  {
-    "name": "Red Picnic Hamper",
-    "value": 4720000
-  },
-  {
-    "name": "Red Scorchipepper",
-    "value": 523000
-  },
-  {
-    "name": "Refreshing Peophin Burger",
-    "value": 717
-  },
-  {
-    "name": "Refried Beans and Rice",
-    "value": 8080
-  },
-  {
-    "name": "Rhubarb Casserole",
-    "value": 733
-  },
-  {
-    "name": "Rice Dice",
-    "value": 876
-  },
-  {
-    "name": "Roast Chestnut Neggnog",
-    "value": 2500
-  },
-  {
-    "name": "Roasted Chestnuts",
-    "value": 394000
-  },
-  {
-    "name": "Rock Negg",
-    "value": 201000
-  },
-  {
-    "name": "Rose Petal Crisps",
-    "value": 1680
-  },
-  {
-    "name": "Royal Boy Tuskaninny Spaghetti",
-    "value": 72300
-  },
-  {
-    "name": "Royal Girl Zafara Pancakes",
-    "value": 400000
-  },
-  {
-    "name": "Ruki Juicebox",
-    "value": 29600
-  },
-  {
-    "name": "Ruki Salad",
-    "value": 20700
-  },
-  {
-    "name": "Ruki Veggie Sandwich",
-    "value": 846
-  },
-  {
-    "name": "Sakhmetian Grape Sandwich",
-    "value": 262
-  },
-  {
-    "name": "Salisbury Steak",
-    "value": 29400
-  },
-  {
-    "name": "Salmon Cream Cheese Dip",
-    "value": 152000
-  },
-  {
-    "name": "Salmon Steak",
+    "name": "Radish",
     "value": 3800
   },
   {
-    "name": "Sand Negg",
-    "value": 13000
+    "name": "Rainbow Apple",
+    "value": 150000
   },
   {
-    "name": "Sausage and Cheese Roll",
-    "value": 694
+    "name": "Rainbow Artichoke",
+    "value": 97500
   },
   {
-    "name": "Sausage and Chips",
-    "value": 14900
+    "name": "Rainbow Burger with Cheese",
+    "value": 28500
   },
   {
-    "name": "Sausage Cornucopia",
-    "value": 4760
+    "name": "Rainbow Carrot",
+    "value": 39000
   },
   {
-    "name": "Sausage Gravy",
-    "value": 96700
+    "name": "Rainbow Cybunny Negg",
+    "value": 5050000
   },
   {
-    "name": "Sausage Jacket Potato",
-    "value": 5980
+    "name": "Rainbow Negg",
+    "value": 430000
   },
   {
-    "name": "Sausage on Toast",
-    "value": 951
+    "name": "Rainbow Neggnog",
+    "value": 4900000
   },
   {
-    "name": "Savoury Cheese Draik Head",
-    "value": 1550
+    "name": "Rainbow Poogle Lolly",
+    "value": 48500
   },
   {
-    "name": "Scaled Negg",
-    "value": 7070
-  },
-  {
-    "name": "Scarab Negg",
-    "value": 1030
-  },
-  {
-    "name": "Scorched Kabob",
-    "value": 152000
-  },
-  {
-    "name": "Scorched Veggies",
-    "value": 2170
-  },
-  {
-    "name": "Scorchio Banana Cake",
-    "value": 808
-  },
-  {
-    "name": "Scorchio Chocolate Cake",
-    "value": 875
-  },
-  {
-    "name": "Scorchio Ham Sandwich",
-    "value": 1820
-  },
-  {
-    "name": "Scorchio Melted Cheese Sandwich",
-    "value": 3380
-  },
-  {
-    "name": "Scorchio Smores",
-    "value": 65400
-  },
-  {
-    "name": "Scorchipepper Jacket Potato",
-    "value": 971
-  },
-  {
-    "name": "Screlon Gormball Sandwich",
-    "value": 2780
-  },
-  {
-    "name": "Scrumptious Borovan Cookie",
-    "value": 2810
-  },
-  {
-    "name": "Sea Cocktail",
-    "value": 824
-  },
-  {
-    "name": "Seared Salmon Sandwich",
-    "value": 2920
-  },
-  {
-    "name": "Seared Tuna Steak",
-    "value": 2540
-  },
-  {
-    "name": "Seasoned Curly Chips",
-    "value": 18800
-  },
-  {
-    "name": "Seasoned Lupe Chips",
-    "value": 99800
-  },
-  {
-    "name": "Seaweed Bacon",
-    "value": 100000
-  },
-  {
-    "name": "Seaweed Bacon Jacket Potato",
-    "value": 8630
-  },
-  {
-    "name": "Seaweed Flotsam Burger",
-    "value": 169000
-  },
-  {
-    "name": "Seaweed Wrapped Cake",
-    "value": 697
-  },
-  {
-    "name": "Settra",
-    "value": 2820
-  },
-  {
-    "name": "Shadow Usul Lunch Box",
-    "value": 647
-  },
-  {
-    "name": "Shark Sandwich",
-    "value": 981
-  },
-  {
-    "name": "Shell Burger",
-    "value": 1600
-  },
-  {
-    "name": "Shell Lollypop",
-    "value": 14300
-  },
-  {
-    "name": "Shenkuu Chocolate Milk Glass",
-    "value": 31800
-  },
-  {
-    "name": "Shishkafruit Jam",
+    "name": "Rainbow Toast with Rainbow Jam",
     "value": 41000
   },
   {
+    "name": "Rambus Salad Sandwich",
+    "value": 4500
+  },
+  {
+    "name": "Rangamelon",
+    "value": 3600
+  },
+  {
+    "name": "Raspberry Achyfi",
+    "value": 38500
+  },
+  {
+    "name": "Raspberry Aisha Waffle",
+    "value": 40500
+  },
+  {
+    "name": "Raspberry Baby JubJub Lollypop",
+    "value": 51000
+  },
+  {
+    "name": "Raspberry Basket",
+    "value": 56500
+  },
+  {
+    "name": "Raspberry Blumaroo Cone",
+    "value": 1500
+  },
+  {
+    "name": "Raspberry Chicken",
+    "value": 36500
+  },
+  {
+    "name": "Raspberry Cranberry Juice",
+    "value": 17000
+  },
+  {
+    "name": "Raspberry Jam",
+    "value": 2200
+  },
+  {
+    "name": "Raspberry Jelly Draik Head",
+    "value": 825
+  },
+  {
+    "name": "Raspberry JubJub Mini Burger",
+    "value": 1000
+  },
+  {
+    "name": "Raspberry Milkshake",
+    "value": 1900
+  },
+  {
+    "name": "Raspberry Neocola",
+    "value": 1800
+  },
+  {
+    "name": "Raspberry Pop",
+    "value": 1200000
+  },
+  {
+    "name": "Raspberry Scones",
+    "value": 38500
+  },
+  {
+    "name": "Raspberry Sundae",
+    "value": 13000
+  },
+  {
+    "name": "Raspberry Toffee Apple",
+    "value": 320000
+  },
+  {
+    "name": "Raspberry Usul Shake",
+    "value": 1400
+  },
+  {
+    "name": "Raspberry Yurblecone",
+    "value": 45000
+  },
+  {
+    "name": "Real Cheese Cheesecake",
+    "value": 1600
+  },
+  {
+    "name": "Red Apple",
+    "value": 1900
+  },
+  {
+    "name": "Red Bruce Juice",
+    "value": 17500
+  },
+  {
+    "name": "Red Buzz Energy Drink",
+    "value": 100000
+  },
+  {
+    "name": "Red Picnic Hamper",
+    "value": 4500000
+  },
+  {
+    "name": "Red Scorchipepper",
+    "value": 48000
+  },
+  {
+    "name": "Refreshing Peophin Burger",
+    "value": 755
+  },
+  {
+    "name": "Refried Beans and Rice",
+    "value": 4800
+  },
+  {
+    "name": "Rhubarb Casserole",
+    "value": 1300
+  },
+  {
+    "name": "Rice Dice",
+    "value": 1200
+  },
+  {
+    "name": "Roast Chestnut Neggnog",
+    "value": 2600
+  },
+  {
+    "name": "Roasted Chestnuts",
+    "value": 40000
+  },
+  {
+    "name": "Rock Negg",
+    "value": 240000
+  },
+  {
+    "name": "Rose Petal Crisps",
+    "value": 1300
+  },
+  {
+    "name": "Royal Boy Tuskaninny Spaghetti",
+    "value": 46500
+  },
+  {
+    "name": "Royal Girl Zafara Pancakes",
+    "value": 56000
+  },
+  {
+    "name": "Ruki Juicebox",
+    "value": 43000
+  },
+  {
+    "name": "Ruki Salad",
+    "value": 25500
+  },
+  {
+    "name": "Ruki Veggie Sandwich",
+    "value": 1000
+  },
+  {
+    "name": "Sakhmetian Grape Sandwich",
+    "value": 200
+  },
+  {
+    "name": "Salisbury Steak",
+    "value": 34000
+  },
+  {
+    "name": "Salmon Cream Cheese Dip",
+    "value": 37500
+  },
+  {
+    "name": "Salmon Steak",
+    "value": 2400
+  },
+  {
+    "name": "Sand Negg",
+    "value": 42500
+  },
+  {
+    "name": "Sausage and Cheese Roll",
+    "value": 2200
+  },
+  {
+    "name": "Sausage and Chips",
+    "value": 27000
+  },
+  {
+    "name": "Sausage Cornucopia",
+    "value": 4600
+  },
+  {
+    "name": "Sausage Gravy",
+    "value": 9800
+  },
+  {
+    "name": "Sausage Jacket Potato",
+    "value": 2000
+  },
+  {
+    "name": "Sausage on Toast",
+    "value": 1200
+  },
+  {
+    "name": "Savoury Cheese Draik Head",
+    "value": 2300
+  },
+  {
+    "name": "Scaled Negg",
+    "value": 23500
+  },
+  {
+    "name": "Scarab Negg",
+    "value": 1300
+  },
+  {
+    "name": "Scorched Kabob",
+    "value": 18500
+  },
+  {
+    "name": "Scorched Veggies",
+    "value": 5000
+  },
+  {
+    "name": "Scorchio Banana Cake",
+    "value": 585
+  },
+  {
+    "name": "Scorchio Chocolate Cake",
+    "value": 245
+  },
+  {
+    "name": "Scorchio Ham Sandwich",
+    "value": 1200
+  },
+  {
+    "name": "Scorchio Melted Cheese Sandwich",
+    "value": 1800
+  },
+  {
+    "name": "Scorchio Smores",
+    "value": 63000
+  },
+  {
+    "name": "Scorchipepper Jacket Potato",
+    "value": 1300
+  },
+  {
+    "name": "Screlon Gormball Sandwich",
+    "value": 3400
+  },
+  {
+    "name": "Scrumptious Borovan Cookie",
+    "value": 3900
+  },
+  {
+    "name": "Sea Cocktail",
+    "value": 465
+  },
+  {
+    "name": "Seared Salmon Sandwich",
+    "value": 2400
+  },
+  {
+    "name": "Seared Tuna Steak",
+    "value": 1900
+  },
+  {
+    "name": "Seasoned Curly Chips",
+    "value": 11000
+  },
+  {
+    "name": "Seasoned Lupe Chips",
+    "value": 50000
+  },
+  {
+    "name": "Seaweed Bacon",
+    "value": 35000
+  },
+  {
+    "name": "Seaweed Bacon Jacket Potato",
+    "value": 130000
+  },
+  {
+    "name": "Seaweed Flotsam Burger",
+    "value": 390000
+  },
+  {
+    "name": "Seaweed Wrapped Cake",
+    "value": 165
+  },
+  {
+    "name": "Settra",
+    "value": 4000
+  },
+  {
+    "name": "Shadow Usul Lunch Box",
+    "value": 710
+  },
+  {
+    "name": "Shark Sandwich",
+    "value": 1300
+  },
+  {
+    "name": "Shell Burger",
+    "value": 790
+  },
+  {
+    "name": "Shell Lollypop",
+    "value": 9900
+  },
+  {
+    "name": "Shenkuu Chocolate Milk Glass",
+    "value": 5800
+  },
+  {
+    "name": "Shishkafruit Jam",
+    "value": 33000
+  },
+  {
     "name": "Shiver Me Shrimp",
-    "value": 15500
+    "value": 10000
   },
   {
     "name": "Shoyru Breakfast",
-    "value": 5960
+    "value": 2500
   },
   {
     "name": "Shoyru Cereal",
-    "value": 200000
+    "value": 48500
   },
   {
     "name": "Shoyru Parfait",
-    "value": 1880
+    "value": 2100
   },
   {
     "name": "Shoyru Spaghetti",
-    "value": 2510
+    "value": 2100
   },
   {
     "name": "Shoyru Winged Sandwich",
-    "value": 2370
+    "value": 3300
   },
   {
     "name": "Shrimp Spaghetti",
-    "value": 1420
+    "value": 1700
   },
   {
     "name": "Sickly Negg Slice",
-    "value": 73
+    "value": 1
   },
   {
     "name": "Silver Poogle Bento Box Lunch",
-    "value": 157000
+    "value": 82000
   },
   {
     "name": "Single Scoop of Sorbet",
-    "value": 4160
+    "value": 3200
   },
   {
     "name": "Skeith Burger",
-    "value": 1520
+    "value": 1000
   },
   {
     "name": "Skeith Crisps",
-    "value": 3860
+    "value": 3800
   },
   {
     "name": "Skeith Fizzy Drink",
-    "value": 3490
+    "value": 2200
   },
   {
     "name": "Skeith Quesadilla",
-    "value": 2830
+    "value": 3900
   },
   {
     "name": "Skeith Sundae",
-    "value": 4640
+    "value": 2100
+  },
+  {
+    "name": "Sketch Burger",
+    "value": 265000000
   },
   {
     "name": "Sketch Cake",
-    "value": 986
+    "value": 290
   },
   {
     "name": "Sketch Cheese",
-    "value": 615
+    "value": 630
   },
   {
     "name": "Sketch Eggs",
-    "value": 556000
+    "value": 42500
   },
   {
     "name": "Sketch Loaf",
-    "value": 876
+    "value": 910
   },
   {
     "name": "Sketch Pie",
-    "value": 145000
+    "value": 27500
   },
   {
     "name": "Sketch Roast Chicken",
-    "value": 893
+    "value": 1000
   },
   {
     "name": "Sketch Sandwich",
-    "value": 62100
+    "value": 38000
   },
   {
     "name": "Sketch Sundae",
-    "value": 94300
+    "value": 31000
   },
   {
     "name": "Skull Stew",
-    "value": 1110
+    "value": 2400
   },
   {
     "name": "Skull-n-Bones Pasta",
-    "value": 65300
+    "value": 30500
   },
   {
     "name": "Slice of Zafara Pizza",
-    "value": 97300
+    "value": 63000
   },
   {
     "name": "Sliced Turkey Breast",
-    "value": 2170
+    "value": 3500
   },
   {
     "name": "Sliced Turkey Dinner",
-    "value": 11400
+    "value": 875
   },
   {
     "name": "Slimey Slorgwich",
-    "value": 1570
+    "value": 1000
   },
   {
     "name": "Slithering Squid Surprise",
-    "value": 1790000
+    "value": 2800000
   },
   {
     "name": "Slorg Biscuits",
-    "value": 1010
+    "value": 2300
   },
   {
     "name": "Slorg Slime Sundae",
-    "value": 6440
+    "value": 16500
   },
   {
     "name": "Sloth Day Nachos",
-    "value": 274000
+    "value": 45000
   },
   {
     "name": "Sloth Day Pasta",
-    "value": 108000
+    "value": 64500
   },
   {
     "name": "Sloth Day Soup",
-    "value": 191000
+    "value": 38000
   },
   {
     "name": "Slug Flakes",
-    "value": 3950
+    "value": 9000
   },
   {
     "name": "Sluggish Negg Slice",
@@ -5205,771 +5229,783 @@
   },
   {
     "name": "Small Fizzy Drink",
-    "value": 100000
+    "value": 40000
   },
   {
     "name": "Smiley Pancakes",
-    "value": 78000
+    "value": 42000
   },
   {
     "name": "Snorkle in a Blanket",
-    "value": 134000
+    "value": 65500
   },
   {
     "name": "Snot Fries",
-    "value": 42200
+    "value": 15500
   },
   {
     "name": "Snot Sandwich",
-    "value": 104000
+    "value": 36000
   },
   {
     "name": "Snot Split",
-    "value": 780
+    "value": 1300
   },
   {
     "name": "Snot Wrap",
-    "value": 26
+    "value": 835
   },
   {
     "name": "Snotty Spaghetti",
-    "value": 1080
+    "value": 610
   },
   {
     "name": "Snotty Vira Onion",
-    "value": 24400
-  },
-  {
-    "name": "Snow Apple",
-    "value": 1950
-  },
-  {
-    "name": "Snow Enchiladas",
-    "value": 392000
-  },
-  {
-    "name": "Snow Garlic",
-    "value": 2100
-  },
-  {
-    "name": "Snow Lemon",
-    "value": 92600
-  },
-  {
-    "name": "Snowy Negg",
-    "value": 4550
-  },
-  {
-    "name": "Soba Noodles",
-    "value": 4480
-  },
-  {
-    "name": "Sour Apple Ixi Fizzy Drink",
-    "value": 101000
-  },
-  {
-    "name": "Sour Cream Chomby Crisps",
-    "value": 66900
-  },
-  {
-    "name": "Space Station Chocolate Milk Glass",
-    "value": 3730
-  },
-  {
-    "name": "Spaghetti A La Kacheek",
-    "value": 1420
-  },
-  {
-    "name": "Spaghetti Hot Dog",
-    "value": 63300
-  },
-  {
-    "name": "Sparkler Birthday Cake",
-    "value": 729
-  },
-  {
-    "name": "Sparkling Blue New Year Juice",
-    "value": 314000
-  },
-  {
-    "name": "Sparkling Draik Cake",
-    "value": 2220
-  },
-  {
-    "name": "Sparkling Flatfruit Juice",
-    "value": 1940
-  },
-  {
-    "name": "Sparkling Pink New Year Juice",
-    "value": 562
-  },
-  {
-    "name": "Sparkling Space Cocktail",
-    "value": 125000
-  },
-  {
-    "name": "Sparkling Sroom Fruit Juice",
-    "value": 1350
-  },
-  {
-    "name": "Sparkling Suti Fruit Juice",
-    "value": 778
-  },
-  {
-    "name": "Sparkling Twirly Fruit Juice",
-    "value": 93700
-  },
-  {
-    "name": "Special Breakfast",
-    "value": 13400
-  },
-  {
-    "name": "Speckled Candy Floss",
-    "value": 1040
-  },
-  {
-    "name": "Speckled Ice Cream",
-    "value": 826
-  },
-  {
-    "name": "Speckled Negg",
-    "value": 316000
-  },
-  {
-    "name": "Speckled Veggie Burger",
-    "value": 1060
-  },
-  {
-    "name": "Spicy BBQ Chomby Crisps",
-    "value": 129000
-  },
-  {
-    "name": "Spicy Chicken Burrito",
-    "value": 281
-  },
-  {
-    "name": "Spicy Kau Burger",
-    "value": 8970
-  },
-  {
-    "name": "Spicy Peophin Burger",
-    "value": 1100
-  },
-  {
-    "name": "Spicy Purblare Juice",
-    "value": 11500
-  },
-  {
-    "name": "Spicy Salsa Jacket Potato",
-    "value": 1030
-  },
-  {
-    "name": "Spicy Tomato Soup",
-    "value": 1990
-  },
-  {
-    "name": "Spicy Wings",
-    "value": 1440
-  },
-  {
-    "name": "Spinach Alfredo Omurice",
-    "value": 30300
-  },
-  {
-    "name": "Spinach Eyrie Souffle",
-    "value": 165000
-  },
-  {
-    "name": "Split Pea Lupe Soup",
-    "value": 1220
-  },
-  {
-    "name": "Split Pea Soup Bowl",
-    "value": 767
-  },
-  {
-    "name": "Spotted Cheese Sandwich",
-    "value": 2930
-  },
-  {
-    "name": "Spotted Chocolate Jetsam Sandwich",
-    "value": 966
-  },
-  {
-    "name": "Spotted Gelert Sundae",
-    "value": 916
-  },
-  {
-    "name": "Spotted Ice Cream",
-    "value": 849
-  },
-  {
-    "name": "Spotted Kau Ice Cream",
-    "value": 3210
-  },
-  {
-    "name": "Spotted Kau Sandwich",
-    "value": 887
-  },
-  {
-    "name": "Spotted Kau Sundae",
-    "value": 1510
-  },
-  {
-    "name": "Spotty Cheese Wedge",
-    "value": 998
-  },
-  {
-    "name": "Spring Onion",
-    "value": 4740
-  },
-  {
-    "name": "Sprinkling of Black Pepper",
-    "value": 72300
-  },
-  {
-    "name": "Sprinkling of Chilli Pepper",
-    "value": 856
-  },
-  {
-    "name": "Sprinkling of Oregano",
-    "value": 2160
-  },
-  {
-    "name": "Sprinkling of Salt",
-    "value": 14000
-  },
-  {
-    "name": "Square Eggs",
-    "value": 4440
-  },
-  {
-    "name": "Square Gelatin",
-    "value": 23
-  },
-  {
-    "name": "Square Marshmallows",
-    "value": 1230
-  },
-  {
-    "name": "Square Meat",
-    "value": 3110000
-  },
-  {
-    "name": "Squibble Berry Sandwich",
-    "value": 167000
-  },
-  {
-    "name": "Squid on a Stick",
-    "value": 215000
-  },
-  {
-    "name": "Squid Sauce",
-    "value": 16600
-  },
-  {
-    "name": "Squid Spaghetti",
-    "value": 4000
-  },
-  {
-    "name": "Sroom Fruit Sandwich",
-    "value": 1830
-  },
-  {
-    "name": "Star Shaped Cheeseburger",
-    "value": 22200
-  },
-  {
-    "name": "Starfish Cake",
-    "value": 2560
-  },
-  {
-    "name": "Starflower Patterned Easter Negg",
-    "value": 1970
-  },
-  {
-    "name": "Starry Cookie Pile",
-    "value": 67
-  },
-  {
-    "name": "Starry Crunch",
-    "value": 498
-  },
-  {
-    "name": "Starry Cupcake",
-    "value": 21300
-  },
-  {
-    "name": "Starry Gelert Pie",
-    "value": 1240
-  },
-  {
-    "name": "Starry Scorchipepper",
-    "value": 1870
-  },
-  {
-    "name": "Starry Star Burger",
-    "value": 1570
-  },
-  {
-    "name": "Starry Taco",
-    "value": 188000
-  },
-  {
-    "name": "Starry Waffle Cone",
-    "value": 49700
-  },
-  {
-    "name": "Steak Negg",
-    "value": 1900
-  },
-  {
-    "name": "Steak Platter",
-    "value": 378000
-  },
-  {
-    "name": "Steak Surprise",
-    "value": 12800
-  },
-  {
-    "name": "Steamed Dumplings",
-    "value": 1010
-  },
-  {
-    "name": "Steamed Round Dumplings",
-    "value": 54700
-  },
-  {
-    "name": "Steel Negg",
-    "value": 7100
-  },
-  {
-    "name": "Stone Veggie Gormball Sandwich",
-    "value": 91400
-  },
-  {
-    "name": "Stormy Negg",
-    "value": 2450
-  },
-  {
-    "name": "Straw Cubes",
-    "value": 158
-  },
-  {
-    "name": "Strawberries and Cream Baby Food",
-    "value": 97
-  },
-  {
-    "name": "Strawberry Achyfi",
-    "value": 19900
-  },
-  {
-    "name": "Strawberry and Lime Achyfi",
-    "value": 1610
-  },
-  {
-    "name": "Strawberry and Orange Blend",
-    "value": 1540
-  },
-  {
-    "name": "Strawberry Blumaroo Cone",
-    "value": 7940
-  },
-  {
-    "name": "Strawberry Chocolate Fondue",
-    "value": 1000
-  },
-  {
-    "name": "Strawberry Cybunny Ice Cream",
-    "value": 41000
-  },
-  {
-    "name": "Strawberry Flotsam Day Shake",
-    "value": 1020
-  },
-  {
-    "name": "Strawberry Gelert Shake",
-    "value": 738000
-  },
-  {
-    "name": "Strawberry Ice Cream",
-    "value": 1730
-  },
-  {
-    "name": "Strawberry Ice Cream Sandwich",
-    "value": 38600
-  },
-  {
-    "name": "Strawberry Ixi Fizzy Drink",
-    "value": 43300
-  },
-  {
-    "name": "Strawberry Jetsam Ice Cream",
-    "value": 598000
-  },
-  {
-    "name": "Strawberry Jetsam Sandwich",
-    "value": 1020
-  },
-  {
-    "name": "Strawberry JubJub Sundae",
-    "value": 4820
-  },
-  {
-    "name": "Strawberry Kougra Pudding",
-    "value": 1020
-  },
-  {
-    "name": "Strawberry Milkshake",
-    "value": 1560
-  },
-  {
-    "name": "Strawberry Nimmo Ice Lolly",
-    "value": 414
-  },
-  {
-    "name": "Strawberry Oatmeal",
-    "value": 417000
-  },
-  {
-    "name": "Strawberry Parfait",
-    "value": 122000
-  },
-  {
-    "name": "Strawberry Poogle Cupcake",
-    "value": 491
-  },
-  {
-    "name": "Strawberry Scorchio Treat",
-    "value": 68600
-  },
-  {
-    "name": "Strawberry Skeith Cone",
-    "value": 150000
-  },
-  {
-    "name": "Strawberry Taco",
-    "value": 14900
-  },
-  {
-    "name": "Strawberry Usul Shake",
-    "value": 373
-  },
-  {
-    "name": "Strawberry Waffle Cone",
-    "value": 3820
-  },
-  {
-    "name": "Striped Gelert Ham and Cheese Sandwich",
-    "value": 4640
-  },
-  {
-    "name": "Stuffed Chokatos",
-    "value": 29500
-  },
-  {
-    "name": "Stuffed Shells",
-    "value": 8520
-  },
-  {
-    "name": "Sugar Coated Apple Fritters",
-    "value": 72100
-  },
-  {
-    "name": "Sugar Coated Jacket Potato",
-    "value": 360000
-  },
-  {
-    "name": "Sunflower Pattern Easter Negg",
-    "value": 1490
-  },
-  {
-    "name": "Super Icy Custard",
-    "value": 6310
-  },
-  {
-    "name": "Super Icy Negg",
-    "value": 119000
-  },
-  {
-    "name": "Super Spicy Borovan",
-    "value": 3200
-  },
-  {
-    "name": "Sushi Rolls",
-    "value": 1000
-  },
-  {
-    "name": "Suspicious Borovan Creame Pie",
-    "value": 98300
-  },
-  {
-    "name": "Suti Jam Triple Decker",
-    "value": 9440
-  },
-  {
-    "name": "Sweet and Sour Negg",
-    "value": 188000
-  },
-  {
-    "name": "Sweet and Sour Soup",
-    "value": 109000
-  },
-  {
-    "name": "Swirly Chocolate Milk",
-    "value": 10000
-  },
-  {
-    "name": "Swirly Negg #498",
-    "value": 999998
-  },
-  {
-    "name": "Symol Cheddar Cheese Ball",
-    "value": 307000
-  },
-  {
-    "name": "Symol Extra Cheesy Cheese Ball",
-    "value": 87700
-  },
-  {
-    "name": "Symol Mouldy Cheese Ball",
-    "value": 64500
-  },
-  {
-    "name": "Symol White Cheddar Cheese Ball",
-    "value": 41200
-  },
-  {
-    "name": "Tabouleaf",
-    "value": 2980
-  },
-  {
-    "name": "Taco Salad",
-    "value": 63
-  },
-  {
-    "name": "Tako Taco",
-    "value": 8630
-  },
-  {
-    "name": "Tall Stack of Mutant Pancakes",
-    "value": 25900
-  },
-  {
-    "name": "Tangella Sandwich",
-    "value": 988
-  },
-  {
-    "name": "Tangy Cheesicle",
-    "value": 245000
-  },
-  {
-    "name": "Tangy Peophin Burger",
-    "value": 1150
-  },
-  {
-    "name": "Tangy Twirly Fruit Soup",
-    "value": 35600
-  },
-  {
-    "name": "Tarragon Achyfi",
-    "value": 112000
-  },
-  {
-    "name": "Tasty Guacamole",
-    "value": 2920
-  },
-  {
-    "name": "Tchea Grog",
-    "value": 1720000
-  },
-  {
-    "name": "Tchea JubJub Mini Burger",
-    "value": 263000
-  },
-  {
-    "name": "Tchea Shoyru Ice Cream",
-    "value": 2020
-  },
-  {
-    "name": "Tchea Toasty",
-    "value": 1750
-  },
-  {
-    "name": "Tchea Toffee Apple",
-    "value": 431000
-  },
-  {
-    "name": "Tea Biscuits",
-    "value": 3180
-  },
-  {
-    "name": "Tea Infuser",
-    "value": 4190
-  },
-  {
-    "name": "Tea Jelly",
-    "value": 216000
-  },
-  {
-    "name": "Tea Waffles",
-    "value": 1520
-  },
-  {
-    "name": "Teasicle",
-    "value": 3080
-  },
-  {
-    "name": "Techo Energy Drink",
-    "value": 334000
-  },
-  {
-    "name": "Techo Foot Sandwich",
-    "value": 4250
-  },
-  {
-    "name": "Techo Garden Salad",
-    "value": 23400
-  },
-  {
-    "name": "Techo Jelly Surprise",
-    "value": 46300
-  },
-  {
-    "name": "Techo Meat Pie",
-    "value": 4150
-  },
-  {
-    "name": "Tentacle Cupcake",
-    "value": 1530
-  },
-  {
-    "name": "Terror Mountain Chocolate Milk Glass",
-    "value": 7630
-  },
-  {
-    "name": "Thick Chocolate Soup",
     "value": 25500
   },
   {
+    "name": "Snow Apple",
+    "value": 43000
+  },
+  {
+    "name": "Snow Enchiladas",
+    "value": 37500
+  },
+  {
+    "name": "Snow Garlic",
+    "value": 2300
+  },
+  {
+    "name": "Snow Lemon",
+    "value": 49000
+  },
+  {
+    "name": "Snowy Negg",
+    "value": 3100
+  },
+  {
+    "name": "Soba Noodles",
+    "value": 5400
+  },
+  {
+    "name": "Sour Apple Ixi Fizzy Drink",
+    "value": 40500
+  },
+  {
+    "name": "Sour Cream Chomby Crisps",
+    "value": 20500
+  },
+  {
+    "name": "Space Station Chocolate Milk Glass",
+    "value": 4300
+  },
+  {
+    "name": "Spaghetti A La Kacheek",
+    "value": 1100
+  },
+  {
+    "name": "Spaghetti Hot Dog",
+    "value": 63500
+  },
+  {
+    "name": "Sparkler Birthday Cake",
+    "value": 20000
+  },
+  {
+    "name": "Sparkling Blue New Year Juice",
+    "value": 84000
+  },
+  {
+    "name": "Sparkling Draik Cake",
+    "value": 1200
+  },
+  {
+    "name": "Sparkling Flatfruit Juice",
+    "value": 960
+  },
+  {
+    "name": "Sparkling Pink New Year Juice",
+    "value": 630
+  },
+  {
+    "name": "Sparkling Space Cocktail",
+    "value": 31500
+  },
+  {
+    "name": "Sparkling Sroom Fruit Juice",
+    "value": 980
+  },
+  {
+    "name": "Sparkling Suti Fruit Juice",
+    "value": 355
+  },
+  {
+    "name": "Sparkling Twirly Fruit Juice",
+    "value": 57000
+  },
+  {
+    "name": "Special Breakfast",
+    "value": 44000
+  },
+  {
+    "name": "Speckled Candy Floss",
+    "value": 915
+  },
+  {
+    "name": "Speckled Ice Cream",
+    "value": 995
+  },
+  {
+    "name": "Speckled Negg",
+    "value": 380000
+  },
+  {
+    "name": "Speckled Veggie Burger",
+    "value": 3200
+  },
+  {
+    "name": "Spicy BBQ Chomby Crisps",
+    "value": 29000
+  },
+  {
+    "name": "Spicy Chicken Burrito",
+    "value": 960
+  },
+  {
+    "name": "Spicy Kau Burger",
+    "value": 24000
+  },
+  {
+    "name": "Spicy Peophin Burger",
+    "value": 1200
+  },
+  {
+    "name": "Spicy Purblare Juice",
+    "value": 13000
+  },
+  {
+    "name": "Spicy Salsa Jacket Potato",
+    "value": 2200
+  },
+  {
+    "name": "Spicy Tomato Soup",
+    "value": 2400
+  },
+  {
+    "name": "Spicy Wings",
+    "value": 925
+  },
+  {
+    "name": "Spinach Alfredo Omurice",
+    "value": 37000
+  },
+  {
+    "name": "Spinach Eyrie Souffle",
+    "value": 35000
+  },
+  {
+    "name": "Split Pea Lupe Soup",
+    "value": 1200
+  },
+  {
+    "name": "Split Pea Soup Bowl",
+    "value": 1200
+  },
+  {
+    "name": "Spotted Cheese Sandwich",
+    "value": 2100
+  },
+  {
+    "name": "Spotted Chocolate Jetsam Sandwich",
+    "value": 1500
+  },
+  {
+    "name": "Spotted Gelert Sundae",
+    "value": 990
+  },
+  {
+    "name": "Spotted Ice Cream",
+    "value": 1000
+  },
+  {
+    "name": "Spotted Kau Ice Cream",
+    "value": 15500
+  },
+  {
+    "name": "Spotted Kau Sandwich",
+    "value": 1200
+  },
+  {
+    "name": "Spotted Kau Sundae",
+    "value": 1800
+  },
+  {
+    "name": "Spotty Cheese Wedge",
+    "value": 830
+  },
+  {
+    "name": "Spring Onion",
+    "value": 1200
+  },
+  {
+    "name": "Sprinkling of Black Pepper",
+    "value": 27500
+  },
+  {
+    "name": "Sprinkling of Chilli Pepper",
+    "value": 1600
+  },
+  {
+    "name": "Sprinkling of Oregano",
+    "value": 4000
+  },
+  {
+    "name": "Sprinkling of Salt",
+    "value": 2600
+  },
+  {
+    "name": "Square Eggs",
+    "value": 2300
+  },
+  {
+    "name": "Square Gelatin",
+    "value": 2800
+  },
+  {
+    "name": "Square Marshmallows",
+    "value": 3900
+  },
+  {
+    "name": "Square Meat",
+    "value": 1450000
+  },
+  {
+    "name": "Squibble Berry Sandwich",
+    "value": 29500
+  },
+  {
+    "name": "Squid on a Stick",
+    "value": 540000
+  },
+  {
+    "name": "Squid Sauce",
+    "value": 12500
+  },
+  {
+    "name": "Squid Spaghetti",
+    "value": 4200
+  },
+  {
+    "name": "Sroom Fruit Sandwich",
+    "value": 995
+  },
+  {
+    "name": "Star Shaped Cheeseburger",
+    "value": 10500
+  },
+  {
+    "name": "Starfish Cake",
+    "value": 3500
+  },
+  {
+    "name": "Starflower Patterned Easter Negg",
+    "value": 1800
+  },
+  {
+    "name": "Starry Cookie Pile",
+    "value": 360
+  },
+  {
+    "name": "Starry Crunch",
+    "value": 79
+  },
+  {
+    "name": "Starry Cupcake",
+    "value": 29500
+  },
+  {
+    "name": "Starry Gelert Pie",
+    "value": 2100
+  },
+  {
+    "name": "Starry Scorchipepper",
+    "value": 5800
+  },
+  {
+    "name": "Starry Star Burger",
+    "value": 1200
+  },
+  {
+    "name": "Starry Taco",
+    "value": 41000
+  },
+  {
+    "name": "Starry Waffle Cone",
+    "value": 73000
+  },
+  {
+    "name": "Steak Negg",
+    "value": 4900
+  },
+  {
+    "name": "Steak Platter",
+    "value": 60000
+  },
+  {
+    "name": "Steak Surprise",
+    "value": 21500
+  },
+  {
+    "name": "Steamed Dumplings",
+    "value": 1500
+  },
+  {
+    "name": "Steamed Round Dumplings",
+    "value": 1600
+  },
+  {
+    "name": "Steel Negg",
+    "value": 4000
+  },
+  {
+    "name": "Stone Veggie Gormball Sandwich",
+    "value": 23000
+  },
+  {
+    "name": "Stormy Negg",
+    "value": 3000
+  },
+  {
+    "name": "Straw Cubes",
+    "value": 145
+  },
+  {
+    "name": "Strawberries and Cream Baby Food",
+    "value": 495
+  },
+  {
+    "name": "Strawberry Achyfi",
+    "value": 26000
+  },
+  {
+    "name": "Strawberry and Lime Achyfi",
+    "value": 1100
+  },
+  {
+    "name": "Strawberry and Orange Blend",
+    "value": 2100
+  },
+  {
+    "name": "Strawberry Blumaroo Cone",
+    "value": 42000
+  },
+  {
+    "name": "Strawberry Chocolate Fondue",
+    "value": 995
+  },
+  {
+    "name": "Strawberry Cybunny Ice Cream",
+    "value": 32000
+  },
+  {
+    "name": "Strawberry Flotsam Day Shake",
+    "value": 1400
+  },
+  {
+    "name": "Strawberry Gelert Shake",
+    "value": 35000
+  },
+  {
+    "name": "Strawberry Ice Cream",
+    "value": 1600
+  },
+  {
+    "name": "Strawberry Ice Cream Sandwich",
+    "value": 45000
+  },
+  {
+    "name": "Strawberry Ixi Fizzy Drink",
+    "value": 72500
+  },
+  {
+    "name": "Strawberry Jetsam Ice Cream",
+    "value": 28000
+  },
+  {
+    "name": "Strawberry Jetsam Sandwich",
+    "value": 1100
+  },
+  {
+    "name": "Strawberry JubJub Sundae",
+    "value": 3200
+  },
+  {
+    "name": "Strawberry Kougra Pudding",
+    "value": 2200
+  },
+  {
+    "name": "Strawberry Milkshake",
+    "value": 2000
+  },
+  {
+    "name": "Strawberry Nimmo Ice Lolly",
+    "value": 250
+  },
+  {
+    "name": "Strawberry Oatmeal",
+    "value": 21000
+  },
+  {
+    "name": "Strawberry Parfait",
+    "value": 55500
+  },
+  {
+    "name": "Strawberry Poogle Cupcake",
+    "value": 355
+  },
+  {
+    "name": "Strawberry Scorchio Treat",
+    "value": 38000
+  },
+  {
+    "name": "Strawberry Skeith Cone",
+    "value": 32000
+  },
+  {
+    "name": "Strawberry Taco",
+    "value": 32500
+  },
+  {
+    "name": "Strawberry Usul Shake",
+    "value": 950
+  },
+  {
+    "name": "Strawberry Waffle Cone",
+    "value": 4100
+  },
+  {
+    "name": "Strawberry Yogurt Yurble Parfait",
+    "value": 3650000
+  },
+  {
+    "name": "Striped Gelert Ham and Cheese Sandwich",
+    "value": 4400
+  },
+  {
+    "name": "Stuffed Chokatos",
+    "value": 20500
+  },
+  {
+    "name": "Stuffed Shells",
+    "value": 8900
+  },
+  {
+    "name": "Sugar Coated Apple Fritters",
+    "value": 31500
+  },
+  {
+    "name": "Sugar Coated Jacket Potato",
+    "value": 13500
+  },
+  {
+    "name": "Sunflower Pattern Easter Negg",
+    "value": 2100
+  },
+  {
+    "name": "Super Icy Custard",
+    "value": 4700
+  },
+  {
+    "name": "Super Icy Negg",
+    "value": 150000
+  },
+  {
+    "name": "Super Spicy Borovan",
+    "value": 2900
+  },
+  {
+    "name": "Sushi Rolls",
+    "value": 905
+  },
+  {
+    "name": "Suspicious Borovan Creame Pie",
+    "value": 100000
+  },
+  {
+    "name": "Suti Jam Triple Decker",
+    "value": 6700
+  },
+  {
+    "name": "Sweet and Sour Negg",
+    "value": 220000
+  },
+  {
+    "name": "Sweet and Sour Soup",
+    "value": 18500
+  },
+  {
+    "name": "Swirly Chocolate Milk",
+    "value": 19500
+  },
+  {
+    "name": "Swirly Negg #498",
+    "value": 400000
+  },
+  {
+    "name": "Symol Cheddar Cheese Ball",
+    "value": 41000
+  },
+  {
+    "name": "Symol Extra Cheesy Cheese Ball",
+    "value": 25500
+  },
+  {
+    "name": "Symol Mouldy Cheese Ball",
+    "value": 45500
+  },
+  {
+    "name": "Symol White Cheddar Cheese Ball",
+    "value": 46500
+  },
+  {
+    "name": "Tabouleaf",
+    "value": 3000
+  },
+  {
+    "name": "Taco Salad",
+    "value": 27
+  },
+  {
+    "name": "Tako Taco",
+    "value": 4800
+  },
+  {
+    "name": "Tall Stack of Mutant Pancakes",
+    "value": 11000
+  },
+  {
+    "name": "Tangella Sandwich",
+    "value": 1300
+  },
+  {
+    "name": "Tangy Cheesicle",
+    "value": 110000
+  },
+  {
+    "name": "Tangy Peophin Burger",
+    "value": 1100
+  },
+  {
+    "name": "Tangy Twirly Fruit Soup",
+    "value": 21000
+  },
+  {
+    "name": "Tarragon Achyfi",
+    "value": 27000
+  },
+  {
+    "name": "Tasteless Sausage Soup",
+    "value": 1800
+  },
+  {
+    "name": "Tasty Guacamole",
+    "value": 1400
+  },
+  {
+    "name": "Tchea Grog",
+    "value": 1450000
+  },
+  {
+    "name": "Tchea JubJub Mini Burger",
+    "value": 43500
+  },
+  {
+    "name": "Tchea Shoyru Ice Cream",
+    "value": 2000
+  },
+  {
+    "name": "Tchea Toasty",
+    "value": 3800
+  },
+  {
+    "name": "Tchea Toffee Apple",
+    "value": 230000
+  },
+  {
+    "name": "Tea Biscuits",
+    "value": 3800
+  },
+  {
+    "name": "Tea Infuser",
+    "value": 4800
+  },
+  {
+    "name": "Tea Jelly",
+    "value": 77000
+  },
+  {
+    "name": "Tea Waffles",
+    "value": 35000
+  },
+  {
+    "name": "Teasicle",
+    "value": 4300
+  },
+  {
+    "name": "Techo Energy Drink",
+    "value": 40500
+  },
+  {
+    "name": "Techo Foot Sandwich",
+    "value": 5600
+  },
+  {
+    "name": "Techo Garden Salad",
+    "value": 32000
+  },
+  {
+    "name": "Techo Jelly Surprise",
+    "value": 30000
+  },
+  {
+    "name": "Techo Meat Pie",
+    "value": 4400
+  },
+  {
+    "name": "Tentacle Cupcake",
+    "value": 1500
+  },
+  {
+    "name": "Terror Mountain Chocolate Milk Glass",
+    "value": 5100
+  },
+  {
+    "name": "Thick Chocolate Soup",
+    "value": 24500
+  },
+  {
     "name": "Thing Rolls",
-    "value": 2720
+    "value": 3000
   },
   {
     "name": "Thistle Shoyru Ice Cream",
-    "value": 1950
+    "value": 1600
   },
   {
     "name": "Thistleberry Sandwich",
-    "value": 30300
+    "value": 18000
   },
   {
     "name": "Thistleberry Tuskaninny Ice Cream",
-    "value": 1480
+    "value": 1200
   },
   {
     "name": "Thorn on the Cob",
-    "value": 5480
+    "value": 12000
   },
   {
     "name": "Thornberry Bagel",
-    "value": 4960
+    "value": 8200
   },
   {
     "name": "Thornberry Gormball Sandwich",
-    "value": 252000
+    "value": 26000
   },
   {
     "name": "Tiger Shoyru Ice Cream",
-    "value": 1710
+    "value": 1500
   },
   {
     "name": "Tigerbuggle Jacket Potato",
-    "value": 6700
+    "value": 390
   },
   {
     "name": "Tigerbuggle JubJub Mini Burger",
-    "value": 149000
+    "value": 50000
   },
   {
     "name": "Tigerbuggle Tuskaninny Ice Cream",
-    "value": 808
+    "value": 1100
   },
   {
     "name": "Tigersquash Custard",
-    "value": 8300000
+    "value": 2450000
   },
   {
     "name": "Toast",
-    "value": 3050
+    "value": 2600
   },
   {
     "name": "Toast on Toast",
-    "value": 817000
+    "value": 140000
   },
   {
     "name": "Toffee Chocolate Aisha Sundae",
-    "value": 698000
+    "value": 78500
   },
   {
     "name": "Toffee Ice Cream",
-    "value": 657
+    "value": 1100
   },
   {
     "name": "Tofu Bone",
-    "value": 3470
+    "value": 3500
   },
   {
     "name": "Tofu Poogle Pate",
-    "value": 25800
+    "value": 29000
   },
   {
     "name": "Tofu Pumpkin",
-    "value": 68600
+    "value": 30000
   },
   {
     "name": "Tofukabob",
-    "value": 142000
+    "value": 24000
   },
   {
     "name": "Tomato",
-    "value": 716
+    "value": 880
   },
   {
     "name": "Tomato Baby Food",
-    "value": 38100
+    "value": 22000
   },
   {
     "name": "Tomato Cannon Ball",
-    "value": 15900
+    "value": 7300
   },
   {
     "name": "Tomato Omurice",
-    "value": 1190
+    "value": 19500
   },
   {
     "name": "Tomato Shoyru Meatball",
-    "value": 2930
+    "value": 5000
   },
   {
     "name": "Tonu Cheeseburger",
-    "value": 502000
+    "value": 46500
   },
   {
     "name": "Tonu Orange Juice",
-    "value": 2830
+    "value": 12500
   },
   {
     "name": "Tonu Sorbet",
-    "value": 684
+    "value": 13000
   },
   {
     "name": "Tonu Tonic Water",
-    "value": 4500
+    "value": 5100
+  },
+  {
+    "name": "Tonu Trifle",
+    "value": 55500
   },
   {
     "name": "Tooth Faerie Ice Lolly",
-    "value": 6700
+    "value": 11500
   },
   {
     "name": "Treasure Map Negg",
@@ -5977,315 +6013,319 @@
   },
   {
     "name": "Triple Scoop of Sorbet",
-    "value": 218000
+    "value": 19500
   },
   {
     "name": "Tropical Breeze",
-    "value": 2670
+    "value": 3300
   },
   {
     "name": "Tropical Fruit Smoothie",
-    "value": 1420
-  },
-  {
-    "name": "Tuna Mayo Onigiri",
-    "value": 1510
-  },
-  {
-    "name": "Tuna Sub",
-    "value": 762
-  },
-  {
-    "name": "Turkey and Chestnut Dressing",
-    "value": 175
-  },
-  {
-    "name": "Turkey Casserole",
-    "value": 257000
-  },
-  {
-    "name": "Turkey Croquettes",
-    "value": 53700
-  },
-  {
-    "name": "Turkey Curry",
-    "value": 71200
-  },
-  {
-    "name": "Turkey Dinner",
-    "value": 41400
-  },
-  {
-    "name": "Turkey Drumstick Dinner",
-    "value": 79700
-  },
-  {
-    "name": "Turkey Dumplings",
-    "value": 271000
-  },
-  {
-    "name": "Turkey Enchilada",
-    "value": 26000
-  },
-  {
-    "name": "Turkey Leg",
-    "value": 129000
-  },
-  {
-    "name": "Turkey Leg Pasta",
-    "value": 521000
-  },
-  {
-    "name": "Turkey Pie",
-    "value": 207000
-  },
-  {
-    "name": "Turkey Salad",
-    "value": 803
-  },
-  {
-    "name": "Turkey Steak Dinner",
     "value": 1200
   },
   {
-    "name": "Turkey Wing Dinner",
-    "value": 1310
+    "name": "Tuna Mayo Onigiri",
+    "value": 1100
   },
   {
-    "name": "Turnip Eyrie Souffle",
-    "value": 26600
+    "name": "Tuna Sub",
+    "value": 920
   },
   {
-    "name": "Tuskaninny Ice Cream",
-    "value": 174000
+    "name": "Turkey and Chestnut Dressing",
+    "value": 435
   },
   {
-    "name": "Tuskaninny Veggieloaf",
-    "value": 1140
-  },
-  {
-    "name": "Twin Salad",
-    "value": 317000
-  },
-  {
-    "name": "Twirly Fruit Cream Cheese Dip",
-    "value": 266000
-  },
-  {
-    "name": "Twirly Fruit Flavoured Milk",
-    "value": 800000
-  },
-  {
-    "name": "Twirly Fruit Juice",
-    "value": 4240
-  },
-  {
-    "name": "Twirly Fruit Shoyru Ice Cream",
-    "value": 1180
-  },
-  {
-    "name": "Twirly Fruit Toasty",
-    "value": 4880
-  },
-  {
-    "name": "Two Bottles of Water",
-    "value": 1670
-  },
-  {
-    "name": "Two Garlic Bulbs",
-    "value": 3620
-  },
-  {
-    "name": "Uh Oh, Spaghetti Eyes",
-    "value": 931000
-  },
-  {
-    "name": "Ultimate Burger",
-    "value": 1630
-  },
-  {
-    "name": "Ultimate Icy Negg",
-    "value": 239000
-  },
-  {
-    "name": "Ultra Icy Negg",
-    "value": 182000
-  },
-  {
-    "name": "Uni Corn",
-    "value": 448000
-  },
-  {
-    "name": "Uni Crisps",
-    "value": 30900
-  },
-  {
-    "name": "Uni Ice Cream",
-    "value": 1900
-  },
-  {
-    "name": "Uni Pie",
-    "value": 1060
-  },
-  {
-    "name": "Uni Salad",
-    "value": 1000000
-  },
-  {
-    "name": "Uni Sushi",
-    "value": 878
-  },
-  {
-    "name": "Uni Triple Scoop Rainbow Sorbet",
-    "value": 2170
-  },
-  {
-    "name": "Uni Veggiewrap",
-    "value": 4040
-  },
-  {
-    "name": "Unripe Puntec Wrap",
-    "value": 81900
-  },
-  {
-    "name": "Upside Down Ice Cream",
-    "value": 3260
-  },
-  {
-    "name": "Valentines Day Strawberry Bouquet",
-    "value": 324000
-  },
-  {
-    "name": "Valentines Negg",
-    "value": 100000
-  },
-  {
-    "name": "Vanilla Aisha Pudding",
-    "value": 51800
-  },
-  {
-    "name": "Vanilla Blumaroo Cone",
-    "value": 268000
-  },
-  {
-    "name": "Vanilla Elephante Sundae",
-    "value": 1060
-  },
-  {
-    "name": "Vanilla Flavoured Borovan",
-    "value": 19100
-  },
-  {
-    "name": "Vanilla Flotsam Day Shake",
-    "value": 815000
-  },
-  {
-    "name": "Vanilla Gelert Ice Cream Sandwich",
-    "value": 5870
-  },
-  {
-    "name": "Vanilla Gnorbu Cupcake",
-    "value": 3840
-  },
-  {
-    "name": "Vanilla JubJub Sundae",
-    "value": 2810
-  },
-  {
-    "name": "Vanilla Kougra Pudding",
+    "name": "Turkey Casserole",
     "value": 5000
   },
   {
-    "name": "Vanilla Milkshake",
-    "value": 742
+    "name": "Turkey Croquettes",
+    "value": 37500
   },
   {
-    "name": "Vanilla Neocola",
-    "value": 48100
+    "name": "Turkey Curry",
+    "value": 74000
   },
   {
-    "name": "Vanilla Poogle Cupcake",
-    "value": 586000
+    "name": "Turkey Dinner",
+    "value": 15000
   },
   {
-    "name": "Vanilla Skeith Cone",
-    "value": 49700
+    "name": "Turkey Drumstick Dinner",
+    "value": 2100
   },
   {
-    "name": "Vanilla Waffle Cone",
-    "value": 6490
+    "name": "Turkey Dumplings",
+    "value": 22000
   },
   {
-    "name": "Vanilla Yurblecone",
-    "value": 121000
+    "name": "Turkey Enchilada",
+    "value": 61500
   },
   {
-    "name": "Veal Parmesan Gormball Sandwich",
-    "value": 47300
+    "name": "Turkey Leg",
+    "value": 22500
   },
   {
-    "name": "Vegan Turkey Dinner",
-    "value": 5460
+    "name": "Turkey Leg Pasta",
+    "value": 91000
   },
   {
-    "name": "Vegetable Quiggle Sandwich",
-    "value": 556
+    "name": "Turkey Pie",
+    "value": 46000
   },
   {
-    "name": "Vegetarian Cheeseburger",
-    "value": 999
+    "name": "Turkey Salad",
+    "value": 795
   },
   {
-    "name": "Vegetarian Kyrii Sandwich",
-    "value": 282
+    "name": "Turkey Steak Dinner",
+    "value": 995
   },
   {
-    "name": "Vegetarian Tonu Day Burger",
-    "value": 866
+    "name": "Turkey Wing Dinner",
+    "value": 1100
   },
   {
-    "name": "Vegetarian Usul Wrap",
-    "value": 86500
+    "name": "Turnip Eyrie Souffle",
+    "value": 44000
   },
   {
-    "name": "Veggie Burger",
+    "name": "Tuskaninny Ice Cream",
+    "value": 33000
+  },
+  {
+    "name": "Tuskaninny Veggieloaf",
+    "value": 1600
+  },
+  {
+    "name": "Twin Salad",
+    "value": 35000
+  },
+  {
+    "name": "Twirly Fruit Cream Cheese Dip",
+    "value": 46000
+  },
+  {
+    "name": "Twirly Fruit Flavoured Milk",
+    "value": 110000
+  },
+  {
+    "name": "Twirly Fruit Juice",
+    "value": 1700
+  },
+  {
+    "name": "Twirly Fruit Shoyru Ice Cream",
+    "value": 4400
+  },
+  {
+    "name": "Twirly Fruit Toasty",
+    "value": 22500
+  },
+  {
+    "name": "Two Bottles of Water",
+    "value": 1800
+  },
+  {
+    "name": "Two Garlic Bulbs",
     "value": 3000
   },
   {
+    "name": "Uh Oh, Spaghetti Eyes",
+    "value": 120000
+  },
+  {
+    "name": "Ultimate Burger",
+    "value": 1900
+  },
+  {
+    "name": "Ultimate Icy Negg",
+    "value": 290000
+  },
+  {
+    "name": "Ultra Icy Negg",
+    "value": 220000
+  },
+  {
+    "name": "Uni Corn",
+    "value": 27000
+  },
+  {
+    "name": "Uni Crisps",
+    "value": 30500
+  },
+  {
+    "name": "Uni Ice Cream",
+    "value": 2000
+  },
+  {
+    "name": "Uni Pie",
+    "value": 3000
+  },
+  {
+    "name": "Uni Salad",
+    "value": 22000
+  },
+  {
+    "name": "Uni Sushi",
+    "value": 420
+  },
+  {
+    "name": "Uni Triple Scoop Rainbow Sorbet",
+    "value": 8300
+  },
+  {
+    "name": "Uni Veggiewrap",
+    "value": 1900
+  },
+  {
+    "name": "Unripe Puntec Wrap",
+    "value": 24000
+  },
+  {
+    "name": "Upside Down Ice Cream",
+    "value": 6600
+  },
+  {
+    "name": "Valentines Day Strawberry Bouquet",
+    "value": 73000
+  },
+  {
+    "name": "Valentines Negg",
+    "value": 6800
+  },
+  {
+    "name": "Vanilla Aisha Pudding",
+    "value": 39500
+  },
+  {
+    "name": "Vanilla Blumaroo Cone",
+    "value": 29500
+  },
+  {
+    "name": "Vanilla Elephante Sundae",
+    "value": 670
+  },
+  {
+    "name": "Vanilla Flavoured Borovan",
+    "value": 15500
+  },
+  {
+    "name": "Vanilla Flotsam Day Shake",
+    "value": 93000
+  },
+  {
+    "name": "Vanilla Gelert Ice Cream Sandwich",
+    "value": 3800
+  },
+  {
+    "name": "Vanilla Gnorbu Cupcake",
+    "value": 3300
+  },
+  {
+    "name": "Vanilla JubJub Sundae",
+    "value": 5100
+  },
+  {
+    "name": "Vanilla Kougra Pudding",
+    "value": 1600
+  },
+  {
+    "name": "Vanilla Milkshake",
+    "value": 700
+  },
+  {
+    "name": "Vanilla Neocola",
+    "value": 45000
+  },
+  {
+    "name": "Vanilla Poogle Cupcake",
+    "value": 41000
+  },
+  {
+    "name": "Vanilla Skeith Cone",
+    "value": 47500
+  },
+  {
+    "name": "Vanilla Waffle Cone",
+    "value": 4900
+  },
+  {
+    "name": "Vanilla Yogurt Yurble Parfait",
+    "value": 2200000
+  },
+  {
+    "name": "Vanilla Yurblecone",
+    "value": 26000
+  },
+  {
+    "name": "Veal Parmesan Gormball Sandwich",
+    "value": 64000
+  },
+  {
+    "name": "Vegan Turkey Dinner",
+    "value": 6000
+  },
+  {
+    "name": "Vegetable Quiggle Sandwich",
+    "value": 790
+  },
+  {
+    "name": "Vegetarian Cheeseburger",
+    "value": 675
+  },
+  {
+    "name": "Vegetarian Kyrii Sandwich",
+    "value": 625
+  },
+  {
+    "name": "Vegetarian Tonu Day Burger",
+    "value": 1000
+  },
+  {
+    "name": "Vegetarian Usul Wrap",
+    "value": 150000
+  },
+  {
+    "name": "Veggie Burger",
+    "value": 3400
+  },
+  {
     "name": "Veggie Delight Jetsam Fin Crackers",
-    "value": 18600
+    "value": 41000
   },
   {
     "name": "Veggie Poogle Pate",
-    "value": 58300
+    "value": 69500
   },
   {
     "name": "Veggie Poogle Wrap",
-    "value": 3240
+    "value": 2900
   },
   {
     "name": "Veggie Tuskabob",
-    "value": 221000
+    "value": 32500
   },
   {
     "name": "Waffle Burger",
-    "value": 31500
+    "value": 11500
   },
   {
     "name": "Walk The Plank",
-    "value": 1730000
+    "value": 1400000
   },
   {
     "name": "Warm Transparaberry Cocktail",
-    "value": 4450
+    "value": 3000
   },
   {
     "name": "Water Burger",
-    "value": 919
+    "value": 1000
   },
   {
     "name": "Water Cake",
-    "value": 662000
+    "value": 40500
   },
   {
     "name": "Water Ice Cream",
@@ -6293,186 +6333,186 @@
   },
   {
     "name": "Watercress Tea Sandwiches",
-    "value": 47700
+    "value": 42500
   },
   {
     "name": "Watermelon",
-    "value": 3270
+    "value": 3000
   },
   {
     "name": "Watermelon Jetsam",
-    "value": 1010000
+    "value": 11000
   },
   {
     "name": "Watermelon Maraquan Shoyru",
-    "value": 880000
+    "value": 140000
   },
   {
     "name": "Watermelon Roll",
-    "value": 886
-  },
-  {
-    "name": "Welsh Rarebit",
-    "value": 1720
-  },
-  {
-    "name": "What the Aisha Dragged In",
-    "value": 54300
-  },
-  {
-    "name": "Wheaty Kyrii Sandwich",
-    "value": 4670
-  },
-  {
-    "name": "Wheaty Sloth Day Burger",
-    "value": 900000
-  },
-  {
-    "name": "White Cheddar Jetsam Fin Crackers",
-    "value": 64800
-  },
-  {
-    "name": "White Chocolate Asparagus Souffle",
-    "value": 11600
-  },
-  {
-    "name": "White Chocolate Covered Toffee",
-    "value": 12900
-  },
-  {
-    "name": "White Chocolate Pear",
-    "value": 4930
-  },
-  {
-    "name": "White Chocolate Rice",
     "value": 2500
   },
   {
+    "name": "Welsh Rarebit",
+    "value": 1200
+  },
+  {
+    "name": "What the Aisha Dragged In",
+    "value": 2000
+  },
+  {
+    "name": "Wheaty Kyrii Sandwich",
+    "value": 9200
+  },
+  {
+    "name": "Wheaty Sloth Day Burger",
+    "value": 40500
+  },
+  {
+    "name": "White Cheddar Jetsam Fin Crackers",
+    "value": 66500
+  },
+  {
+    "name": "White Chocolate Asparagus Souffle",
+    "value": 14500
+  },
+  {
+    "name": "White Chocolate Covered Toffee",
+    "value": 9900
+  },
+  {
+    "name": "White Chocolate Pear",
+    "value": 1700
+  },
+  {
+    "name": "White Chocolate Rice",
+    "value": 3400
+  },
+  {
     "name": "Whole Wheat Jetsam Fin Crackers",
-    "value": 126000
+    "value": 50000
   },
   {
     "name": "Wintermelon",
-    "value": 2200
+    "value": 3800
   },
   {
     "name": "Wishbone Delight",
-    "value": 106000
+    "value": 32000
   },
   {
     "name": "Wocky Plum Pudding",
-    "value": 251
+    "value": 1100
   },
   {
     "name": "Wocky Pot Pie",
-    "value": 64900
+    "value": 35000
   },
   {
     "name": "Wocky Spaghetti Ball",
-    "value": 209000
+    "value": 61000
   },
   {
     "name": "Wocky Steak",
-    "value": 1030000
+    "value": 13000000
   },
   {
     "name": "Wocky Veggies and Dip",
-    "value": 91400
+    "value": 45000
   },
   {
     "name": "Wormy Jam Sandwich",
-    "value": 796000
+    "value": 48500
   },
   {
     "name": "Xweetok Bologna Sandwich",
-    "value": 27700
+    "value": 39500
   },
   {
     "name": "Xweetok Burger",
-    "value": 684000
+    "value": 40000
   },
   {
     "name": "Xweetok Hot Chocolate",
-    "value": 930000
+    "value": 31000
   },
   {
     "name": "Xweetok Spaghetti",
-    "value": 2640
+    "value": 7400
   },
   {
     "name": "Xweetok Sugar Cookies",
-    "value": 71900
+    "value": 22500
   },
   {
     "name": "Xweetok Vegetable Soup",
-    "value": 118000
+    "value": 73000
   },
   {
     "name": "Xweetok Veggie Crepe",
-    "value": 167000
+    "value": 41000
   },
   {
     "name": "Yamless Candied Yams",
-    "value": 348000
+    "value": 31000
   },
   {
     "name": "Yellow Negg",
-    "value": 176000
+    "value": 290000
   },
   {
     "name": "Yooyuball Pizza",
-    "value": 846
+    "value": 2600
   },
   {
     "name": "Yurble Pasta",
-    "value": 999
+    "value": 345
   },
   {
     "name": "Yurble Pot Pie",
-    "value": 93900
+    "value": 64000
   },
   {
     "name": "Yurble Steak",
-    "value": 226
+    "value": 555
   },
   {
     "name": "Yurble Yuzu Lemonade",
-    "value": 118000
+    "value": 55500
   },
   {
     "name": "Zafara Breakfast",
-    "value": 314000
+    "value": 27000
   },
   {
     "name": "Zafara Gruel",
-    "value": 20900
+    "value": 4900
   },
   {
     "name": "Zafara Hot Chocolate",
-    "value": 23800
+    "value": 33500
   },
   {
     "name": "Zafara Orange Juice",
-    "value": 851
+    "value": 540
   },
   {
     "name": "Zafara Vegetable Croissant",
-    "value": 143000
+    "value": 32000
   },
   {
     "name": "Zafara Veggie Stew",
-    "value": 133000
+    "value": 74500
   },
   {
     "name": "Zargrold Gormball Gelatin",
-    "value": 717000
+    "value": 73000
   },
   {
     "name": "Zeenana Toffee Apple",
-    "value": 1930000
+    "value": 5700000
   },
   {
     "name": "Zesty Zafara Burrito",
-    "value": 461
+    "value": 410
   }
 ]

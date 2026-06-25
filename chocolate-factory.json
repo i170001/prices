@@ -1,758 +1,751 @@
-[{
-    "name": "Borovan Stew",
-    "value": 1000000
-  },
-  {
-    "name": "Borovan Wizard Magical Asparagus Wand",
-    "value": 1000000
-  },
-  {
-    "name": "Borovan Wizard Hat",
-    "value": 1000000
-  },
-  {
-    "name": "Borovan Wizard Cloak",
-    "value": 1000000
-  },
-  {
-    "name": "Chococherry Blumaroo Ears",
-    "value": 1000000
-  },
-  {
-    "name": "Chocolate Sandwich",
-    "value": 1000000
-  },
-  {
-    "name": "Crunchy Chocolate Grarrl",
-    "value": 1000000
-  },
-  {
-    "name": "Creamy Chocolate Pie",
-    "value": 1000000
-  },
-  {
-    "name": "Chocolately Cheese Wedges",
-    "value": 1000000
-  },
+[
   {
     "name": "2 Scoops of Friendship",
-    "value": 88200
+    "value": 26000
   },
   {
     "name": "Acara Jelly Pops",
-    "value": 4480
+    "value": 4200
   },
   {
     "name": "Aisha Lollypops",
-    "value": 1670
+    "value": 1700
   },
   {
     "name": "Aisha Lollyswirl",
-    "value": 25100
+    "value": 9200
   },
   {
     "name": "Angry Candy",
-    "value": 8100
+    "value": 41500
   },
   {
     "name": "Angry Emoticon Hearts",
-    "value": 781
+    "value": 990
   },
   {
     "name": "Aplets",
-    "value": 20
+    "value": 355
   },
   {
     "name": "Apple and Custard Drops",
-    "value": 18700
+    "value": 61000
   },
   {
     "name": "Apple Gummy Book",
-    "value": 58000
+    "value": 24000
   },
   {
     "name": "Apple Gummy Chia",
-    "value": 626
+    "value": 400
   },
   {
     "name": "Apple Gummy Lutari",
-    "value": 1080
+    "value": 1700
   },
   {
     "name": "Apple Jelly Flotsam",
-    "value": 995
+    "value": 695
   },
   {
     "name": "Apple Moquot Lollypop",
-    "value": 108000
-  },
-  {
-    "name": "Apple Sugared Gelert Gummy",
-    "value": 311000
-  },
-  {
-    "name": "Apple Wocky Candy Floss",
-    "value": 3540
-  },
-  {
-    "name": "Asparagus Candy Cane",
-    "value": 4810
-  },
-  {
-    "name": "Asparagus Chia Treat",
-    "value": 81200
-  },
-  {
-    "name": "Asparatastic Crunch",
-    "value": 94600
-  },
-  {
-    "name": "Assorted Fruit Blocks",
-    "value": 2970
-  },
-  {
-    "name": "Assorted Gummy Dice",
-    "value": 5510
-  },
-  {
-    "name": "Assorted Gummy Quiggles",
-    "value": 14100
-  },
-  {
-    "name": "Assorted Jelly Beans",
-    "value": 1530
-  },
-  {
-    "name": "Assorted Pear Drops",
-    "value": 110000
-  },
-  {
-    "name": "Assorted Tonu Chocolates",
-    "value": 50800
-  },
-  {
-    "name": "Avocado Gummy Korbat Tail",
-    "value": 16
-  },
-  {
-    "name": "Baby Cabbage Jelly Beans",
-    "value": 20000
-  },
-  {
-    "name": "Baby Cybunny Chocolate Egg",
-    "value": 38700
-  },
-  {
-    "name": "Bag of Mutant Gummies",
-    "value": 556
-  },
-  {
-    "name": "Balloon-Shaped Candy Drops",
-    "value": 1940
-  },
-  {
-    "name": "Balloon-Shaped Cotton Candy",
-    "value": 1760
-  },
-  {
-    "name": "Balloon-Shaped Rainbow Candy",
-    "value": 15200
-  },
-  {
-    "name": "Balloon-Shaped Ring Lolly",
-    "value": 231000
-  },
-  {
-    "name": "Banana Achyfi Lollypop",
-    "value": 442
-  },
-  {
-    "name": "Banana Candy Rock",
-    "value": 4060
-  },
-  {
-    "name": "Banana Gummy Slorg",
-    "value": 358000
-  },
-  {
-    "name": "Banana Jelly Flotsam",
-    "value": 451000
-  },
-  {
-    "name": "Bar of Chocolate",
-    "value": 2880
-  },
-  {
-    "name": "Barbed Wire Black Licorice",
-    "value": 17800
-  },
-  {
-    "name": "Berry Sugared Gelert Gummy",
-    "value": 96800
-  },
-  {
-    "name": "Berry Usuki Gum",
-    "value": 1280
-  },
-  {
-    "name": "Black Currant Kacheek Drops",
-    "value": 869
-  },
-  {
-    "name": "Black Currant Nimmo Bites",
-    "value": 3370
-  },
-  {
-    "name": "Black Currant Quiggle Pop",
-    "value": 1320
-  },
-  {
-    "name": "Black Currant Scorchipop",
-    "value": 293
-  },
-  {
-    "name": "Black Currant Shoyru Sweet",
-    "value": 947
-  },
-  {
-    "name": "Black Currant Tuskaninny Lolly",
-    "value": 1140
-  },
-  {
-    "name": "Black Licorice Hearts",
-    "value": 1810
-  },
-  {
-    "name": "Black Sesame Seed Brittle",
-    "value": 24800
-  },
-  {
-    "name": "Blechy Gummies",
-    "value": 209000
-  },
-  {
-    "name": "Blobbule Snorkle Lollypop",
-    "value": 37100
-  },
-  {
-    "name": "Blue Berry Tonu Hard Candy",
-    "value": 5590
-  },
-  {
-    "name": "Blue Gem Candy",
-    "value": 1910
-  },
-  {
-    "name": "Blue Gummy Meerca",
-    "value": 1730
-  },
-  {
-    "name": "Blue Koi Lolly",
-    "value": 1790
-  },
-  {
-    "name": "Blue Kyrii Candy Floss",
-    "value": 2960
-  },
-  {
-    "name": "Blue Lab Jellies Candy",
-    "value": 7720
-  },
-  {
-    "name": "Blue Lupe Paw Lolly",
-    "value": 1820
-  },
-  {
-    "name": "Blue Raspberry Aisha Lollypop",
-    "value": 76500
-  },
-  {
-    "name": "Blueberry Aisha Lollypop",
-    "value": 1010
-  },
-  {
-    "name": "Blueberry Candy Cane",
-    "value": 8910
-  },
-  {
-    "name": "Blueberry Candy Gavel",
-    "value": 94
-  },
-  {
-    "name": "Blueberry Flotsam Lollypop",
-    "value": 1070
-  },
-  {
-    "name": "Blueberry Grarrl Pop",
-    "value": 1280
-  },
-  {
-    "name": "Blueberry Grundo Lollypop",
-    "value": 197000
-  },
-  {
-    "name": "Blueberry Gummy Korbat Tail",
-    "value": 20
-  },
-  {
-    "name": "Blueberry Gummy Peophin",
-    "value": 315000
-  },
-  {
-    "name": "Blueberry Gummy Slorg",
-    "value": 9080
-  },
-  {
-    "name": "Blueberry Gummy Stamp",
-    "value": 52100
-  },
-  {
-    "name": "Blueberry Jelly Beans",
-    "value": 4840
-  },
-  {
-    "name": "Blueberry Jelly Flotsam",
-    "value": 2920
-  },
-  {
-    "name": "Blueberry Lime Gormball Candy",
-    "value": 99300
-  },
-  {
-    "name": "Blueberry Lupe Hard Candy",
-    "value": 3460
-  },
-  {
-    "name": "Blueberry Neodrops",
-    "value": 2060
-  },
-  {
-    "name": "Blueberry Pteripop",
-    "value": 309
-  },
-  {
-    "name": "Blueberry Sugared Gelert Gummy",
     "value": 150000
   },
   {
-    "name": "Blueberry Sugared Slorg",
-    "value": 1850
+    "name": "Apple Sugared Gelert Gummy",
+    "value": 18500
   },
   {
-    "name": "Blueberry Techo Pop",
-    "value": 71900
+    "name": "Apple Wocky Candy Floss",
+    "value": 4500
   },
   {
-    "name": "Blueberry Whirlpool Candy",
-    "value": 30500
+    "name": "Asparagus Candy Cane",
+    "value": 890
   },
   {
-    "name": "Blueberry Wocky Candy Floss",
-    "value": 2040
-  },
-  {
-    "name": "Blumaroo Cotton Candy",
-    "value": 16300
-  },
-  {
-    "name": "Blumaroo Sugar Skull",
-    "value": 1000
-  },
-  {
-    "name": "Bookshop Chocolate Charm",
-    "value": 2480
-  },
-  {
-    "name": "Box of Chocolate Chias",
-    "value": 24600
-  },
-  {
-    "name": "Box of Chocolate Larnikins",
-    "value": 103000
-  },
-  {
-    "name": "Box of Dung Chocolates",
-    "value": 26600
-  },
-  {
-    "name": "Brain Tree Lolly",
-    "value": 989
-  },
-  {
-    "name": "Broken Chocolate Faellie Negg",
-    "value": 3000
-  },
-  {
-    "name": "Broken Chocolate Flower Negg",
-    "value": 84000
-  },
-  {
-    "name": "Broken Cinnamon Hearts",
-    "value": 65700
-  },
-  {
-    "name": "Broken Heart Candy",
-    "value": 133000
-  },
-  {
-    "name": "Broomstick Lolly",
-    "value": 2780
-  },
-  {
-    "name": "Bubblegum Cybunny",
-    "value": 8170
-  },
-  {
-    "name": "Bubblegum Zafara",
-    "value": 42000
-  },
-  {
-    "name": "Bullseyes",
-    "value": 24800
-  },
-  {
-    "name": "Butterscotch Disc",
-    "value": 631
-  },
-  {
-    "name": "Buzz Chocolate Bar",
-    "value": 12100
-  },
-  {
-    "name": "Buzz Honey Lolly",
-    "value": 16100
-  },
-  {
-    "name": "Candy Bouquet",
-    "value": 172000
-  },
-  {
-    "name": "Candy Cane Chocolate Advent Calendar",
-    "value": 3010000
-  },
-  {
-    "name": "Candy Chia Apple",
-    "value": 2540
-  },
-  {
-    "name": "Candy Filled Negg",
-    "value": 979
-  },
-  {
-    "name": "Candy Fyora Face",
-    "value": 1710
-  },
-  {
-    "name": "Candy Fyora Tiara",
-    "value": 2970
-  },
-  {
-    "name": "Candy Fyora Wand",
-    "value": 1360
-  },
-  {
-    "name": "Candy Fyora Wings",
-    "value": 25400
-  },
-  {
-    "name": "Candy Heart Necklace",
-    "value": 35100
-  },
-  {
-    "name": "Candy Keyring",
-    "value": 876
-  },
-  {
-    "name": "Candy Pirate Earrings",
-    "value": 25
-  },
-  {
-    "name": "Candy Whistle",
-    "value": 20300
-  },
-  {
-    "name": "Candy Yurble Bracelet",
-    "value": 1210
-  },
-  {
-    "name": "Candy Yurble Ears",
-    "value": 1300
-  },
-  {
-    "name": "Candy Yurble Mane",
-    "value": 2020
-  },
-  {
-    "name": "Candy Yurble Nails",
-    "value": 3800
-  },
-  {
-    "name": "Candy Yurble Nose",
-    "value": 1390
-  },
-  {
-    "name": "Candy Yurble Pants",
-    "value": 2320
-  },
-  {
-    "name": "Candy Yurble Shirt",
-    "value": 3000
-  },
-  {
-    "name": "Candy Yurble Tail",
-    "value": 1200
-  },
-  {
-    "name": "Caramel and Custard Drops",
-    "value": 488000
-  },
-  {
-    "name": "Caramel Cream Grarrl Foot",
-    "value": 34100
-  },
-  {
-    "name": "Caramel Creams",
-    "value": 61
-  },
-  {
-    "name": "Caramel Dipped Skeith Wings",
-    "value": 39000
-  },
-  {
-    "name": "Caramel Juppie Beast",
-    "value": 1310
-  },
-  {
-    "name": "Caramel Kiko Sweets",
-    "value": 621000
-  },
-  {
-    "name": "Caramel Mynci Apple",
-    "value": 12500
-  },
-  {
-    "name": "Caramel Techo Truffle",
-    "value": 2700
-  },
-  {
-    "name": "Cashew Brittle",
-    "value": 41300
-  },
-  {
-    "name": "Charcoal Jelly Beans",
+    "name": "Asparagus Chia Treat",
     "value": 15000
   },
   {
-    "name": "Cherry Aboogala Lolly",
-    "value": 20300
+    "name": "Asparatastic Crunch",
+    "value": 35000
   },
   {
-    "name": "Cherry Aisha Lollypop",
-    "value": 2590
+    "name": "Assorted Fruit Blocks",
+    "value": 5600
   },
   {
-    "name": "Cherry Bori Lolly",
-    "value": 65400
+    "name": "Assorted Gummy Dice",
+    "value": 7000
   },
   {
-    "name": "Cherry Chomby Lolly",
-    "value": 2060
+    "name": "Assorted Gummy Quiggles",
+    "value": 8000
   },
   {
-    "name": "Cherry Gummy Korbat Tail",
-    "value": 18
+    "name": "Assorted Jelly Beans",
+    "value": 1100
   },
   {
-    "name": "Cherry Gummy Mace",
-    "value": 132000
+    "name": "Assorted Pear Drops",
+    "value": 19500
   },
   {
-    "name": "Cherry Meerca Gobstopper",
-    "value": 999998
+    "name": "Assorted Tonu Chocolates",
+    "value": 14500
   },
   {
-    "name": "Cherry Mootix Lollypop",
-    "value": 92600
+    "name": "Avocado Gummy Korbat Tail",
+    "value": 4
   },
   {
-    "name": "Cherry Peophin Lollypop",
-    "value": 2990
+    "name": "Baby Cabbage Jelly Beans",
+    "value": 22000
   },
   {
-    "name": "Cherry Pteripop",
-    "value": 1600
+    "name": "Baby Cybunny Chocolate Egg",
+    "value": 27000
   },
   {
-    "name": "Cherry Rose Lolly",
-    "value": 5560
+    "name": "Bag of Mutant Gummies",
+    "value": 245
   },
   {
-    "name": "Cherry Shoyru Sweet",
-    "value": 1150
+    "name": "Balloon-Shaped Candy Drops",
+    "value": 1000
   },
   {
-    "name": "Cherry Sugared Slorg",
-    "value": 1050
+    "name": "Balloon-Shaped Cotton Candy",
+    "value": 875
   },
   {
-    "name": "Cherry Whirlpool Candy",
-    "value": 17800
+    "name": "Balloon-Shaped Rainbow Candy",
+    "value": 20500
   },
   {
-    "name": "Cherry Wocky Lollypop",
-    "value": 4470
+    "name": "Balloon-Shaped Ring Lolly",
+    "value": 40500
   },
   {
-    "name": "Cherry Zafara Gummy",
-    "value": 385000
+    "name": "Banana Achyfi Lollypop",
+    "value": 520
   },
   {
-    "name": "Chewy Licorice Aisha Ears",
-    "value": 5590
+    "name": "Banana Candy Rock",
+    "value": 2500
   },
   {
-    "name": "Chewy Strawberry Aisha Ears",
-    "value": 55000
+    "name": "Banana Gummy Slorg",
+    "value": 24500
   },
   {
-    "name": "Chilli Chocolate",
-    "value": 4210
+    "name": "Banana Jelly Flotsam",
+    "value": 1100
   },
   {
-    "name": "Chilli-Coated Chokato Lollypop",
-    "value": 20700
+    "name": "Bar of Chocolate",
+    "value": 1400
   },
   {
-    "name": "Chilli-Coated Lime Lollypop",
+    "name": "Barbed Wire Black Licorice",
+    "value": 14000
+  },
+  {
+    "name": "Berry Sugared Gelert Gummy",
+    "value": 69500
+  },
+  {
+    "name": "Berry Usuki Gum",
+    "value": 1100
+  },
+  {
+    "name": "Birthday JubJub Cupcake",
+    "value": 290000
+  },
+  {
+    "name": "Black Currant Kacheek Drops",
+    "value": 475
+  },
+  {
+    "name": "Black Currant Nimmo Bites",
+    "value": 5000
+  },
+  {
+    "name": "Black Currant Quiggle Pop",
+    "value": 1500
+  },
+  {
+    "name": "Black Currant Scorchipop",
+    "value": 450
+  },
+  {
+    "name": "Black Currant Shoyru Sweet",
+    "value": 98
+  },
+  {
+    "name": "Black Currant Tuskaninny Lolly",
+    "value": 1100
+  },
+  {
+    "name": "Black Licorice Hearts",
+    "value": 3000
+  },
+  {
+    "name": "Black Sesame Seed Brittle",
+    "value": 19000
+  },
+  {
+    "name": "Blechy Gummies",
+    "value": 15000
+  },
+  {
+    "name": "Blobbule Snorkle Lollypop",
+    "value": 13500
+  },
+  {
+    "name": "Blue Berry Tonu Hard Candy",
     "value": 3700
   },
   {
-    "name": "Chilli-Coated Mango Lollypop",
-    "value": 6830
+    "name": "Blue Gem Candy",
+    "value": 2600
   },
   {
-    "name": "Chilli-Coated Watermelon Lollypop",
-    "value": 123000
+    "name": "Blue Gummy Meerca",
+    "value": 945
   },
   {
-    "name": "Choco Spray",
-    "value": 300000000
+    "name": "Blue Koi Lolly",
+    "value": 1500
   },
   {
-    "name": "Choco-Vanilla Korbat Cake",
-    "value": 4440
+    "name": "Blue Kyrii Candy Floss",
+    "value": 2000
   },
   {
-    "name": "Chocolate Achyfi Lollypop",
-    "value": 14600
+    "name": "Blue Lab Jellies Candy",
+    "value": 34500
   },
   {
-    "name": "Chocolate Advent Calendar",
-    "value": 1920000
-  },
-  {
-    "name": "Chocolate Aisha Ears",
-    "value": 1160
-  },
-  {
-    "name": "Chocolate and Cream Kyrii",
-    "value": 14100
-  },
-  {
-    "name": "Chocolate Apple",
-    "value": 3550
-  },
-  {
-    "name": "Chocolate Balthazar",
-    "value": 18300
-  },
-  {
-    "name": "Chocolate Banana Pteri Eggs",
-    "value": 20300
-  },
-  {
-    "name": "Chocolate Blossom",
-    "value": 293000
-  },
-  {
-    "name": "Chocolate Bow",
-    "value": 2810
-  },
-  {
-    "name": "Chocolate Candy Filled Negg",
-    "value": 896
-  },
-  {
-    "name": "Chocolate Cannon Ball",
-    "value": 973
-  },
-  {
-    "name": "Chocolate Cherry Moehog",
-    "value": 4360
-  },
-  {
-    "name": "Chocolate Cherry Pteri Eggs",
-    "value": 118000
-  },
-  {
-    "name": "Chocolate Chest of Coins",
-    "value": 5430
-  },
-  {
-    "name": "Chocolate Chia",
-    "value": 2490
-  },
-  {
-    "name": "Chocolate Chia Candy",
-    "value": 6680
-  },
-  {
-    "name": "Chocolate Chia Cookie",
-    "value": 17400
-  },
-  {
-    "name": "Chocolate Chia Jam",
-    "value": 532000
-  },
-  {
-    "name": "Chocolate Chia Lolly",
-    "value": 8050
-  },
-  {
-    "name": "Chocolate Chia Truffle",
-    "value": 1730
-  },
-  {
-    "name": "Chocolate Chocolate Factory Charm",
+    "name": "Blue Lupe Paw Lolly",
     "value": 1900
   },
   {
+    "name": "Blue Raspberry Aisha Lollypop",
+    "value": 26500
+  },
+  {
+    "name": "Blueberry Aisha Lollypop",
+    "value": 450
+  },
+  {
+    "name": "Blueberry Candy Cane",
+    "value": 8500
+  },
+  {
+    "name": "Blueberry Candy Gavel",
+    "value": 390
+  },
+  {
+    "name": "Blueberry Flotsam Lollypop",
+    "value": 1400
+  },
+  {
+    "name": "Blueberry Grarrl Pop",
+    "value": 1200
+  },
+  {
+    "name": "Blueberry Grundo Lollypop",
+    "value": 21500
+  },
+  {
+    "name": "Blueberry Gummy Korbat Tail",
+    "value": 39
+  },
+  {
+    "name": "Blueberry Gummy Peophin",
+    "value": 19000
+  },
+  {
+    "name": "Blueberry Gummy Slorg",
+    "value": 7400
+  },
+  {
+    "name": "Blueberry Gummy Stamp",
+    "value": 25000
+  },
+  {
+    "name": "Blueberry Jelly Beans",
+    "value": 3200
+  },
+  {
+    "name": "Blueberry Jelly Flotsam",
+    "value": 1300
+  },
+  {
+    "name": "Blueberry Lime Gormball Candy",
+    "value": 47500
+  },
+  {
+    "name": "Blueberry Lupe Hard Candy",
+    "value": 2000
+  },
+  {
+    "name": "Blueberry Neodrops",
+    "value": 1500
+  },
+  {
+    "name": "Blueberry Pteripop",
+    "value": 360
+  },
+  {
+    "name": "Blueberry Sugared Gelert Gummy",
+    "value": 21000
+  },
+  {
+    "name": "Blueberry Sugared Slorg",
+    "value": 2000
+  },
+  {
+    "name": "Blueberry Techo Pop",
+    "value": 19000
+  },
+  {
+    "name": "Blueberry Whirlpool Candy",
+    "value": 32500
+  },
+  {
+    "name": "Blueberry Wocky Candy Floss",
+    "value": 2400
+  },
+  {
+    "name": "Blumaroo Cotton Candy",
+    "value": 10000
+  },
+  {
+    "name": "Blumaroo Sugar Skull",
+    "value": 18000
+  },
+  {
+    "name": "Bookshop Chocolate Charm",
+    "value": 4500
+  },
+  {
+    "name": "Borovan Stew",
+    "value": 30500
+  },
+  {
+    "name": "Borovan Wizard Cloak",
+    "value": 3700
+  },
+  {
+    "name": "Borovan Wizard Hat",
+    "value": 3700
+  },
+  {
+    "name": "Borovan Wizard Magical Asparagus Wand",
+    "value": 1000
+  },
+  {
+    "name": "Box of Chocolate Chias",
+    "value": 38000
+  },
+  {
+    "name": "Box of Chocolate Larnikins",
+    "value": 31000
+  },
+  {
+    "name": "Box of Dung Chocolates",
+    "value": 19000
+  },
+  {
+    "name": "Brain Tree Lolly",
+    "value": 180
+  },
+  {
+    "name": "Broken Chocolate Faellie Negg",
+    "value": 2000
+  },
+  {
+    "name": "Broken Chocolate Flower Negg",
+    "value": 38000
+  },
+  {
+    "name": "Broken Cinnamon Hearts",
+    "value": 25500
+  },
+  {
+    "name": "Broken Heart Candy",
+    "value": 17500
+  },
+  {
+    "name": "Broomstick Lolly",
+    "value": 7700
+  },
+  {
+    "name": "Bubblegum Cybunny",
+    "value": 21500
+  },
+  {
+    "name": "Bubblegum Zafara",
+    "value": 23000
+  },
+  {
+    "name": "Bullseyes",
+    "value": 42500
+  },
+  {
+    "name": "Butterscotch Disc",
+    "value": 985
+  },
+  {
+    "name": "Buzz Chocolate Bar",
+    "value": 10500
+  },
+  {
+    "name": "Buzz Honey Lolly",
+    "value": 21500
+  },
+  {
+    "name": "Candy Bouquet",
+    "value": 44000
+  },
+  {
+    "name": "Candy Cane Chocolate Advent Calendar",
+    "value": 8900000
+  },
+  {
+    "name": "Candy Chia Apple",
+    "value": 3100
+  },
+  {
+    "name": "Candy Filled Negg",
+    "value": 1500
+  },
+  {
+    "name": "Candy Fyora Face",
+    "value": 1300
+  },
+  {
+    "name": "Candy Fyora Tiara",
+    "value": 2000
+  },
+  {
+    "name": "Candy Fyora Wand",
+    "value": 2200
+  },
+  {
+    "name": "Candy Fyora Wings",
+    "value": 9700
+  },
+  {
+    "name": "Candy Heart Necklace",
+    "value": 73000
+  },
+  {
+    "name": "Candy Keyring",
+    "value": 1800
+  },
+  {
+    "name": "Candy Pirate Earrings",
+    "value": 1400
+  },
+  {
+    "name": "Candy Whistle",
+    "value": 11500
+  },
+  {
+    "name": "Candy Yurble Bracelet",
+    "value": 1100
+  },
+  {
+    "name": "Candy Yurble Ears",
+    "value": 1400
+  },
+  {
+    "name": "Candy Yurble Mane",
+    "value": 1400
+  },
+  {
+    "name": "Candy Yurble Nails",
+    "value": 660
+  },
+  {
+    "name": "Candy Yurble Nose",
+    "value": 1100
+  },
+  {
+    "name": "Candy Yurble Pants",
+    "value": 995
+  },
+  {
+    "name": "Candy Yurble Shirt",
+    "value": 1000
+  },
+  {
+    "name": "Candy Yurble Tail",
+    "value": 995
+  },
+  {
+    "name": "Caramel and Custard Drops",
+    "value": 650000
+  },
+  {
+    "name": "Caramel Cream Grarrl Foot",
+    "value": 29500
+  },
+  {
+    "name": "Caramel Creams",
+    "value": 510
+  },
+  {
+    "name": "Caramel Dipped Skeith Wings",
+    "value": 20500
+  },
+  {
+    "name": "Caramel Juppie Beast",
+    "value": 1600
+  },
+  {
+    "name": "Caramel Kiko Sweets",
+    "value": 31500
+  },
+  {
+    "name": "Caramel Mynci Apple",
+    "value": 8100
+  },
+  {
+    "name": "Caramel Techo Truffle",
+    "value": 2800
+  },
+  {
+    "name": "Cashew Brittle",
+    "value": 16000
+  },
+  {
+    "name": "Charcoal Jelly Beans",
+    "value": 16500
+  },
+  {
+    "name": "Cherry Aboogala Lolly",
+    "value": 79000
+  },
+  {
+    "name": "Cherry Aisha Lollypop",
+    "value": 2300
+  },
+  {
+    "name": "Cherry Bori Lolly",
+    "value": 27000
+  },
+  {
+    "name": "Cherry Chomby Lolly",
+    "value": 1500
+  },
+  {
+    "name": "Cherry Gummy Korbat Tail",
+    "value": 43
+  },
+  {
+    "name": "Cherry Gummy Mace",
+    "value": 33500
+  },
+  {
+    "name": "Cherry Meerca Gobstopper",
+    "value": 2500
+  },
+  {
+    "name": "Cherry Mootix Lollypop",
+    "value": 39000
+  },
+  {
+    "name": "Cherry Peophin Lollypop",
+    "value": 4200
+  },
+  {
+    "name": "Cherry Pteripop",
+    "value": 2300
+  },
+  {
+    "name": "Cherry Rose Lolly",
+    "value": 3700
+  },
+  {
+    "name": "Cherry Shoyru Sweet",
+    "value": 970
+  },
+  {
+    "name": "Cherry Sugared Slorg",
+    "value": 305
+  },
+  {
+    "name": "Cherry Whirlpool Candy",
+    "value": 17500
+  },
+  {
+    "name": "Cherry Wocky Lollypop",
+    "value": 4600
+  },
+  {
+    "name": "Cherry Zafara Gummy",
+    "value": 20000
+  },
+  {
+    "name": "Chewy Licorice Aisha Ears",
+    "value": 5200
+  },
+  {
+    "name": "Chewy Strawberry Aisha Ears",
+    "value": 31000
+  },
+  {
+    "name": "Chia on a Smore",
+    "value": 31500
+  },
+  {
+    "name": "Chilli Chocolate",
+    "value": 5500
+  },
+  {
+    "name": "Chilli-Coated Chokato Lollypop",
+    "value": 7700
+  },
+  {
+    "name": "Chilli-Coated Lime Lollypop",
+    "value": 4200
+  },
+  {
+    "name": "Chilli-Coated Mango Lollypop",
+    "value": 3500
+  },
+  {
+    "name": "Chilli-Coated Watermelon Lollypop",
+    "value": 2500
+  },
+  {
+    "name": "Choco Spray",
+    "value": 400000000
+  },
+  {
+    "name": "Choco-Vanilla Korbat Cake",
+    "value": 7500
+  },
+  {
+    "name": "Chococherry Blumaroo Ears",
+    "value": 125000000
+  },
+  {
+    "name": "Chocolate Achyfi Lollypop",
+    "value": 21500
+  },
+  {
+    "name": "Chocolate Advent Calendar",
+    "value": 5900000
+  },
+  {
+    "name": "Chocolate Aisha Ears",
+    "value": 1100
+  },
+  {
+    "name": "Chocolate and Cream Kyrii",
+    "value": 25000
+  },
+  {
+    "name": "Chocolate Apple",
+    "value": 4000
+  },
+  {
+    "name": "Chocolate Balthazar",
+    "value": 13000
+  },
+  {
+    "name": "Chocolate Banana Pteri Eggs",
+    "value": 13000
+  },
+  {
+    "name": "Chocolate Blossom",
+    "value": 100000
+  },
+  {
+    "name": "Chocolate Bow",
+    "value": 5000
+  },
+  {
+    "name": "Chocolate Candy Filled Negg",
+    "value": 1100
+  },
+  {
+    "name": "Chocolate Cannon Ball",
+    "value": 675
+  },
+  {
+    "name": "Chocolate Cherry Moehog",
+    "value": 5100
+  },
+  {
+    "name": "Chocolate Cherry Pteri Eggs",
+    "value": 19500
+  },
+  {
+    "name": "Chocolate Chest of Coins",
+    "value": 6000
+  },
+  {
+    "name": "Chocolate Chia",
+    "value": 2000
+  },
+  {
+    "name": "Chocolate Chia Candy",
+    "value": 2100
+  },
+  {
+    "name": "Chocolate Chia Cookie",
+    "value": 3300
+  },
+  {
+    "name": "Chocolate Chia Jam",
+    "value": 17000
+  },
+  {
+    "name": "Chocolate Chia Lolly",
+    "value": 2000
+  },
+  {
+    "name": "Chocolate Chia Truffle",
+    "value": 3400
+  },
+  {
+    "name": "Chocolate Chocolate Factory Charm",
+    "value": 4200
+  },
+  {
     "name": "Chocolate Coated Candy Cane",
-    "value": 4330
+    "value": 3000
   },
   {
     "name": "Chocolate Coated Lolly",
-    "value": 2540
+    "value": 1800
   },
   {
     "name": "Chocolate Coated Pretzel",
-    "value": 2790
+    "value": 5200
   },
   {
     "name": "Chocolate Covered Caramel Corn",
-    "value": 129
+    "value": 205
   },
   {
     "name": "Chocolate Covered Cherries",
-    "value": 156
+    "value": 78
   },
   {
     "name": "Chocolate Covered Lime Gummy Gem",
-    "value": 3980
+    "value": 2100
   },
   {
     "name": "Chocolate Covered Marshmallow Zafara",
-    "value": 245
+    "value": 65
   },
   {
     "name": "Chocolate Cracker",
@@ -760,119 +753,119 @@
   },
   {
     "name": "Chocolate Crown of Sinsi",
-    "value": 4530000
+    "value": 400000
   },
   {
     "name": "Chocolate Crown of the Faeries",
-    "value": 790000
+    "value": 220000
   },
   {
     "name": "Chocolate Cybunny Negg",
-    "value": 393000
+    "value": 80000
   },
   {
     "name": "Chocolate Cybunny Paw",
-    "value": 3780
+    "value": 5300
   },
   {
     "name": "Chocolate Dipped Pteri Tail",
-    "value": 3980
+    "value": 6800
   },
   {
     "name": "Chocolate Dr Sloth",
-    "value": 1200000
+    "value": 2750000
   },
   {
     "name": "Chocolate Draik Lollypop",
-    "value": 990
+    "value": 960
   },
   {
     "name": "Chocolate Draik Wing",
-    "value": 85700
+    "value": 29000
   },
   {
     "name": "Chocolate Flakes",
-    "value": 2940
+    "value": 4500
   },
   {
     "name": "Chocolate Gelert Heads",
-    "value": 999
+    "value": 750
   },
   {
     "name": "Chocolate Gobstopper",
-    "value": 16900
+    "value": 15000
   },
   {
     "name": "Chocolate Gormballs",
-    "value": 1980
+    "value": 495
   },
   {
     "name": "Chocolate Grape Fondant",
-    "value": 992
+    "value": 1100
   },
   {
     "name": "Chocolate Grarrl Ice Cream",
-    "value": 1210
+    "value": 1100
   },
   {
     "name": "Chocolate Grarrl on a Stick",
-    "value": 143000
+    "value": 28500
   },
   {
     "name": "Chocolate Grarrl Tail",
-    "value": 86000
+    "value": 24000
   },
   {
     "name": "Chocolate Gum",
-    "value": 21800000
+    "value": 7850000
   },
   {
     "name": "Chocolate Honey",
-    "value": 35300
+    "value": 20500
   },
   {
     "name": "Chocolate Honey Buzz Bar",
-    "value": 68500
+    "value": 32000
   },
   {
     "name": "Chocolate Honeycombs",
-    "value": 977
+    "value": 1100
   },
   {
     "name": "Chocolate Ice Cream Gummy",
-    "value": 999
+    "value": 1500
   },
   {
     "name": "Chocolate Ixi Leaf",
-    "value": 79200
+    "value": 36000
   },
   {
     "name": "Chocolate Jeran",
-    "value": 348000
+    "value": 160000
   },
   {
     "name": "Chocolate Jetsam Fin",
-    "value": 18200
+    "value": 23500
   },
   {
     "name": "Chocolate Kau Pat",
-    "value": 8210
+    "value": 8800
   },
   {
     "name": "Chocolate Keyring",
-    "value": 1470
+    "value": 4300
   },
   {
     "name": "Chocolate Kiko Bandage",
-    "value": 752
+    "value": 390
   },
   {
     "name": "Chocolate King Skarl",
-    "value": 30900
+    "value": 21500
   },
   {
     "name": "Chocolate Lenny on a Stick",
-    "value": 72100
+    "value": 31500
   },
   {
     "name": "Chocolate Lipstick",
@@ -880,343 +873,343 @@
   },
   {
     "name": "Chocolate Man",
-    "value": 3620
+    "value": 3900
   },
   {
     "name": "Chocolate Maractite Coins",
-    "value": 113000
+    "value": 55500
   },
   {
     "name": "Chocolate Mint Kougra",
-    "value": 4720
+    "value": 3600
   },
   {
     "name": "Chocolate Moehog Coin",
-    "value": 3770
+    "value": 2900
   },
   {
     "name": "Chocolate Moehog Head",
-    "value": 51000
+    "value": 16000
   },
   {
     "name": "Chocolate Moehogs",
-    "value": 360000
+    "value": 30500
   },
   {
     "name": "Chocolate Moltenore",
-    "value": 18000000
+    "value": 20000000
   },
   {
     "name": "Chocolate Negg",
-    "value": 3000
+    "value": 3400
   },
   {
     "name": "Chocolate Neodrops",
-    "value": 2070
+    "value": 2400
   },
   {
     "name": "Chocolate Orange Easter Negg",
-    "value": 999999
+    "value": 1250000
   },
   {
     "name": "Chocolate Peach",
-    "value": 256000
+    "value": 370000
   },
   {
     "name": "Chocolate Peanuts With Peas",
-    "value": 394000000
+    "value": 279000000
   },
   {
     "name": "Chocolate Psellia",
-    "value": 466000
+    "value": 86000
   },
   {
     "name": "Chocolate Pteri Eggs",
-    "value": 15800
+    "value": 27500
   },
   {
     "name": "Chocolate Ruki Kit",
-    "value": 24200
+    "value": 50000
   },
   {
     "name": "Chocolate Seashell Sculpture",
-    "value": 499
+    "value": 925
   },
   {
     "name": "Chocolate Ship Cookie",
-    "value": 49600
+    "value": 9800
   },
   {
     "name": "Chocolate Silver Coins",
-    "value": 3650
+    "value": 3900
   },
   {
     "name": "Chocolate Siyana",
-    "value": 380000
+    "value": 15500
   },
   {
     "name": "Chocolate Slime Burger",
-    "value": 304
+    "value": 65
   },
   {
     "name": "Chocolate Soup",
-    "value": 6420
+    "value": 3700
   },
   {
     "name": "Chocolate Spaghetti",
-    "value": 13100
+    "value": 5400
   },
   {
     "name": "Chocolate Spike Ball Candy",
-    "value": 3060
+    "value": 3100
   },
   {
     "name": "Chocolate Sugared Slorg",
-    "value": 954
+    "value": 340
   },
   {
     "name": "Chocolate Swirl Nova",
-    "value": 82900
+    "value": 26500
   },
   {
     "name": "Chocolate Tchea Truffle",
-    "value": 1770
+    "value": 990
   },
   {
     "name": "Chocolate Tetraberry Pteri Eggs",
-    "value": 12100
+    "value": 36000
   },
   {
     "name": "Chocolate Top Hat and Cane",
-    "value": 997
+    "value": 235
   },
   {
     "name": "Chocolate Turkey",
-    "value": 23600
+    "value": 32000
   },
   {
     "name": "Chocolate Uni Print",
-    "value": 106000
+    "value": 30000
   },
   {
     "name": "Chocolate Usuki",
-    "value": 885
+    "value": 1300
   },
   {
     "name": "Chocolate Valentine Crossbow",
-    "value": 56100
+    "value": 15000
   },
   {
     "name": "Chocolate Wocky Paws",
-    "value": 103000
+    "value": 16000
   },
   {
     "name": "Chocolate Zafara",
-    "value": 31900
+    "value": 28000
   },
   {
     "name": "Chocolate Zeenana Pteri Eggs",
-    "value": 96100
+    "value": 28500
   },
   {
     "name": "Chocoon",
-    "value": 500000000
+    "value": 400000000
   },
   {
     "name": "Chokato Candy Cane",
-    "value": 169000
+    "value": 37000
   },
   {
     "name": "Chokato Chia Treat",
-    "value": 93500
+    "value": 27000
   },
   {
     "name": "Chokato Gummy Chia",
-    "value": 1500
+    "value": 1000
   },
   {
     "name": "Chokato Gummy Korbat Tail",
-    "value": 417
+    "value": 80
   },
   {
     "name": "Chokato Snapdragon Lollypop",
-    "value": 3230
+    "value": 3100
   },
   {
     "name": "Chokato Volcano",
-    "value": 1050
+    "value": 940
   },
   {
     "name": "Chunky Cherry Grarrl Gobstopper",
-    "value": 40800
+    "value": 18000
   },
   {
     "name": "Cloud Flotsam Gumballs",
-    "value": 4930
+    "value": 3900
   },
   {
     "name": "Coconut Ice",
-    "value": 1340
+    "value": 1500
   },
   {
     "name": "Codestone Truffle",
-    "value": 45800
+    "value": 43000
   },
   {
     "name": "Coffee Candy",
-    "value": 12200
+    "value": 19000
   },
   {
     "name": "Coltzan Candy",
-    "value": 160000
+    "value": 29500
   },
   {
     "name": "Comet Lollipop",
-    "value": 5000
+    "value": 16500
   },
   {
     "name": "Confetti Cookie Beret",
-    "value": 141000
+    "value": 23000
   },
   {
     "name": "Cranberry Gummy Stamp",
-    "value": 1830
+    "value": 990
   },
   {
     "name": "Creamy Choccywhip",
-    "value": 566000
+    "value": 1350000
   },
   {
     "name": "Creamy Stick Biscuit",
-    "value": 18
+    "value": 13
   },
   {
     "name": "Creme Filled Chocolate Negg",
-    "value": 1110
+    "value": 4800
   },
   {
     "name": "Crunchy Korbat Cookie",
-    "value": 2180
+    "value": 1500
   },
   {
     "name": "Cybunny Chocolate Egg",
-    "value": 2750
+    "value": 2800
   },
   {
     "name": "Darigan Eyrie Paw Lolly",
-    "value": 2130
+    "value": 3000
   },
   {
     "name": "Dark Chocolate Acara",
-    "value": 18200
+    "value": 4000
   },
   {
     "name": "Dark Chocolate Aisha",
-    "value": 18800
+    "value": 12000
   },
   {
     "name": "Dark Chocolate Blumaroo",
-    "value": 78000
+    "value": 29500
   },
   {
     "name": "Dark Chocolate Bruce",
-    "value": 156000
+    "value": 25500
   },
   {
     "name": "Dark Chocolate Buzz",
-    "value": 84100
+    "value": 30500
   },
   {
     "name": "Dark Chocolate Chia",
-    "value": 92000
+    "value": 23500
   },
   {
     "name": "Dark Chocolate Cybunny",
-    "value": 20500
+    "value": 32500
   },
   {
     "name": "Dark Chocolate Draik",
-    "value": 103000
+    "value": 29000
   },
   {
     "name": "Dark Chocolate Elephante",
-    "value": 9900
+    "value": 38000
   },
   {
     "name": "Dark Chocolate Flotsam",
-    "value": 456000
+    "value": 27000
   },
   {
     "name": "Dark Chocolate Gnorbu",
-    "value": 43400
+    "value": 28000
   },
   {
     "name": "Dark Chocolate Hearts",
-    "value": 5940
+    "value": 8500
   },
   {
     "name": "Dark Chocolate Hissi",
-    "value": 43800
+    "value": 4900
   },
   {
     "name": "Dark Chocolate Kougra",
-    "value": 1190
+    "value": 930
   },
   {
     "name": "Dark Chocolate Kougra Paw",
-    "value": 996
+    "value": 1700
   },
   {
     "name": "Dark Chocolate Lenny",
-    "value": 900
+    "value": 340
   },
   {
     "name": "Dark Chocolate Lutari",
-    "value": 11700
+    "value": 10500
   },
   {
     "name": "Dark Chocolate Ogrin",
-    "value": 2480
+    "value": 3900
   },
   {
     "name": "Dark Chocolate Pellets",
-    "value": 14100
+    "value": 20500
   },
   {
     "name": "Dark Chocolate Peophin",
-    "value": 15700
+    "value": 27500
   },
   {
     "name": "Dark Chocolate Poogle",
-    "value": 11100
+    "value": 9600
   },
   {
     "name": "Dark Chocolate Pteri",
-    "value": 4390
+    "value": 3600
   },
   {
     "name": "Dark Chocolate Ruki",
-    "value": 553000
+    "value": 19000
   },
   {
     "name": "Dark Chocolate Scorchio",
-    "value": 11700
+    "value": 6000
   },
   {
     "name": "Dark Chocolate Shoyru",
-    "value": 12100
+    "value": 15500
   },
   {
     "name": "Dark Chocolate Skeith",
-    "value": 25600
+    "value": 20500
   },
   {
     "name": "Dark Chocolate Techo",
-    "value": 73500
+    "value": 27500
   },
   {
     "name": "Dark Chocolate Tonu",
-    "value": 50800
+    "value": 30000
   },
   {
     "name": "Dark Chocolate Tuskaninny",
@@ -1224,679 +1217,687 @@
   },
   {
     "name": "Dark Chocolate Zafara",
-    "value": 19200
+    "value": 9600
   },
   {
     "name": "Dark Kiko Chocolates",
-    "value": 148
+    "value": 225
   },
   {
     "name": "Deluxe Lime Toffee Juppie",
-    "value": 1010
+    "value": 1400
   },
   {
     "name": "Deluxe Strawberry Toffee Chokato",
-    "value": 608000
+    "value": 920000
   },
   {
     "name": "Deluxe Toffee Apple",
-    "value": 1240
+    "value": 3000
   },
   {
     "name": "Destruct-O Apple Pop",
-    "value": 135000
+    "value": 19000
   },
   {
     "name": "Destruct-O Chocolate Squares",
-    "value": 11500
+    "value": 30000
   },
   {
     "name": "Destruct-O Orange Chews",
-    "value": 1070
+    "value": 940
   },
   {
     "name": "Destruct-O Strawberry Gum",
-    "value": 862000
+    "value": 10500
   },
   {
     "name": "Dipped Orange Bonbon",
-    "value": 1000
+    "value": 1200
   },
   {
     "name": "Dotted Orange Bonbon",
-    "value": 3490
+    "value": 2500
   },
   {
     "name": "Double Chocolate Jelly Beans",
-    "value": 858000
+    "value": 9150000
   },
   {
     "name": "Draik Fruit Lollipop",
-    "value": 389
+    "value": 105
   },
   {
     "name": "Draik Sugar Skull",
-    "value": 10700
+    "value": 26500
   },
   {
     "name": "Dried Date Sweets",
-    "value": 303000
+    "value": 16500
   },
   {
     "name": "Dried Kumquat Sweets",
-    "value": 31800
+    "value": 33500
   },
   {
     "name": "Dried Longan Sweets",
-    "value": 264000
+    "value": 24500
   },
   {
     "name": "Dried Lotus Root Sweets",
-    "value": 48400
+    "value": 12500
   },
   {
     "name": "Dung Mote Lollypop",
-    "value": 2100
+    "value": 4100
   },
   {
     "name": "Economy Jelly Beans",
-    "value": 2180
+    "value": 5200
   },
   {
     "name": "Elderberry Achyfi Lollypop",
-    "value": 23200
+    "value": 43000
   },
   {
     "name": "Electric Gormball Gumball",
-    "value": 30600
+    "value": 53500
   },
   {
     "name": "ErgyFruit Jelly Beans",
-    "value": 202000
+    "value": 430000
   },
   {
     "name": "ErgyFruit Sour Saucer",
-    "value": 2120
+    "value": 2500
   },
   {
     "name": "Eye Pops",
-    "value": 36900
+    "value": 6700
   },
   {
     "name": "Eyrie Chokatopop",
-    "value": 13700
-  },
-  {
-    "name": "Eyrie Loveberripop",
-    "value": 64000
-  },
-  {
-    "name": "Eyrie Plumberripop",
-    "value": 8350
-  },
-  {
-    "name": "Eyrie Tangellapop",
-    "value": 1810
-  },
-  {
-    "name": "Felly Jelly Rainbow Candy",
-    "value": 1490
-  },
-  {
-    "name": "Felly Jelly Red Candy",
-    "value": 4180
-  },
-  {
-    "name": "Felly Jelly White Candy",
-    "value": 3870
-  },
-  {
-    "name": "Felly Jelly Yellow Candy",
-    "value": 4930
-  },
-  {
-    "name": "Fire Candy Buttons",
-    "value": 275
-  },
-  {
-    "name": "Fire Candyfloss",
-    "value": 4800
-  },
-  {
-    "name": "Fire Mote Lollypop",
-    "value": 1860
-  },
-  {
-    "name": "Fishy Delight Grarrl Gobstopper",
-    "value": 6030000
-  },
-  {
-    "name": "Fizzy Neocola Bottles",
-    "value": 7
-  },
-  {
-    "name": "Flotsam Snowberry Lollypop",
-    "value": 375000
-  },
-  {
-    "name": "Fluff N Stuff Grarrl Gobstopper",
-    "value": 17200
-  },
-  {
-    "name": "Flying Saucers",
-    "value": 5020
-  },
-  {
-    "name": "Food Shop Chocolate Charm",
-    "value": 3490
-  },
-  {
-    "name": "Frosty Chewing Gum",
-    "value": 881000
-  },
-  {
-    "name": "Fruit Sensation Korbat Cake",
-    "value": 13600
-  },
-  {
-    "name": "Fruitmallow Toffee Apple",
-    "value": 2320
-  },
-  {
-    "name": "Fruity Gormball Gumball",
-    "value": 39400
-  },
-  {
-    "name": "Fruity Jubpops",
-    "value": 3160
-  },
-  {
-    "name": "Fruity Korbites",
-    "value": 4260
-  },
-  {
-    "name": "Fruity Taffy",
-    "value": 200
-  },
-  {
-    "name": "Fun and Happytime Gum",
-    "value": 383000
-  },
-  {
-    "name": "Furry Fury Grarrl Gobstopper",
-    "value": 26300
-  },
-  {
-    "name": "Fyora Lollyswirl",
-    "value": 114000
-  },
-  {
-    "name": "Gelert Tail Licorice",
-    "value": 20000
-  },
-  {
-    "name": "Gemmy Beans",
-    "value": 4160
-  },
-  {
-    "name": "Giant Gummy Ruki",
-    "value": 120000
-  },
-  {
-    "name": "Giant Peppermint Lollipop",
-    "value": 10300
-  },
-  {
-    "name": "Gingerbread Korbat",
-    "value": 1460
-  },
-  {
-    "name": "Glitter Heart Candy",
-    "value": 2080
-  },
-  {
-    "name": "Glitter Leaf Candy",
-    "value": 2250
-  },
-  {
-    "name": "Glitter Moon Candy",
-    "value": 2900
-  },
-  {
-    "name": "Glitter Star Candy",
-    "value": 1130
-  },
-  {
-    "name": "Glowing Gelert Lollypop",
-    "value": 3370
-  },
-  {
-    "name": "Gnorbu Chocolate Dubloon",
-    "value": 40
-  },
-  {
-    "name": "Gnorbu Gum",
-    "value": 311000
-  },
-  {
-    "name": "Gnorbu Lollipop",
-    "value": 64600
-  },
-  {
-    "name": "Gold Mote Lollypop",
-    "value": 2300
-  },
-  {
-    "name": "Gold-Coated Choco Nuggets",
-    "value": 28700
-  },
-  {
-    "name": "Gooey Chocolate Grarrl",
-    "value": 201000
-  },
-  {
-    "name": "Gooey Strawberry Grarrl",
-    "value": 786
-  },
-  {
-    "name": "Gooey White Chocolate Grarrl",
-    "value": 1430
-  },
-  {
-    "name": "Gooseberry Gummy Scorchio",
-    "value": 697
-  },
-  {
-    "name": "Gooseberry Snorkle Lollypop",
-    "value": 23900
-  },
-  {
-    "name": "Goparokko Gnorlolly",
-    "value": 6570
-  },
-  {
-    "name": "Grape Arnold Lolly",
-    "value": 549
-  },
-  {
-    "name": "Grape Blumaroo Gummy Die",
-    "value": 35300
-  },
-  {
-    "name": "Grape Candy Rock",
-    "value": 1610
-  },
-  {
-    "name": "Grape Grarrl Gummy",
-    "value": 3240
-  },
-  {
-    "name": "Grape Gummy Book",
-    "value": 27300
-  },
-  {
-    "name": "Grape Gummy Gem",
-    "value": 2170
-  },
-  {
-    "name": "Grape Gummy Mallet",
-    "value": 302000
-  },
-  {
-    "name": "Grape Gummy Scorchio",
-    "value": 1000
-  },
-  {
-    "name": "Grape Gummy Slorg",
-    "value": 800000
-  },
-  {
-    "name": "Grape Gummy Stamp",
-    "value": 1690
-  },
-  {
-    "name": "Grape Meerca Gobstopper",
-    "value": 683
-  },
-  {
-    "name": "Grape Peophin Lollypop",
-    "value": 62600
-  },
-  {
-    "name": "Grape Poogle Pop",
-    "value": 960
-  },
-  {
-    "name": "Grape Ribbon",
-    "value": 14500
-  },
-  {
-    "name": "Grape Rubber Duck Lolly",
-    "value": 3110
-  },
-  {
-    "name": "Grape Sugared Slorg",
-    "value": 1530
-  },
-  {
-    "name": "Grape Usuki Gum",
-    "value": 2560
-  },
-  {
-    "name": "Grape Wocky Candy Floss",
     "value": 3200
   },
   {
-    "name": "Grapefruit Gelert Lollypop",
-    "value": 3710
+    "name": "Eyrie Loveberripop",
+    "value": 25500
   },
   {
-    "name": "Grapefruit Grundo Lollypop",
-    "value": 2480
+    "name": "Eyrie Plumberripop",
+    "value": 2800
   },
   {
-    "name": "Graperock Gobstopper",
-    "value": 85400
+    "name": "Eyrie Tangellapop",
+    "value": 2000
   },
   {
-    "name": "Green Apple Aisha Lollypop",
-    "value": 13900
+    "name": "Felly Jelly Rainbow Candy",
+    "value": 3300
   },
   {
-    "name": "Green Candy Buttons",
-    "value": 14100
+    "name": "Felly Jelly Red Candy",
+    "value": 2200
   },
   {
-    "name": "Green Gem Candy",
-    "value": 4570
+    "name": "Felly Jelly White Candy",
+    "value": 4000
   },
   {
-    "name": "Green Gummy Meerca",
-    "value": 557
+    "name": "Felly Jelly Yellow Candy",
+    "value": 3000
   },
   {
-    "name": "Green Gummy Quiggles",
-    "value": 3180
+    "name": "Fire Candy Buttons",
+    "value": 550
   },
   {
-    "name": "Green Kyrii Candy Floss",
-    "value": 1840
+    "name": "Fire Candyfloss",
+    "value": 7000
   },
   {
-    "name": "Green Lab Jellies Candy",
-    "value": 23100
+    "name": "Fire Mote Lollypop",
+    "value": 2000
   },
   {
-    "name": "Green Pear Drops",
-    "value": 48800
+    "name": "Fishy Delight Grarrl Gobstopper",
+    "value": 540000
   },
   {
-    "name": "Grunion Fruit Gnorlolly",
-    "value": 4920
+    "name": "Fizzy Neocola Bottles",
+    "value": 12
   },
   {
-    "name": "Gummy Aubergine Chia",
-    "value": 31100
+    "name": "Flotsam Snowberry Lollypop",
+    "value": 32000
   },
   {
-    "name": "Gummy Bow",
-    "value": 8760
+    "name": "Fluff N Stuff Grarrl Gobstopper",
+    "value": 18000
   },
   {
-    "name": "Gummy Durian Chia",
-    "value": 49400
+    "name": "Flying Saucers",
+    "value": 3500
   },
   {
-    "name": "Gummy Fish",
-    "value": 9550
+    "name": "Food Shop Chocolate Charm",
+    "value": 2000
   },
   {
-    "name": "Gummy Gem Cupcake",
-    "value": 4570
+    "name": "Frosty Chewing Gum",
+    "value": 30000
   },
   {
-    "name": "Gummy Hannah",
-    "value": 1280
+    "name": "Fruit Sensation Korbat Cake",
+    "value": 27500
   },
   {
-    "name": "Gummy Kacheek Tail",
-    "value": 2160
+    "name": "Fruitmallow Toffee Apple",
+    "value": 1800
   },
   {
-    "name": "Gummy Orange Chia",
-    "value": 19800
+    "name": "Fruity Gormball Gumball",
+    "value": 13000
   },
   {
-    "name": "Gummy Pepper Chia",
-    "value": 30400
+    "name": "Fruity Jubpops",
+    "value": 1400
   },
   {
-    "name": "Gummy Walking Carpet Candies",
-    "value": 47900
+    "name": "Fruity Korbites",
+    "value": 3500
   },
   {
-    "name": "Gummy Worm Lollypop",
-    "value": 29300
+    "name": "Fruity Taffy",
+    "value": 740
   },
   {
-    "name": "Gummy Yoyo",
-    "value": 3470
+    "name": "Fun and Happytime Gum",
+    "value": 34000
   },
   {
-    "name": "Gwernial Gelert Lollypop",
-    "value": 2430
+    "name": "Furry Fury Grarrl Gobstopper",
+    "value": 5500
   },
   {
-    "name": "Half Melted Chocolate Bar",
-    "value": 986
+    "name": "Fyora Lollyswirl",
+    "value": 43500
   },
   {
-    "name": "Half-eaten Candy Floss",
-    "value": 35700
+    "name": "Gelert Tail Licorice",
+    "value": 30500
   },
   {
-    "name": "Hard Blumaroo Candy",
-    "value": 776000
+    "name": "Gemmy Beans",
+    "value": 3600
   },
   {
-    "name": "Hard Doughnutfruit Candies",
-    "value": 212000
+    "name": "Giant Gummy Ruki",
+    "value": 14000
   },
   {
-    "name": "Hazelnut Techo Truffle",
-    "value": 2730
+    "name": "Giant Peppermint Lollipop",
+    "value": 840
   },
   {
-    "name": "Hazelnut Whirl",
-    "value": 421000
+    "name": "Gingerbread Korbat",
+    "value": 700
   },
   {
-    "name": "Heart Breath Mints",
-    "value": 4460
+    "name": "Glitter Heart Candy",
+    "value": 1900
   },
   {
-    "name": "Heart Lollipop",
-    "value": 91000
+    "name": "Glitter Leaf Candy",
+    "value": 2700
   },
   {
-    "name": "Heart Shaped Bon Bons",
-    "value": 58000
+    "name": "Glitter Moon Candy",
+    "value": 1100
   },
   {
-    "name": "Heart Shaped Box of Toffee",
-    "value": 17600
+    "name": "Glitter Star Candy",
+    "value": 3300
   },
   {
-    "name": "Heart Shaped Chocolates",
-    "value": 4820
+    "name": "Glowing Gelert Lollypop",
+    "value": 5100
   },
   {
-    "name": "Holiday Bell Chocolate Advent Calendar",
-    "value": 5320
+    "name": "Gnorbu Chocolate Dubloon",
+    "value": 72
   },
   {
-    "name": "Honey and Mustard Jelly Beans",
-    "value": 51600
+    "name": "Gnorbu Gum",
+    "value": 160000
   },
   {
-    "name": "Honeycomb Face Markings",
-    "value": 157000
+    "name": "Gnorbu Lollipop",
+    "value": 47500
   },
   {
-    "name": "Humbugs",
-    "value": 1170
+    "name": "Gold Mote Lollypop",
+    "value": 1700
   },
   {
-    "name": "Ice Candy Buttons",
-    "value": 217000
+    "name": "Gold-Coated Choco Nuggets",
+    "value": 15500
   },
   {
-    "name": "Ice Licorice",
-    "value": 925
+    "name": "Gooey Chocolate Grarrl",
+    "value": 29000
   },
   {
-    "name": "Ice Mote Lollypop",
-    "value": 1880
+    "name": "Gooey Strawberry Grarrl",
+    "value": 930
   },
   {
-    "name": "Iced Blueberry Gobstopper",
-    "value": 3230
-  },
-  {
-    "name": "Iced Uni Cookie",
-    "value": 916
-  },
-  {
-    "name": "Icy Heart Candy",
-    "value": 2930
-  },
-  {
-    "name": "Icy Mint Jelly Beans",
-    "value": 34500
-  },
-  {
-    "name": "Icy Mints",
-    "value": 68
-  },
-  {
-    "name": "Jack-O-Lantern Pail",
-    "value": 85700
-  },
-  {
-    "name": "Jelly Bean Filled Negg",
+    "name": "Gooey White Chocolate Grarrl",
     "value": 1000
   },
   {
-    "name": "Jelly Bean Keyring",
-    "value": 1710
+    "name": "Gooseberry Gummy Scorchio",
+    "value": 450
   },
   {
-    "name": "Jelly Bean Pirate Chest",
-    "value": 100
+    "name": "Gooseberry Snorkle Lollypop",
+    "value": 32000
   },
   {
-    "name": "Jelly Lenny Beaks",
-    "value": 5330
+    "name": "Goparokko Gnorlolly",
+    "value": 6700
   },
   {
-    "name": "Jelly Wocky",
-    "value": 15900
+    "name": "Grape Arnold Lolly",
+    "value": 900
   },
   {
-    "name": "Jewelled Breath Mints",
-    "value": 3960
+    "name": "Grape Blumaroo Gummy Die",
+    "value": 31000
   },
   {
-    "name": "Jhudora Liquorice",
-    "value": 960000
+    "name": "Grape Candy Rock",
+    "value": 4700
   },
   {
-    "name": "Jhudora Thorn Pops",
-    "value": 4680
+    "name": "Grape Grarrl Gummy",
+    "value": 3000
   },
   {
-    "name": "Jipple Pear Ice Cream Gummy",
-    "value": 2630
+    "name": "Grape Gummy Book",
+    "value": 20500
   },
   {
-    "name": "Jumbleberry Achyfi Lollypop",
-    "value": 1300
-  },
-  {
-    "name": "Jumbleberry Sour Saucer",
-    "value": 3670
-  },
-  {
-    "name": "Juppiemint Bar",
-    "value": 11800
-  },
-  {
-    "name": "Kaia Lollipop",
-    "value": 21500
-  },
-  {
-    "name": "Kau Cookie",
-    "value": 2990
-  },
-  {
-    "name": "Kau Sorbet",
-    "value": 27300
-  },
-  {
-    "name": "Kau Sundae",
-    "value": 106000
-  },
-  {
-    "name": "Kikopop",
-    "value": 14300
-  },
-  {
-    "name": "Korbat Sugar Skull",
-    "value": 74700
-  },
-  {
-    "name": "Kougra Chocolate Dubloon",
-    "value": 35600
-  },
-  {
-    "name": "Kougra Sugar Skull",
-    "value": 85000
-  },
-  {
-    "name": "Koyle Snorkle Lollypop",
-    "value": 83900
-  },
-  {
-    "name": "Krawk Sugar Skull",
-    "value": 138000
-  },
-  {
-    "name": "Kyrii Candy Hair",
-    "value": 1130
-  },
-  {
-    "name": "Kyrii Candy Pants",
-    "value": 1220
-  },
-  {
-    "name": "Kyrii Candy Shirt",
-    "value": 1950
-  },
-  {
-    "name": "Kyrii Candy Shoes",
+    "name": "Grape Gummy Gem",
     "value": 1500
   },
   {
+    "name": "Grape Gummy Mallet",
+    "value": 6600
+  },
+  {
+    "name": "Grape Gummy Scorchio",
+    "value": 960
+  },
+  {
+    "name": "Grape Gummy Slorg",
+    "value": 650000
+  },
+  {
+    "name": "Grape Gummy Stamp",
+    "value": 970
+  },
+  {
+    "name": "Grape Meerca Gobstopper",
+    "value": 890
+  },
+  {
+    "name": "Grape Peophin Lollypop",
+    "value": 30000
+  },
+  {
+    "name": "Grape Poogle Pop",
+    "value": 810
+  },
+  {
+    "name": "Grape Ribbon",
+    "value": 11000
+  },
+  {
+    "name": "Grape Rubber Duck Lolly",
+    "value": 2500
+  },
+  {
+    "name": "Grape Sugared Slorg",
+    "value": 2100
+  },
+  {
+    "name": "Grape Usuki Gum",
+    "value": 1800
+  },
+  {
+    "name": "Grape Wocky Candy Floss",
+    "value": 5900
+  },
+  {
+    "name": "Grapefruit Gelert Lollypop",
+    "value": 3200
+  },
+  {
+    "name": "Grapefruit Grundo Lollypop",
+    "value": 2100
+  },
+  {
+    "name": "Graperock Gobstopper",
+    "value": 1500
+  },
+  {
+    "name": "Green Apple Aisha Lollypop",
+    "value": 17500
+  },
+  {
+    "name": "Green Candy Buttons",
+    "value": 22500
+  },
+  {
+    "name": "Green Gem Candy",
+    "value": 3000
+  },
+  {
+    "name": "Green Gummy Meerca",
+    "value": 440
+  },
+  {
+    "name": "Green Gummy Quiggles",
+    "value": 4200
+  },
+  {
+    "name": "Green Kyrii Candy Floss",
+    "value": 3000
+  },
+  {
+    "name": "Green Lab Jellies Candy",
+    "value": 11000
+  },
+  {
+    "name": "Green Pear Drops",
+    "value": 17500
+  },
+  {
+    "name": "Grunion Fruit Gnorlolly",
+    "value": 3900
+  },
+  {
+    "name": "Gummy Aubergine Chia",
+    "value": 16000
+  },
+  {
+    "name": "Gummy Bow",
+    "value": 9700
+  },
+  {
+    "name": "Gummy Durian Chia",
+    "value": 9900
+  },
+  {
+    "name": "Gummy Fish",
+    "value": 6600
+  },
+  {
+    "name": "Gummy Gem Cupcake",
+    "value": 3000
+  },
+  {
+    "name": "Gummy Hannah",
+    "value": 1100
+  },
+  {
+    "name": "Gummy Kacheek Tail",
+    "value": 3300
+  },
+  {
+    "name": "Gummy Orange Chia",
+    "value": 5100
+  },
+  {
+    "name": "Gummy Pepper Chia",
+    "value": 17500
+  },
+  {
+    "name": "Gummy Walking Carpet Candies",
+    "value": 33000
+  },
+  {
+    "name": "Gummy Worm Lollypop",
+    "value": 26500
+  },
+  {
+    "name": "Gummy Yoyo",
+    "value": 4100
+  },
+  {
+    "name": "Gwernial Gelert Lollypop",
+    "value": 2100
+  },
+  {
+    "name": "Half Melted Chocolate Bar",
+    "value": 510
+  },
+  {
+    "name": "Half-eaten Candy Floss",
+    "value": 27000
+  },
+  {
+    "name": "Hard Blumaroo Candy",
+    "value": 32000
+  },
+  {
+    "name": "Hard Doughnutfruit Candies",
+    "value": 11500
+  },
+  {
+    "name": "Hazelnut Techo Truffle",
+    "value": 3800
+  },
+  {
+    "name": "Hazelnut Whirl",
+    "value": 620000
+  },
+  {
+    "name": "Heart Breath Mints",
+    "value": 8400
+  },
+  {
+    "name": "Heart Lollipop",
+    "value": 26500
+  },
+  {
+    "name": "Heart Shaped Bon Bons",
+    "value": 23500
+  },
+  {
+    "name": "Heart Shaped Box of Toffee",
+    "value": 30000
+  },
+  {
+    "name": "Heart Shaped Chocolates",
+    "value": 1100
+  },
+  {
+    "name": "Holiday Bell Chocolate Advent Calendar",
+    "value": 6000
+  },
+  {
+    "name": "Honey and Mustard Jelly Beans",
+    "value": 23500
+  },
+  {
+    "name": "Honeycomb Face Markings",
+    "value": 21000
+  },
+  {
+    "name": "Humbugs",
+    "value": 995
+  },
+  {
+    "name": "Ice Candy Buttons",
+    "value": 30000
+  },
+  {
+    "name": "Ice Licorice",
+    "value": 1000
+  },
+  {
+    "name": "Ice Mote Lollypop",
+    "value": 3900
+  },
+  {
+    "name": "Iced Blueberry Gobstopper",
+    "value": 3300
+  },
+  {
+    "name": "Iced Uni Cookie",
+    "value": 855
+  },
+  {
+    "name": "Icy Heart Candy",
+    "value": 2000
+  },
+  {
+    "name": "Icy Mint Jelly Beans",
+    "value": 32500
+  },
+  {
+    "name": "Icy Mints",
+    "value": 98
+  },
+  {
+    "name": "Jack-O-Lantern Pail",
+    "value": 23000
+  },
+  {
+    "name": "Jelly Bean Filled Negg",
+    "value": 1300
+  },
+  {
+    "name": "Jelly Bean Keyring",
+    "value": 3100
+  },
+  {
+    "name": "Jelly Bean Pirate Chest",
+    "value": 96
+  },
+  {
+    "name": "Jelly Lenny Beaks",
+    "value": 5900
+  },
+  {
+    "name": "Jelly Wocky",
+    "value": 34000
+  },
+  {
+    "name": "Jewelled Breath Mints",
+    "value": 3500
+  },
+  {
+    "name": "Jhudora Liquorice",
+    "value": 10500
+  },
+  {
+    "name": "Jhudora Thorn Pops",
+    "value": 4300
+  },
+  {
+    "name": "Jipple Pear Ice Cream Gummy",
+    "value": 2200
+  },
+  {
+    "name": "JubJub Bonbon",
+    "value": 78500
+  },
+  {
+    "name": "JubJub Meringue",
+    "value": 110000
+  },
+  {
+    "name": "Jumbleberry Achyfi Lollypop",
+    "value": 1000
+  },
+  {
+    "name": "Jumbleberry Sour Saucer",
+    "value": 1400
+  },
+  {
+    "name": "Juppiemint Bar",
+    "value": 11500
+  },
+  {
+    "name": "Kaia Lollipop",
+    "value": 7800
+  },
+  {
+    "name": "Kau Cookie",
+    "value": 3300
+  },
+  {
+    "name": "Kau Sorbet",
+    "value": 16000
+  },
+  {
+    "name": "Kau Sundae",
+    "value": 70000
+  },
+  {
+    "name": "Kikopop",
+    "value": 12500
+  },
+  {
+    "name": "Korbat Sugar Skull",
+    "value": 20500
+  },
+  {
+    "name": "Kougra Chocolate Dubloon",
+    "value": 27000
+  },
+  {
+    "name": "Kougra Sugar Skull",
+    "value": 40500
+  },
+  {
+    "name": "Koyle Snorkle Lollypop",
+    "value": 5700
+  },
+  {
+    "name": "Krawk Sugar Skull",
+    "value": 55500
+  },
+  {
+    "name": "Kyrii Candy Hair",
+    "value": 545
+  },
+  {
+    "name": "Kyrii Candy Pants",
+    "value": 405
+  },
+  {
+    "name": "Kyrii Candy Shirt",
+    "value": 595
+  },
+  {
+    "name": "Kyrii Candy Shoes",
+    "value": 1000
+  },
+  {
     "name": "Kyrii Chocolate Dubloon",
-    "value": 340000
+    "value": 31000
   },
   {
     "name": "Kyrii Pop",
-    "value": 3820
+    "value": 3400
   },
   {
     "name": "Large Dark Chocolate Cybunny",
-    "value": 2470
+    "value": 1600
   },
   {
     "name": "Large Milk Chocolate Cybunny",
@@ -1904,1523 +1905,1523 @@
   },
   {
     "name": "Large Swirly Chocolate Cybunny",
-    "value": 228000
-  },
-  {
-    "name": "Large White Chocolate Cybunny",
-    "value": 9680
-  },
-  {
-    "name": "Lavender Truffle",
-    "value": 2510
-  },
-  {
-    "name": "Lemon Aisha Lollypop",
-    "value": 284
-  },
-  {
-    "name": "Lemon and Lime Easter Negg",
-    "value": 1430000
-  },
-  {
-    "name": "Lemon Bon Bons",
-    "value": 749000
-  },
-  {
-    "name": "Lemon Bori Lolly",
-    "value": 58400
-  },
-  {
-    "name": "Lemon Bumbluz Lolly",
-    "value": 80100
-  },
-  {
-    "name": "Lemon Chia Treat",
-    "value": 16000
-  },
-  {
-    "name": "Lemon Curd Gormball Truffle",
-    "value": 46100
-  },
-  {
-    "name": "Lemon Draik Lollypop",
-    "value": 1150
-  },
-  {
-    "name": "Lemon Grarrl Gummy",
-    "value": 9850
-  },
-  {
-    "name": "Lemon Grarrl Pop",
-    "value": 35100
-  },
-  {
-    "name": "Lemon Gummy Kiko",
-    "value": 74600
-  },
-  {
-    "name": "Lemon Gummy Sword",
-    "value": 13500
-  },
-  {
-    "name": "Lemon Ixi Pop",
-    "value": 1110
-  },
-  {
-    "name": "Lemon Koi Pop",
-    "value": 205
-  },
-  {
-    "name": "Lemon Lupe Lollypop",
-    "value": 1210
-  },
-  {
-    "name": "Lemon Neodrops",
-    "value": 1370
-  },
-  {
-    "name": "Lemon Nimmo Bites",
-    "value": 6860
-  },
-  {
-    "name": "Lemon Pinchit Lollypop",
-    "value": 32000
-  },
-  {
-    "name": "Lemon Pteripop",
-    "value": 1880
-  },
-  {
-    "name": "Lemon Quiggle Pop",
-    "value": 922
-  },
-  {
-    "name": "Lemon Sherbert Candy Cane",
-    "value": 4700
-  },
-  {
-    "name": "Lemon Sherbert Jelly Beans",
-    "value": 36500
-  },
-  {
-    "name": "Lemon Sugared Gelert Gummy",
-    "value": 125000
-  },
-  {
-    "name": "Lemon Tonu Hard Candy",
-    "value": 1850
-  },
-  {
-    "name": "Lemon Tulip Lollypop",
-    "value": 2020
-  },
-  {
-    "name": "Lemon Tuskaninny Lolly",
-    "value": 500
-  },
-  {
-    "name": "Licorice Twists",
-    "value": 807
-  },
-  {
-    "name": "Licorice Zafara Tail",
-    "value": 884
-  },
-  {
-    "name": "Lightning Bolt Lollypop",
-    "value": 67200
-  },
-  {
-    "name": "Lime Achyfi Lollypop",
-    "value": 360000
-  },
-  {
-    "name": "Lime Aisha Lollypop",
-    "value": 1650
-  },
-  {
-    "name": "Lime Bori Lolly",
-    "value": 14000
-  },
-  {
-    "name": "Lime Candy Floss",
-    "value": 29900
-  },
-  {
-    "name": "Lime Candy Rock",
-    "value": 3020
-  },
-  {
-    "name": "Lime Draik Lollypop",
-    "value": 815
-  },
-  {
-    "name": "Lime Eliv Thade Lolly",
-    "value": 968
-  },
-  {
-    "name": "Lime Grarrl Gummy",
-    "value": 2810
-  },
-  {
-    "name": "Lime Grarrl Pop",
-    "value": 66400
-  },
-  {
-    "name": "Lime Grundo Lollypop",
-    "value": 58100
-  },
-  {
-    "name": "Lime Gummy Book",
-    "value": 86800
-  },
-  {
-    "name": "Lime Gummy Die",
-    "value": 1430
-  },
-  {
-    "name": "Lime Gummy Kiko",
-    "value": 1820
-  },
-  {
-    "name": "Lime Gummy Peophin",
-    "value": 69900
-  },
-  {
-    "name": "Lime Gummy Slorg",
-    "value": 1030
-  },
-  {
-    "name": "Lime Jelly Acara",
-    "value": 2130
-  },
-  {
-    "name": "Lime Jelly Blumaroo",
-    "value": 3070
-  },
-  {
-    "name": "Lime Jelly Flotsam",
-    "value": 2940
-  },
-  {
-    "name": "Lime Jelly JubJub",
-    "value": 1330
-  },
-  {
-    "name": "Lime Jelly Usul",
-    "value": 2960
-  },
-  {
-    "name": "Lime Kacheek Drops",
-    "value": 582
-  },
-  {
-    "name": "Lime Meerca Gobstopper",
-    "value": 93600
-  },
-  {
-    "name": "Lime Neodrops",
-    "value": 6170
-  },
-  {
-    "name": "Lime Nimmo Bites",
-    "value": 3530
-  },
-  {
-    "name": "Lime Nimmo Pop",
-    "value": 1280
-  },
-  {
-    "name": "Lime Poogle Pop",
-    "value": 2490
-  },
-  {
-    "name": "Lime Pteripop",
-    "value": 2260
-  },
-  {
-    "name": "Lime Quiggle Pop",
-    "value": 290
-  },
-  {
-    "name": "Lime Ruki Lollypop",
-    "value": 1780
-  },
-  {
-    "name": "Lime Shoyru Sweet",
-    "value": 1890
-  },
-  {
-    "name": "Lime Skidget Lolly",
-    "value": 85900
-  },
-  {
-    "name": "Lime Techo Pop",
-    "value": 1120
-  },
-  {
-    "name": "Lime Toffee Juppie",
-    "value": 3100
-  },
-  {
-    "name": "Lime Tonu Hard Candy",
-    "value": 3180
-  },
-  {
-    "name": "Lime Tuskaninny Lolly",
-    "value": 517000
-  },
-  {
-    "name": "Lime Whirlpool Candy",
-    "value": 29700
-  },
-  {
-    "name": "Lolli Keyring",
-    "value": 791
-  },
-  {
-    "name": "Longan Lollypop",
-    "value": 36800
-  },
-  {
-    "name": "Lost City Lanes Lime Gobstopper",
-    "value": 41200
-  },
-  {
-    "name": "Lost City Lanes Wrapped Chocolate Pin",
-    "value": 210000
-  },
-  {
-    "name": "Love Shake Chocolate",
-    "value": 4240
-  },
-  {
-    "name": "Lovely Lime Grarrl Gobstopper",
-    "value": 895
-  },
-  {
-    "name": "Luscious Lemon Grarrl Gobstopper",
-    "value": 1090
-  },
-  {
-    "name": "Lutari Mints",
-    "value": 2050
-  },
-  {
-    "name": "Luxury Chocolate Easter Negg",
-    "value": 1150000
-  },
-  {
-    "name": "Magic Wand Lolly",
-    "value": 4100
-  },
-  {
-    "name": "Mallowicious Bar",
-    "value": 139000
-  },
-  {
-    "name": "Maraquan Shoyru Fin Lolly",
-    "value": 4210
-  },
-  {
-    "name": "Marshmallow Elephante",
-    "value": 4350
-  },
-  {
-    "name": "Marshmallow Floud",
-    "value": 1340
-  },
-  {
-    "name": "Marshmallow Gobstopper",
-    "value": 5700
-  },
-  {
-    "name": "Marshmallow Plumpy",
-    "value": 40200
-  },
-  {
-    "name": "Marzipan Sugared Slorg",
-    "value": 2
-  },
-  {
-    "name": "Mega Minty Korbat Cake",
-    "value": 40500
-  },
-  {
-    "name": "Melon Chews",
-    "value": 2610
-  },
-  {
-    "name": "Melon-Berry Gummies",
-    "value": 77200
-  },
-  {
-    "name": "Melted Chocolate Heart",
-    "value": 92300
-  },
-  {
-    "name": "Melted Chocolate Negg",
-    "value": 661
-  },
-  {
-    "name": "Milk Chocolate A",
-    "value": 2590
-  },
-  {
-    "name": "Milk Chocolate Aisha",
-    "value": 2890
-  },
-  {
-    "name": "Milk Chocolate Buzz",
-    "value": 2580
-  },
-  {
-    "name": "Milk Chocolate Draik",
-    "value": 45000
-  },
-  {
-    "name": "Milk Chocolate Elephante",
-    "value": 2720
-  },
-  {
-    "name": "Milk Chocolate Eyrie",
-    "value": 2480
-  },
-  {
-    "name": "Milk Chocolate Flotsam",
-    "value": 2140
-  },
-  {
-    "name": "Milk Chocolate Gelert",
-    "value": 2610
-  },
-  {
-    "name": "Milk Chocolate Gnorbu",
-    "value": 62500
-  },
-  {
-    "name": "Milk Chocolate Grarrl",
-    "value": 2370
-  },
-  {
-    "name": "Milk Chocolate Grundo",
-    "value": 51000
-  },
-  {
-    "name": "Milk Chocolate Hissi",
-    "value": 35700
-  },
-  {
-    "name": "Milk Chocolate Hollow Chia",
     "value": 220000
   },
   {
-    "name": "Milk Chocolate Hollow Cybunny",
-    "value": 291000
+    "name": "Large White Chocolate Cybunny",
+    "value": 11000
   },
   {
-    "name": "Milk Chocolate Hollow Kacheek",
-    "value": 804
+    "name": "Lavender Truffle",
+    "value": 3200
   },
   {
-    "name": "Milk Chocolate Jetsam",
-    "value": 3870
-  },
-  {
-    "name": "Milk Chocolate Kacheek",
-    "value": 46200
-  },
-  {
-    "name": "Milk Chocolate Kiko",
-    "value": 9520
-  },
-  {
-    "name": "Milk Chocolate King Kelpbeard",
-    "value": 318000
-  },
-  {
-    "name": "Milk Chocolate Korbat",
-    "value": 272
-  },
-  {
-    "name": "Milk Chocolate Kougra",
-    "value": 5660
-  },
-  {
-    "name": "Milk Chocolate Kougra Paw",
-    "value": 3420
-  },
-  {
-    "name": "Milk Chocolate Krawk Coin",
-    "value": 24900
-  },
-  {
-    "name": "Milk Chocolate Kyrii",
-    "value": 3150
-  },
-  {
-    "name": "Milk Chocolate Lenny",
-    "value": 593
-  },
-  {
-    "name": "Milk Chocolate Moehog",
-    "value": 4160
-  },
-  {
-    "name": "Milk Chocolate Mynci",
-    "value": 34600
-  },
-  {
-    "name": "Milk Chocolate Nimmo",
-    "value": 2460
-  },
-  {
-    "name": "Milk Chocolate Nova",
-    "value": 159000
-  },
-  {
-    "name": "Milk Chocolate Ogrin",
-    "value": 3800
-  },
-  {
-    "name": "Milk Chocolate Peophin",
-    "value": 1950
-  },
-  {
-    "name": "Milk Chocolate Pteri",
-    "value": 2530
-  },
-  {
-    "name": "Milk Chocolate Rose",
-    "value": 840
-  },
-  {
-    "name": "Milk Chocolate Scorchio",
-    "value": 5150
-  },
-  {
-    "name": "Milk Chocolate Shoyru",
-    "value": 1480
-  },
-  {
-    "name": "Milk Chocolate Skeith",
-    "value": 2020
-  },
-  {
-    "name": "Milk Chocolate Techo",
-    "value": 9330
-  },
-  {
-    "name": "Milk Chocolate Tonu",
-    "value": 90900
-  },
-  {
-    "name": "Milk Chocolate Tuskaninny",
-    "value": 136000
-  },
-  {
-    "name": "Milk Chocolate Usul",
-    "value": 1400
-  },
-  {
-    "name": "Milk Chocolate Zafara",
-    "value": 45600
-  },
-  {
-    "name": "Milk Kiko Chocolates",
-    "value": 1010
-  },
-  {
-    "name": "Miniature Chocolate Chocolate Factory",
-    "value": 127000
-  },
-  {
-    "name": "Mint Chocolate Blumaroo",
-    "value": 37700
-  },
-  {
-    "name": "Mint Chocolate Chia",
-    "value": 51500
-  },
-  {
-    "name": "Mint Chocolate Draik",
-    "value": 38600
-  },
-  {
-    "name": "Mint Chocolate Easter Negg",
-    "value": 1240000
-  },
-  {
-    "name": "Mint Chocolate Gnorbu",
-    "value": 27200
-  },
-  {
-    "name": "Mint Chocolate Grundo",
-    "value": 976
-  },
-  {
-    "name": "Mint Chocolate Kacheek",
-    "value": 963
-  },
-  {
-    "name": "Mint Chocolate Kau",
-    "value": 28400
-  },
-  {
-    "name": "Mint Chocolate Koi",
-    "value": 1110
-  },
-  {
-    "name": "Mint Chocolate Kougra Paw",
-    "value": 1170
-  },
-  {
-    "name": "Mint Chocolate Krawk",
-    "value": 140
-  },
-  {
-    "name": "Mint Chocolate Krawk Coin",
-    "value": 66500
-  },
-  {
-    "name": "Mint Chocolate Lupe",
-    "value": 15100
-  },
-  {
-    "name": "Mint Chocolate Moehog",
-    "value": 101000
-  },
-  {
-    "name": "Mint Chocolate Nimmo",
-    "value": 920
-  },
-  {
-    "name": "Mint Chocolate Nova",
-    "value": 51100
-  },
-  {
-    "name": "Mint Chocolate Ogrin",
-    "value": 2160
-  },
-  {
-    "name": "Mint Chocolate Peophin",
-    "value": 52700
-  },
-  {
-    "name": "Mint Chocolate Poogle",
-    "value": 22400
-  },
-  {
-    "name": "Mint Chocolate Pteri",
-    "value": 956
-  },
-  {
-    "name": "Mint Chocolate Scorchio",
-    "value": 1310
-  },
-  {
-    "name": "Mint Chocolate Shoyru",
-    "value": 1240
-  },
-  {
-    "name": "Mint Chocolate Spike Ball Candy",
-    "value": 3730
-  },
-  {
-    "name": "Mint Chocolate Tuskaninny",
-    "value": 25400
-  },
-  {
-    "name": "Mint Chocolate Uni",
-    "value": 75400
-  },
-  {
-    "name": "Mint Chocolate Usul",
-    "value": 27400
-  },
-  {
-    "name": "Mint Chocolate Wocky",
-    "value": 7280
-  },
-  {
-    "name": "Mint Jelly A",
-    "value": 35400
-  },
-  {
-    "name": "Mint Usuki Gum",
-    "value": 5750
-  },
-  {
-    "name": "Minty Choccywhip",
-    "value": 97100
-  },
-  {
-    "name": "Minty Chomby Lolly",
-    "value": 132000
-  },
-  {
-    "name": "Moon Lollipop",
-    "value": 6780
-  },
-  {
-    "name": "Moonfruit Lollipop",
-    "value": 423
-  },
-  {
-    "name": "Mostly Orange Candy Sticks",
-    "value": 15600
-  },
-  {
-    "name": "Mouldy Chocolate Heart",
-    "value": 28200
-  },
-  {
-    "name": "Mud Lollipop",
-    "value": 36600
-  },
-  {
-    "name": "Mustard Mayhem Grarrl Gobstopper",
-    "value": 29500
-  },
-  {
-    "name": "Mutant Lollipop Assortment",
-    "value": 345
-  },
-  {
-    "name": "Mynci Tail Lollypops",
-    "value": 29000
-  },
-  {
-    "name": "Negg Chocolate",
-    "value": 2620
-  },
-  {
-    "name": "Negg Lollipop",
-    "value": 1140
-  },
-  {
-    "name": "Neocola Bottles",
-    "value": 31000
-  },
-  {
-    "name": "Neotruffle",
-    "value": 3350000
-  },
-  {
-    "name": "Nerkin Jelly Beans",
-    "value": 6010
-  },
-  {
-    "name": "Neverending Chocolate Cake Foreground",
-    "value": 6560
-  },
-  {
-    "name": "Neverending Jar of Jellybeans",
-    "value": 310000
-  },
-  {
-    "name": "Nova Breath Mints",
-    "value": 6020
-  },
-  {
-    "name": "Nutty Chocolate Negg",
-    "value": 3260
-  },
-  {
-    "name": "Nutty Kiko Chocolates",
-    "value": 730
-  },
-  {
-    "name": "Omnipotent Onion Grarrl Gobstopper",
-    "value": 1020000
-  },
-  {
-    "name": "Oozing Chocolate Heart",
-    "value": 3570
-  },
-  {
-    "name": "Orange Blumaroo Gummy Die",
-    "value": 39000
-  },
-  {
-    "name": "Orange Bori Lolly",
-    "value": 77500
-  },
-  {
-    "name": "Orange Candy Floss",
-    "value": 19300
-  },
-  {
-    "name": "Orange Chocolate Grarrl",
-    "value": 18700
-  },
-  {
-    "name": "Orange Chocolate Grundo",
-    "value": 5260
-  },
-  {
-    "name": "Orange Chocolate Hollow Chia",
-    "value": 736
-  },
-  {
-    "name": "Orange Chocolate Hollow Kacheek",
-    "value": 590
-  },
-  {
-    "name": "Orange Chocolate Jetsam",
-    "value": 89400
-  },
-  {
-    "name": "Orange Chocolate JubJub",
-    "value": 31900
-  },
-  {
-    "name": "Orange Chocolate Kacheek",
-    "value": 98600
-  },
-  {
-    "name": "Orange Chocolate Kau",
-    "value": 42800
-  },
-  {
-    "name": "Orange Chocolate Kiko",
-    "value": 22500
-  },
-  {
-    "name": "Orange Chocolate Koi",
-    "value": 51900
-  },
-  {
-    "name": "Orange Chocolate Korbat",
-    "value": 295
-  },
-  {
-    "name": "Orange Chocolate Kougra",
-    "value": 3930
-  },
-  {
-    "name": "Orange Chocolate Lupe",
-    "value": 100000
-  },
-  {
-    "name": "Orange Chocolate Moehog",
-    "value": 971
-  },
-  {
-    "name": "Orange Chocolate Mynci",
-    "value": 961
-  },
-  {
-    "name": "Orange Chocolate Nimmo",
-    "value": 586
-  },
-  {
-    "name": "Orange Chocolate Nova",
-    "value": 7810
-  },
-  {
-    "name": "Orange Chocolate Pyramid",
-    "value": 10300
-  },
-  {
-    "name": "Orange Chocolate Quiggle",
-    "value": 948
-  },
-  {
-    "name": "Orange Chocolate Scorchio",
-    "value": 10200
-  },
-  {
-    "name": "Orange Chocolate Shoyru",
-    "value": 10100
-  },
-  {
-    "name": "Orange Chocolate Snowflake",
-    "value": 975
-  },
-  {
-    "name": "Orange Chocolate Tuskaninny",
-    "value": 16500
-  },
-  {
-    "name": "Orange Chocolate Vandagyre",
-    "value": 14500
-  },
-  {
-    "name": "Orange Cream Techo Truffle",
-    "value": 1540
-  },
-  {
-    "name": "Orange Fizzy Gravel",
-    "value": 3560
-  },
-  {
-    "name": "Orange Gelert Lollypop",
-    "value": 2140
-  },
-  {
-    "name": "Orange Gem Candy",
-    "value": 3310
-  },
-  {
-    "name": "Orange Gummy Book",
-    "value": 75000
-  },
-  {
-    "name": "Orange Gummy Kiko",
-    "value": 67800
-  },
-  {
-    "name": "Orange Gummy Korbat Tail",
-    "value": 90
-  },
-  {
-    "name": "Orange Gummy Peophin",
-    "value": 23900
-  },
-  {
-    "name": "Orange Gummy Quiggles",
-    "value": 5580
-  },
-  {
-    "name": "Orange Gummy Scorchio",
-    "value": 922
-  },
-  {
-    "name": "Orange Gummy Slorg",
-    "value": 50600
-  },
-  {
-    "name": "Orange Gummy Stamp",
-    "value": 880
-  },
-  {
-    "name": "Orange Kacheek Drops",
-    "value": 1310
-  },
-  {
-    "name": "Orange Koi Lolly",
-    "value": 753
-  },
-  {
-    "name": "Orange Lemon Ribbon",
-    "value": 27900
-  },
-  {
-    "name": "Orange Lightmite Lollypop",
-    "value": 8900000
-  },
-  {
-    "name": "Orange Lupe Hard Candy",
-    "value": 38100
-  },
-  {
-    "name": "Orange Neodrops",
-    "value": 1500
-  },
-  {
-    "name": "Orange Poogle Pop",
-    "value": 822
-  },
-  {
-    "name": "Orange Quiggle Pop",
-    "value": 1300
-  },
-  {
-    "name": "Orange Scoach Lolly",
-    "value": 1640000
-  },
-  {
-    "name": "Orange Scorchipop",
-    "value": 366
-  },
-  {
-    "name": "Orange Swirl Bonbon",
-    "value": 2280
-  },
-  {
-    "name": "Orange Usuki Gum",
-    "value": 2960
-  },
-  {
-    "name": "Orange Whirlpool Candy",
-    "value": 36700
-  },
-  {
-    "name": "Outrageous Orange Grarrl Gobstopper",
-    "value": 369000
-  },
-  {
-    "name": "Patterned Chocolate Negg",
-    "value": 841
-  },
-  {
-    "name": "Peach Gummy Chia",
+    "name": "Lemon Aisha Lollypop",
     "value": 695
   },
   {
-    "name": "Peach Gummy Lutari",
-    "value": 1500
+    "name": "Lemon and Lime Easter Negg",
+    "value": 2850000
   },
   {
-    "name": "Peanut Brittles",
-    "value": 17000
+    "name": "Lemon Bon Bons",
+    "value": 28500
   },
   {
-    "name": "Peanut Butter Chocolate Shoyru",
-    "value": 1130
+    "name": "Lemon Bori Lolly",
+    "value": 3500
   },
   {
-    "name": "Peanut Butter Gormball Truffle",
-    "value": 20500
+    "name": "Lemon Bumbluz Lolly",
+    "value": 49000
   },
   {
-    "name": "Pecan Divinity Candy",
-    "value": 1060
-  },
-  {
-    "name": "Peophin Chocolate Medallion",
-    "value": 7800
-  },
-  {
-    "name": "Peppermint Gormball Gumball",
-    "value": 42600
-  },
-  {
-    "name": "Peppermint Praline Bar",
-    "value": 13600
-  },
-  {
-    "name": "Pineapple Blumaroo Gummy Die",
-    "value": 33200
-  },
-  {
-    "name": "Pineapple Cubes",
-    "value": 9560
-  },
-  {
-    "name": "Pineapple Gummy Chia",
-    "value": 1010
-  },
-  {
-    "name": "Pineapple Lollypop",
-    "value": 64500
-  },
-  {
-    "name": "Pink Gormball Gumball",
-    "value": 53300
-  },
-  {
-    "name": "Pink Kyrii Candy Floss",
-    "value": 1900
-  },
-  {
-    "name": "Pink Lab Jellies Candy",
-    "value": 42800
-  },
-  {
-    "name": "Pink Lemonade Gummy Peophin",
-    "value": 29700
-  },
-  {
-    "name": "Pink Lenny Lollipop",
-    "value": 12300
-  },
-  {
-    "name": "Pirate Hat Toffees",
-    "value": 28
-  },
-  {
-    "name": "Pirate Hook Candy Cane",
-    "value": 11
-  },
-  {
-    "name": "Plain Chocolate Hollow Cybunny",
-    "value": 944
-  },
-  {
-    "name": "Poison Heart Candy Apple",
-    "value": 23200
-  },
-  {
-    "name": "Pretty Pink Easter Negg",
-    "value": 731000
-  },
-  {
-    "name": "Punchbag Bob Lolly",
-    "value": 110
-  },
-  {
-    "name": "Punchbag Sid Lolly",
-    "value": 1070
-  },
-  {
-    "name": "Purple Fizzy Gravel",
-    "value": 3850
-  },
-  {
-    "name": "Rainbow Breath Mints",
-    "value": 3770
-  },
-  {
-    "name": "Rainbow Candy Floss",
-    "value": 3990000
-  },
-  {
-    "name": "Rainbow Chia Gumball",
-    "value": 73300
-  },
-  {
-    "name": "Rainbow Doughnutfruit Lolly",
-    "value": 180000
-  },
-  {
-    "name": "Rainbow Elephante Lolly",
-    "value": 56400
-  },
-  {
-    "name": "Rainbow Flotsam Lollypop",
-    "value": 70600
-  },
-  {
-    "name": "Rainbow Gelert Lollypop",
-    "value": 79000
-  },
-  {
-    "name": "Rainbow Gummy Die",
-    "value": 10300
-  },
-  {
-    "name": "Rainbow Nata De Coco",
-    "value": 55600
-  },
-  {
-    "name": "Rainbow Neodrops",
-    "value": 19000
-  },
-  {
-    "name": "Rainbow Yurble Lollypop",
-    "value": 1680
-  },
-  {
-    "name": "Raisin Nut Bar",
-    "value": 5810
-  },
-  {
-    "name": "Raspberry Achyfi Lollypop",
-    "value": 20200
-  },
-  {
-    "name": "Raspberry and Vanilla Nova",
-    "value": 16900
-  },
-  {
-    "name": "Raspberry Candy Rock",
-    "value": 3630
-  },
-  {
-    "name": "Raspberry Chocolate Nova",
-    "value": 777
-  },
-  {
-    "name": "Raspberry Chocolate Tuskaninny",
-    "value": 10800
-  },
-  {
-    "name": "Raspberry Grundo Lollypop",
-    "value": 1100
-  },
-  {
-    "name": "Raspberry Gummy Scorchio",
-    "value": 1600
-  },
-  {
-    "name": "Raspberry Gummy Skeith Tail",
-    "value": 4040
-  },
-  {
-    "name": "Raspberry Jelly A",
-    "value": 3190
-  },
-  {
-    "name": "Raspberry Jelly Heart",
-    "value": 29800
-  },
-  {
-    "name": "Raspberry Neodrops",
-    "value": 5850
-  },
-  {
-    "name": "Raspberry Nimmo Bites",
-    "value": 2280
-  },
-  {
-    "name": "Raspberry Swirl Grarrl Cookie",
-    "value": 806
-  },
-  {
-    "name": "Raspberry Tonu Hard Candy",
-    "value": 2970
-  },
-  {
-    "name": "Red Buzz Lolly",
-    "value": 11900
-  },
-  {
-    "name": "Red Fizzy Gravel",
-    "value": 20100
-  },
-  {
-    "name": "Red Gem Candy",
-    "value": 3570
-  },
-  {
-    "name": "Red Gummy Hearts",
-    "value": 10400
-  },
-  {
-    "name": "Red Gummy Meerca",
-    "value": 1140
-  },
-  {
-    "name": "Red Gummy Quiggles",
-    "value": 14000
-  },
-  {
-    "name": "Red Nimmo Foot Lolly",
-    "value": 4330
-  },
-  {
-    "name": "Reject Dung Mote Lolly",
-    "value": 5100
-  },
-  {
-    "name": "Reject Fire Mote Lolly",
-    "value": 5780
-  },
-  {
-    "name": "Reject Gold Mote Lolly",
-    "value": 1250
-  },
-  {
-    "name": "Rhubarb and Custard Sweets",
-    "value": 82200
-  },
-  {
-    "name": "Rock Candy",
-    "value": 2640
-  },
-  {
-    "name": "Root Beer Barrels",
-    "value": 34100
-  },
-  {
-    "name": "Rose Lollyswirl",
-    "value": 88000
-  },
-  {
-    "name": "Rosy Apples",
-    "value": 38400
-  },
-  {
-    "name": "Rotten Egg Grarrl Gobstopper",
-    "value": 1710
-  },
-  {
-    "name": "Royalty Golden Biscuit",
-    "value": 103000
-  },
-  {
-    "name": "Salty Gumball",
-    "value": 2200
-  },
-  {
-    "name": "Scorchio Candy",
-    "value": 165000
-  },
-  {
-    "name": "Scorchio Cotton Candy",
-    "value": 507
-  },
-  {
-    "name": "Scorchio Sugar Skull",
-    "value": 842
-  },
-  {
-    "name": "Screlon Gnorlolly",
-    "value": 6090
-  },
-  {
-    "name": "Screlon Sour Saucer",
-    "value": 1860
-  },
-  {
-    "name": "Shape-Shifting Maltose Candy",
-    "value": 22400
-  },
-  {
-    "name": "Sherbert Lemons",
-    "value": 54900
-  },
-  {
-    "name": "Sherbert Strawberries",
-    "value": 1120
-  },
-  {
-    "name": "Skeith Chocolate Dubloon",
-    "value": 119000
-  },
-  {
-    "name": "Sludge Filled Jelly Beans",
-    "value": 27000
-  },
-  {
-    "name": "Smoothie Shop Chocolate Charm",
-    "value": 3830
-  },
-  {
-    "name": "Sniddberry Meerca Gobstopper",
-    "value": 22500000
-  },
-  {
-    "name": "Snowflake Chocolate Advent Calendar",
-    "value": 2290000
-  },
-  {
-    "name": "Solid Chocolate Drizzle Skirt",
-    "value": 64300
-  },
-  {
-    "name": "Sour Apple Gummy Gloves",
-    "value": 143000
-  },
-  {
-    "name": "Sour Apple Lupe Hard Candy",
-    "value": 5540
-  },
-  {
-    "name": "Sour Candy Hearts",
-    "value": 91500
-  },
-  {
-    "name": "Sour Gummy Skeith Tail",
-    "value": 3820
-  },
-  {
-    "name": "Sour Lemon Lolly",
-    "value": 45000
-  },
-  {
-    "name": "Spearmint Ribbon Candy",
-    "value": 2250
-  },
-  {
-    "name": "Spicy Tropical Fruit Ice Pop Handheld",
-    "value": 5960
-  },
-  {
-    "name": "Spooky Flying Doughnut",
-    "value": 427000
-  },
-  {
-    "name": "Sporkle Leg Jelly Beans",
-    "value": 950
-  },
-  {
-    "name": "Spotted Easter Negg",
-    "value": 1180000
-  },
-  {
-    "name": "Sssidney Lolly",
-    "value": 512
-  },
-  {
-    "name": "Star Lollipop",
-    "value": 51900
-  },
-  {
-    "name": "Starberry Covered Dirt",
-    "value": 679
-  },
-  {
-    "name": "Starry Gormball Candy",
-    "value": 537000
-  },
-  {
-    "name": "Starry Scorchio Chocolate Egg",
-    "value": 7180
-  },
-  {
-    "name": "Starry Scorchio Lollypop",
-    "value": 3640
-  },
-  {
-    "name": "Steam Train Gummies",
-    "value": 8480
-  },
-  {
-    "name": "Stone Gummy Die",
-    "value": 7980
-  },
-  {
-    "name": "Strawberries and Cream Dress",
-    "value": 369000
-  },
-  {
-    "name": "Strawberries and Cream Easter Negg",
-    "value": 627000
-  },
-  {
-    "name": "Strawberry Achyfi Lollypop",
-    "value": 101000
-  },
-  {
-    "name": "Strawberry Blumaroo Gummy Die",
-    "value": 38500
-  },
-  {
-    "name": "Strawberry Bon Bons",
-    "value": 1710
-  },
-  {
-    "name": "Strawberry Caramel Zafara",
-    "value": 1660
-  },
-  {
-    "name": "Strawberry Chocolate Krawk Coin",
-    "value": 92600
-  },
-  {
-    "name": "Strawberry Cooty Lollypop",
-    "value": 254
-  },
-  {
-    "name": "Strawberry Draik Lollypop",
-    "value": 985
-  },
-  {
-    "name": "Strawberry Flotsam Lollypop",
-    "value": 497000
-  },
-  {
-    "name": "Strawberry Fondant Surprise",
-    "value": 8
-  },
-  {
-    "name": "Strawberry Grarrl Gummy",
-    "value": 2830
-  },
-  {
-    "name": "Strawberry Grarrl Pop",
-    "value": 438
-  },
-  {
-    "name": "Strawberry Heartcicle",
-    "value": 54100
-  },
-  {
-    "name": "Strawberry Ixi Pop",
-    "value": 1320
-  },
-  {
-    "name": "Strawberry Jelly Flotsam",
-    "value": 1130
-  },
-  {
-    "name": "Strawberry Jelly Usul",
-    "value": 7990
-  },
-  {
-    "name": "Strawberry Kacheek Drops",
-    "value": 2870
-  },
-  {
-    "name": "Strawberry Koi Pop",
-    "value": 34
-  },
-  {
-    "name": "Strawberry Kougra Pop",
-    "value": 273000
-  },
-  {
-    "name": "Strawberry Larnikin Lollypop",
-    "value": 556
-  },
-  {
-    "name": "Strawberry Lupe Hard Candy",
-    "value": 210000
-  },
-  {
-    "name": "Strawberry Meerca Lolly",
-    "value": 34900
-  },
-  {
-    "name": "Strawberry Mynci Lollypop",
-    "value": 88900
-  },
-  {
-    "name": "Strawberry Neodrops",
+    "name": "Lemon Chia Treat",
     "value": 30000
   },
   {
-    "name": "Strawberry Poogle Pop",
+    "name": "Lemon Curd Gormball Truffle",
+    "value": 24500
+  },
+  {
+    "name": "Lemon Draik Lollypop",
+    "value": 885
+  },
+  {
+    "name": "Lemon Grarrl Gummy",
+    "value": 9500
+  },
+  {
+    "name": "Lemon Grarrl Pop",
+    "value": 22000
+  },
+  {
+    "name": "Lemon Gummy Kiko",
+    "value": 8000
+  },
+  {
+    "name": "Lemon Gummy Sword",
+    "value": 43500
+  },
+  {
+    "name": "Lemon Ixi Pop",
+    "value": 980
+  },
+  {
+    "name": "Lemon Koi Pop",
+    "value": 535
+  },
+  {
+    "name": "Lemon Lupe Lollypop",
+    "value": 2400
+  },
+  {
+    "name": "Lemon Neodrops",
     "value": 1500
   },
   {
-    "name": "Strawberry Spike Ball Candy",
-    "value": 1880
+    "name": "Lemon Nimmo Bites",
+    "value": 6000
   },
   {
-    "name": "Strawberry Sugared Slorg",
-    "value": 2820
+    "name": "Lemon Pinchit Lollypop",
+    "value": 16500
   },
   {
-    "name": "Strawberry Techo Pop",
-    "value": 42100
+    "name": "Lemon Pteripop",
+    "value": 1000
   },
   {
-    "name": "Strawberry Toffee Chokato",
+    "name": "Lemon Quiggle Pop",
+    "value": 755
+  },
+  {
+    "name": "Lemon Sherbert Candy Cane",
+    "value": 3300
+  },
+  {
+    "name": "Lemon Sherbert Jelly Beans",
+    "value": 12500
+  },
+  {
+    "name": "Lemon Sugared Gelert Gummy",
+    "value": 27500
+  },
+  {
+    "name": "Lemon Tonu Hard Candy",
+    "value": 2000
+  },
+  {
+    "name": "Lemon Tulip Lollypop",
+    "value": 2500
+  },
+  {
+    "name": "Lemon Tuskaninny Lolly",
+    "value": 900
+  },
+  {
+    "name": "Licorice Twists",
+    "value": 1000
+  },
+  {
+    "name": "Licorice Zafara Tail",
+    "value": 800
+  },
+  {
+    "name": "Lightning Bolt Lollypop",
+    "value": 19000
+  },
+  {
+    "name": "Lime Achyfi Lollypop",
+    "value": 15000
+  },
+  {
+    "name": "Lime Aisha Lollypop",
+    "value": 995
+  },
+  {
+    "name": "Lime Bori Lolly",
+    "value": 15000
+  },
+  {
+    "name": "Lime Candy Floss",
+    "value": 22000
+  },
+  {
+    "name": "Lime Candy Rock",
+    "value": 3100
+  },
+  {
+    "name": "Lime Draik Lollypop",
+    "value": 1900
+  },
+  {
+    "name": "Lime Eliv Thade Lolly",
+    "value": 1200
+  },
+  {
+    "name": "Lime Grarrl Gummy",
+    "value": 2400
+  },
+  {
+    "name": "Lime Grarrl Pop",
+    "value": 42000
+  },
+  {
+    "name": "Lime Grundo Lollypop",
+    "value": 31500
+  },
+  {
+    "name": "Lime Gummy Book",
+    "value": 20000
+  },
+  {
+    "name": "Lime Gummy Die",
+    "value": 2900
+  },
+  {
+    "name": "Lime Gummy Kiko",
+    "value": 1200
+  },
+  {
+    "name": "Lime Gummy Peophin",
+    "value": 9800
+  },
+  {
+    "name": "Lime Gummy Slorg",
+    "value": 1500
+  },
+  {
+    "name": "Lime Jelly Acara",
+    "value": 2500
+  },
+  {
+    "name": "Lime Jelly Blumaroo",
+    "value": 2900
+  },
+  {
+    "name": "Lime Jelly Flotsam",
+    "value": 3500
+  },
+  {
+    "name": "Lime Jelly JubJub",
+    "value": 3000
+  },
+  {
+    "name": "Lime Jelly Usul",
+    "value": 2800
+  },
+  {
+    "name": "Lime Kacheek Drops",
+    "value": 560
+  },
+  {
+    "name": "Lime Meerca Gobstopper",
+    "value": 24000
+  },
+  {
+    "name": "Lime Neodrops",
+    "value": 3700
+  },
+  {
+    "name": "Lime Nimmo Bites",
+    "value": 4300
+  },
+  {
+    "name": "Lime Nimmo Pop",
+    "value": 1700
+  },
+  {
+    "name": "Lime Poogle Pop",
+    "value": 1600
+  },
+  {
+    "name": "Lime Pteripop",
+    "value": 1700
+  },
+  {
+    "name": "Lime Quiggle Pop",
+    "value": 690
+  },
+  {
+    "name": "Lime Ruki Lollypop",
+    "value": 1300
+  },
+  {
+    "name": "Lime Shoyru Sweet",
+    "value": 1100
+  },
+  {
+    "name": "Lime Skidget Lolly",
+    "value": 21000
+  },
+  {
+    "name": "Lime Techo Pop",
+    "value": 1300
+  },
+  {
+    "name": "Lime Toffee Juppie",
+    "value": 4300
+  },
+  {
+    "name": "Lime Tonu Hard Candy",
+    "value": 2600
+  },
+  {
+    "name": "Lime Tuskaninny Lolly",
+    "value": 20500
+  },
+  {
+    "name": "Lime Whirlpool Candy",
+    "value": 9100
+  },
+  {
+    "name": "Lolli Keyring",
+    "value": 3800
+  },
+  {
+    "name": "Longan Lollypop",
+    "value": 23500
+  },
+  {
+    "name": "Lost City Lanes Lime Gobstopper",
+    "value": 43000
+  },
+  {
+    "name": "Lost City Lanes Wrapped Chocolate Pin",
+    "value": 40500
+  },
+  {
+    "name": "Love Shake Chocolate",
+    "value": 1800
+  },
+  {
+    "name": "Lovely Lime Grarrl Gobstopper",
+    "value": 680
+  },
+  {
+    "name": "Luscious Lemon Grarrl Gobstopper",
+    "value": 695
+  },
+  {
+    "name": "Lutari Mints",
+    "value": 1100
+  },
+  {
+    "name": "Luxury Chocolate Easter Negg",
+    "value": 1800000
+  },
+  {
+    "name": "Magic Wand Lolly",
+    "value": 4300
+  },
+  {
+    "name": "Mallowicious Bar",
+    "value": 21000
+  },
+  {
+    "name": "Maraquan Shoyru Fin Lolly",
+    "value": 2900
+  },
+  {
+    "name": "Marshmallow Elephante",
+    "value": 2600
+  },
+  {
+    "name": "Marshmallow Floud",
+    "value": 1100
+  },
+  {
+    "name": "Marshmallow Gobstopper",
+    "value": 8800
+  },
+  {
+    "name": "Marshmallow Plumpy",
+    "value": 29500
+  },
+  {
+    "name": "Marzipan Sugared Slorg",
+    "value": 4
+  },
+  {
+    "name": "Mega Minty Korbat Cake",
+    "value": 29500
+  },
+  {
+    "name": "Melon Chews",
+    "value": 2300
+  },
+  {
+    "name": "Melon-Berry Gummies",
+    "value": 15500
+  },
+  {
+    "name": "Melted Chocolate Heart",
+    "value": 31500
+  },
+  {
+    "name": "Melted Chocolate Negg",
+    "value": 995
+  },
+  {
+    "name": "Milk Chocolate A",
+    "value": 3700
+  },
+  {
+    "name": "Milk Chocolate Aisha",
+    "value": 2800
+  },
+  {
+    "name": "Milk Chocolate Buzz",
+    "value": 1500
+  },
+  {
+    "name": "Milk Chocolate Draik",
+    "value": 36000
+  },
+  {
+    "name": "Milk Chocolate Elephante",
+    "value": 3600
+  },
+  {
+    "name": "Milk Chocolate Eyrie",
+    "value": 1600
+  },
+  {
+    "name": "Milk Chocolate Flotsam",
+    "value": 2300
+  },
+  {
+    "name": "Milk Chocolate Gelert",
+    "value": 3400
+  },
+  {
+    "name": "Milk Chocolate Gnorbu",
+    "value": 31500
+  },
+  {
+    "name": "Milk Chocolate Grarrl",
+    "value": 1200
+  },
+  {
+    "name": "Milk Chocolate Grundo",
+    "value": 13000
+  },
+  {
+    "name": "Milk Chocolate Hissi",
+    "value": 32000
+  },
+  {
+    "name": "Milk Chocolate Hollow Chia",
+    "value": 18500
+  },
+  {
+    "name": "Milk Chocolate Hollow Cybunny",
+    "value": 22000
+  },
+  {
+    "name": "Milk Chocolate Hollow Kacheek",
+    "value": 415
+  },
+  {
+    "name": "Milk Chocolate Jetsam",
+    "value": 2000
+  },
+  {
+    "name": "Milk Chocolate Kacheek",
+    "value": 39000
+  },
+  {
+    "name": "Milk Chocolate Kiko",
+    "value": 2900
+  },
+  {
+    "name": "Milk Chocolate King Kelpbeard",
+    "value": 11500
+  },
+  {
+    "name": "Milk Chocolate Korbat",
+    "value": 820
+  },
+  {
+    "name": "Milk Chocolate Kougra",
+    "value": 4300
+  },
+  {
+    "name": "Milk Chocolate Kougra Paw",
+    "value": 3000
+  },
+  {
+    "name": "Milk Chocolate Krawk Coin",
+    "value": 12500
+  },
+  {
+    "name": "Milk Chocolate Kyrii",
+    "value": 2800
+  },
+  {
+    "name": "Milk Chocolate Lenny",
+    "value": 1800
+  },
+  {
+    "name": "Milk Chocolate Moehog",
+    "value": 3600
+  },
+  {
+    "name": "Milk Chocolate Mynci",
+    "value": 15500
+  },
+  {
+    "name": "Milk Chocolate Nimmo",
+    "value": 3500
+  },
+  {
+    "name": "Milk Chocolate Nova",
+    "value": 30500
+  },
+  {
+    "name": "Milk Chocolate Ogrin",
+    "value": 3500
+  },
+  {
+    "name": "Milk Chocolate Peophin",
+    "value": 1900
+  },
+  {
+    "name": "Milk Chocolate Pteri",
+    "value": 6500
+  },
+  {
+    "name": "Milk Chocolate Rose",
+    "value": 100
+  },
+  {
+    "name": "Milk Chocolate Scorchio",
+    "value": 3300
+  },
+  {
+    "name": "Milk Chocolate Shoyru",
+    "value": 2700
+  },
+  {
+    "name": "Milk Chocolate Skeith",
+    "value": 2500
+  },
+  {
+    "name": "Milk Chocolate Techo",
+    "value": 8100
+  },
+  {
+    "name": "Milk Chocolate Tonu",
+    "value": 26000
+  },
+  {
+    "name": "Milk Chocolate Tuskaninny",
+    "value": 34500
+  },
+  {
+    "name": "Milk Chocolate Usul",
+    "value": 3400
+  },
+  {
+    "name": "Milk Chocolate Zafara",
+    "value": 13000
+  },
+  {
+    "name": "Milk Kiko Chocolates",
+    "value": 935
+  },
+  {
+    "name": "Miniature Chocolate Chocolate Factory",
+    "value": 100000
+  },
+  {
+    "name": "Mint Chocolate Blumaroo",
+    "value": 24000
+  },
+  {
+    "name": "Mint Chocolate Chia",
+    "value": 26500
+  },
+  {
+    "name": "Mint Chocolate Draik",
+    "value": 38000
+  },
+  {
+    "name": "Mint Chocolate Easter Negg",
+    "value": 8250000
+  },
+  {
+    "name": "Mint Chocolate Gnorbu",
+    "value": 25500
+  },
+  {
+    "name": "Mint Chocolate Grundo",
+    "value": 865
+  },
+  {
+    "name": "Mint Chocolate Kacheek",
+    "value": 1000
+  },
+  {
+    "name": "Mint Chocolate Kau",
+    "value": 18000
+  },
+  {
+    "name": "Mint Chocolate Koi",
+    "value": 1200
+  },
+  {
+    "name": "Mint Chocolate Kougra Paw",
+    "value": 1500
+  },
+  {
+    "name": "Mint Chocolate Krawk",
+    "value": 130
+  },
+  {
+    "name": "Mint Chocolate Krawk Coin",
+    "value": 50500
+  },
+  {
+    "name": "Mint Chocolate Lupe",
+    "value": 13500
+  },
+  {
+    "name": "Mint Chocolate Moehog",
+    "value": 21500
+  },
+  {
+    "name": "Mint Chocolate Nimmo",
+    "value": 1100
+  },
+  {
+    "name": "Mint Chocolate Nova",
+    "value": 15500
+  },
+  {
+    "name": "Mint Chocolate Ogrin",
+    "value": 2000
+  },
+  {
+    "name": "Mint Chocolate Peophin",
+    "value": 57000
+  },
+  {
+    "name": "Mint Chocolate Poogle",
+    "value": 27000
+  },
+  {
+    "name": "Mint Chocolate Pteri",
+    "value": 990
+  },
+  {
+    "name": "Mint Chocolate Scorchio",
+    "value": 990
+  },
+  {
+    "name": "Mint Chocolate Shoyru",
+    "value": 1500
+  },
+  {
+    "name": "Mint Chocolate Spike Ball Candy",
+    "value": 3200
+  },
+  {
+    "name": "Mint Chocolate Tuskaninny",
+    "value": 15000
+  },
+  {
+    "name": "Mint Chocolate Uni",
+    "value": 23500
+  },
+  {
+    "name": "Mint Chocolate Usul",
+    "value": 25000
+  },
+  {
+    "name": "Mint Chocolate Wocky",
+    "value": 5800
+  },
+  {
+    "name": "Mint Jelly A",
+    "value": 5400
+  },
+  {
+    "name": "Mint Usuki Gum",
+    "value": 1900
+  },
+  {
+    "name": "Minty Choccywhip",
+    "value": 87000
+  },
+  {
+    "name": "Minty Chomby Lolly",
+    "value": 30000
+  },
+  {
+    "name": "Moon Lollipop",
+    "value": 3900
+  },
+  {
+    "name": "Moonfruit Lollipop",
+    "value": 290
+  },
+  {
+    "name": "Mostly Orange Candy Sticks",
+    "value": 5800
+  },
+  {
+    "name": "Mouldy Chocolate Heart",
+    "value": 110000
+  },
+  {
+    "name": "Mud Lollipop",
+    "value": 30000
+  },
+  {
+    "name": "Mustard Mayhem Grarrl Gobstopper",
+    "value": 31000
+  },
+  {
+    "name": "Mutant Lollipop Assortment",
+    "value": 195
+  },
+  {
+    "name": "Mynci Tail Lollypops",
+    "value": 33500
+  },
+  {
+    "name": "Negg Chocolate",
+    "value": 5000
+  },
+  {
+    "name": "Negg Lollipop",
+    "value": 6700
+  },
+  {
+    "name": "Neocola Bottles",
+    "value": 36000
+  },
+  {
+    "name": "Neotruffle",
+    "value": 4800000
+  },
+  {
+    "name": "Nerkin Jelly Beans",
+    "value": 66000
+  },
+  {
+    "name": "Neverending Chocolate Cake Foreground",
+    "value": 1000
+  },
+  {
+    "name": "Neverending Jar of Jellybeans",
+    "value": 130000
+  },
+  {
+    "name": "Nova Breath Mints",
+    "value": 4600
+  },
+  {
+    "name": "Nutty Chocolate Negg",
+    "value": 14000
+  },
+  {
+    "name": "Nutty Kiko Chocolates",
+    "value": 500
+  },
+  {
+    "name": "Omnipotent Onion Grarrl Gobstopper",
+    "value": 32500
+  },
+  {
+    "name": "Oozing Chocolate Heart",
+    "value": 3300
+  },
+  {
+    "name": "Orange Blumaroo Gummy Die",
+    "value": 28000
+  },
+  {
+    "name": "Orange Bori Lolly",
+    "value": 30500
+  },
+  {
+    "name": "Orange Candy Floss",
+    "value": 5100
+  },
+  {
+    "name": "Orange Chocolate Grarrl",
+    "value": 28500
+  },
+  {
+    "name": "Orange Chocolate Grundo",
+    "value": 16000
+  },
+  {
+    "name": "Orange Chocolate Hollow Chia",
+    "value": 255
+  },
+  {
+    "name": "Orange Chocolate Hollow Kacheek",
+    "value": 920
+  },
+  {
+    "name": "Orange Chocolate Jetsam",
+    "value": 24000
+  },
+  {
+    "name": "Orange Chocolate JubJub",
+    "value": 27500
+  },
+  {
+    "name": "Orange Chocolate Kacheek",
+    "value": 28500
+  },
+  {
+    "name": "Orange Chocolate Kau",
+    "value": 22000
+  },
+  {
+    "name": "Orange Chocolate Kiko",
+    "value": 29000
+  },
+  {
+    "name": "Orange Chocolate Koi",
+    "value": 9600
+  },
+  {
+    "name": "Orange Chocolate Korbat",
+    "value": 245
+  },
+  {
+    "name": "Orange Chocolate Kougra",
+    "value": 6700
+  },
+  {
+    "name": "Orange Chocolate Lupe",
+    "value": 31000
+  },
+  {
+    "name": "Orange Chocolate Moehog",
+    "value": 1200
+  },
+  {
+    "name": "Orange Chocolate Mynci",
+    "value": 960
+  },
+  {
+    "name": "Orange Chocolate Nimmo",
+    "value": 950
+  },
+  {
+    "name": "Orange Chocolate Nova",
+    "value": 21500
+  },
+  {
+    "name": "Orange Chocolate Pyramid",
+    "value": 9000
+  },
+  {
+    "name": "Orange Chocolate Quiggle",
+    "value": 2000
+  },
+  {
+    "name": "Orange Chocolate Scorchio",
+    "value": 11000
+  },
+  {
+    "name": "Orange Chocolate Shoyru",
+    "value": 3000
+  },
+  {
+    "name": "Orange Chocolate Snowflake",
+    "value": 440
+  },
+  {
+    "name": "Orange Chocolate Tuskaninny",
+    "value": 24000
+  },
+  {
+    "name": "Orange Chocolate Vandagyre",
+    "value": 7100
+  },
+  {
+    "name": "Orange Cream Techo Truffle",
+    "value": 2200
+  },
+  {
+    "name": "Orange Fizzy Gravel",
+    "value": 3100
+  },
+  {
+    "name": "Orange Gelert Lollypop",
+    "value": 2400
+  },
+  {
+    "name": "Orange Gem Candy",
+    "value": 1800
+  },
+  {
+    "name": "Orange Gummy Book",
+    "value": 16000
+  },
+  {
+    "name": "Orange Gummy Kiko",
+    "value": 23000
+  },
+  {
+    "name": "Orange Gummy Korbat Tail",
+    "value": 14
+  },
+  {
+    "name": "Orange Gummy Peophin",
+    "value": 14500
+  },
+  {
+    "name": "Orange Gummy Quiggles",
+    "value": 5100
+  },
+  {
+    "name": "Orange Gummy Scorchio",
+    "value": 945
+  },
+  {
+    "name": "Orange Gummy Slorg",
+    "value": 36500
+  },
+  {
+    "name": "Orange Gummy Stamp",
+    "value": 1000
+  },
+  {
+    "name": "Orange Kacheek Drops",
+    "value": 1400
+  },
+  {
+    "name": "Orange Koi Lolly",
+    "value": 1100
+  },
+  {
+    "name": "Orange Lemon Ribbon",
+    "value": 12500
+  },
+  {
+    "name": "Orange Lightmite Lollypop",
+    "value": 9500000
+  },
+  {
+    "name": "Orange Lupe Hard Candy",
+    "value": 17500
+  },
+  {
+    "name": "Orange Neodrops",
+    "value": 2200
+  },
+  {
+    "name": "Orange Poogle Pop",
+    "value": 830
+  },
+  {
+    "name": "Orange Quiggle Pop",
+    "value": 780
+  },
+  {
+    "name": "Orange Scoach Lolly",
+    "value": 150000
+  },
+  {
+    "name": "Orange Scorchipop",
+    "value": 825
+  },
+  {
+    "name": "Orange Swirl Bonbon",
+    "value": 2400
+  },
+  {
+    "name": "Orange Usuki Gum",
+    "value": 1900
+  },
+  {
+    "name": "Orange Whirlpool Candy",
+    "value": 11500
+  },
+  {
+    "name": "Outrageous Orange Grarrl Gobstopper",
+    "value": 19500
+  },
+  {
+    "name": "Patterned Chocolate Negg",
+    "value": 1600
+  },
+  {
+    "name": "Peach Gummy Chia",
+    "value": 275
+  },
+  {
+    "name": "Peach Gummy Lutari",
+    "value": 1300
+  },
+  {
+    "name": "Peanut Brittles",
+    "value": 12000
+  },
+  {
+    "name": "Peanut Butter Chocolate Shoyru",
+    "value": 3900
+  },
+  {
+    "name": "Peanut Butter Gormball Truffle",
+    "value": 11000
+  },
+  {
+    "name": "Pecan Divinity Candy",
+    "value": 985
+  },
+  {
+    "name": "Peophin Chocolate Medallion",
+    "value": 8300
+  },
+  {
+    "name": "Peppermint Gormball Gumball",
+    "value": 31500
+  },
+  {
+    "name": "Peppermint Praline Bar",
+    "value": 44000
+  },
+  {
+    "name": "Pineapple Blumaroo Gummy Die",
+    "value": 31000
+  },
+  {
+    "name": "Pineapple Cubes",
+    "value": 20000
+  },
+  {
+    "name": "Pineapple Gummy Chia",
+    "value": 1100
+  },
+  {
+    "name": "Pineapple Lollypop",
+    "value": 7600
+  },
+  {
+    "name": "Pink Gormball Gumball",
+    "value": 31500
+  },
+  {
+    "name": "Pink Kyrii Candy Floss",
+    "value": 3100
+  },
+  {
+    "name": "Pink Lab Jellies Candy",
+    "value": 6900
+  },
+  {
+    "name": "Pink Lemonade Gummy Peophin",
+    "value": 18500
+  },
+  {
+    "name": "Pink Lenny Lollipop",
+    "value": 24500
+  },
+  {
+    "name": "Pirate Hat Toffees",
+    "value": 4
+  },
+  {
+    "name": "Pirate Hook Candy Cane",
+    "value": 1
+  },
+  {
+    "name": "Plain Chocolate Hollow Cybunny",
+    "value": 550
+  },
+  {
+    "name": "Poison Heart Candy Apple",
+    "value": 12000
+  },
+  {
+    "name": "Pretty Pink Easter Negg",
+    "value": 999999
+  },
+  {
+    "name": "Punchbag Bob Lolly",
+    "value": 250
+  },
+  {
+    "name": "Punchbag Sid Lolly",
+    "value": 2000
+  },
+  {
+    "name": "Purple Fizzy Gravel",
+    "value": 6100
+  },
+  {
+    "name": "Rainbow Breath Mints",
+    "value": 3100
+  },
+  {
+    "name": "Rainbow Candy Floss",
+    "value": 650000
+  },
+  {
+    "name": "Rainbow Chia Gumball",
+    "value": 32500
+  },
+  {
+    "name": "Rainbow Doughnutfruit Lolly",
+    "value": 8600
+  },
+  {
+    "name": "Rainbow Elephante Lolly",
+    "value": 17500
+  },
+  {
+    "name": "Rainbow Flotsam Lollypop",
+    "value": 17000
+  },
+  {
+    "name": "Rainbow Gelert Lollypop",
+    "value": 22500
+  },
+  {
+    "name": "Rainbow Gummy Die",
+    "value": 9500
+  },
+  {
+    "name": "Rainbow Nata De Coco",
+    "value": 8200
+  },
+  {
+    "name": "Rainbow Neodrops",
+    "value": 20500
+  },
+  {
+    "name": "Rainbow Yurble Lollypop",
+    "value": 830
+  },
+  {
+    "name": "Raisin Nut Bar",
+    "value": 8600
+  },
+  {
+    "name": "Raspberry Achyfi Lollypop",
+    "value": 45500
+  },
+  {
+    "name": "Raspberry and Vanilla Nova",
+    "value": 15000
+  },
+  {
+    "name": "Raspberry Candy Rock",
+    "value": 2900
+  },
+  {
+    "name": "Raspberry Chocolate Nova",
+    "value": 720
+  },
+  {
+    "name": "Raspberry Chocolate Tuskaninny",
+    "value": 24000
+  },
+  {
+    "name": "Raspberry Grundo Lollypop",
+    "value": 1400
+  },
+  {
+    "name": "Raspberry Gummy Scorchio",
+    "value": 1100
+  },
+  {
+    "name": "Raspberry Gummy Skeith Tail",
+    "value": 7600
+  },
+  {
+    "name": "Raspberry Jelly A",
+    "value": 2100
+  },
+  {
+    "name": "Raspberry Jelly Heart",
+    "value": 53000
+  },
+  {
+    "name": "Raspberry Neodrops",
+    "value": 6400
+  },
+  {
+    "name": "Raspberry Nimmo Bites",
+    "value": 2900
+  },
+  {
+    "name": "Raspberry Swirl Grarrl Cookie",
+    "value": 975
+  },
+  {
+    "name": "Raspberry Tonu Hard Candy",
+    "value": 4300
+  },
+  {
+    "name": "Red Buzz Lolly",
+    "value": 9400
+  },
+  {
+    "name": "Red Fizzy Gravel",
+    "value": 6200
+  },
+  {
+    "name": "Red Gem Candy",
+    "value": 3700
+  },
+  {
+    "name": "Red Gummy Hearts",
+    "value": 2100
+  },
+  {
+    "name": "Red Gummy Meerca",
+    "value": 960
+  },
+  {
+    "name": "Red Gummy Quiggles",
     "value": 4200
   },
   {
+    "name": "Red Nimmo Foot Lolly",
+    "value": 3500
+  },
+  {
+    "name": "Reject Dung Mote Lolly",
+    "value": 4200
+  },
+  {
+    "name": "Reject Fire Mote Lolly",
+    "value": 5400
+  },
+  {
+    "name": "Reject Gold Mote Lolly",
+    "value": 2000
+  },
+  {
+    "name": "Rhubarb and Custard Sweets",
+    "value": 20000
+  },
+  {
+    "name": "Rock Candy",
+    "value": 3600
+  },
+  {
+    "name": "Root Beer Barrels",
+    "value": 35000
+  },
+  {
+    "name": "Rose Lollyswirl",
+    "value": 9400
+  },
+  {
+    "name": "Rosy Apples",
+    "value": 30500
+  },
+  {
+    "name": "Rotten Egg Grarrl Gobstopper",
+    "value": 2100
+  },
+  {
+    "name": "Royalty Golden Biscuit",
+    "value": 21000
+  },
+  {
+    "name": "Salty Gumball",
+    "value": 2900
+  },
+  {
+    "name": "Scorchio Candy",
+    "value": 31500
+  },
+  {
+    "name": "Scorchio Cotton Candy",
+    "value": 1000
+  },
+  {
+    "name": "Scorchio Sugar Skull",
+    "value": 395
+  },
+  {
+    "name": "Screlon Gnorlolly",
+    "value": 5800
+  },
+  {
+    "name": "Screlon Sour Saucer",
+    "value": 2600
+  },
+  {
+    "name": "Shape-Shifting Maltose Candy",
+    "value": 32000
+  },
+  {
+    "name": "Sherbert Lemons",
+    "value": 19500
+  },
+  {
+    "name": "Sherbert Strawberries",
+    "value": 1400
+  },
+  {
+    "name": "Skeith Chocolate Dubloon",
+    "value": 31000
+  },
+  {
+    "name": "Sludge Filled Jelly Beans",
+    "value": 33500
+  },
+  {
+    "name": "Smoothie Shop Chocolate Charm",
+    "value": 1200
+  },
+  {
+    "name": "Sniddberry Meerca Gobstopper",
+    "value": 31000000
+  },
+  {
+    "name": "Snowflake Chocolate Advent Calendar",
+    "value": 5550000
+  },
+  {
+    "name": "Solid Chocolate Drizzle Skirt",
+    "value": 35500
+  },
+  {
+    "name": "Sour Apple Gummy Gloves",
+    "value": 60000
+  },
+  {
+    "name": "Sour Apple Lupe Hard Candy",
+    "value": 4400
+  },
+  {
+    "name": "Sour Candy Hearts",
+    "value": 32500
+  },
+  {
+    "name": "Sour Gummy Skeith Tail",
+    "value": 3600
+  },
+  {
+    "name": "Sour Lemon Lolly",
+    "value": 23000
+  },
+  {
+    "name": "Spearmint Ribbon Candy",
+    "value": 355
+  },
+  {
+    "name": "Spicy Tropical Fruit Ice Pop Handheld",
+    "value": 9900
+  },
+  {
+    "name": "Spooky Flying Doughnut",
+    "value": 830000
+  },
+  {
+    "name": "Sporkle Leg Jelly Beans",
+    "value": 1300
+  },
+  {
+    "name": "Spotted Easter Negg",
+    "value": 2200000
+  },
+  {
+    "name": "Sssidney Lolly",
+    "value": 855
+  },
+  {
+    "name": "Star Lollipop",
+    "value": 8200
+  },
+  {
+    "name": "Starberry Covered Dirt",
+    "value": 685
+  },
+  {
+    "name": "Starry Gormball Candy",
+    "value": 26000
+  },
+  {
+    "name": "Starry Scorchio Chocolate Egg",
+    "value": 4300
+  },
+  {
+    "name": "Starry Scorchio Lollypop",
+    "value": 2800
+  },
+  {
+    "name": "Steam Train Gummies",
+    "value": 8100
+  },
+  {
+    "name": "Stone Gummy Die",
+    "value": 8200
+  },
+  {
+    "name": "Strawberries and Cream Dress",
+    "value": 77000
+  },
+  {
+    "name": "Strawberries and Cream Easter Negg",
+    "value": 1350000
+  },
+  {
+    "name": "Strawberry Achyfi Lollypop",
+    "value": 30500
+  },
+  {
+    "name": "Strawberry Blumaroo Gummy Die",
+    "value": 31500
+  },
+  {
+    "name": "Strawberry Bon Bons",
+    "value": 1300
+  },
+  {
+    "name": "Strawberry Caramel Zafara",
+    "value": 995
+  },
+  {
+    "name": "Strawberry Chocolate Krawk Coin",
+    "value": 42500
+  },
+  {
+    "name": "Strawberry Cooty Lollypop",
+    "value": 315
+  },
+  {
+    "name": "Strawberry Draik Lollypop",
+    "value": 910
+  },
+  {
+    "name": "Strawberry Flotsam Lollypop",
+    "value": 58000
+  },
+  {
+    "name": "Strawberry Fondant Surprise",
+    "value": 42
+  },
+  {
+    "name": "Strawberry Grarrl Gummy",
+    "value": 2400
+  },
+  {
+    "name": "Strawberry Grarrl Pop",
+    "value": 800
+  },
+  {
+    "name": "Strawberry Heartcicle",
+    "value": 26000
+  },
+  {
+    "name": "Strawberry Ixi Pop",
+    "value": 2700
+  },
+  {
+    "name": "Strawberry Jelly Flotsam",
+    "value": 1100
+  },
+  {
+    "name": "Strawberry Jelly Usul",
+    "value": 5700
+  },
+  {
+    "name": "Strawberry Kacheek Drops",
+    "value": 1900
+  },
+  {
+    "name": "Strawberry Koi Pop",
+    "value": 93
+  },
+  {
+    "name": "Strawberry Kougra Pop",
+    "value": 63500
+  },
+  {
+    "name": "Strawberry Larnikin Lollypop",
+    "value": 290
+  },
+  {
+    "name": "Strawberry Lupe Hard Candy",
+    "value": 24000
+  },
+  {
+    "name": "Strawberry Meerca Lolly",
+    "value": 29000
+  },
+  {
+    "name": "Strawberry Mynci Lollypop",
+    "value": 28500
+  },
+  {
+    "name": "Strawberry Neodrops",
+    "value": 27000
+  },
+  {
+    "name": "Strawberry Poogle Pop",
+    "value": 1700
+  },
+  {
+    "name": "Strawberry Spike Ball Candy",
+    "value": 2100
+  },
+  {
+    "name": "Strawberry Sugared Slorg",
+    "value": 1200
+  },
+  {
+    "name": "Strawberry Techo Pop",
+    "value": 18000
+  },
+  {
+    "name": "Strawberry Toffee Chokato",
+    "value": 3300
+  },
+  {
     "name": "Strawberry Tuskaninny Lolly",
-    "value": 27800
+    "value": 10000
   },
   {
     "name": "Strawberry Vampire Pop",
-    "value": 2490
+    "value": 2200
   },
   {
     "name": "Strawberry Wocky Candy Floss",
-    "value": 4660
+    "value": 1100
   },
   {
     "name": "Striped Orange Bonbon",
-    "value": 1950
+    "value": 3300
   },
   {
     "name": "Strochal",
-    "value": 535000
+    "value": 20500
   },
   {
     "name": "Strong Mints",
-    "value": 5610
+    "value": 3800
   },
   {
     "name": "Stupendous Strawberry Grarrl Gobstopper",
-    "value": 781
+    "value": 785
   },
   {
     "name": "Sugar Aisha Skull",
-    "value": 411000
+    "value": 26500
   },
   {
     "name": "Sugar Ixi Skull",
-    "value": 890
+    "value": 535
   },
   {
     "name": "Sugar Moehog Skull",
-    "value": 120000
+    "value": 72500
   },
   {
     "name": "Sugar Tonu Skull",
@@ -3428,31 +3429,31 @@
   },
   {
     "name": "Sugared Elephante Feet",
-    "value": 44700
+    "value": 24500
   },
   {
     "name": "Sun Lollipop",
-    "value": 18800
+    "value": 5600
   },
   {
     "name": "Super Spicy Jelly Beans",
-    "value": 997134
+    "value": 380000
   },
   {
     "name": "Super Sticky Kacheek Candy Apple",
-    "value": 28600
+    "value": 19500
   },
   {
     "name": "Suspiciously Unwrapped Candy",
-    "value": 144
+    "value": 94
   },
   {
     "name": "Sweet Baked Beans",
-    "value": 56300
+    "value": 37500
   },
   {
     "name": "Sweet Love Messages Candy",
-    "value": 37400
+    "value": 10000
   },
   {
     "name": "Sweet Necklace",
@@ -3460,163 +3461,163 @@
   },
   {
     "name": "Swirly Chocolate Egg",
-    "value": 4760
+    "value": 22500
   },
   {
     "name": "Swirly Chocolate Hissi",
-    "value": 46600
+    "value": 19000
   },
   {
     "name": "Swirly Chocolate Mynci",
-    "value": 43600
+    "value": 5000
   },
   {
     "name": "Swirly Mint Mynci",
-    "value": 29700
+    "value": 19000
   },
   {
     "name": "Tampered Bag of Sweets",
-    "value": 11100
+    "value": 25500
   },
   {
     "name": "Tangleberry Sour Saucer",
-    "value": 1630
+    "value": 1900
   },
   {
     "name": "Tarragon Achyfi Lollypop",
-    "value": 73500
+    "value": 16500
   },
   {
     "name": "Tchea Krawkberry",
-    "value": 1870
+    "value": 1200
   },
   {
     "name": "Tea Candy",
-    "value": 405
+    "value": 175
   },
   {
     "name": "Tetraberry Flotsam Lollypop",
-    "value": 966
+    "value": 190
   },
   {
     "name": "Thornberry Candy Gavel",
-    "value": 12700
-  },
-  {
-    "name": "Thornberry Ice Cream Gummy",
-    "value": 2240
-  },
-  {
-    "name": "Thornberry Krawkberry",
-    "value": 170
-  },
-  {
-    "name": "Thornberry Shoyru Sweet",
-    "value": 928
-  },
-  {
-    "name": "Tigerbuggle Chia Treat",
-    "value": 84600
-  },
-  {
-    "name": "Tigerfruit Candy Cane",
-    "value": 335000
-  },
-  {
-    "name": "Tigerfruit Gormball Candy",
-    "value": 58600
-  },
-  {
-    "name": "Tigerfruit Krawkberry",
-    "value": 1540
-  },
-  {
-    "name": "Toffee Apple",
-    "value": 2960
-  },
-  {
-    "name": "Toffee Dubloon",
-    "value": 10600
-  },
-  {
-    "name": "Toffee Eyrie on a Stick",
-    "value": 854
-  },
-  {
-    "name": "Tonu Horn on a Stick",
-    "value": 219000
-  },
-  {
-    "name": "Tooth Faerie Sweets",
-    "value": 29400
-  },
-  {
-    "name": "Torpedos",
-    "value": 33400
-  },
-  {
-    "name": "Treasure Sweets",
-    "value": 4790
-  },
-  {
-    "name": "Twirly Fruit Candy Cane",
-    "value": 42900
-  },
-  {
-    "name": "Twirly Fruit Daisy Lollypop",
-    "value": 3410
-  },
-  {
-    "name": "Twirly Fruit Fizzy Gravel",
-    "value": 5290
-  },
-  {
-    "name": "Twirly Fruit Gnorlolly",
-    "value": 6480
-  },
-  {
-    "name": "Twirly Fruit Gormball Candy",
-    "value": 700000
-  },
-  {
-    "name": "Ummagine Candy Cane",
     "value": 19500
   },
   {
+    "name": "Thornberry Ice Cream Gummy",
+    "value": 985
+  },
+  {
+    "name": "Thornberry Krawkberry",
+    "value": 155
+  },
+  {
+    "name": "Thornberry Shoyru Sweet",
+    "value": 420
+  },
+  {
+    "name": "Tigerbuggle Chia Treat",
+    "value": 23500
+  },
+  {
+    "name": "Tigerfruit Candy Cane",
+    "value": 26000
+  },
+  {
+    "name": "Tigerfruit Gormball Candy",
+    "value": 8900
+  },
+  {
+    "name": "Tigerfruit Krawkberry",
+    "value": 965
+  },
+  {
+    "name": "Toffee Apple",
+    "value": 2100
+  },
+  {
+    "name": "Toffee Dubloon",
+    "value": 8600
+  },
+  {
+    "name": "Toffee Eyrie on a Stick",
+    "value": 695
+  },
+  {
+    "name": "Tonu Horn on a Stick",
+    "value": 180000
+  },
+  {
+    "name": "Tooth Faerie Sweets",
+    "value": 24500
+  },
+  {
+    "name": "Torpedos",
+    "value": 15500
+  },
+  {
+    "name": "Treasure Sweets",
+    "value": 3100
+  },
+  {
+    "name": "Twirly Fruit Candy Cane",
+    "value": 35000
+  },
+  {
+    "name": "Twirly Fruit Daisy Lollypop",
+    "value": 3800
+  },
+  {
+    "name": "Twirly Fruit Fizzy Gravel",
+    "value": 2800
+  },
+  {
+    "name": "Twirly Fruit Gnorlolly",
+    "value": 4700
+  },
+  {
+    "name": "Twirly Fruit Gormball Candy",
+    "value": 14500
+  },
+  {
+    "name": "Ummagine Candy Cane",
+    "value": 10000
+  },
+  {
     "name": "Uni Pops",
-    "value": 29100
+    "value": 24500
   },
   {
     "name": "Uni Sugar Skull",
-    "value": 55500
+    "value": 15000
   },
   {
     "name": "Usuki Gummy Faces",
-    "value": 2450
+    "value": 1100
   },
   {
     "name": "Usul Plush and Gumball Gift Set",
-    "value": 1130
+    "value": 1100
   },
   {
     "name": "Usul Plush and Lolly Gift Set",
-    "value": 3400
+    "value": 1300
   },
   {
     "name": "Valentines Chocolate Selection",
-    "value": 27900
+    "value": 13500
   },
   {
     "name": "Valentines Heart Shaped Chocolate Box",
-    "value": 2410
+    "value": 370
   },
   {
     "name": "Vanilla Ice Cream Gummy",
-    "value": 3070
+    "value": 3100
   },
   {
     "name": "Vanilla Spike Ball Candy",
-    "value": 2560
+    "value": 2900
   },
   {
     "name": "Vanilla Sugared Slorg",
@@ -3624,231 +3625,231 @@
   },
   {
     "name": "Waffle Cone Heart Headband",
-    "value": 501000
+    "value": 35000
   },
   {
     "name": "Walking Carpet Chocolate",
-    "value": 172000
+    "value": 18000
   },
   {
     "name": "Walking Carpet Cotton Candy",
-    "value": 2760
+    "value": 2300
   },
   {
     "name": "Walking Carpet Lolly",
-    "value": 17100
+    "value": 28000
   },
   {
     "name": "Wartroot Jelly Beans",
-    "value": 3560
+    "value": 4500
   },
   {
     "name": "Wartroot Snorkle Lollypop",
-    "value": 700
+    "value": 885
   },
   {
     "name": "Watermelon Gummy Slorg",
-    "value": 12400
+    "value": 21000
   },
   {
     "name": "Watermelon Jelicious",
-    "value": 34000
+    "value": 6200
   },
   {
     "name": "Whipped Frosting Shirt",
-    "value": 411000
+    "value": 19500
   },
   {
     "name": "White Blackberry Candy",
-    "value": 71000
+    "value": 27000
   },
   {
     "name": "White Chocolate Aisha",
-    "value": 1270
+    "value": 2300
   },
   {
     "name": "White Chocolate Buzz",
-    "value": 4540
+    "value": 6500
   },
   {
     "name": "White Chocolate Chia",
-    "value": 3610
+    "value": 2500
   },
   {
     "name": "White Chocolate Draik",
-    "value": 707000
+    "value": 14500
   },
   {
     "name": "White Chocolate Elephante",
-    "value": 1700
+    "value": 1500
   },
   {
     "name": "White Chocolate Eyrie",
-    "value": 3250
+    "value": 4800
   },
   {
     "name": "White Chocolate Flotsam",
-    "value": 1890
+    "value": 2500
   },
   {
     "name": "White Chocolate Gelert",
-    "value": 4320
+    "value": 3300
   },
   {
     "name": "White Chocolate Gnorbu",
-    "value": 17100
+    "value": 28500
   },
   {
     "name": "White Chocolate Grarrl",
-    "value": 2230
+    "value": 3200
   },
   {
     "name": "White Chocolate Grarrl Teeth",
-    "value": 886
+    "value": 210
   },
   {
     "name": "White Chocolate Hissi",
-    "value": 138000
+    "value": 11500
   },
   {
     "name": "White Chocolate Hollow Chia",
-    "value": 943
+    "value": 825
   },
   {
     "name": "White Chocolate Hollow Cybunny",
-    "value": 326
+    "value": 490
   },
   {
     "name": "White Chocolate Hollow Kacheek",
-    "value": 987
+    "value": 975
   },
   {
     "name": "White Chocolate Jetsam",
-    "value": 3660
+    "value": 1800
   },
   {
     "name": "White Chocolate Kacheek",
-    "value": 2850
+    "value": 3900
   },
   {
     "name": "White Chocolate Kiko",
-    "value": 3650
+    "value": 1600
   },
   {
     "name": "White Chocolate Korbat",
-    "value": 154
+    "value": 335
   },
   {
     "name": "White Chocolate Kougra",
-    "value": 3000
+    "value": 3300
   },
   {
     "name": "White Chocolate Kougra Paw",
-    "value": 2430
+    "value": 2500
   },
   {
     "name": "White Chocolate Krawk",
-    "value": 114000
+    "value": 14000
   },
   {
     "name": "White Chocolate Krawk Coin",
-    "value": 29000
+    "value": 21500
   },
   {
     "name": "White Chocolate Kyrii",
-    "value": 2090
+    "value": 2700
   },
   {
     "name": "White Chocolate Lenny",
-    "value": 3660
+    "value": 2600
   },
   {
     "name": "White Chocolate Lupe",
-    "value": 2490
+    "value": 1100
   },
   {
     "name": "White Chocolate Lutari",
-    "value": 22800
+    "value": 32500
   },
   {
     "name": "White Chocolate Mynci",
-    "value": 16600
+    "value": 31500
   },
   {
     "name": "White Chocolate Nimmo",
-    "value": 1420
+    "value": 2400
   },
   {
     "name": "White Chocolate Nova",
-    "value": 32000
+    "value": 52500
   },
   {
     "name": "White Chocolate Ogrin",
-    "value": 1720
+    "value": 1900
   },
   {
     "name": "White Chocolate Pellets",
-    "value": 35700
+    "value": 28500
   },
   {
     "name": "White Chocolate Peophin",
-    "value": 4910
+    "value": 4000
   },
   {
     "name": "White Chocolate Pteri",
-    "value": 5000
+    "value": 3100
   },
   {
     "name": "White Chocolate Ruki",
-    "value": 9460
+    "value": 14000
   },
   {
     "name": "White Chocolate Scorchio",
-    "value": 2550
+    "value": 2100
   },
   {
     "name": "White Chocolate Shoyru",
-    "value": 3210
+    "value": 4000
   },
   {
     "name": "White Chocolate Skeith",
-    "value": 4820
+    "value": 4400
   },
   {
     "name": "White Chocolate Tuskaninny",
-    "value": 2470
+    "value": 2300
   },
   {
     "name": "White Chocolate Uni",
-    "value": 9470
+    "value": 3200
   },
   {
     "name": "White Chocolate Usul",
-    "value": 1230
+    "value": 1100
   },
   {
     "name": "White Chocolate Wocky",
-    "value": 3040
+    "value": 3300
   },
   {
     "name": "White Kiko Chocolates",
-    "value": 1040
+    "value": 875
   },
   {
     "name": "White Strochal",
-    "value": 970
+    "value": 140
   },
   {
     "name": "Wine Gums",
-    "value": 36200
+    "value": 30000
   },
   {
     "name": "Wintermelon Sweets",
-    "value": 95000
+    "value": 17000
   },
   {
     "name": "Wocky Meringue",
-    "value": 229000
+    "value": 21500
   },
   {
     "name": "Wrapped Strawberry Candy",
@@ -3856,58 +3857,58 @@
   },
   {
     "name": "Yellow Candy Buttons",
-    "value": 701000
+    "value": 38000
   },
   {
     "name": "Yellow Gummy Meerca",
-    "value": 1230
+    "value": 990
   },
   {
     "name": "Yellow Gummy Quiggles",
-    "value": 5820
+    "value": 4000
   },
   {
     "name": "Yellow Kyrii Candy Floss",
-    "value": 2050
+    "value": 2200
   },
   {
     "name": "Yellow Lab Jellies Chocolate Bar",
-    "value": 57800
+    "value": 34500
   },
   {
     "name": "Yellow Techo Pop",
-    "value": 53900
+    "value": 9200
   },
   {
     "name": "Yewfruit Candy",
-    "value": 118000
+    "value": 23500
   },
   {
     "name": "Yummy Drops",
-    "value": 136000
+    "value": 450000
   },
   {
     "name": "Yurble Candy Floss",
-    "value": 1090
+    "value": 485
   },
   {
     "name": "Yurble Jelly Pops",
-    "value": 996
+    "value": 1300
   },
   {
     "name": "Yurble Peppermint",
-    "value": 880000
+    "value": 32500
   },
   {
     "name": "Yurblegum",
-    "value": 986
+    "value": 1200
   },
   {
     "name": "Zafara Mints",
-    "value": 596
+    "value": 94
   },
   {
     "name": "Zeenana Krawkberry",
-    "value": 1270
+    "value": 595
   }
 ]

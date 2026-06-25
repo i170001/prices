@@ -1,951 +1,951 @@
 [
   {
-    "name": "Winter Wonderland Stamp",
-    "value": 999999
-  },
-  {
     "name": "105 Castle Secrets Stamp",
-    "value": 227000
+    "value": 4000
   },
   {
     "name": "Advert Attack Stamp",
-    "value": 4380
+    "value": 4500
   },
   {
     "name": "Advisor Wessle Stamp",
-    "value": 1400
+    "value": 2400
   },
   {
     "name": "Aethia Stamp",
-    "value": 251000
+    "value": 390000
   },
   {
     "name": "Alien Aisha Myriad Stamp",
-    "value": 99300
+    "value": 290000
   },
   {
     "name": "Alien Aisha Ray Gun Stamp",
-    "value": 46900
+    "value": 23000
   },
   {
     "name": "Alien Aisha Vending Stamp",
-    "value": 2780
+    "value": 2300
   },
   {
     "name": "Altador Food Stamp",
-    "value": 3720
+    "value": 8400
   },
   {
     "name": "Altador Magic Stamp",
-    "value": 11700000
+    "value": 7500000
   },
   {
     "name": "Altador Travel Stamp",
-    "value": 1680000
+    "value": 3050000
   },
   {
     "name": "Altadorian Farmer Stamp",
-    "value": 2630
+    "value": 2600
   },
   {
     "name": "Ancient Contract Stamp",
-    "value": 1950
+    "value": 2200
   },
   {
     "name": "Angry Janitor Stamp",
-    "value": 6150
+    "value": 6000
   },
   {
     "name": "Anshu Fishing Stamp",
-    "value": 33900
+    "value": 20000
   },
   {
     "name": "Anshu Stamp",
-    "value": 958
+    "value": 960
   },
   {
     "name": "Anubits Stamp",
-    "value": 20100000
+    "value": 21000000
   },
   {
     "name": "Archmagus of Roo Stamp",
-    "value": 1430
+    "value": 1500
   },
   {
     "name": "ARGH!!!! DONNA STAMP",
-    "value": 837000000
+    "value": 235000000
   },
   {
     "name": "Assorted Fruits Stamp",
-    "value": 688
+    "value": 765
   },
   {
     "name": "Astronomy Club Stamp",
-    "value": 2000000
+    "value": 520000
   },
   {
     "name": "Attack of the Slorgs Stamp",
-    "value": 4420
-  },
-  {
-    "name": "Attack Pea Stamp",
-    "value": 2840
-  },
-  {
-    "name": "Battle Eyrie Stamp",
-    "value": 5000
-  },
-  {
-    "name": "Battle Slices Stamp",
-    "value": 33100000
-  },
-  {
-    "name": "Battle Uni Stamp",
-    "value": 13200000
-  },
-  {
-    "name": "Benny the Blade Stamp",
-    "value": 76000
-  },
-  {
-    "name": "Biyako Stamp",
-    "value": 62400000
-  },
-  {
-    "name": "Black Bearog Stamp",
-    "value": 3000
-  },
-  {
-    "name": "Blarthrox Stamp",
-    "value": 5480
-  },
-  {
-    "name": "Bledynn Stamp",
-    "value": 33800000
-  },
-  {
-    "name": "Blugthak Stamp",
-    "value": 10100000
-  },
-  {
-    "name": "Blumaroo Court Jester Stamp",
-    "value": 3000000
-  },
-  {
-    "name": "Bone Chair Stamp",
-    "value": 5440
-  },
-  {
-    "name": "Bonju Stamp",
-    "value": 7140
-  },
-  {
-    "name": "Book Shop Nimmo Stamp",
-    "value": 1390
-  },
-  {
-    "name": "Boraxis the Healer Stamp",
-    "value": 2380
-  },
-  {
-    "name": "Boris Stamp",
-    "value": 9990
-  },
-  {
-    "name": "Bottled Faerie Stamp",
-    "value": 2420
-  },
-  {
-    "name": "Brain Tree Stamp",
-    "value": 3990
-  },
-  {
-    "name": "Bringer of Night Stamp",
-    "value": 9210
-  },
-  {
-    "name": "Bruno Stamp",
-    "value": 10400
-  },
-  {
-    "name": "Bug Eye McGee Stamp",
-    "value": 5270
-  },
-  {
-    "name": "Buried Treasure Stamp",
-    "value": 45600
-  },
-  {
-    "name": "Cancelled Stamp",
-    "value": 439000
-  },
-  {
-    "name": "Capn Threelegs Stamp",
-    "value": 1830000
-  },
-  {
-    "name": "Captain Bloodhook Stamp",
-    "value": 6010000
-  },
-  {
-    "name": "Captain of Fyoras Guards Stamp",
-    "value": 2500
-  },
-  {
-    "name": "Captain Scarblade Stamp",
-    "value": 1210000
-  },
-  {
-    "name": "Captain Tuan Stamp",
-    "value": 496
-  },
-  {
-    "name": "Carnival of Terror Stamp",
-    "value": 7090
-  },
-  {
-    "name": "Castle Defender Stamp",
-    "value": 269000
-  },
-  {
-    "name": "Caylis Stamp",
-    "value": 1400000
-  },
-  {
-    "name": "Celestial Talisman Stamp",
-    "value": 415000
-  },
-  {
-    "name": "Charms Stamp",
-    "value": 92800
-  },
-  {
-    "name": "Chasm Beast Stamp",
-    "value": 254000
-  },
-  {
-    "name": "Chocolate Factory Stamp",
-    "value": 211000
-  },
-  {
-    "name": "Christmas Fir Stamp",
-    "value": 59300
-  },
-  {
-    "name": "Christmas Kougra Stamp",
-    "value": 4080
-  },
-  {
-    "name": "Christmas Meerca Stamp",
-    "value": 4980
-  },
-  {
-    "name": "Christmas Scene Stamp",
-    "value": 1790000
-  },
-  {
-    "name": "Christmas Uni Stamp",
-    "value": 1030
-  },
-  {
-    "name": "Christmas Zafara Stamp",
-    "value": 4880
-  },
-  {
-    "name": "Chunk of Meat Stamp",
-    "value": 2080
-  },
-  {
-    "name": "Cliffhanger Stamp",
-    "value": 979000
-  },
-  {
-    "name": "Coco Stamp",
-    "value": 4860
-  },
-  {
-    "name": "Cogs Togs Stamp",
-    "value": 296000
-  },
-  {
-    "name": "Commemorative Defenders Stamp #1",
-    "value": 1670
-  },
-  {
-    "name": "Commemorative Defenders Stamp #2",
-    "value": 2760
-  },
-  {
-    "name": "Commemorative Defenders Stamp #3",
-    "value": 103000
-  },
-  {
-    "name": "Commemorative Defenders Stamp #4",
-    "value": 4210000
-  },
-  {
-    "name": "Count Von Roo Plushie Stamp",
-    "value": 6020000
-  },
-  {
-    "name": "Count Von Roo Stamp",
-    "value": 6650000
-  },
-  {
-    "name": "Court Dancer Stamp",
-    "value": 4090000
-  },
-  {
-    "name": "Crumpetmonger Stamp",
-    "value": 7740
-  },
-  {
-    "name": "Cybunny on a Cycle Stamp",
-    "value": 3600000
-  },
-  {
-    "name": "Cyodrakes Gaze Logo Stamp",
-    "value": 610
-  },
-  {
-    "name": "Darigan Citadel Stamp",
-    "value": 2060000
-  },
-  {
-    "name": "Darigan Elemental Stamp",
-    "value": 3180
-  },
-  {
-    "name": "Darigan Eyrie Stamp",
-    "value": 3120
-  },
-  {
-    "name": "Darigan Moehog Stamp",
-    "value": 15900000
-  },
-  {
-    "name": "Darigan Shield Stamp",
-    "value": 85200
-  },
-  {
-    "name": "Darigan Spectre Stamp",
-    "value": 4120000
-  },
-  {
-    "name": "Dark Battle Duck Stamp",
-    "value": 38200000
-  },
-  {
-    "name": "Dark Faerie Stamp",
-    "value": 153000
-  },
-  {
-    "name": "Dark Graspberry Stamp",
-    "value": 87800
-  },
-  {
-    "name": "Dark Ilere Stamp",
-    "value": 2280000
-  },
-  {
-    "name": "Dark Qasala Stamp",
-    "value": 1190000
-  },
-  {
-    "name": "Darkest Faerie Stamp",
-    "value": 1080000
-  },
-  {
-    "name": "Delina Stamp",
-    "value": 3840
-  },
-  {
-    "name": "Deluxe Money Tree Stamp",
-    "value": 23600
-  },
-  {
-    "name": "Desert Arms Stamp",
-    "value": 999999
-  },
-  {
-    "name": "Desert Paintbrush Stamp",
-    "value": 1020000
-  },
-  {
-    "name": "Desert Petpet Stamp",
-    "value": 1930
-  },
-  {
-    "name": "Destruct-O-Match Stamp",
-    "value": 1780
-  },
-  {
-    "name": "Destruction of Faerieland Stamp",
-    "value": 267000
-  },
-  {
-    "name": "Devilpuss Stamp",
-    "value": 62200
-  },
-  {
-    "name": "Dice-A-Roo Stamp",
-    "value": 1430
-  },
-  {
-    "name": "Docked Ship Stamp",
-    "value": 8890
-  },
-  {
-    "name": "Dorak Stamp",
-    "value": 835000
-  },
-  {
-    "name": "Double Printed Evil Fuzzle Stamp",
-    "value": 15300000
-  },
-  {
-    "name": "Dr. Sloth Stamp",
-    "value": 1330000
-  },
-  {
-    "name": "Drackonack Stamp",
-    "value": 28500000
-  },
-  {
-    "name": "Draik Guard Stamp",
-    "value": 4890
-  },
-  {
-    "name": "Drooling Quadrapus Stamp",
-    "value": 1980
-  },
-  {
-    "name": "Dubloon-O-Matic Stamp",
-    "value": 230000
-  },
-  {
-    "name": "Edna the Zafara Stamp",
-    "value": 175000
-  },
-  {
-    "name": "Eleus Stamp",
-    "value": 88000
-  },
-  {
-    "name": "Enchanted Pudao Stamp",
-    "value": 3950
-  },
-  {
-    "name": "Entrance to Moltara Stamp",
-    "value": 2700
-  },
-  {
-    "name": "Eraser of the Dark Faerie Stamp",
-    "value": 116000
-  },
-  {
-    "name": "Esophagor Stamp",
-    "value": 1590
-  },
-  {
-    "name": "Everlasting Crystal Apple Stamp",
-    "value": 898
-  },
-  {
-    "name": "Evil Fuzzles Stamp",
-    "value": 614000
-  },
-  {
-    "name": "Exploding Acorns Stamp",
-    "value": 112000
-  },
-  {
-    "name": "Exploding Space Bugs Stamp",
-    "value": 8210
-  },
-  {
-    "name": "Faerie Bubbles Stamp",
-    "value": 118000
-  },
-  {
-    "name": "Faerie City Stamp",
     "value": 3300
   },
   {
-    "name": "Faerie Foods Stamp",
-    "value": 4660
+    "name": "Attack Pea Stamp",
+    "value": 3300
   },
   {
-    "name": "Faerie Furniture Shopkeeper Stamp",
-    "value": 4760
+    "name": "Battle Eyrie Stamp",
+    "value": 4800
   },
   {
-    "name": "Faerie Slingshot Stamp",
-    "value": 2840
+    "name": "Battle Slices Stamp",
+    "value": 50000000
   },
   {
-    "name": "Faerie Slorg Stamp",
-    "value": 1340000
+    "name": "Battle Uni Stamp",
+    "value": 23000000
   },
   {
-    "name": "Faerie Techo Plushie Stamp",
-    "value": 1060
+    "name": "Benny the Blade Stamp",
+    "value": 74000
   },
   {
-    "name": "Faerieland Justice Stamp",
-    "value": 3860
+    "name": "Biyako Stamp",
+    "value": 7200000
   },
   {
-    "name": "Faerieland Petpet Shopkeeper Stamp",
-    "value": 3810
+    "name": "Black Bearog Stamp",
+    "value": 2900
   },
   {
-    "name": "Family Portrait Stamp",
-    "value": 8370
+    "name": "Blarthrox Stamp",
+    "value": 4900
   },
   {
-    "name": "Fauna Stamp",
-    "value": 1000
+    "name": "Bledynn Stamp",
+    "value": 18000000
   },
   {
-    "name": "Feldon Dinksy Collibridge Stamp",
-    "value": 59700
+    "name": "Blugthak Stamp",
+    "value": 72000000
   },
   {
-    "name": "Fetch! Stamp",
-    "value": 1230
+    "name": "Blumaroo Court Jester Stamp",
+    "value": 2600000
   },
   {
-    "name": "Finneus Stamp",
-    "value": 3860000
+    "name": "Bone Chair Stamp",
+    "value": 5500
   },
   {
-    "name": "First Edition Altador Petpet Stamp",
-    "value": 1840
+    "name": "Bonju Stamp",
+    "value": 4700
   },
   {
-    "name": "Florin Stamp",
-    "value": 998440
+    "name": "Book Shop Nimmo Stamp",
+    "value": 1500
   },
   {
-    "name": "Flying Korbats Stamp",
-    "value": 5050
+    "name": "Boraxis the Healer Stamp",
+    "value": 2500
   },
   {
-    "name": "Foil Food Shop Stamp",
-    "value": 301000000
+    "name": "Boris Stamp",
+    "value": 14000
   },
   {
-    "name": "Foil Slorg Stamp",
-    "value": 32600000
+    "name": "Bottled Faerie Stamp",
+    "value": 890
   },
   {
-    "name": "Forgotten Shore Stamp",
-    "value": 5500000
+    "name": "Brain Tree Stamp",
+    "value": 5500
   },
   {
-    "name": "Fountain Faerie Stamp",
-    "value": 37600
+    "name": "Bringer of Night Stamp",
+    "value": 9000
   },
   {
-    "name": "Fred the Tuskaninny Sailor Stamp",
-    "value": 70200
+    "name": "Bruno Stamp",
+    "value": 12000
   },
   {
-    "name": "Frosty Snowman Stamp",
-    "value": 3560
+    "name": "Bug Eye McGee Stamp",
+    "value": 7200
   },
   {
-    "name": "Fruit Bomb Stamp",
-    "value": 2010
+    "name": "Buried Treasure Stamp",
+    "value": 62000
   },
   {
-    "name": "Fruit Machine Stamp",
-    "value": 4940
+    "name": "Cancelled Stamp",
+    "value": 2800000
   },
   {
-    "name": "Fyora Faerie Doll Stamp",
-    "value": 1730000
+    "name": "Capn Threelegs Stamp",
+    "value": 4150000
   },
   {
-    "name": "Fyoras Castle Stamp",
-    "value": 2720000
+    "name": "Captain Bloodhook Stamp",
+    "value": 11000000
   },
   {
-    "name": "Gallion Stamp",
-    "value": 2250
+    "name": "Captain of Fyoras Guards Stamp",
+    "value": 3600
   },
   {
-    "name": "Gargarox Isafuhlarg Stamp",
-    "value": 3620000
+    "name": "Captain Scarblade Stamp",
+    "value": 1600000
   },
   {
-    "name": "Garin Stamp",
-    "value": 874000
+    "name": "Captain Tuan Stamp",
+    "value": 900
   },
   {
-    "name": "Garin To The Rescue Stamp",
-    "value": 1480000
+    "name": "Carnival of Terror Stamp",
+    "value": 6700
   },
   {
-    "name": "Gatekeeper Stamp",
-    "value": 928
+    "name": "Castle Defender Stamp",
+    "value": 340000
   },
   {
-    "name": "Geb Stamp",
-    "value": 8350
+    "name": "Caylis Stamp",
+    "value": 2650000
   },
   {
-    "name": "Gelert Prince Stamp",
-    "value": 883
+    "name": "Celestial Talisman Stamp",
+    "value": 340000
   },
   {
-    "name": "Geraptiku Stamp",
-    "value": 18900000
+    "name": "Charms Stamp",
+    "value": 110000
   },
   {
-    "name": "Giant Leaf Curtains Stamp",
-    "value": 5740
+    "name": "Chasm Beast Stamp",
+    "value": 210000
   },
   {
-    "name": "Glowing Brain Tree Stamp",
-    "value": 926000
+    "name": "Chocolate Factory Stamp",
+    "value": 210000
   },
   {
-    "name": "Gold Mote Stamp",
-    "value": 66100000
+    "name": "Christmas Fir Stamp",
+    "value": 89000
   },
   {
-    "name": "Golden Dubloon Stamp",
-    "value": 19700000
+    "name": "Christmas Kougra Stamp",
+    "value": 2800
   },
   {
-    "name": "Golden Khamette Stamp",
+    "name": "Christmas Meerca Stamp",
+    "value": 2400
+  },
+  {
+    "name": "Christmas Scene Stamp",
+    "value": 2450000
+  },
+  {
+    "name": "Christmas Uni Stamp",
+    "value": 1500
+  },
+  {
+    "name": "Christmas Zafara Stamp",
+    "value": 5100
+  },
+  {
+    "name": "Chunk of Meat Stamp",
+    "value": 2400
+  },
+  {
+    "name": "Cliffhanger Stamp",
+    "value": 999228
+  },
+  {
+    "name": "Coco Stamp",
+    "value": 5400
+  },
+  {
+    "name": "Cogs Togs Stamp",
+    "value": 220000
+  },
+  {
+    "name": "Commemorative Defenders Stamp #1",
+    "value": 2400
+  },
+  {
+    "name": "Commemorative Defenders Stamp #2",
+    "value": 2200
+  },
+  {
+    "name": "Commemorative Defenders Stamp #3",
+    "value": 1600
+  },
+  {
+    "name": "Commemorative Defenders Stamp #4",
+    "value": 6700000
+  },
+  {
+    "name": "Count Von Roo Plushie Stamp",
+    "value": 17000000
+  },
+  {
+    "name": "Count Von Roo Stamp",
+    "value": 12000000
+  },
+  {
+    "name": "Court Dancer Stamp",
+    "value": 3250000
+  },
+  {
+    "name": "Crumpetmonger Stamp",
+    "value": 5600
+  },
+  {
+    "name": "Cybunny on a Cycle Stamp",
+    "value": 740000
+  },
+  {
+    "name": "Cyodrakes Gaze Logo Stamp",
+    "value": 4100
+  },
+  {
+    "name": "Darigan Citadel Stamp",
+    "value": 4150000
+  },
+  {
+    "name": "Darigan Elemental Stamp",
+    "value": 5800
+  },
+  {
+    "name": "Darigan Eyrie Stamp",
+    "value": 3900
+  },
+  {
+    "name": "Darigan Moehog Stamp",
+    "value": 37000000
+  },
+  {
+    "name": "Darigan Shield Stamp",
+    "value": 65000
+  },
+  {
+    "name": "Darigan Spectre Stamp",
+    "value": 15000000
+  },
+  {
+    "name": "Dark Battle Duck Stamp",
+    "value": 17000000
+  },
+  {
+    "name": "Dark Faerie Stamp",
+    "value": 8700
+  },
+  {
+    "name": "Dark Graspberry Stamp",
+    "value": 94500
+  },
+  {
+    "name": "Dark Ilere Stamp",
+    "value": 2800000
+  },
+  {
+    "name": "Dark Qasala Stamp",
+    "value": 2450000
+  },
+  {
+    "name": "Darkest Faerie Stamp",
+    "value": 3250000
+  },
+  {
+    "name": "Delina Stamp",
+    "value": 6000
+  },
+  {
+    "name": "Deluxe Money Tree Stamp",
+    "value": 7000
+  },
+  {
+    "name": "Desert Arms Stamp",
+    "value": 3100
+  },
+  {
+    "name": "Desert Paintbrush Stamp",
+    "value": 5600000
+  },
+  {
+    "name": "Desert Petpet Stamp",
+    "value": 2100
+  },
+  {
+    "name": "Destruct-O-Match Stamp",
     "value": 2000
   },
   {
-    "name": "Golden Orb Stamp",
-    "value": 3540
+    "name": "Destruction of Faerieland Stamp",
+    "value": 240000
   },
   {
-    "name": "Gordos Stamp",
-    "value": 3840
+    "name": "Devilpuss Stamp",
+    "value": 88500
   },
   {
-    "name": "Goregas Stamp",
-    "value": 102000
+    "name": "Dice-A-Roo Stamp",
+    "value": 1700
   },
   {
-    "name": "Gormball Stamp",
-    "value": 2700
+    "name": "Docked Ship Stamp",
+    "value": 9900
   },
   {
-    "name": "Gors The Mighty Stamp",
-    "value": 21300000
+    "name": "Dorak Stamp",
+    "value": 1400000
   },
   {
-    "name": "Grackle Bug Stamp",
-    "value": 1690
+    "name": "Double Printed Evil Fuzzle Stamp",
+    "value": 22000000
   },
   {
-    "name": "Grand Theft Ummagine Stamp",
-    "value": 4410
+    "name": "Dr. Sloth Stamp",
+    "value": 730000
   },
   {
-    "name": "Green Knight Stamp",
-    "value": 999999
+    "name": "Drackonack Stamp",
+    "value": 18000000
   },
   {
-    "name": "Grimilix Stamp",
-    "value": 2040
+    "name": "Draik Guard Stamp",
+    "value": 4400
   },
   {
-    "name": "Grimtooth Stamp",
-    "value": 45300000
+    "name": "Drooling Quadrapus Stamp",
+    "value": 2500
   },
   {
-    "name": "Grinning Sloth Stamp",
-    "value": 1950
+    "name": "Dubloon-O-Matic Stamp",
+    "value": 1100
   },
   {
-    "name": "Grundo Snow Throw Stamp",
-    "value": 5330
+    "name": "Edna the Zafara Stamp",
+    "value": 400000
   },
   {
-    "name": "Grundo Warehouse Stamp",
-    "value": 7840000
+    "name": "Eleus Stamp",
+    "value": 170000
   },
   {
-    "name": "Gruntharxx Stamp",
-    "value": 26200000
+    "name": "Enchanted Pudao Stamp",
+    "value": 3400
   },
   {
-    "name": "Guard Zomutt Stamp",
-    "value": 4530
+    "name": "Entrance to Moltara Stamp",
+    "value": 1600
   },
   {
-    "name": "Guardian Of Spectral Magic Stamp",
-    "value": 9130000
+    "name": "Eraser of the Dark Faerie Stamp",
+    "value": 2500
   },
   {
-    "name": "Hadrak Stamp",
-    "value": 5950000
+    "name": "Esophagor Stamp",
+    "value": 1800
   },
   {
-    "name": "Haiku Stamp",
-    "value": 999
+    "name": "Everlasting Crystal Apple Stamp",
+    "value": 995
   },
   {
-    "name": "Halloween Aisha Stamp",
-    "value": 911
+    "name": "Evil Fuzzles Stamp",
+    "value": 850000
   },
   {
-    "name": "Halloween Ona Stamp",
-    "value": 1080
+    "name": "Exploding Acorns Stamp",
+    "value": 5900
   },
   {
-    "name": "Hannah Stamp",
-    "value": 14600
+    "name": "Exploding Space Bugs Stamp",
+    "value": 6700
   },
   {
-    "name": "Hanso Stamp",
-    "value": 9510
+    "name": "Faerie Bubbles Stamp",
+    "value": 38000
   },
   {
-    "name": "Haunted Mansion Stamp",
-    "value": 27600000
+    "name": "Faerie City Stamp",
+    "value": 1900
   },
   {
-    "name": "Healing Springs Stamp",
-    "value": 1170
+    "name": "Faerie Foods Stamp",
+    "value": 4400
   },
   {
-    "name": "Hilda the Hedgewitch Stamp",
-    "value": 136000000
+    "name": "Faerie Furniture Shopkeeper Stamp",
+    "value": 9100
   },
   {
-    "name": "Hoban Stamp",
-    "value": 1200000
+    "name": "Faerie Slingshot Stamp",
+    "value": 4000
   },
   {
-    "name": "Holographic Coltzans Shrine Stamp",
-    "value": 23900000
-  },
-  {
-    "name": "Holographic Magax Stamp",
-    "value": 26200000
-  },
-  {
-    "name": "Holographic Sakhmet City Stamp",
-    "value": 52500
-  },
-  {
-    "name": "Holographic Virtupets Stamp",
-    "value": 247000000
-  },
-  {
-    "name": "Horace Stamp",
-    "value": 21100000
-  },
-  {
-    "name": "Hot Dog Hero Stamp",
-    "value": 996491
-  },
-  {
-    "name": "Huberts Hot Dogs Stamp",
-    "value": 1030
-  },
-  {
-    "name": "Hubrid Nox Commemorative Stamp",
-    "value": 396000
-  },
-  {
-    "name": "Hubrid Nox Stamp",
-    "value": 64500
-  },
-  {
-    "name": "Hubrid Noxs Mountain Fortress Stamp",
-    "value": 296000
-  },
-  {
-    "name": "Hubrids Puzzle Box Stamp",
-    "value": 2810
-  },
-  {
-    "name": "Igloo Garage Sale Stamp",
-    "value": 5960
-  },
-  {
-    "name": "Igneot Stamp",
-    "value": 140000000
-  },
-  {
-    "name": "Igneots Cavern Stamp",
-    "value": 2460000
-  },
-  {
-    "name": "Illusen Stamp",
-    "value": 97900
-  },
-  {
-    "name": "Illusens Staff Stamp",
-    "value": 3580
-  },
-  {
-    "name": "Inverted Space Faerie Stamp",
-    "value": 139000
-  },
-  {
-    "name": "Isca Stamp",
-    "value": 104000000
-  },
-  {
-    "name": "Island Mystic Stamp",
-    "value": 428
-  },
-  {
-    "name": "Island Native Stamp",
-    "value": 911
-  },
-  {
-    "name": "Jacques Stamp",
-    "value": 35700000
-  },
-  {
-    "name": "Jade Scorchstone Stamp",
-    "value": 13300000
-  },
-  {
-    "name": "Jahbal Stamp",
-    "value": 33300000
-  },
-  {
-    "name": "Jelly Pop Stamp",
-    "value": 70800
-  },
-  {
-    "name": "Jelly World Stamp",
-    "value": 999900
-  },
-  {
-    "name": "Jeran Stamp",
-    "value": 40400
-  },
-  {
-    "name": "Jerdana Stamp",
-    "value": 4150
-  },
-  {
-    "name": "Jewelled Scarab Stamp",
-    "value": 70200
-  },
-  {
-    "name": "Jhudora Stamp",
-    "value": 3640000
-  },
-  {
-    "name": "Jhudoras Bewitched Ring Stamp",
-    "value": 275000
-  },
-  {
-    "name": "Jhudoras Cloud Stamp",
-    "value": 1420000
-  },
-  {
-    "name": "Jhuidah Stamp",
-    "value": 436
-  },
-  {
-    "name": "Kauvara Stamp",
-    "value": 5480
-  },
-  {
-    "name": "Kazeriu Stamp",
-    "value": 1450
-  },
-  {
-    "name": "Kelland Stamp",
-    "value": 5020
-  },
-  {
-    "name": "Kentari Spyglass Stamp",
-    "value": 929000
-  },
-  {
-    "name": "Kentari Stamp",
-    "value": 3
-  },
-  {
-    "name": "King Altador Stamp",
-    "value": 1270000
-  },
-  {
-    "name": "King Jazan Stamp",
-    "value": 2520000
-  },
-  {
-    "name": "King Kelpbeard Stamp",
+    "name": "Faerie Slorg Stamp",
     "value": 3000000
   },
   {
-    "name": "King Skarl Plushie Stamp",
-    "value": 48600
+    "name": "Faerie Techo Plushie Stamp",
+    "value": 1100
   },
   {
-    "name": "King Skarl Stamp",
-    "value": 37200
+    "name": "Faerieland Justice Stamp",
+    "value": 5000
   },
   {
-    "name": "Kings Lens Stamp",
-    "value": 1640
+    "name": "Faerieland Petpet Shopkeeper Stamp",
+    "value": 5000
   },
   {
-    "name": "Kolvars Stamp",
-    "value": 79800
+    "name": "Family Portrait Stamp",
+    "value": 6000
   },
   {
-    "name": "Korbats Lab Stamp",
-    "value": 74
+    "name": "Fauna Stamp",
+    "value": 42
   },
   {
-    "name": "Kou-Jong Tile Stamp",
-    "value": 182000
+    "name": "Feldon Dinksy Collibridge Stamp",
+    "value": 21500
   },
   {
-    "name": "Krawk Island Governor Stamp",
-    "value": 7310
+    "name": "Fetch! Stamp",
+    "value": 1500
   },
   {
-    "name": "Kreai Stamp",
-    "value": 1360000
+    "name": "Finneus Stamp",
+    "value": 3750000
   },
   {
-    "name": "Lab Ray Stamp",
-    "value": 1470000
+    "name": "First Edition Altador Petpet Stamp",
+    "value": 2100
   },
   {
-    "name": "Lady Frostbite Stamp",
-    "value": 6030
+    "name": "Florin Stamp",
+    "value": 1800000
   },
   {
-    "name": "Lampwyck Stamp",
-    "value": 10200000
+    "name": "Flying Korbats Stamp",
+    "value": 10000
   },
   {
-    "name": "Lava Monster Stamp",
-    "value": 239000
+    "name": "Foil Food Shop Stamp",
+    "value": 50000000
   },
   {
-    "name": "Leirobas Stamp",
+    "name": "Foil Slorg Stamp",
+    "value": 11000000
+  },
+  {
+    "name": "Forgotten Shore Stamp",
+    "value": 5750000
+  },
+  {
+    "name": "Fountain Faerie Stamp",
+    "value": 40500
+  },
+  {
+    "name": "Fred the Tuskaninny Sailor Stamp",
+    "value": 67000
+  },
+  {
+    "name": "Frosty Snowman Stamp",
     "value": 3000
   },
   {
+    "name": "Fruit Bomb Stamp",
+    "value": 2100
+  },
+  {
+    "name": "Fruit Machine Stamp",
+    "value": 5000
+  },
+  {
+    "name": "Fyora Faerie Doll Stamp",
+    "value": 2850000
+  },
+  {
+    "name": "Fyoras Castle Stamp",
+    "value": 8200000
+  },
+  {
+    "name": "Gallion Stamp",
+    "value": 2200
+  },
+  {
+    "name": "Gargarox Isafuhlarg Stamp",
+    "value": 8500000
+  },
+  {
+    "name": "Garin Stamp",
+    "value": 400000
+  },
+  {
+    "name": "Garin To The Rescue Stamp",
+    "value": 4500000
+  },
+  {
+    "name": "Gatekeeper Stamp",
+    "value": 3900
+  },
+  {
+    "name": "Geb Stamp",
+    "value": 4500
+  },
+  {
+    "name": "Gelert Prince Stamp",
+    "value": 1000
+  },
+  {
+    "name": "Geraptiku Stamp",
+    "value": 44000000
+  },
+  {
+    "name": "Giant Leaf Curtains Stamp",
+    "value": 4600
+  },
+  {
+    "name": "Glowing Brain Tree Stamp",
+    "value": 999999
+  },
+  {
+    "name": "Gold Mote Stamp",
+    "value": 120000000
+  },
+  {
+    "name": "Golden Dubloon Stamp",
+    "value": 53000000
+  },
+  {
+    "name": "Golden Khamette Stamp",
+    "value": 2100
+  },
+  {
+    "name": "Golden Orb Stamp",
+    "value": 4000
+  },
+  {
+    "name": "Gordos Stamp",
+    "value": 5000
+  },
+  {
+    "name": "Goregas Stamp",
+    "value": 100000
+  },
+  {
+    "name": "Gormball Stamp",
+    "value": 1700
+  },
+  {
+    "name": "Gors The Mighty Stamp",
+    "value": 13000000
+  },
+  {
+    "name": "Grackle Bug Stamp",
+    "value": 2200
+  },
+  {
+    "name": "Grand Theft Ummagine Stamp",
+    "value": 4000
+  },
+  {
+    "name": "Grave Danger Petpet Stamp",
+    "value": 42000000
+  },
+  {
+    "name": "Green Knight Stamp",
+    "value": 2350000
+  },
+  {
+    "name": "Grimilix Stamp",
+    "value": 2100
+  },
+  {
+    "name": "Grimtooth Stamp",
+    "value": 39000000
+  },
+  {
+    "name": "Grinning Sloth Stamp",
+    "value": 2200
+  },
+  {
+    "name": "Grundo Snow Throw Stamp",
+    "value": 3000
+  },
+  {
+    "name": "Grundo Warehouse Stamp",
+    "value": 20000000
+  },
+  {
+    "name": "Gruntharxx Stamp",
+    "value": 20000000
+  },
+  {
+    "name": "Guard Zomutt Stamp",
+    "value": 5000
+  },
+  {
+    "name": "Guardian Of Spectral Magic Stamp",
+    "value": 18000000
+  },
+  {
+    "name": "Hadrak Stamp",
+    "value": 11000000
+  },
+  {
+    "name": "Haiku Stamp",
+    "value": 1300
+  },
+  {
+    "name": "Halloween Aisha Stamp",
+    "value": 1300
+  },
+  {
+    "name": "Halloween Ona Stamp",
+    "value": 2700
+  },
+  {
+    "name": "Hannah Stamp",
+    "value": 15000
+  },
+  {
+    "name": "Hanso Stamp",
+    "value": 9500
+  },
+  {
+    "name": "Haunted Mansion Stamp",
+    "value": 49000000
+  },
+  {
+    "name": "Healing Springs Stamp",
+    "value": 1600
+  },
+  {
+    "name": "Hilda the Hedgewitch Stamp",
+    "value": 20000000
+  },
+  {
+    "name": "Hoban Stamp",
+    "value": 3250000
+  },
+  {
+    "name": "Holographic Coltzans Shrine Stamp",
+    "value": 13000000
+  },
+  {
+    "name": "Holographic Magax Stamp",
+    "value": 20000000
+  },
+  {
+    "name": "Holographic Sakhmet City Stamp",
+    "value": 88500
+  },
+  {
+    "name": "Holographic Virtupets Stamp",
+    "value": 43000000
+  },
+  {
+    "name": "Horace Stamp",
+    "value": 26000000
+  },
+  {
+    "name": "Hot Dog Hero Stamp",
+    "value": 3050000
+  },
+  {
+    "name": "Huberts Hot Dogs Stamp",
+    "value": 1800
+  },
+  {
+    "name": "Hubrid Nox Commemorative Stamp",
+    "value": 310000
+  },
+  {
+    "name": "Hubrid Nox Stamp",
+    "value": 28500
+  },
+  {
+    "name": "Hubrid Noxs Mountain Fortress Stamp",
+    "value": 190000
+  },
+  {
+    "name": "Hubrids Puzzle Box Stamp",
+    "value": 3700
+  },
+  {
+    "name": "Igloo Garage Sale Stamp",
+    "value": 5000
+  },
+  {
+    "name": "Igneot Stamp",
+    "value": 31000000
+  },
+  {
+    "name": "Igneots Cavern Stamp",
+    "value": 8100000
+  },
+  {
+    "name": "Illusen Stamp",
+    "value": 110000
+  },
+  {
+    "name": "Illusens Staff Stamp",
+    "value": 3900
+  },
+  {
+    "name": "Inverted Space Faerie Stamp",
+    "value": 330000
+  },
+  {
+    "name": "Isca Stamp",
+    "value": 39000000
+  },
+  {
+    "name": "Island Mystic Stamp",
+    "value": 325
+  },
+  {
+    "name": "Island Native Stamp",
+    "value": 975
+  },
+  {
+    "name": "Jacques Stamp",
+    "value": 17000000
+  },
+  {
+    "name": "Jade Scorchstone Stamp",
+    "value": 6400000
+  },
+  {
+    "name": "Jahbal Stamp",
+    "value": 47000000
+  },
+  {
+    "name": "Jelly Pop Stamp",
+    "value": 49000
+  },
+  {
+    "name": "Jelly World Stamp",
+    "value": 999999
+  },
+  {
+    "name": "Jeran Stamp",
+    "value": 18500
+  },
+  {
+    "name": "Jerdana Stamp",
+    "value": 3900
+  },
+  {
+    "name": "Jewelled Scarab Stamp",
+    "value": 140000
+  },
+  {
+    "name": "Jhudora Stamp",
+    "value": 3450000
+  },
+  {
+    "name": "Jhudoras Bewitched Ring Stamp",
+    "value": 100000
+  },
+  {
+    "name": "Jhudoras Cloud Stamp",
+    "value": 1900000
+  },
+  {
+    "name": "Jhuidah Stamp",
+    "value": 335
+  },
+  {
+    "name": "Kauvara Stamp",
+    "value": 6000
+  },
+  {
+    "name": "Kazeriu Stamp",
+    "value": 2000
+  },
+  {
+    "name": "Kelland Stamp",
+    "value": 4700
+  },
+  {
+    "name": "Kentari Spyglass Stamp",
+    "value": 800000
+  },
+  {
+    "name": "Kentari Stamp",
+    "value": 1
+  },
+  {
+    "name": "King Altador Stamp",
+    "value": 4050000
+  },
+  {
+    "name": "King Jazan Stamp",
+    "value": 1700000
+  },
+  {
+    "name": "King Kelpbeard Stamp",
+    "value": 1750000
+  },
+  {
+    "name": "King Skarl Plushie Stamp",
+    "value": 74500
+  },
+  {
+    "name": "King Skarl Stamp",
+    "value": 6200
+  },
+  {
+    "name": "Kings Lens Stamp",
+    "value": 9600
+  },
+  {
+    "name": "Kolvars Stamp",
+    "value": 91000
+  },
+  {
+    "name": "Korbats Lab Stamp",
+    "value": 19
+  },
+  {
+    "name": "Kou-Jong Tile Stamp",
+    "value": 200000
+  },
+  {
+    "name": "Krawk Island Governor Stamp",
+    "value": 5700
+  },
+  {
+    "name": "Kreai Stamp",
+    "value": 500000
+  },
+  {
+    "name": "Lab Ray Stamp",
+    "value": 1700000
+  },
+  {
+    "name": "Lady Frostbite Stamp",
+    "value": 7000
+  },
+  {
+    "name": "Lampwyck Stamp",
+    "value": 9150000
+  },
+  {
+    "name": "Lava Monster Stamp",
+    "value": 310000
+  },
+  {
+    "name": "Leirobas Stamp",
+    "value": 2900
+  },
+  {
     "name": "Librarian Stamp",
-    "value": 52100
+    "value": 41500
   },
   {
     "name": "Library Faerie Stamp",
-    "value": 2490
+    "value": 3900
   },
   {
     "name": "Linae Stamp",
@@ -953,75 +953,79 @@
   },
   {
     "name": "Lisha vs Zombie Lisha Stamp",
-    "value": 5620000
+    "value": 999999
   },
   {
     "name": "Lord Darigan Stamp",
-    "value": 4000
+    "value": 5000
   },
   {
     "name": "Lord Kass Stamp",
-    "value": 9170000
+    "value": 17000000
   },
   {
     "name": "Lost City of Phorofor Stamp",
-    "value": 1370000
+    "value": 2000000
   },
   {
     "name": "Lost Desert Grarrl Stamp",
-    "value": 1860
+    "value": 1800
   },
   {
     "name": "Lost Desert Scroll Stamp",
-    "value": 899000
+    "value": 4100000
   },
   {
     "name": "Lost Desert Sphinx Stamp",
-    "value": 3140
+    "value": 3800
   },
   {
     "name": "Lucky Coin Stamp",
-    "value": 6140000
+    "value": 1500000
   },
   {
     "name": "Lupe Shopkeeper Stamp",
-    "value": 1050000
+    "value": 2050000
   },
   {
     "name": "Luperus Centre Head Stamp",
-    "value": 986
+    "value": 215
   },
   {
     "name": "Luperus Left Head Stamp",
-    "value": 917
+    "value": 125
   },
   {
     "name": "Luperus Right Head Stamp",
-    "value": 1790
+    "value": 64
   },
   {
     "name": "Magma Pool Guard Stamp",
-    "value": 10100
+    "value": 11000
   },
   {
     "name": "Magma Pool Stamp",
-    "value": 4990
+    "value": 5400
+  },
+  {
+    "name": "Magnus Stamp",
+    "value": 24000000
   },
   {
     "name": "Maractite Dagger Stamp",
-    "value": 3040
+    "value": 3500
   },
   {
     "name": "Marak Stamp",
-    "value": 4170
+    "value": 6000
   },
   {
     "name": "Maraquan Blade Specialist Stamp",
-    "value": 86100
+    "value": 39000
   },
   {
     "name": "Maraquan Charger Stamp",
-    "value": 105000
+    "value": 85000
   },
   {
     "name": "Maraquan Defenders Stamp",
@@ -1029,231 +1033,235 @@
   },
   {
     "name": "Maraquan Troops Stamp",
-    "value": 2
+    "value": 54
   },
   {
     "name": "Master Vex Stamp",
-    "value": 1100
+    "value": 1000
   },
   {
     "name": "Mayor of Moltara Stamp",
-    "value": 93000
+    "value": 26500
   },
   {
     "name": "Meerca Spy Stamp",
-    "value": 19900000
+    "value": 21000000
   },
   {
     "name": "Mellow Marauders Plushie Stamp",
-    "value": 16700
+    "value": 14500
   },
   {
     "name": "Meridell Castle Stamp",
-    "value": 999935
+    "value": 1450000
   },
   {
     "name": "Meridell Gardens Stamp",
-    "value": 47100
+    "value": 20000
   },
   {
     "name": "Meridell Heroes Stamp",
-    "value": 750000
-  },
-  {
-    "name": "Meridell Shield Stamp",
-    "value": 1210
-  },
-  {
-    "name": "Midnight Desert Lupe Stamp",
-    "value": 3520
-  },
-  {
-    "name": "Mipsy Stamp",
-    "value": 10900000
-  },
-  {
-    "name": "Misaligned Printer Stamp",
-    "value": 20100000
-  },
-  {
-    "name": "Misprint Meuka Stamp",
-    "value": 2370000
-  },
-  {
-    "name": "Mist Kougra Stamp",
-    "value": 1220
-  },
-  {
-    "name": "Mokti and Rikti Stamp",
-    "value": 184000
-  },
-  {
-    "name": "Moltara Town Hall Stamp",
-    "value": 252000
-  },
-  {
-    "name": "Molten Morsels Stamp",
-    "value": 9620
-  },
-  {
-    "name": "Money Tree Stamp",
-    "value": 2400
-  },
-  {
-    "name": "Monoceraptor Claw Stamp",
-    "value": 5720
-  },
-  {
-    "name": "Monty McTaggart Stamp",
-    "value": 35400000
-  },
-  {
-    "name": "Moonlit Esophagor Stamp",
-    "value": 1450
-  },
-  {
-    "name": "Moonlit Werelupe Stamp",
-    "value": 4000
-  },
-  {
-    "name": "Morax Dorangis Stamp",
-    "value": 3130
-  },
-  {
-    "name": "Morguss Stamp",
-    "value": 97000000
-  },
-  {
-    "name": "Morris Stamp",
-    "value": 22600000
-  },
-  {
-    "name": "Mr Irgo Stamp",
-    "value": 3020
-  },
-  {
-    "name": "Mr. Krawley Stamp",
-    "value": 3830000
-  },
-  {
-    "name": "Mutant Grundo Stamp",
-    "value": 3660
-  },
-  {
-    "name": "Mutant Techo Plushie Stamp",
-    "value": 6990
-  },
-  {
-    "name": "Mutant Usul Stamp",
-    "value": 5490
-  },
-  {
-    "name": "Mystery Island Heads Stamp",
-    "value": 1300
-  },
-  {
-    "name": "Mystery Island Hut Stamp",
-    "value": 500
-  },
-  {
-    "name": "Mystery Island Kougra Stamp",
-    "value": 1870
-  },
-  {
-    "name": "Mystery Island Travel Stamp",
-    "value": 59500
-  },
-  {
-    "name": "N4 Bot Stamp",
-    "value": 4470
-  },
-  {
-    "name": "Nabile & Tomos Stamp",
-    "value": 148000
-  },
-  {
-    "name": "Nabile Stamp",
     "value": 999999
   },
   {
+    "name": "Meridell Shield Stamp",
+    "value": 6100
+  },
+  {
+    "name": "Midnight Desert Lupe Stamp",
+    "value": 3900
+  },
+  {
+    "name": "Mipsy Stamp",
+    "value": 52000000
+  },
+  {
+    "name": "Misaligned Printer Stamp",
+    "value": 13000000
+  },
+  {
+    "name": "Misprint Meuka Stamp",
+    "value": 4000000
+  },
+  {
+    "name": "Mist Kougra Stamp",
+    "value": 2000
+  },
+  {
+    "name": "Mokti and Rikti Stamp",
+    "value": 410000
+  },
+  {
+    "name": "Moloch Stamp",
+    "value": 26000000
+  },
+  {
+    "name": "Moltara Town Hall Stamp",
+    "value": 2650000
+  },
+  {
+    "name": "Molten Morsels Stamp",
+    "value": 4600
+  },
+  {
+    "name": "Money Tree Stamp",
+    "value": 3000
+  },
+  {
+    "name": "Monoceraptor Claw Stamp",
+    "value": 7700
+  },
+  {
+    "name": "Monty McTaggart Stamp",
+    "value": 10000000
+  },
+  {
+    "name": "Moonlit Esophagor Stamp",
+    "value": 8
+  },
+  {
+    "name": "Moonlit Werelupe Stamp",
+    "value": 4900
+  },
+  {
+    "name": "Morax Dorangis Stamp",
+    "value": 3000
+  },
+  {
+    "name": "Morguss Stamp",
+    "value": 29000000
+  },
+  {
+    "name": "Morris Stamp",
+    "value": 54000000
+  },
+  {
+    "name": "Mr Irgo Stamp",
+    "value": 2700
+  },
+  {
+    "name": "Mr. Krawley Stamp",
+    "value": 3800000
+  },
+  {
+    "name": "Mutant Grundo Stamp",
+    "value": 6100
+  },
+  {
+    "name": "Mutant Techo Plushie Stamp",
+    "value": 5500
+  },
+  {
+    "name": "Mutant Usul Stamp",
+    "value": 5900
+  },
+  {
+    "name": "Mystery Island Heads Stamp",
+    "value": 1500
+  },
+  {
+    "name": "Mystery Island Hut Stamp",
+    "value": 280
+  },
+  {
+    "name": "Mystery Island Kougra Stamp",
+    "value": 2100
+  },
+  {
+    "name": "Mystery Island Travel Stamp",
+    "value": 100000
+  },
+  {
+    "name": "N4 Bot Stamp",
+    "value": 5500
+  },
+  {
+    "name": "Nabile & Tomos Stamp",
+    "value": 81000
+  },
+  {
+    "name": "Nabile Stamp",
+    "value": 400000
+  },
+  {
     "name": "Need a Better Printer Stamp",
-    "value": 2580000
+    "value": 4500000
   },
   {
     "name": "Negg Faerie Stamp",
-    "value": 31600000
+    "value": 11000000
   },
   {
     "name": "Negg Noodles Stamp",
-    "value": 508
+    "value": 1700
   },
   {
     "name": "Neolodge Stamp",
-    "value": 2950
+    "value": 3400
   },
   {
     "name": "Neopet Version 2 Stamp",
-    "value": 6410
+    "value": 5700
   },
   {
     "name": "Neopia Central Scene Stamp",
-    "value": 23100
+    "value": 96000
   },
   {
     "name": "Neopian Hospital Stamp",
-    "value": 1
+    "value": 7
   },
   {
     "name": "NeoQuest Hero Stamp",
-    "value": 81900000
+    "value": 83000000
   },
   {
     "name": "NeoQuest II Esophagor Stamp",
-    "value": 26400000
+    "value": 16000000
   },
   {
     "name": "NeoQuest II Logo Stamp",
-    "value": 96500
+    "value": 42000
   },
   {
     "name": "NeoQuest Logo Stamp",
-    "value": 23600000
+    "value": 43000000
   },
   {
     "name": "Neovia Stamp",
-    "value": 3150
+    "value": 4500
   },
   {
     "name": "Neovian Printing Press Shopkeeper Stamp",
-    "value": 82300
+    "value": 47500
   },
   {
     "name": "New Maraqua Stamp",
-    "value": 4790
+    "value": 4900
   },
   {
     "name": "Nibbled Cooking Pot Stamp",
-    "value": 525000000
+    "value": 13000000
   },
   {
     "name": "Nightsteed Stamp",
-    "value": 24600000
+    "value": 30000000
   },
   {
     "name": "Northern Watch Tower Stamp",
-    "value": 726000
+    "value": 1700000
   },
   {
     "name": "Nova Storm Stamp",
-    "value": 7780
+    "value": 4700
   },
   {
     "name": "One Hundred Million Neopoint Stamp",
-    "value": 8700000
+    "value": 14000000
   },
   {
     "name": "Orange Draik Stamp",
-    "value": 316
+    "value": 1000
   },
   {
     "name": "Orange Skeith Stamp",
@@ -1261,59 +1269,63 @@
   },
   {
     "name": "Orion Stamp",
-    "value": 13400000
+    "value": 9900000
   },
   {
     "name": "Orrin Stamp",
-    "value": 1080000
+    "value": 2850000
+  },
+  {
+    "name": "Oscar Stamp",
+    "value": 20000000
   },
   {
     "name": "Osiris Pottery Stamp",
-    "value": 3600
+    "value": 3900
   },
   {
     "name": "Pacha Stamp",
-    "value": 34700000
+    "value": 18000000
   },
   {
     "name": "Peaceful Coexistence Stamp",
-    "value": 80400
+    "value": 610000
   },
   {
     "name": "Peopatra Stamp",
-    "value": 4970
+    "value": 4500
   },
   {
     "name": "Perfectly Flat Rock Stamp",
-    "value": 7060
+    "value": 4300
   },
   {
     "name": "Petpet Cannonball Stamp",
-    "value": 29200
+    "value": 23000
   },
   {
     "name": "Petpet Growth Syrup Stamp",
-    "value": 1280
+    "value": 1800
   },
   {
     "name": "Petpetorium Stamp",
-    "value": 14700000
+    "value": 11000000
   },
   {
     "name": "Petty Crewmate Stamp",
-    "value": 4590
+    "value": 3800
   },
   {
     "name": "Pile of Dung Stamp",
-    "value": 4780
+    "value": 4300
   },
   {
     "name": "Pineapple Dessert Stamp",
-    "value": 90400
+    "value": 14500
   },
   {
     "name": "Piraket Stamp",
-    "value": 3580
+    "value": 3000
   },
   {
     "name": "Pirate Attack Stamp",
@@ -1321,670 +1333,682 @@
   },
   {
     "name": "Pirate Troops Stamp",
-    "value": 16300
+    "value": 10000
   },
   {
     "name": "Plains Aisha Stamp",
-    "value": 1630
-  },
-  {
-    "name": "Plesio Stamp",
-    "value": 4090
-  },
-  {
-    "name": "Plushie Slorg Stamp",
-    "value": 9320
-  },
-  {
-    "name": "Pomanna Stamp",
-    "value": 5540
-  },
-  {
-    "name": "Princess Sankara Stamp",
-    "value": 6560
-  },
-  {
-    "name": "Psellia Stamp",
-    "value": 4110
-  },
-  {
-    "name": "Purple Grundo Stamp",
-    "value": 1220
-  },
-  {
-    "name": "Pyramid Sun Rise Stamp",
-    "value": 1130
-  },
-  {
-    "name": "Qasalan Coffee Set Stamp",
-    "value": 4550
-  },
-  {
-    "name": "Qasalan Delights Stamp",
-    "value": 3290
-  },
-  {
-    "name": "Qasalan Mummy Stamp",
-    "value": 89700
-  },
-  {
-    "name": "Qasalan Tablet Stamp",
-    "value": 10200
-  },
-  {
-    "name": "Queen Fyora Stamp",
-    "value": 48700000
-  },
-  {
-    "name": "Quiggle Scout Stamp",
-    "value": 4580
-  },
-  {
-    "name": "Quilin Stamp",
-    "value": 634000
-  },
-  {
-    "name": "Rainbow Pool Stamp",
-    "value": 1200000
-  },
-  {
-    "name": "Rainbow Pteri Feather Stamp",
-    "value": 1610000
-  },
-  {
-    "name": "Rainbow Slushie Stamp",
-    "value": 1950
-  },
-  {
-    "name": "Rainbow Sticky Hand Stamp",
-    "value": 4320000
-  },
-  {
-    "name": "Rampaging Grundonoil Stamp",
-    "value": 9720
-  },
-  {
-    "name": "Ramtor Stamp",
-    "value": 10400000
-  },
-  {
-    "name": "Razul Stamp",
-    "value": 2740000
-  },
-  {
-    "name": "Ready to Roll Stamp",
-    "value": 59800000
-  },
-  {
-    "name": "Riches of Krawk Island Stamp",
-    "value": 2150
-  },
-  {
-    "name": "Rink Runner Stamp",
-    "value": 36300
-  },
-  {
-    "name": "RIP Lucy Stamp",
-    "value": 742
-  },
-  {
-    "name": "Roast Gargapple Stamp",
     "value": 1500
   },
   {
-    "name": "Robot Skeith Stamp",
-    "value": 2000
+    "name": "Plesio Stamp",
+    "value": 4200
   },
   {
-    "name": "Rock Stamp",
-    "value": 4030
+    "name": "Plushie Slorg Stamp",
+    "value": 16000
   },
   {
-    "name": "Rod of Dark Nova Stamp",
-    "value": 4160
+    "name": "Pomanna Stamp",
+    "value": 4900
   },
   {
-    "name": "Rohane Stamp",
-    "value": 3610
+    "name": "Princess Sankara Stamp",
+    "value": 9400
   },
   {
-    "name": "Rohanes Mother Stamp",
-    "value": 260000
+    "name": "Psellia Stamp",
+    "value": 4600
   },
   {
-    "name": "Rotting Skeleton Stamp",
-    "value": 1990
-  },
-  {
-    "name": "Ruins of Faerieland Stamp",
-    "value": 5860
-  },
-  {
-    "name": "Ruins of Qasala Stamp",
-    "value": 2330
-  },
-  {
-    "name": "Ruler of the Five Seas Stamp",
-    "value": 78700
-  },
-  {
-    "name": "Rusty Door Stamp",
-    "value": 4230
-  },
-  {
-    "name": "Ryshu Stamp",
-    "value": 58
-  },
-  {
-    "name": "Sakhmet Palace Stamp",
-    "value": 5650
-  },
-  {
-    "name": "Sasha Stamp",
-    "value": 5380000
-  },
-  {
-    "name": "Scarab Stamp",
-    "value": 7380
-  },
-  {
-    "name": "Scorchio Mummy Stamp",
-    "value": 447000
-  },
-  {
-    "name": "Scordrax Stamp",
-    "value": 1450000
-  },
-  {
-    "name": "Scratchcard Kiosk Stamp",
-    "value": 18300
-  },
-  {
-    "name": "Scurvy Island Stamp",
-    "value": 195000
-  },
-  {
-    "name": "Scuzzy Stamp",
-    "value": 4750000
-  },
-  {
-    "name": "Seaweed Necklace Stamp",
-    "value": 3940
-  },
-  {
-    "name": "Second Edition Altador Petpet Stamp",
-    "value": 1070
-  },
-  {
-    "name": "Second Hand Stamp",
-    "value": 19500000
-  },
-  {
-    "name": "Senator Barca Stamp",
-    "value": 5110
-  },
-  {
-    "name": "Senator Palpus Stamp",
-    "value": 2110
-  },
-  {
-    "name": "Sentient Headstones Stamp",
-    "value": 999624
-  },
-  {
-    "name": "Shadow Gulch Stamp",
-    "value": 7440000
-  },
-  {
-    "name": "Shenkuu Bridge Stamp",
-    "value": 5040
-  },
-  {
-    "name": "Shenkuu City Stamp",
-    "value": 1
-  },
-  {
-    "name": "Shenkuu Draik Stamp",
-    "value": 2360
-  },
-  {
-    "name": "Shenkuu Helmet Stamp",
-    "value": 4030000
-  },
-  {
-    "name": "Shenkuu Lunar Temple Stamp",
-    "value": 393
-  },
-  {
-    "name": "Shenkuu Mask Stamp",
-    "value": 999997
-  },
-  {
-    "name": "Shenkuu Stamp",
-    "value": 972000
-  },
-  {
-    "name": "SHFISS Stamp",
-    "value": 3830
-  },
-  {
-    "name": "Shield Of Pion Troect Stamp",
-    "value": 5360
-  },
-  {
-    "name": "Shiny Monoceraptor Stamp",
-    "value": 18600000
-  },
-  {
-    "name": "Shop Wizard Stamp",
-    "value": 46700
-  },
-  {
-    "name": "Shumi Telescope Stamp",
-    "value": 52200000
-  },
-  {
-    "name": "Siliclast Stamp",
-    "value": 52400000
-  },
-  {
-    "name": "Singed Tyrannian Volcano Stamp",
-    "value": 1210000
-  },
-  {
-    "name": "Siyana Stamp",
-    "value": 3440
-  },
-  {
-    "name": "Skeith Bank Manager Stamp",
-    "value": 3680
-  },
-  {
-    "name": "Skeith Defender Stamp",
-    "value": 17800000
-  },
-  {
-    "name": "Ski Lodge Stamp",
-    "value": 10200000
-  },
-  {
-    "name": "Sliding Darblat Stamp",
-    "value": 11900
-  },
-  {
-    "name": "Slime Titan Stamp",
-    "value": 9250
-  },
-  {
-    "name": "Slorg Flakes Stamp",
-    "value": 1810
-  },
-  {
-    "name": "Smugglers Cove Stamp",
-    "value": 91400
-  },
-  {
-    "name": "Snow Faerie Stamp",
-    "value": 4410
-  },
-  {
-    "name": "Snow Wars Catapult Stamp",
-    "value": 1460
-  },
-  {
-    "name": "Snowager Stamp",
-    "value": 8000000
-  },
-  {
-    "name": "Snowball Fight Stamp",
-    "value": 455
-  },
-  {
-    "name": "Snowbunny Stamp",
-    "value": 10300000
-  },
-  {
-    "name": "Snowglobe Faerie Stamp",
-    "value": 13100
-  },
-  {
-    "name": "Space Faerie Stamp",
-    "value": 24900
-  },
-  {
-    "name": "Spirit of Slumber Stamp",
-    "value": 135000
-  },
-  {
-    "name": "Splat-A-Sloth Stamp",
-    "value": 9060
-  },
-  {
-    "name": "Spooky Gravestone Stamp",
-    "value": 723
-  },
-  {
-    "name": "Spyder Stamp",
-    "value": 1410000
-  },
-  {
-    "name": "Sticky Snowflake Stamp",
-    "value": 64500
-  },
-  {
-    "name": "Stocking Stamp",
-    "value": 3190
-  },
-  {
-    "name": "Stone Armchair Stamp",
-    "value": 2180
-  },
-  {
-    "name": "Stone Stamp",
-    "value": 11000000
-  },
-  {
-    "name": "Sunblade Stamp",
-    "value": 999999
-  },
-  {
-    "name": "Super Bright Rainbow Pool Stamp",
-    "value": 2950000
-  },
-  {
-    "name": "Suteks Tomb Stamp",
-    "value": 3090
-  },
-  {
-    "name": "Sword Of Apocalypse Stamp",
-    "value": 32000000
-  },
-  {
-    "name": "Sword of Skardsen Stamp",
-    "value": 8100
-  },
-  {
-    "name": "Sword of the Air Faerie Stamp",
-    "value": 9220
-  },
-  {
-    "name": "Swordsmaster Talek Stamp",
-    "value": 55600000
-  },
-  {
-    "name": "Talinia Stamp",
-    "value": 20100000
-  },
-  {
-    "name": "Tangor Stamp",
-    "value": 999998
-  },
-  {
-    "name": "Tasu Stamp",
-    "value": 126000
-  },
-  {
-    "name": "Tazzalor Stamp",
-    "value": 225000
-  },
-  {
-    "name": "Temple Of The Sky Stamp",
-    "value": 9320
-  },
-  {
-    "name": "Terask Stamp",
-    "value": 87100000
-  },
-  {
-    "name": "Terror Mountain Scene Stamp",
-    "value": 1430
-  },
-  {
-    "name": "The Academy Stamp",
-    "value": 1200000
-  },
-  {
-    "name": "The Arcanium Stamp",
-    "value": 2410
-  },
-  {
-    "name": "The Black Pawkeet Stamp",
-    "value": 120000
-  },
-  {
-    "name": "The Cyodrakes Gaze Stamp",
-    "value": 31400
-  },
-  {
-    "name": "The Drenched Stamp",
-    "value": 363000
-  },
-  {
-    "name": "The Great Battle Stamp",
-    "value": 1910000
-  },
-  {
-    "name": "The Krawken Stamp",
-    "value": 999511
-  },
-  {
-    "name": "The Lighthouse Stamp",
-    "value": 4000
-  },
-  {
-    "name": "The Revenge Stamp",
-    "value": 858000
-  },
-  {
-    "name": "The Sleeper Constellation Stamp",
-    "value": 2860000
-  },
-  {
-    "name": "The Three Stamp",
-    "value": 1800000
-  },
-  {
-    "name": "The Wave Stamp",
-    "value": 1760
-  },
-  {
-    "name": "Thoughtful Linae Stamp",
-    "value": 636000
-  },
-  {
-    "name": "Thyoras Tear Stamp",
-    "value": 2250
-  },
-  {
-    "name": "Tomos Stamp",
-    "value": 7480000
-  },
-  {
-    "name": "Torakor Stamp",
-    "value": 743000
-  },
-  {
-    "name": "Trapped Tomos Stamp",
-    "value": 7860
-  },
-  {
-    "name": "Trestin Stamp",
-    "value": 96500
-  },
-  {
-    "name": "Triangular Flotsam Stamp",
-    "value": 372
-  },
-  {
-    "name": "Tug Of War Stamp",
-    "value": 2970
-  },
-  {
-    "name": "Turmaculus Stamp",
-    "value": 2490
-  },
-  {
-    "name": "Tuskaninny Day Stamp",
-    "value": 80000
-  },
-  {
-    "name": "Two Rings Archmagus Stamp",
-    "value": 2980
-  },
-  {
-    "name": "Two Rings Crusader Stamp",
-    "value": 3770
-  },
-  {
-    "name": "Tylix Stamp",
-    "value": 79000
-  },
-  {
-    "name": "Tyrannian Blumaroo Stamp",
-    "value": 5930
-  },
-  {
-    "name": "Tyrannian Grarrl Stamp",
-    "value": 5480
-  },
-  {
-    "name": "Tyrannian JubJub Stamp",
-    "value": 2500
-  },
-  {
-    "name": "Tyrannian Korbat Stamp",
-    "value": 1390
-  },
-  {
-    "name": "Tyrannian Kyrii Stamp",
-    "value": 3150
-  },
-  {
-    "name": "Tyrannian Plateau Stamp",
-    "value": 153000
-  },
-  {
-    "name": "Tyrannian Usul Stamp",
-    "value": 21400
-  },
-  {
-    "name": "Tyrannian Victory Day Stamp",
-    "value": 2020000
-  },
-  {
-    "name": "Underwater Chef Stamp",
+    "name": "Purple Grundo Stamp",
     "value": 2800
   },
   {
+    "name": "Pyramid Sun Rise Stamp",
+    "value": 1600
+  },
+  {
+    "name": "Qasalan Coffee Set Stamp",
+    "value": 5000
+  },
+  {
+    "name": "Qasalan Delights Stamp",
+    "value": 3800
+  },
+  {
+    "name": "Qasalan Mummy Stamp",
+    "value": 56000
+  },
+  {
+    "name": "Qasalan Tablet Stamp",
+    "value": 7000
+  },
+  {
+    "name": "Queen Fyora Stamp",
+    "value": 21000000
+  },
+  {
+    "name": "Quiggle Scout Stamp",
+    "value": 3000
+  },
+  {
+    "name": "Quilin Stamp",
+    "value": 94000
+  },
+  {
+    "name": "Rainbow Pool Stamp",
+    "value": 160000
+  },
+  {
+    "name": "Rainbow Pteri Feather Stamp",
+    "value": 2600000
+  },
+  {
+    "name": "Rainbow Slushie Stamp",
+    "value": 2200
+  },
+  {
+    "name": "Rainbow Sticky Hand Stamp",
+    "value": 3650000
+  },
+  {
+    "name": "Rampaging Grundonoil Stamp",
+    "value": 3900
+  },
+  {
+    "name": "Ramtor Stamp",
+    "value": 18000000
+  },
+  {
+    "name": "Razul Stamp",
+    "value": 1200000
+  },
+  {
+    "name": "Ready to Roll Stamp",
+    "value": 12000000
+  },
+  {
+    "name": "Red Shoyru Stamp",
+    "value": 17000000
+  },
+  {
+    "name": "Riches of Krawk Island Stamp",
+    "value": 1900
+  },
+  {
+    "name": "Rink Runner Stamp",
+    "value": 10000
+  },
+  {
+    "name": "RIP Lucy Stamp",
+    "value": 240
+  },
+  {
+    "name": "Roast Gargapple Stamp",
+    "value": 2300
+  },
+  {
+    "name": "Robot Skeith Stamp",
+    "value": 2200
+  },
+  {
+    "name": "Rock Stamp",
+    "value": 4000
+  },
+  {
+    "name": "Rod of Dark Nova Stamp",
+    "value": 7900
+  },
+  {
+    "name": "Rohane Stamp",
+    "value": 3400
+  },
+  {
+    "name": "Rohanes Mother Stamp",
+    "value": 1800
+  },
+  {
+    "name": "Rotting Skeleton Stamp",
+    "value": 2100
+  },
+  {
+    "name": "Ruins of Faerieland Stamp",
+    "value": 9000
+  },
+  {
+    "name": "Ruins of Qasala Stamp",
+    "value": 3900
+  },
+  {
+    "name": "Ruler of the Five Seas Stamp",
+    "value": 23000
+  },
+  {
+    "name": "Rusty Door Stamp",
+    "value": 4000
+  },
+  {
+    "name": "Ryshu Stamp",
+    "value": 105
+  },
+  {
+    "name": "Sakhmet Palace Stamp",
+    "value": 5400
+  },
+  {
+    "name": "Sasha Stamp",
+    "value": 17000000
+  },
+  {
+    "name": "Scarab Stamp",
+    "value": 21000
+  },
+  {
+    "name": "Scorchio Mummy Stamp",
+    "value": 110000
+  },
+  {
+    "name": "Scordrax Stamp",
+    "value": 4150000
+  },
+  {
+    "name": "Scratchcard Kiosk Stamp",
+    "value": 8900
+  },
+  {
+    "name": "Scurvy Island Stamp",
+    "value": 230000
+  },
+  {
+    "name": "Scuzzy Stamp",
+    "value": 7550000
+  },
+  {
+    "name": "Seaweed Necklace Stamp",
+    "value": 4200
+  },
+  {
+    "name": "Second Edition Altador Petpet Stamp",
+    "value": 1700
+  },
+  {
+    "name": "Second Hand Stamp",
+    "value": 8850000
+  },
+  {
+    "name": "Senator Barca Stamp",
+    "value": 5000
+  },
+  {
+    "name": "Senator Palpus Stamp",
+    "value": 2300
+  },
+  {
+    "name": "Sentient Headstones Stamp",
+    "value": 990000
+  },
+  {
+    "name": "Shadow Gulch Stamp",
+    "value": 32000000
+  },
+  {
+    "name": "Shenkuu Bridge Stamp",
+    "value": 4800
+  },
+  {
+    "name": "Shenkuu City Stamp",
+    "value": 2
+  },
+  {
+    "name": "Shenkuu Draik Stamp",
+    "value": 2200
+  },
+  {
+    "name": "Shenkuu Helmet Stamp",
+    "value": 5600000
+  },
+  {
+    "name": "Shenkuu Lunar Temple Stamp",
+    "value": 560
+  },
+  {
+    "name": "Shenkuu Mask Stamp",
+    "value": 1400000
+  },
+  {
+    "name": "Shenkuu Stamp",
+    "value": 1300000
+  },
+  {
+    "name": "SHFISS Stamp",
+    "value": 4200
+  },
+  {
+    "name": "Shield Of Pion Troect Stamp",
+    "value": 5500
+  },
+  {
+    "name": "Shiny Monoceraptor Stamp",
+    "value": 25000000
+  },
+  {
+    "name": "Shop Wizard Stamp",
+    "value": 5700
+  },
+  {
+    "name": "Shumi Telescope Stamp",
+    "value": 44000000
+  },
+  {
+    "name": "Siliclast Stamp",
+    "value": 24000000
+  },
+  {
+    "name": "Singed Tyrannian Volcano Stamp",
+    "value": 6450000
+  },
+  {
+    "name": "Siyana Stamp",
+    "value": 3200
+  },
+  {
+    "name": "Skeith Bank Manager Stamp",
+    "value": 2700
+  },
+  {
+    "name": "Skeith Defender Stamp",
+    "value": 40000000
+  },
+  {
+    "name": "Ski Lodge Stamp",
+    "value": 11000000
+  },
+  {
+    "name": "Sliding Darblat Stamp",
+    "value": 15000
+  },
+  {
+    "name": "Slime Titan Stamp",
+    "value": 2500
+  },
+  {
+    "name": "Slorg Flakes Stamp",
+    "value": 2400
+  },
+  {
+    "name": "Sloth Evil Coconut",
+    "value": 20000000
+  },
+  {
+    "name": "Smugglers Cove Stamp",
+    "value": 59500
+  },
+  {
+    "name": "Snow Faerie Stamp",
+    "value": 3800
+  },
+  {
+    "name": "Snow Wars Catapult Stamp",
+    "value": 2100
+  },
+  {
+    "name": "Snowager Stamp",
+    "value": 20000000
+  },
+  {
+    "name": "Snowball Fight Stamp",
+    "value": 830
+  },
+  {
+    "name": "Snowbunny Stamp",
+    "value": 21000000
+  },
+  {
+    "name": "Snowglobe Faerie Stamp",
+    "value": 6000
+  },
+  {
+    "name": "Space Faerie Stamp",
+    "value": 150000
+  },
+  {
+    "name": "Spirit of Slumber Stamp",
+    "value": 49500
+  },
+  {
+    "name": "Splat-A-Sloth Stamp",
+    "value": 6300
+  },
+  {
+    "name": "Spooky Gravestone Stamp",
+    "value": 110
+  },
+  {
+    "name": "Spyder Stamp",
+    "value": 6300000
+  },
+  {
+    "name": "Sticky Snowflake Stamp",
+    "value": 63500
+  },
+  {
+    "name": "Stocking Stamp",
+    "value": 4000
+  },
+  {
+    "name": "Stone Armchair Stamp",
+    "value": 2200
+  },
+  {
+    "name": "Stone Stamp",
+    "value": 9800000
+  },
+  {
+    "name": "Sunblade Stamp",
+    "value": 530000
+  },
+  {
+    "name": "Super Bright Rainbow Pool Stamp",
+    "value": 390000
+  },
+  {
+    "name": "Suteks Tomb Stamp",
+    "value": 2400
+  },
+  {
+    "name": "Sword Of Apocalypse Stamp",
+    "value": 18000000
+  },
+  {
+    "name": "Sword of Skardsen Stamp",
+    "value": 4400
+  },
+  {
+    "name": "Sword of the Air Faerie Stamp",
+    "value": 6200
+  },
+  {
+    "name": "Swordsmaster Talek Stamp",
+    "value": 125000000
+  },
+  {
+    "name": "Talinia Stamp",
+    "value": 36000000
+  },
+  {
+    "name": "Tangor Stamp",
+    "value": 2450000
+  },
+  {
+    "name": "Tasu Stamp",
+    "value": 89500
+  },
+  {
+    "name": "Tazzalor Stamp",
+    "value": 4800
+  },
+  {
+    "name": "Temple Of The Sky Stamp",
+    "value": 6400
+  },
+  {
+    "name": "Terask Stamp",
+    "value": 52000000
+  },
+  {
+    "name": "Terror Mountain Scene Stamp",
+    "value": 2100
+  },
+  {
+    "name": "The Academy Stamp",
+    "value": 1250000
+  },
+  {
+    "name": "The Arcanium Stamp",
+    "value": 1900
+  },
+  {
+    "name": "The Black Pawkeet Stamp",
+    "value": 84500
+  },
+  {
+    "name": "The Cyodrakes Gaze Stamp",
+    "value": 60000
+  },
+  {
+    "name": "The Drenched Stamp",
+    "value": 300000
+  },
+  {
+    "name": "The Great Battle Stamp",
+    "value": 3150000
+  },
+  {
+    "name": "The Krawken Stamp",
+    "value": 900000
+  },
+  {
+    "name": "The Lighthouse Stamp",
+    "value": 3000
+  },
+  {
+    "name": "The Revenge Stamp",
+    "value": 790000
+  },
+  {
+    "name": "The Sleeper Constellation Stamp",
+    "value": 3150000
+  },
+  {
+    "name": "The Three Stamp",
+    "value": 4900000
+  },
+  {
+    "name": "The Wave Stamp",
+    "value": 2300
+  },
+  {
+    "name": "Thoughtful Linae Stamp",
+    "value": 1950000
+  },
+  {
+    "name": "Thyoras Tear Stamp",
+    "value": 4900
+  },
+  {
+    "name": "Tomos Stamp",
+    "value": 8700000
+  },
+  {
+    "name": "Torakor Stamp",
+    "value": 390000
+  },
+  {
+    "name": "Trapped Tomos Stamp",
+    "value": 5800
+  },
+  {
+    "name": "Trestin Stamp",
+    "value": 56000
+  },
+  {
+    "name": "Triangular Flotsam Stamp",
+    "value": 435
+  },
+  {
+    "name": "Tug Of War Stamp",
+    "value": 3300
+  },
+  {
+    "name": "Turmaculus Stamp",
+    "value": 5200
+  },
+  {
+    "name": "Tuskaninny Day Stamp",
+    "value": 370000
+  },
+  {
+    "name": "Two Rings Archmagus Stamp",
+    "value": 2400
+  },
+  {
+    "name": "Two Rings Crusader Stamp",
+    "value": 3900
+  },
+  {
+    "name": "Tylix Stamp",
+    "value": 97500
+  },
+  {
+    "name": "Tyrannian Blumaroo Stamp",
+    "value": 6000
+  },
+  {
+    "name": "Tyrannian Grarrl Stamp",
+    "value": 4600
+  },
+  {
+    "name": "Tyrannian JubJub Stamp",
+    "value": 2100
+  },
+  {
+    "name": "Tyrannian Korbat Stamp",
+    "value": 2700
+  },
+  {
+    "name": "Tyrannian Kyrii Stamp",
+    "value": 3100
+  },
+  {
+    "name": "Tyrannian Plateau Stamp",
+    "value": 94500
+  },
+  {
+    "name": "Tyrannian Usul Stamp",
+    "value": 8600
+  },
+  {
+    "name": "Tyrannian Victory Day Stamp",
+    "value": 630000
+  },
+  {
+    "name": "Underwater Chef Stamp",
+    "value": 4400
+  },
+  {
     "name": "Upside Down Island Acara Stamp",
-    "value": 24700000
+    "value": 29000000
   },
   {
     "name": "Usuki Doll Stamp",
-    "value": 15200000
+    "value": 19000000
   },
   {
     "name": "Usukiland Stamp",
-    "value": 981000
+    "value": 2000000
   },
   {
     "name": "Usul-in-waiting Stamp",
-    "value": 296000
+    "value": 170000
   },
   {
     "name": "Veggie Pizza Stamp",
-    "value": 2000
+    "value": 1900
   },
   {
     "name": "Velm Stamp",
-    "value": 49200
+    "value": 15000
   },
   {
     "name": "Virtupets Space Station Stamp",
-    "value": 1270000
+    "value": 950000
   },
   {
     "name": "Von Roos Castle Stamp",
-    "value": 60000000
+    "value": 13000000
   },
   {
     "name": "Wand Of The Dark Faerie Stamp",
-    "value": 205000
+    "value": 920000
   },
   {
     "name": "Wheel of Monotony Stamp",
-    "value": 1240000
+    "value": 640000
+  },
+  {
+    "name": "Winter Wonderland Stamp",
+    "value": 1200
   },
   {
     "name": "Wintery Bruce Stamp",
-    "value": 3280
+    "value": 3900
   },
   {
     "name": "Wintery Petpet Shop Stamp",
-    "value": 1360
+    "value": 1400
   },
   {
     "name": "Wise Gnorbu Stamp",
-    "value": 34300000
+    "value": 80000000
   },
   {
     "name": "Wishing Well Stamp",
-    "value": 1440
+    "value": 2500
   },
   {
     "name": "Words of Antiquity Stamp",
-    "value": 3990
+    "value": 3800
   },
   {
     "name": "Xantan Stamp",
-    "value": 40400000
+    "value": 46000000
   },
   {
     "name": "Yellow Knight Stamp",
-    "value": 27000
+    "value": 37500
   },
   {
     "name": "Yes-Boy Ice Cream Stamp",
-    "value": 9390
+    "value": 7300
   },
   {
     "name": "Yiko Stamp",
-    "value": 4540
+    "value": 4900
   },
   {
     "name": "Young Sophie Stamp",
-    "value": 2870
+    "value": 2800
   },
   {
     "name": "Zafara Double Agent Stamp",
-    "value": 22100000
+    "value": 16000000
   },
   {
     "name": "Zafara Princess Stamp",
-    "value": 7950
+    "value": 4800
   },
   {
     "name": "Zeenana Stamp",
-    "value": 990
+    "value": 475
   },
   {
     "name": "Zombie Faleinn Stamp",
-    "value": 315000
+    "value": 920
   },
   {
     "name": "Zombified Heroes Stamp",
-    "value": 5180000
+    "value": 997990
   },
   {
     "name": "Zurroball Stamp",
-    "value": 598000
+    "value": 700000
   },
   {
     "name": "Zygorax Stamp",
-    "value": 3230
+    "value": 4600
   },
   {
     "name": "Zyrolon Stamp",
-    "value": 999998
+    "value": 2350000
   }
 ]
